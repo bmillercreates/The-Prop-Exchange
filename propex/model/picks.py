@@ -25,6 +25,11 @@ MARKETS = {
 TEAM_NICK = {}  # filled from the data: "GB" -> "Packers"
 
 BLUE_MIN_PROB_EDGE = 0.03
+# Brayden prefers overs: they get a ranking boost, unders need a bigger edge,
+# and at most one under makes the Blue Chips. Penny Stocks and ETFs are overs only.
+OVER_BONUS = 0.02
+UNDER_MIN_PROB_EDGE = 0.05
+MAX_BLUE_UNDERS = 1
 BLUE_PRICE_RANGE = (-200, 120)
 PENNY_PRICE_RANGE = (130, 450)  # real upside, not lottery tickets
 PENNY_MIN_EDGE = 0.05
@@ -189,15 +194,21 @@ def _correlated(a, b):
 def select(cands):
     usable = [c for c in cands if "model is far from the market" not in c["flags"]]
 
+    def is_under(c):
+        return c["side"] == "Under"
+
     blue = sorted(
-        (c for c in usable if not c["flags"] and c["prob_edge"] >= BLUE_MIN_PROB_EDGE
+        (c for c in usable if not c["flags"]
+         and c["prob_edge"] >= (UNDER_MIN_PROB_EDGE if is_under(c) else BLUE_MIN_PROB_EDGE)
          and BLUE_PRICE_RANGE[0] <= c["price"] <= BLUE_PRICE_RANGE[1]),
-        key=lambda c: c["prob_edge"], reverse=True)
+        key=lambda c: c["prob_edge"] + (0 if is_under(c) else OVER_BONUS), reverse=True)
     blue_chips, used = [], set()
     for c in blue:
         # one pick per player, and at most 2 from one team so a single bad
         # read on an offense can't sink the whole card
         if c["player"] in used or sum(b["team"] == c["team"] for b in blue_chips) >= 2:
+            continue
+        if is_under(c) and sum(is_under(b) for b in blue_chips) >= MAX_BLUE_UNDERS:
             continue
         blue_chips.append(c)
         used.add(c["player"])
@@ -207,6 +218,7 @@ def select(cands):
     penny = sorted(
         (c for c in usable
          if PENNY_PRICE_RANGE[0] <= c["price"] <= PENNY_PRICE_RANGE[1]
+         and not is_under(c)
          and c["ev"] >= PENNY_MIN_EDGE and c["prob_edge"] > 0 and c["player"] not in used
          and c["_p"]["usage"]["games"] >= 3 and "listed Questionable" not in c["flags"]),
         key=lambda c: c["ev"], reverse=True)
@@ -219,7 +231,7 @@ def select(cands):
         if len(penny_stocks) == 2:
             break
 
-    legs = [c for c in usable if c["prob_edge"] > 0 and c["side"] != "Yes"
+    legs = [c for c in usable if c["prob_edge"] > 0 and c["side"] == "Over"
             and "listed Questionable" not in c["flags"]]
     etfs = []
     for a, b in itertools.combinations(legs, 2):

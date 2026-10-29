@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Prop Exchange</title>
+<meta name="description" content="NFL player prop picks, traded like stocks.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230b0e11'/><path d='M6 22l6-6 5 4 9-10' stroke='%2316c784' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M5 23l7-7 5 4 10-11" /></svg>
+      <span>THE PROP <b>EXCHANGE</b></span>
+    </a>
+    <div class="market">
+      <span id="market-status" class="pill pill-muted">LOADING</span>
+      <span id="updated" class="muted mono"></span>
+    </div>
+  </div>
+  <div class="ticker" aria-label="Today's picks"><div id="ticker-track" class="ticker-track"></div></div>
+  <nav class="tabs wrap" aria-label="Sections">
+    <a href="#overview">Overview</a>
+    <a href="#blue-chips">Blue Chips</a>
+    <a href="#penny-stocks">Penny Stocks</a>
+    <a href="#etfs">ETFs</a>
+    <a href="#board">Market Board</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#storylines">Storylines</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section id="overview">
+    <div class="section-head">
+      <h1 id="headline">NFL Week —</h1>
+      <p class="muted">Player props ranked by edge, the expected return on each bet. Overs are <span class="up">green ▲</span> and unders are <span class="down">red ▼</span>.</p>
+    </div>
+    <div id="tiles" class="tiles"></div>
+  </section>
+
+  <section id="blue-chips">
+    <div class="section-head">
+      <h2>Blue Chips</h2>
+      <p class="muted">The strongest picks: the biggest edges backed by steady playing time and usage.</p>
+    </div>
+    <div id="blue-list" class="list"></div>
+  </section>
+
+  <section id="penny-stocks">
+    <div class="section-head">
+      <h2>Penny Stocks</h2>
+      <p class="muted">Plus-money longshots where the model sees more upside than the odds do. Size these small.</p>
+    </div>
+    <div id="penny-list" class="list"></div>
+  </section>
+
+  <section id="etfs">
+    <div class="section-head">
+      <h2>ETFs</h2>
+      <p class="muted">Two-pick bundles whose legs tend to move together, like a QB and his top receiver.</p>
+    </div>
+    <div id="etf-list" class="list"></div>
+  </section>
+
+  <section id="board">
+    <div class="section-head">
+      <h2>Market Board</h2>
+      <p class="muted">Every game this week. Prop lines open on the morning of game day, and picks turn <b>FINAL</b> about 90 minutes before kickoff, once inactives are out.</p>
+    </div>
+    <div id="games" class="games"></div>
+  </section>
+
+  <section id="portfolio">
+    <div class="section-head">
+      <h2>Portfolio Performance</h2>
+      <p class="muted">Every pick gets logged and graded after the game. Record and ROI are broken out by Blue Chips, Penny Stocks and ETFs.</p>
+    </div>
+    <div id="portfolio-body" class="panel empty">Tracking starts after the first graded games.</div>
+  </section>
+
+  <section id="storylines">
+    <div class="section-head">
+      <h2>Storylines <span class="pill pill-muted">Just for fun · not modeled</span></h2>
+      <p class="muted">Birthdays, revenge games and milestone chases. These don't move the numbers.</p>
+    </div>
+    <div id="storylines-body" class="panel empty">Storylines are coming soon.</div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><b>Play responsibly.</b> The Prop Exchange is for entertainment among friends. It isn't financial or betting advice, and no pick is a sure thing. Never bet more than you can afford to lose. If gambling stops being fun, call or text <b>1-800-GAMBLER</b>.</p>
+    <p class="muted">Data: nflverse, Open-Meteo, ESPN, The Odds API. Edge = model probability × payout − 1.</p>
+  </div>
+</footer>
+
+<template id="pick-tpl">
+  <article class="pick">
+    <div class="pick-main">
+      <span class="side"></span>
+      <div class="pick-what">
+        <div class="pick-title"></div>
+        <div class="pick-sub muted"></div>
+      </div>
+      <div class="pick-nums">
+        <div class="edge mono"></div>
+        <div class="price mono muted"></div>
+      </div>
+    </div>
+    <div class="probbar" aria-hidden="true"><span class="book"></span><span class="model"></span></div>
+    <details class="why"><summary>Why</summary><ul></ul></details>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

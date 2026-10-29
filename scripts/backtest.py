@@ -40,6 +40,9 @@ def main():
                 if act.height == 0:
                     continue  # didn't play; the real run would know from injuries
                 a = act.row(0, named=True)
+                rows.append({"week": week, "stat": "tds", "pos": p["position"],
+                             "proj": p["proj"]["tds"],
+                             "actual": int(((a["rushing_tds"] or 0) + (a["receiving_tds"] or 0)) > 0)})
                 for stat, col in ACTUAL.items():
                     if stat in p["proj"] and p["proj"][stat] >= 15 if stat != "receptions" else p["proj"].get(stat, 0) >= 2:
                         rows.append({"week": week, "stat": stat, "pos": p["position"],
@@ -52,6 +55,14 @@ def main():
         ((pl.col("actual") - pl.col("proj")).std() / pl.col("proj").mean()).round(2).alias("cv"),
         pl.corr("proj", "actual").round(2).alias("corr"),
     ).sort("stat", "pos"))
+    # Anytime TD: does a "30%" player really score about 30% of the time?
+    td = df.filter(pl.col("stat") == "tds").with_columns(
+        (1 - (-pl.col("proj")).exp()).alias("prob"))
+    print("Anytime TD calibration (model chance vs. how often they scored):")
+    print(td.with_columns((pl.col("prob") * 10).floor().alias("bucket"))
+          .group_by("bucket").agg(pl.len().alias("n"), pl.col("prob").mean().round(3).alias("model"),
+                                  pl.col("actual").mean().round(3).alias("scored"))
+          .sort("bucket"))
 
 
 if __name__ == "__main__":
