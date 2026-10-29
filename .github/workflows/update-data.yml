@@ -23,9 +23,13 @@ jobs:
         run: python scripts/update_data.py
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      - name: Run the model
+        run: python scripts/run_model.py
       - name: Show a sample game
         if: always()
-        run: python scripts/show_game.py | tee -a "$GITHUB_STEP_SUMMARY"
+        run: |
+          python scripts/show_game.py | tee -a "$GITHUB_STEP_SUMMARY"
+          { echo '```'; python scripts/show_picks.py; echo '```'; } | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Save data to the repo
         if: always()
         run: |
