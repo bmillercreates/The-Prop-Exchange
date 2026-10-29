@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_CLE_PIT",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:23-04:00",
+ "updated_at": "2026-10-29T14:39-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "CLE",
@@ -41,14 +41,37 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Deshaun Watson",
+   "player": "Audric Estim\u00e9",
    "team": "CLE",
-   "position": "QB",
-   "rush_yds": 16.1,
-   "pass_yds": 237.8,
-   "pass_att": 34.2,
-   "carries": 3.9,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 10.2,
+   "targets": 0.0,
+   "receptions": 0.0,
+   "rec_yds": 0.0,
+   "carries": 3.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Jerry Jeudy",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.8,
+   "rec_yds": 32.0,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Quinshon Judkins",
+   "team": "CLE",
+   "position": "RB",
+   "rush_yds": 33.1,
+   "targets": 2.9,
+   "receptions": 2.6,
+   "rec_yds": 18.7,
+   "carries": 10.1,
+   "tds": 0.5
   },
   {
    "player": "Isaiah Bond",
@@ -62,26 +85,15 @@
    "tds": 0.0
   },
   {
-   "player": "Audric Estim\u00e9",
+   "player": "Dylan Sampson",
    "team": "CLE",
    "position": "RB",
-   "rush_yds": 10.2,
-   "targets": 0.0,
-   "receptions": 0.0,
-   "rec_yds": 0.0,
-   "carries": 3.1,
-   "tds": 0.5
-  },
-  {
-   "player": "Quinshon Judkins",
-   "team": "CLE",
-   "position": "RB",
-   "rush_yds": 33.1,
-   "targets": 2.9,
-   "receptions": 2.6,
-   "rec_yds": 18.7,
-   "carries": 10.1,
-   "tds": 0.5
+   "rush_yds": 7.7,
+   "targets": 1.4,
+   "receptions": 1.2,
+   "rec_yds": 10.3,
+   "carries": 1.9,
+   "tds": 0.0
   },
   {
    "player": "Harold Fannin Jr.",
@@ -106,17 +118,6 @@
    "tds": 0.2
   },
   {
-   "player": "Dylan Sampson",
-   "team": "CLE",
-   "position": "RB",
-   "rush_yds": 7.7,
-   "targets": 1.4,
-   "receptions": 1.2,
-   "rec_yds": 10.3,
-   "carries": 1.9,
-   "tds": 0.0
-  },
-  {
    "player": "Denzel Boston",
    "team": "CLE",
    "position": "WR",
@@ -128,25 +129,47 @@
    "tds": 0.2
   },
   {
-   "player": "Jerry Jeudy",
+   "player": "Deshaun Watson",
    "team": "CLE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.8,
-   "rec_yds": 32.0,
-   "carries": 0.0,
-   "tds": 0.0
+   "position": "QB",
+   "rush_yds": 16.1,
+   "pass_yds": 237.8,
+   "pass_att": 34.2,
+   "carries": 3.9,
+   "tds": 0.1
   },
   {
-   "player": "Aaron Rodgers",
+   "player": "Germie Bernard",
    "team": "PIT",
-   "position": "QB",
-   "rush_yds": 4.5,
-   "pass_yds": 214.6,
-   "pass_att": 33.6,
-   "carries": 1.5,
-   "tds": 0.0
+   "position": "WR",
+   "rush_yds": 0.5,
+   "targets": 6.9,
+   "receptions": 4.6,
+   "rec_yds": 51.3,
+   "carries": 0.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Rico Dowdle",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 26.2,
+   "targets": 4.5,
+   "receptions": 3.3,
+   "rec_yds": 19.0,
+   "carries": 6.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Jaylen Warren",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 73.2,
+   "targets": 4.8,
+   "receptions": 3.4,
+   "rec_yds": 27.7,
+   "carries": 13.2,
+   "tds": 0.4
   },
   {
    "player": "Darnell Washington",
@@ -171,17 +194,6 @@
    "tds": 0.2
   },
   {
-   "player": "Germie Bernard",
-   "team": "PIT",
-   "position": "WR",
-   "rush_yds": 0.5,
-   "targets": 6.9,
-   "receptions": 4.6,
-   "rec_yds": 51.3,
-   "carries": 0.1,
-   "tds": 0.5
-  },
-  {
    "player": "Pat Freiermuth",
    "team": "PIT",
    "position": "TE",
@@ -193,26 +205,14 @@
    "tds": 0.2
   },
   {
-   "player": "Jaylen Warren",
+   "player": "Aaron Rodgers",
    "team": "PIT",
-   "position": "RB",
-   "rush_yds": 73.2,
-   "targets": 4.8,
-   "receptions": 3.4,
-   "rec_yds": 27.7,
-   "carries": 13.2,
-   "tds": 0.4
-  },
-  {
-   "player": "Rico Dowdle",
-   "team": "PIT",
-   "position": "RB",
-   "rush_yds": 26.2,
-   "targets": 4.5,
-   "receptions": 3.3,
-   "rec_yds": 19.0,
-   "carries": 6.0,
-   "tds": 0.4
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 214.6,
+   "pass_att": 33.6,
+   "carries": 1.5,
+   "tds": 0.0
   }
  ]
 }
