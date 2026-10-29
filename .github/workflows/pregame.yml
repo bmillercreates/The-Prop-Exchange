@@ -51,14 +51,15 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
       - name: Mark picks FINAL
-        if: steps.due.outputs.games != ''
+        # still runs if one data source failed: the model uses the last good copy
+        if: ${{ !cancelled() && steps.due.outputs.games != '' }}
         run: |
           python scripts/run_model.py --final ${{ steps.due.outputs.games }}
           for g in ${{ steps.due.outputs.games }}; do
             { echo '```'; python scripts/show_picks.py "$g"; echo '```'; } | tee -a "$GITHUB_STEP_SUMMARY"
           done
       - name: Save data to the repo
-        if: steps.due.outputs.games != ''
+        if: ${{ !cancelled() && steps.due.outputs.games != '' }}
         run: |
           git config user.name "prop-exchange-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

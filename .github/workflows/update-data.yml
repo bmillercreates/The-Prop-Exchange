@@ -32,6 +32,8 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
       - name: Run the model
+        # still runs if one data source failed: the model uses the last good copy
+        if: ${{ !cancelled() }}
         run: python scripts/run_model.py
       - name: Show a sample game
         if: always()
