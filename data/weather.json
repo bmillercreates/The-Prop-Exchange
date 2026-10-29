@@ -17,7 +17,7 @@
   "covered": false,
   "temp_f": 63,
   "wind_mph": 6,
-  "gust_mph": 10,
+  "gust_mph": 9,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -51,7 +51,7 @@
   "covered": false,
   "temp_f": 78,
   "wind_mph": 15,
-  "gust_mph": 20,
+  "gust_mph": 18,
   "precip_in": 0.01,
   "precip_chance": 30
  },
@@ -62,7 +62,7 @@
   "covered": false,
   "temp_f": 59,
   "wind_mph": 5,
-  "gust_mph": 5,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -73,7 +73,7 @@
   "covered": false,
   "temp_f": 66,
   "wind_mph": 4,
-  "gust_mph": 10,
+  "gust_mph": 8,
   "precip_in": 0.0,
   "precip_chance": 2
  },
@@ -145,7 +145,7 @@
   "covered": false,
   "temp_f": 66,
   "wind_mph": 13,
-  "gust_mph": 35,
+  "gust_mph": 32,
   "precip_in": 0.2,
   "precip_chance": 43
  },
@@ -179,7 +179,7 @@
   "covered": false,
   "temp_f": 55,
   "wind_mph": 10,
-  "gust_mph": 16,
+  "gust_mph": 5,
   "precip_in": 0.02,
   "precip_chance": 14
  },
@@ -190,7 +190,7 @@
   "covered": false,
   "temp_f": 84,
   "wind_mph": 12,
-  "gust_mph": 9,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 8
  },
@@ -207,7 +207,7 @@
   "covered": false,
   "temp_f": 59,
   "wind_mph": 4,
-  "gust_mph": 4,
+  "gust_mph": 20,
   "precip_in": 0.0,
   "precip_chance": 7
  },
@@ -244,11 +244,7 @@
   "stadium": "Gillette Stadium",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 51,
-  "wind_mph": 4,
-  "gust_mph": 27,
-  "precip_in": 0.0,
-  "precip_chance": 7
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
  },
  "2026_09_ARI_SEA": {
   "game_id": "2026_09_ARI_SEA",

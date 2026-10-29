@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_ARI_DAL",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:13-04:00",
+ "updated_at": "2026-10-29T14:23-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "ARI",
@@ -38,15 +38,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Reggie Virgil",
+   "player": "Elijah Higgins",
    "team": "ARI",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.6,
-   "rec_yds": 21.1,
+   "targets": 2.4,
+   "receptions": 1.9,
+   "rec_yds": 17.3,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
    "player": "Tyler Allgeier",
@@ -60,36 +60,15 @@
    "tds": 0.3
   },
   {
-   "player": "Jeremiyah Love",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 43.2,
-   "targets": 2.3,
-   "receptions": 1.7,
-   "rec_yds": 9.0,
-   "carries": 10.5,
-   "tds": 0.4
-  },
-  {
-   "player": "Jacoby Brissett",
-   "team": "ARI",
-   "position": "QB",
-   "rush_yds": 10.9,
-   "pass_yds": 245.2,
-   "pass_att": 41.5,
-   "carries": 2.4,
-   "tds": 0.1
-  },
-  {
-   "player": "Elijah Higgins",
+   "player": "Trey McBride",
    "team": "ARI",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 2.4,
-   "receptions": 1.9,
-   "rec_yds": 17.3,
+   "targets": 11.6,
+   "receptions": 8.5,
+   "rec_yds": 65.1,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.6
   },
   {
    "player": "Kendrick Bourne",
@@ -114,17 +93,6 @@
    "tds": 0.1
   },
   {
-   "player": "Trey McBride",
-   "team": "ARI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 11.6,
-   "receptions": 8.5,
-   "rec_yds": 65.1,
-   "carries": 0.0,
-   "tds": 0.6
-  },
-  {
    "player": "Michael Wilson",
    "team": "ARI",
    "position": "WR",
@@ -136,13 +104,45 @@
    "tds": 0.2
   },
   {
-   "player": "George Pickens",
+   "player": "Jeremiyah Love",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 43.2,
+   "targets": 2.3,
+   "receptions": 1.7,
+   "rec_yds": 9.0,
+   "carries": 10.5,
+   "tds": 0.4
+  },
+  {
+   "player": "Reggie Virgil",
+   "team": "ARI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.6,
+   "rec_yds": 21.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jacoby Brissett",
+   "team": "ARI",
+   "position": "QB",
+   "rush_yds": 10.9,
+   "pass_yds": 245.2,
+   "pass_att": 41.5,
+   "carries": 2.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Ryan Flournoy",
    "team": "DAL",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.4,
-   "receptions": 4.4,
-   "rec_yds": 62.5,
+   "targets": 5.3,
+   "receptions": 3.3,
+   "rec_yds": 42.2,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -158,16 +158,6 @@
    "tds": 0.6
   },
   {
-   "player": "Dak Prescott",
-   "team": "DAL",
-   "position": "QB",
-   "rush_yds": 11.7,
-   "pass_yds": 252.6,
-   "pass_att": 36.0,
-   "carries": 2.3,
-   "tds": 0.1
-  },
-  {
    "player": "Jake Ferguson",
    "team": "DAL",
    "position": "TE",
@@ -179,14 +169,24 @@
    "tds": 0.2
   },
   {
-   "player": "Tyler Goodson",
+   "player": "Dak Prescott",
    "team": "DAL",
-   "position": "RB",
-   "rush_yds": 17.3,
-   "targets": 0.8,
-   "receptions": 0.5,
-   "rec_yds": 3.9,
-   "carries": 4.1,
+   "position": "QB",
+   "rush_yds": 11.7,
+   "pass_yds": 252.6,
+   "pass_att": 36.0,
+   "carries": 2.3,
+   "tds": 0.1
+  },
+  {
+   "player": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.4,
+   "receptions": 4.4,
+   "rec_yds": 62.5,
+   "carries": 0.0,
    "tds": 0.3
   },
   {
@@ -201,14 +201,14 @@
    "tds": 1.2
   },
   {
-   "player": "Ryan Flournoy",
+   "player": "Tyler Goodson",
    "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.3,
-   "rec_yds": 42.2,
-   "carries": 0.0,
+   "position": "RB",
+   "rush_yds": 17.3,
+   "targets": 0.8,
+   "receptions": 0.5,
+   "rec_yds": 3.9,
+   "carries": 4.1,
    "tds": 0.3
   },
   {

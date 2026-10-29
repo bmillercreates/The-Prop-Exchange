@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_CAR_GB",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:13-04:00",
+ "updated_at": "2026-10-29T14:23-04:00",
  "kickoff": "2026-10-29T20:15",
  "weekday": "Thursday",
  "away": "CAR",
@@ -67,30 +67,6 @@
   },
   {
    "tier": "Blue Chip",
-   "player": "Jordan Love",
-   "team": "GB",
-   "position": "QB",
-   "market": "player_pass_yds",
-   "label": "passing yards",
-   "side": "Under",
-   "line": 262.5,
-   "title": "Jordan Love Under 262.5 passing yards",
-   "price": -111,
-   "book": "draftkings",
-   "model_prob": 0.5711,
-   "fair_prob": 0.4979,
-   "prob_edge": 0.0732,
-   "edge": 0.0856,
-   "projection": 227.4,
-   "flags": [],
-   "why": [
-    "Model projects 227 yards vs. a line of 262.5 (71% chance to go under on its own).",
-    "Expected to throw about 35 times; completion % over expected is +4.0 lately.",
-    "The Panthers defense allows 7% fewer passing yards to QBs than average."
-   ]
-  },
-  {
-   "tier": "Blue Chip",
    "player": "Tetairoa McMillan",
    "team": "CAR",
    "position": "WR",
@@ -140,112 +116,8 @@
    ]
   }
  ],
- "etfs": [
-  {
-   "tier": "ETF",
-   "legs": [
-    {
-     "tier": "ETF leg",
-     "player": "Jordan Love",
-     "team": "GB",
-     "position": "QB",
-     "market": "player_pass_yds",
-     "label": "passing yards",
-     "side": "Under",
-     "line": 262.5,
-     "title": "Jordan Love Under 262.5 passing yards",
-     "price": -111,
-     "book": "draftkings",
-     "model_prob": 0.5711,
-     "fair_prob": 0.4979,
-     "prob_edge": 0.0732,
-     "edge": 0.0856,
-     "projection": 227.4,
-     "flags": [],
-     "why": [
-      "Model projects 227 yards vs. a line of 262.5 (71% chance to go under on its own).",
-      "Expected to throw about 35 times; completion % over expected is +4.0 lately.",
-      "The Panthers defense allows 7% fewer passing yards to QBs than average."
-     ]
-    },
-    {
-     "tier": "ETF leg",
-     "player": "Tucker Kraft",
-     "team": "GB",
-     "position": "TE",
-     "market": "player_reception_yds",
-     "label": "receiving yards",
-     "side": "Under",
-     "line": 44.5,
-     "title": "Tucker Kraft Under 44.5 receiving yards",
-     "price": -111,
-     "book": "draftkings",
-     "model_prob": 0.5825,
-     "fair_prob": 0.4979,
-     "prob_edge": 0.0846,
-     "edge": 0.1072,
-     "projection": 33.26,
-     "flags": [],
-     "why": [
-      "Model projects 33 yards vs. a line of 44.5 (74% chance to go under on its own).",
-      "Earns 15% of the Packers' targets and 8% of their air yards, on 81% of snaps.",
-      "The Panthers defense allows 8% fewer receiving yards to TEs than average."
-     ]
-    }
-   ],
-   "model_prob": 0.4181,
-   "price": 166,
-   "edge": 0.113,
-   "why": [
-    "Jordan Love and Tucker Kraft are on the same offense: when the QB has a quiet day, his top receivers usually do too.",
-    "Model gives both legs a 42% chance to hit together. The price (about +166) is our estimate of a same-game parlay; check your book's exact number."
-   ]
-  }
- ],
+ "etfs": [],
  "projections": [
-  {
-   "player": "Chuba Hubbard",
-   "team": "CAR",
-   "position": "RB",
-   "rush_yds": 61.6,
-   "targets": 4.0,
-   "receptions": 3.2,
-   "rec_yds": 23.6,
-   "carries": 13.4,
-   "tds": 0.7
-  },
-  {
-   "player": "John Metchie III",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.9,
-   "receptions": 2.5,
-   "rec_yds": 29.0,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Bryce Young",
-   "team": "CAR",
-   "position": "QB",
-   "rush_yds": 5.5,
-   "pass_yds": 273.6,
-   "pass_att": 39.3,
-   "carries": 1.4,
-   "tds": 0.1
-  },
-  {
-   "player": "Darren Waller",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.1,
-   "rec_yds": 21.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
   {
    "player": "Jalen Coker",
    "team": "CAR",
@@ -255,6 +127,16 @@
    "receptions": 6.0,
    "rec_yds": 74.5,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "rush_yds": 5.5,
+   "pass_yds": 273.6,
+   "pass_att": 39.3,
+   "carries": 1.4,
    "tds": 0.1
   },
   {
@@ -269,17 +151,6 @@
    "tds": 0.0
   },
   {
-   "player": "Tommy Tremble",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.7,
-   "receptions": 2.5,
-   "rec_yds": 19.8,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Tetairoa McMillan",
    "team": "CAR",
    "position": "WR",
@@ -291,15 +162,37 @@
    "tds": 0.2
   },
   {
-   "player": "Trevor Etienne",
+   "player": "John Metchie III",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.9,
+   "receptions": 2.5,
+   "rec_yds": 29.0,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Tommy Tremble",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.7,
+   "receptions": 2.5,
+   "rec_yds": 19.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Chuba Hubbard",
    "team": "CAR",
    "position": "RB",
-   "rush_yds": 11.6,
-   "targets": 1.1,
-   "receptions": 0.9,
-   "rec_yds": 6.6,
-   "carries": 3.2,
-   "tds": 0.1
+   "rush_yds": 61.6,
+   "targets": 4.0,
+   "receptions": 3.2,
+   "rec_yds": 23.6,
+   "carries": 13.4,
+   "tds": 0.7
   },
   {
    "player": "Brycen Tremayne",
@@ -313,6 +206,39 @@
    "tds": 0.1
   },
   {
+   "player": "Darren Waller",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 21.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Trevor Etienne",
+   "team": "CAR",
+   "position": "RB",
+   "rush_yds": 11.6,
+   "targets": 1.1,
+   "receptions": 0.9,
+   "rec_yds": 6.6,
+   "carries": 3.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Savion Williams",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 4.9,
+   "targets": 2.1,
+   "receptions": 1.5,
+   "rec_yds": 16.9,
+   "carries": 1.2,
+   "tds": 0.1
+  },
+  {
    "player": "Jordan Love",
    "team": "GB",
    "position": "QB",
@@ -321,28 +247,6 @@
    "pass_att": 34.7,
    "carries": 1.5,
    "tds": 0.1
-  },
-  {
-   "player": "Josh Jacobs",
-   "team": "GB",
-   "position": "RB",
-   "rush_yds": 26.0,
-   "targets": 3.0,
-   "receptions": 2.2,
-   "rec_yds": 16.6,
-   "carries": 5.6,
-   "tds": 0.6
-  },
-  {
-   "player": "Tucker Kraft",
-   "team": "GB",
-   "position": "TE",
-   "rush_yds": 0.3,
-   "targets": 5.3,
-   "receptions": 3.5,
-   "rec_yds": 33.3,
-   "carries": 0.2,
-   "tds": 0.3
   },
   {
    "player": "Kaleb Johnson",
@@ -356,15 +260,37 @@
    "tds": 0.0
   },
   {
-   "player": "Savion Williams",
+   "player": "Tucker Kraft",
    "team": "GB",
-   "position": "WR",
-   "rush_yds": 4.9,
-   "targets": 2.1,
-   "receptions": 1.5,
-   "rec_yds": 16.9,
-   "carries": 1.2,
-   "tds": 0.1
+   "position": "TE",
+   "rush_yds": 0.3,
+   "targets": 5.3,
+   "receptions": 3.5,
+   "rec_yds": 33.3,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
+   "player": "Josh Jacobs",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 26.0,
+   "targets": 3.0,
+   "receptions": 2.2,
+   "rec_yds": 16.6,
+   "carries": 5.6,
+   "tds": 0.6
+  },
+  {
+   "player": "MarShawn Lloyd",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 24.6,
+   "targets": 1.8,
+   "receptions": 1.4,
+   "rec_yds": 8.9,
+   "carries": 6.4,
+   "tds": 0.4
   },
   {
    "player": "Pierre Strong",
@@ -387,17 +313,6 @@
    "rec_yds": 60.4,
    "carries": 0.1,
    "tds": 0.5
-  },
-  {
-   "player": "MarShawn Lloyd",
-   "team": "GB",
-   "position": "RB",
-   "rush_yds": 24.6,
-   "targets": 1.8,
-   "receptions": 1.4,
-   "rec_yds": 8.9,
-   "carries": 6.4,
-   "tds": 0.4
   },
   {
    "player": "Christian Watson",

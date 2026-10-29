@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_MIN_DET",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:13-04:00",
+ "updated_at": "2026-10-29T14:23-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "MIN",
@@ -36,39 +36,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Jordan Addison",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 1.8,
-   "targets": 5.2,
-   "receptions": 3.3,
-   "rec_yds": 46.9,
-   "carries": 0.4,
-   "tds": 0.1
-  },
-  {
-   "player": "Jauan Jennings",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.6,
-   "rec_yds": 21.7,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "T.J. Hockenson",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.4,
-   "receptions": 5.5,
-   "rec_yds": 55.6,
-   "carries": 0.0,
-   "tds": 0.5
-  },
-  {
    "player": "Gavin Bartholomew",
    "team": "MIN",
    "position": "TE",
@@ -76,6 +43,17 @@
    "targets": 1.9,
    "receptions": 1.6,
    "rec_yds": 16.1,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.1,
+   "rec_yds": 14.7,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -101,6 +79,39 @@
    "tds": 0.4
   },
   {
+   "player": "Jauan Jennings",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.6,
+   "rec_yds": 21.7,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Jordan Addison",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 1.8,
+   "targets": 5.2,
+   "receptions": 3.3,
+   "rec_yds": 46.9,
+   "carries": 0.4,
+   "tds": 0.1
+  },
+  {
+   "player": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.4,
+   "receptions": 5.5,
+   "rec_yds": 55.6,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
    "player": "Justin Jefferson",
    "team": "MIN",
    "position": "WR",
@@ -110,17 +121,6 @@
    "rec_yds": 87.3,
    "carries": 0.1,
    "tds": 0.4
-  },
-  {
-   "player": "Tai Felton",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.1,
-   "rec_yds": 14.7,
-   "carries": 0.0,
-   "tds": 0.0
   },
   {
    "player": "Jordan Mason",
@@ -134,6 +134,17 @@
    "tds": 0.3
   },
   {
+   "player": "Jahmyr Gibbs",
+   "team": "DET",
+   "position": "RB",
+   "rush_yds": 92.0,
+   "targets": 5.8,
+   "receptions": 4.2,
+   "rec_yds": 29.3,
+   "carries": 21.5,
+   "tds": 1.2
+  },
+  {
    "player": "Jared Goff",
    "team": "DET",
    "position": "QB",
@@ -142,6 +153,17 @@
    "pass_att": 31.0,
    "carries": 1.7,
    "tds": 0.0
+  },
+  {
+   "player": "Sam LaPorta",
+   "team": "DET",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.9,
+   "receptions": 3.2,
+   "rec_yds": 32.4,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Amon-Ra St. Brown",
@@ -155,17 +177,6 @@
    "tds": 0.4
   },
   {
-   "player": "Isaac TeSlaa",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.8,
-   "receptions": 1.5,
-   "rec_yds": 21.5,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Jameson Williams",
    "team": "DET",
    "position": "WR",
@@ -177,26 +188,15 @@
    "tds": 0.4
   },
   {
-   "player": "Jahmyr Gibbs",
+   "player": "Isaac TeSlaa",
    "team": "DET",
-   "position": "RB",
-   "rush_yds": 92.0,
-   "targets": 5.8,
-   "receptions": 4.2,
-   "rec_yds": 29.3,
-   "carries": 21.5,
-   "tds": 1.2
-  },
-  {
-   "player": "Sam LaPorta",
-   "team": "DET",
-   "position": "TE",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.9,
-   "receptions": 3.2,
-   "rec_yds": 32.4,
+   "targets": 2.8,
+   "receptions": 1.5,
+   "rec_yds": 21.5,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.1
   }
  ]
 }

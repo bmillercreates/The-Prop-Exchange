@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_CHI_SEA",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:13-04:00",
+ "updated_at": "2026-10-29T14:23-04:00",
  "kickoff": "2026-11-02T20:15",
  "weekday": "Monday",
  "away": "CHI",
@@ -41,15 +41,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "D'Andre Swift",
+   "player": "Roschon Johnson",
    "team": "CHI",
    "position": "RB",
-   "rush_yds": 51.3,
-   "targets": 4.2,
-   "receptions": 3.8,
-   "rec_yds": 24.8,
-   "carries": 14.6,
-   "tds": 0.8
+   "rush_yds": 15.0,
+   "targets": 1.5,
+   "receptions": 1.3,
+   "rec_yds": 9.2,
+   "carries": 4.5,
+   "tds": 0.2
   },
   {
    "player": "Rome Odunze",
@@ -63,38 +63,6 @@
    "tds": 0.1
   },
   {
-   "player": "Roschon Johnson",
-   "team": "CHI",
-   "position": "RB",
-   "rush_yds": 15.0,
-   "targets": 1.5,
-   "receptions": 1.3,
-   "rec_yds": 9.2,
-   "carries": 4.5,
-   "tds": 0.2
-  },
-  {
-   "player": "Caleb Williams",
-   "team": "CHI",
-   "position": "QB",
-   "rush_yds": 20.9,
-   "pass_yds": 202.3,
-   "pass_att": 33.1,
-   "carries": 4.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Luther Burden III",
-   "team": "CHI",
-   "position": "WR",
-   "rush_yds": 3.8,
-   "targets": 6.9,
-   "receptions": 4.4,
-   "rec_yds": 52.6,
-   "carries": 1.0,
-   "tds": 0.3
-  },
-  {
    "player": "Kalif Raymond",
    "team": "CHI",
    "position": "WR",
@@ -104,6 +72,17 @@
    "rec_yds": 26.7,
    "carries": 0.1,
    "tds": 0.1
+  },
+  {
+   "player": "D'Andre Swift",
+   "team": "CHI",
+   "position": "RB",
+   "rush_yds": 51.3,
+   "targets": 4.2,
+   "receptions": 3.8,
+   "rec_yds": 24.8,
+   "carries": 14.6,
+   "tds": 0.8
   },
   {
    "player": "Colston Loveland",
@@ -117,48 +96,25 @@
    "tds": 0.3
   },
   {
-   "player": "AJ Barner",
-   "team": "SEA",
-   "position": "TE",
-   "rush_yds": 1.0,
-   "targets": 4.0,
-   "receptions": 2.6,
-   "rec_yds": 27.2,
-   "carries": 0.5,
+   "player": "Luther Burden III",
+   "team": "CHI",
+   "position": "WR",
+   "rush_yds": 3.8,
+   "targets": 6.9,
+   "receptions": 4.4,
+   "rec_yds": 52.6,
+   "carries": 1.0,
    "tds": 0.3
   },
   {
-   "player": "Cooper Kupp",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.4,
-   "receptions": 2.0,
-   "rec_yds": 26.2,
-   "carries": 0.0,
+   "player": "Caleb Williams",
+   "team": "CHI",
+   "position": "QB",
+   "rush_yds": 20.9,
+   "pass_yds": 202.3,
+   "pass_att": 33.1,
+   "carries": 4.2,
    "tds": 0.1
-  },
-  {
-   "player": "Jaxon Smith-Njigba",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 1.9,
-   "targets": 10.4,
-   "receptions": 7.0,
-   "rec_yds": 107.3,
-   "carries": 0.4,
-   "tds": 0.5
-  },
-  {
-   "player": "Rashid Shaheed",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 2.2,
-   "targets": 4.0,
-   "receptions": 2.2,
-   "rec_yds": 27.3,
-   "carries": 0.5,
-   "tds": 0.3
   },
   {
    "player": "Tory Horton",
@@ -172,17 +128,6 @@
    "tds": 0.1
   },
   {
-   "player": "Emanuel Wilson",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 49.7,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 10.0,
-   "carries": 15.1,
-   "tds": 0.6
-  },
-  {
    "player": "George Holani",
    "team": "SEA",
    "position": "RB",
@@ -194,6 +139,28 @@
    "tds": 0.5
   },
   {
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 10.4,
+   "receptions": 7.0,
+   "rec_yds": 107.3,
+   "carries": 0.4,
+   "tds": 0.5
+  },
+  {
+   "player": "AJ Barner",
+   "team": "SEA",
+   "position": "TE",
+   "rush_yds": 1.0,
+   "targets": 4.0,
+   "receptions": 2.6,
+   "rec_yds": 27.2,
+   "carries": 0.5,
+   "tds": 0.3
+  },
+  {
    "player": "Sam Darnold",
    "team": "SEA",
    "position": "QB",
@@ -202,6 +169,39 @@
    "pass_att": 28.0,
    "carries": 1.5,
    "tds": 0.0
+  },
+  {
+   "player": "Cooper Kupp",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.4,
+   "receptions": 2.0,
+   "rec_yds": 26.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Rashid Shaheed",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 2.2,
+   "targets": 4.0,
+   "receptions": 2.2,
+   "rec_yds": 27.3,
+   "carries": 0.5,
+   "tds": 0.3
+  },
+  {
+   "player": "Emanuel Wilson",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 49.7,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 10.0,
+   "carries": 15.1,
+   "tds": 0.6
   }
  ]
 }
