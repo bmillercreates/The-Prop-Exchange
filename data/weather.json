@@ -4,9 +4,9 @@
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-10-29T20:15:00-04:00",
   "covered": false,
-  "temp_f": 48,
-  "wind_mph": 6,
-  "gust_mph": 19,
+  "temp_f": 51,
+  "wind_mph": 8,
+  "gust_mph": 22,
   "precip_in": 0.0,
   "precip_chance": 0
  },
