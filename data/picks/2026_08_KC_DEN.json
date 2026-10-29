@@ -1,0 +1,251 @@
+{
+ "game_id": "2026_08_KC_DEN",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-10-29T14:13-04:00",
+ "kickoff": "2026-11-01T16:25",
+ "weekday": "Sunday",
+ "away": "KC",
+ "home": "DEN",
+ "stadium": "Empower Field at Mile High",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_08_KC_DEN",
+  "stadium": "Empower Field at Mile High",
+  "kickoff_et": "2026-11-01T16:25:00-05:00",
+  "covered": false,
+  "temp_f": 61,
+  "wind_mph": 7,
+  "gust_mph": 5,
+  "precip_in": 0.0,
+  "precip_chance": 7
+ },
+ "teams": {
+  "KC": {
+   "implied_pts": 21.0,
+   "margin": 1.5,
+   "plays": 59.8,
+   "pass_att": 31.3,
+   "notes": []
+  },
+  "DEN": {
+   "implied_pts": 19.5,
+   "margin": -1.5,
+   "plays": 59.6,
+   "pass_att": 31.8,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Andrew Armstrong",
+   "team": "KC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 0.9,
+   "rec_yds": 11.5,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Travis Kelce",
+   "team": "KC",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.9,
+   "receptions": 4.3,
+   "rec_yds": 56.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Emmett Johnson",
+   "team": "KC",
+   "position": "RB",
+   "rush_yds": 9.7,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 13.3,
+   "carries": 2.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Cyrus Allen",
+   "team": "KC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 0.9,
+   "rec_yds": 12.0,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Patrick Mahomes",
+   "team": "KC",
+   "position": "QB",
+   "rush_yds": 14.9,
+   "pass_yds": 234.0,
+   "pass_att": 31.3,
+   "carries": 3.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Jalen Royals",
+   "team": "KC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.1,
+   "receptions": 1.2,
+   "rec_yds": 13.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Noah Gray",
+   "team": "KC",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 2.2,
+   "rec_yds": 26.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kenneth Walker III",
+   "team": "KC",
+   "position": "RB",
+   "rush_yds": 114.3,
+   "targets": 4.2,
+   "receptions": 3.1,
+   "rec_yds": 20.6,
+   "carries": 19.7,
+   "tds": 1.0
+  },
+  {
+   "player": "Xavier Worthy",
+   "team": "KC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.2,
+   "receptions": 4.0,
+   "rec_yds": 41.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "J.K. Dobbins",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 33.1,
+   "targets": 1.3,
+   "receptions": 1.0,
+   "rec_yds": 6.9,
+   "carries": 10.4,
+   "tds": 0.4
+  },
+  {
+   "player": "Troy Franklin",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 1.4,
+   "targets": 1.9,
+   "receptions": 1.1,
+   "rec_yds": 13.6,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.4,
+   "receptions": 2.8,
+   "rec_yds": 31.2,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Evan Engram",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.7,
+   "receptions": 2.7,
+   "rec_yds": 29.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "RJ Harvey",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 12.6,
+   "targets": 4.1,
+   "receptions": 3.5,
+   "rec_yds": 29.4,
+   "carries": 3.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Marvin Mims Jr.",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 2.7,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 17.6,
+   "carries": 0.4,
+   "tds": 0.0
+  },
+  {
+   "player": "Adam Trautman",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.4,
+   "receptions": 1.1,
+   "rec_yds": 10.9,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jaylen Waddle",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 1.2,
+   "targets": 7.5,
+   "receptions": 4.3,
+   "rec_yds": 46.2,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 20.9,
+   "targets": 1.7,
+   "receptions": 1.4,
+   "rec_yds": 10.6,
+   "carries": 5.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Bo Nix",
+   "team": "DEN",
+   "position": "QB",
+   "rush_yds": 19.5,
+   "pass_yds": 196.1,
+   "pass_att": 31.8,
+   "carries": 4.4,
+   "tds": 0.1
+  }
+ ]
+}

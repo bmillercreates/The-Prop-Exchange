@@ -274,6 +274,7 @@ DET,Ben Bartch,G,Injured Reserve,Foot,espn
 DET,Devin White,LB,Injured Reserve,Forearm,espn
 DET,Tom Kennedy,WR,Injured Reserve,Knee - MCL,espn
 DET,DJ Wonnum,LB,Active,"",espn
+GB,Keisean Nixon,CB,Questionable,Shoulder,espn
 GB,Matthew Golden,WR,Questionable,Shoulder,espn
 GB,Travis Glover,OT,Out,Knee,espn
 GB,Sean Rhyan,G,Out,Ankle,espn
@@ -298,7 +299,6 @@ GB,Tucker Kraft,TE,Active,Kraft compiled four catches (on six targets) for 48 ya
 GB,Christian Watson,WR,Active,Watson notched five catches (on eight targets) for 57 yards and no touchdowns du,espn
 GB,Jordan Love,QB,Active,"Love completed 27 of 45 passes for 274 yards, two touchdowns and one interceptio",espn
 GB,Trey Smack,PK,Active,Smack went 1-for-3 on field-goal tries and converted both of his PATs during Sun,espn
-GB,Jordon Riley,DT,Active,Riley is active for Sunday's game against the Lions.,espn
 HOU,Jaylin Noel,WR,Injured Reserve,Toe,espn
 HOU,Azeez Al-Shaair,LB,Active,Al-Shaair recorded nine tackles (two solo) in a Week 7 overtime loss to the Gian,espn
 HOU,Henry To'oTo'o,LB,Active,"To'oTo'o notched 10 tackles (three solo), including 0.5 sacks, in Sunday's Week ",espn
@@ -624,6 +624,7 @@ NYJ,Geno Smith,QB,Active,"Smith completed 23 of 30 passes for 287 yards, three t
 NYJ,Omar Cooper Jr.,WR,Active,Cooper caught all five of his targets for 115 yards and a touchdown in Sunday's ,espn
 NYJ,Kiko Mauigoa,LB,Injured Reserve,Quadriceps,espn
 NYJ,Will McDonald IV,DE,Active,"",espn
+PHI,Jake Elliott,PK,Active,Elliott made all three of his PAT attempts and didn't attempt a field goal in Mo,espn
 PHI,Nolan Smith Jr.,LB,Questionable,Concussion,espn
 PHI,Michael Carter II,CB,Questionable,Abdomen,espn
 PHI,Jihaad Campbell,LB,Questionable,Hamstring,espn
@@ -648,7 +649,6 @@ PHI,Hollywood Brown,WR,Active,Brown secured two of five targets for 30 yards in 
 PHI,Dallas Goedert,TE,Active,Goedert secured five of seven targets for 48 yards in the Eagles' 38-21 loss to ,espn
 PHI,Makai Lemon,WR,Active,Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagl,espn
 PHI,Tanner McKee,QB,Active,McKee completed 23 of 35 passes for 211 yards with one touchdown and one interce,espn
-PHI,Britain Covey,WR,Questionable,Knee,espn
 PIT,Ben Skowronek,WR,Questionable,Calf,espn
 PIT,Alex Highsmith,LB,Questionable,Groin,espn
 PIT,Jalen Ramsey,CB,Questionable,Wrist,espn

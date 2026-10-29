@@ -1,0 +1,246 @@
+{
+ "game_id": "2026_08_ATL_TB",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-10-29T14:13-04:00",
+ "kickoff": "2026-11-01T13:00",
+ "weekday": "Sunday",
+ "away": "ATL",
+ "home": "TB",
+ "stadium": "Raymond James Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_08_ATL_TB",
+  "stadium": "Raymond James Stadium",
+  "kickoff_et": "2026-11-01T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 77,
+  "wind_mph": 15,
+  "gust_mph": 25,
+  "precip_in": 0.11,
+  "precip_chance": 63
+ },
+ "teams": {
+  "ATL": {
+   "implied_pts": 21.0,
+   "margin": -2.5,
+   "plays": 58.7,
+   "pass_att": 29.8,
+   "notes": [
+    "wind 15 mph",
+    "rain/snow expected"
+   ]
+  },
+  "TB": {
+   "implied_pts": 23.5,
+   "margin": 2.5,
+   "plays": 63.6,
+   "pass_att": 28.4,
+   "notes": [
+    "wind 15 mph",
+    "rain/snow expected"
+   ]
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Austin Hooper",
+   "team": "ATL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.3,
+   "rec_yds": 12.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Kyle Pitts",
+   "team": "ATL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 3.0,
+   "rec_yds": 29.0,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Brian Robinson",
+   "team": "ATL",
+   "position": "RB",
+   "rush_yds": 21.4,
+   "targets": 1.0,
+   "receptions": 0.9,
+   "rec_yds": 5.7,
+   "carries": 6.5,
+   "tds": 0.2
+  },
+  {
+   "player": "Olamide Zaccheaus",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.0,
+   "rec_yds": 10.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Bijan Robinson",
+   "team": "ATL",
+   "position": "RB",
+   "rush_yds": 65.3,
+   "targets": 4.6,
+   "receptions": 3.8,
+   "rec_yds": 27.8,
+   "carries": 15.8,
+   "tds": 0.5
+  },
+  {
+   "player": "Jahan Dotson",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.1,
+   "rec_yds": 28.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Zachariah Branch",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 0.5,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 11.5,
+   "carries": 0.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Drake London",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 8.4,
+   "receptions": 5.6,
+   "rec_yds": 72.9,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Michael Penix Jr.",
+   "team": "ATL",
+   "position": "QB",
+   "rush_yds": 5.5,
+   "pass_yds": 207.9,
+   "pass_att": 29.8,
+   "carries": 2.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Cade Otton",
+   "team": "TB",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.7,
+   "rec_yds": 25.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Ted Hurst III",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 1.7,
+   "rec_yds": 22.9,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Emeka Egbuka",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 6.6,
+   "receptions": 4.1,
+   "rec_yds": 40.3,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
+   "player": "Bucky Irving",
+   "team": "TB",
+   "position": "RB",
+   "rush_yds": 72.7,
+   "targets": 3.1,
+   "receptions": 2.6,
+   "rec_yds": 14.7,
+   "carries": 17.3,
+   "tds": 0.9
+  },
+  {
+   "player": "Chris Godwin Jr.",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 1.3,
+   "targets": 6.5,
+   "receptions": 4.9,
+   "rec_yds": 49.5,
+   "carries": 0.3,
+   "tds": 0.1
+  },
+  {
+   "player": "Kenny Gainwell",
+   "team": "TB",
+   "position": "RB",
+   "rush_yds": 19.9,
+   "targets": 1.8,
+   "receptions": 1.5,
+   "rec_yds": 9.0,
+   "carries": 5.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Sean Tucker",
+   "team": "TB",
+   "position": "RB",
+   "rush_yds": 13.6,
+   "targets": 0.0,
+   "receptions": 0.0,
+   "rec_yds": 0.0,
+   "carries": 3.3,
+   "tds": 0.3
+  },
+  {
+   "player": "Baker Mayfield",
+   "team": "TB",
+   "position": "QB",
+   "rush_yds": 8.7,
+   "pass_yds": 193.2,
+   "pass_att": 28.4,
+   "carries": 2.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Tez Johnson",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 2.1,
+   "targets": 2.6,
+   "receptions": 1.7,
+   "rec_yds": 24.3,
+   "carries": 0.4,
+   "tds": 0.1
+  }
+ ]
+}
