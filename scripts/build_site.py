@@ -36,10 +36,13 @@ def main():
                                   "color": r["team_color"], "color2": r["team_color2"]}
                  for r in teams.iter_rows(named=True)}
     credits = load_json(DATA / "odds" / "credits.json", {}).get("remaining")
+    stories = load_json(DATA / "storylines.json", {})
     save_json(ROOT / "site" / "data.json", {
         "generated_at": now_et().isoformat(timespec="minutes"),
         "season": 2026, "week": week, "credits_left": credits,
         "teams": team_info, "games": cards,
+        "storylines": {c["game_id"]: stories.get(c["game_id"], []) for c in cards},
+        "portfolio": load_json(DATA / "portfolio" / "summary.json"),
     })
     print(f"site: week {week}, {len(cards)} games")
 

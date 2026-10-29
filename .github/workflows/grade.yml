@@ -1,0 +1,56 @@
+name: Grade picks
+
+# Grades finished games and updates Portfolio Performance.
+#   21:45 UTC Sunday   after the early Sunday games (about 4:45 PM ET)
+#   01:15 UTC Monday   after the late Sunday games (about 8:15 PM ET)
+#   05:30 UTC daily    after Thursday, Sunday night and Monday night games
+# A game that isn't final yet is simply picked up by the next run.
+on:
+  schedule:
+    - cron: "45 21 * * 0"
+    - cron: "15 1 * * 1"
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+    inputs:
+      check:
+        description: "Optional: a game id to just print its box score (no grading)"
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Check one box score
+        if: inputs.check != ''
+        run: python scripts/grade.py --check ${{ inputs.check }}
+      - name: Grade finished games
+        if: inputs.check == ''
+        run: python scripts/grade.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Save data to the repo
+        if: inputs.check == ''
+        run: |
+          git config user.name "prop-exchange-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Graded picks $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push
+
+  publish:
+    needs: grade
+    if: inputs.check == ''
+    uses: ./.github/workflows/pages.yml

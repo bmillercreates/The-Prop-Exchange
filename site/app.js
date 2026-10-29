@@ -219,6 +219,127 @@ function render(data) {
   // the strip is written twice so the scroll loops without a gap
   const strip = [...tick, ...scores].join("");
   $("#ticker-track").innerHTML = strip + strip;
+
+  renderPortfolio(data.portfolio);
+  renderStorylines(data);
+}
+
+// ---------- Portfolio Performance ----------
+
+const units = (u) => `${u >= 0 ? "+" : "−"}${Math.abs(u).toFixed(2)}u`;
+const record = (b) => `${b.wins}-${b.losses}${b.pushes ? `-${b.pushes}` : ""}`;
+
+function curveChart(curve) {
+  // Single series: cumulative units won over time. One y-axis, zero line dashed.
+  const W = 800, H = 200, L = 44, R = 12, T = 10, B = 24;
+  const pts = [{ date: "start", units: 0 }, ...curve];
+  const ys = pts.map((p) => p.units);
+  let lo = Math.min(0, ...ys), hi = Math.max(0, ...ys);
+  if (hi - lo < 2) { hi += 1; lo -= 1; }
+  const x = (i) => L + (i / Math.max(pts.length - 1, 1)) * (W - L - R);
+  const y = (v) => T + (1 - (v - lo) / (hi - lo)) * (H - T - B);
+  const step = Math.max(1, Math.ceil((hi - lo) / 4));
+  const ticks = [];
+  for (let v = Math.ceil(lo / step) * step; v <= hi; v += step) ticks.push(v);
+  const last = ys[ys.length - 1];
+  const path = pts.map((p, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(p.units).toFixed(1)}`).join("");
+  const label = (d) => (d === "start" ? "Start" : new Date(d + "T12:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }));
+  const xlabels = pts.length <= 8 ? pts.map((p, i) => i) : [0, Math.floor((pts.length - 1) / 2), pts.length - 1];
+  return `
+    <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Cumulative units won: ${units(last)}">
+      <g class="grid">${ticks.map((v) => `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}"/>`).join("")}</g>
+      <g class="axis">${ticks.map((v) => `<text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${v > 0 ? "+" : ""}${v}u</text>`).join("")}
+        ${xlabels.map((i) => `<text x="${x(i)}" y="${H - 4}" text-anchor="${i === 0 ? "start" : i === pts.length - 1 ? "end" : "middle"}">${label(pts[i].date)}</text>`).join("")}</g>
+      <line class="zero" x1="${L}" x2="${W - R}" y1="${y(0)}" y2="${y(0)}"/>
+      <path class="line ${last < 0 ? "neg" : ""}" d="${path}" vector-effect="non-scaling-stroke"/>
+      <line class="cross" id="pf-cross" y1="${T}" y2="${H - B}" x1="-10" x2="-10" vector-effect="non-scaling-stroke"/>
+      <rect class="hit" x="${L}" y="0" width="${W - L - R}" height="${H}"/>
+    </svg>`;
+}
+
+function wireChartHover(panel, curve) {
+  const svg = panel.querySelector("svg");
+  const tip = panel.querySelector(".tip");
+  const cross = panel.querySelector("#pf-cross");
+  const pts = [{ date: "start", units: 0 }, ...curve];
+  const W = 800, L = 44, R = 12;
+  svg.addEventListener("pointermove", (ev) => {
+    const box = svg.getBoundingClientRect();
+    const fx = ((ev.clientX - box.left) / box.width) * W;
+    const i = Math.round(((fx - L) / (W - L - R)) * (pts.length - 1));
+    if (i < 0 || i >= pts.length) return;
+    const px = L + (i / Math.max(pts.length - 1, 1)) * (W - L - R);
+    cross.setAttribute("x1", px); cross.setAttribute("x2", px);
+    const p = pts[i];
+    const day = p.date === "start" ? "Start" : new Date(p.date + "T12:00").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+    tip.innerHTML = `${day}<br><b class="${p.units < 0 ? "down" : "up"}">${units(p.units)}</b> total`;
+    tip.style.left = `${(px / W) * box.width + 14}px`;
+    tip.style.top = `${ev.clientY - panel.getBoundingClientRect().top}px`;
+    tip.hidden = false;
+  });
+  svg.addEventListener("pointerleave", () => { tip.hidden = true; cross.setAttribute("x1", -10); cross.setAttribute("x2", -10); });
+}
+
+function renderPortfolio(pf) {
+  const el = $("#portfolio-body");
+  if (!pf || !pf.overall.bets) {
+    el.innerHTML = `<div class="panel empty">Tracking starts after the first graded games. Picks are graded automatically once each game ends.</div>`;
+    return;
+  }
+  const o = pf.overall;
+  const roiCls = (v) => (v == null ? "" : v >= 0 ? "up" : "down");
+  const tiles = [
+    ["Record", record(o), `${o.bets} graded bets`],
+    ["Units", `<span class="${roiCls(o.units)}">${units(o.units)}</span>`, "1 unit staked per pick"],
+    ["ROI", `<span class="${roiCls(o.roi)}">${pct(o.roi)}</span>`, "return per unit risked"],
+    ["Hit rate", o.hit_rate == null ? "—" : `${Math.round(o.hit_rate * 100)}%`, "wins ÷ (wins + losses)"],
+  ].map(([l, v, sub]) => `<div class="tile"><div class="label">${l}</div><div class="value">${v}</div><div class="sub">${sub}</div></div>`).join("");
+
+  const tierRows = Object.entries(pf.tiers).map(([t, b]) => `
+    <tr><td><b>${t}s</b></td><td class="num">${b.bets ? record(b) : "—"}</td>
+    <td class="num ${roiCls(b.units)}">${b.bets ? units(b.units) : "—"}</td>
+    <td class="num ${roiCls(b.roi)}">${b.roi == null ? "—" : pct(b.roi)}</td>
+    <td class="num hide-sm">${b.hit_rate == null ? "—" : Math.round(b.hit_rate * 100) + "%"}</td></tr>`).join("");
+
+  const recent = pf.recent.slice(0, 12).map((r) => {
+    const actual = Array.isArray(r.actual) ? r.actual.join(" / ") : r.actual ?? "DNP";
+    return `<tr>
+      <td class="hide-sm muted">${new Date(r.kickoff.slice(0, 10) + "T12:00").toLocaleDateString("en-US", { month: "short", day: "numeric" })}</td>
+      <td>${esc(r.title)}<br><span class="muted" style="font-size:12px">${r.tier} · ${esc(r.matchup)} · actual ${esc(actual)}</span></td>
+      <td class="num muted">${money(r.price)}</td>
+      <td class="num"><span class="res ${r.result}">${r.result.toUpperCase()}</span></td>
+      <td class="num ${r.units > 0 ? "up" : r.units < 0 ? "down" : "muted"}">${units(r.units)}</td></tr>`;
+  }).join("");
+
+  el.innerHTML = `
+    <div class="pf-grid">
+      <div class="tiles">${tiles}</div>
+      <div class="chart-panel">
+        <div class="chart-title"><span>Portfolio value: units won over time</span><b class="${roiCls(o.units)}">${units(o.units)}</b></div>
+        <div class="chart">${curveChart(pf.curve)}</div>
+        <div class="tip" hidden></div>
+      </div>
+      <div class="table-wrap"><table class="tbl">
+        <thead><tr><th>Tier</th><th class="num">Record</th><th class="num">Units</th><th class="num">ROI</th><th class="num hide-sm">Hit rate</th></tr></thead>
+        <tbody>${tierRows}</tbody></table></div>
+      <div class="table-wrap"><table class="tbl">
+        <thead><tr><th class="hide-sm">Date</th><th>Recent picks</th><th class="num">Price</th><th class="num">Result</th><th class="num">Units</th></tr></thead>
+        <tbody>${recent}</tbody></table></div>
+    </div>`;
+  wireChartHover(el.querySelector(".chart-panel"), pf.curve);
+}
+
+// ---------- Storylines ----------
+
+function renderStorylines(data) {
+  const el = $("#storylines-body");
+  const blocks = data.games.map((g) => {
+    const items = data.storylines?.[g.game_id] ?? [];
+    if (!items.length) return "";
+    return `<div class="story-game"><h3>${esc(g.away)} @ ${esc(g.home)} <span class="muted" style="font-weight:500">· ${kickoffText(g.kickoff)}</span></h3>
+      ${items.map((s) => `<div class="story"><span class="tag ${s.type.toLowerCase()}">${s.type.toUpperCase()}</span><span>${esc(s.text)}</span></div>`).join("")}</div>`;
+  }).filter(Boolean);
+  el.innerHTML = blocks.length ? blocks.join("") : `<div class="panel empty">No storylines this week.</div>`;
 }
 
 fetch(`data.json?v=${Date.now()}`)

@@ -35,6 +35,9 @@ jobs:
         # still runs if one data source failed: the model uses the last good copy
         if: ${{ !cancelled() }}
         run: python scripts/run_model.py
+      - name: Storylines (just for fun, not modeled)
+        if: ${{ !cancelled() }}
+        run: python scripts/update_storylines.py
       - name: Show a sample game
         if: always()
         run: |
