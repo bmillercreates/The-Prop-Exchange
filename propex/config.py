@@ -6,8 +6,8 @@ SEASON = 2026
 # Cost of one call = (number of markets that come back) x (number of regions).
 ODDS_API_BASE = "https://api.the-odds-api.com/v4"
 ODDS_SPORT = "americanfootball_nfl"
-ODDS_REGION = "us"
-ODDS_BOOKMAKER = "draftkings"
+# Up to 10 bookmakers count as one "region", so asking for two costs nothing extra.
+ODDS_BOOKMAKERS = "draftkings,fanduel"
 
 # Prop types we track. Each one costs 1 credit per game when pulled.
 PROP_MARKETS = [

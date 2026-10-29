@@ -79,7 +79,7 @@ def _odds():
     ev = events[0]
     r = requests.get(
         f"{config.ODDS_API_BASE}/sports/{config.ODDS_SPORT}/events/{ev['id']}/odds",
-        params={"apiKey": key, "regions": config.ODDS_REGION,
+        params={"apiKey": key, "bookmakers": config.ODDS_BOOKMAKERS,
                 "markets": "player_reception_yds", "oddsFormat": "american"},
         timeout=30,
     )
