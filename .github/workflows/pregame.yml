@@ -1,12 +1,13 @@
 name: Pre-kickoff FINAL picks
 
-# Every 15 minutes from 8 AM to midnight Eastern, check whether any game kicks
-# off in the next 80 minutes. If one does: refresh injuries and weather for
+# Every 15 minutes from 8 AM to midnight Eastern (at :07, :22, :37 and :52,
+# away from the busy top of the hour, when GitHub tends to drop scheduled
+# runs), check whether any game kicks off in the next 80 minutes. If one does: refresh injuries and weather for
 # just those games, rerun the model, and mark their picks FINAL. Most checks
 # find nothing due and stop after a few seconds.
 on:
   schedule:
-    - cron: "*/15 0-4,12-23 * * *"
+    - cron: "7,22,37,52 0-4,12-23 * * *"
   workflow_dispatch:
     inputs:
       games:
