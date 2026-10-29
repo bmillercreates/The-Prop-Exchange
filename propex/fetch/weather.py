@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 import requests
 
 from propex import stadiums
-from propex.paths import DATA, ET, save_json
+from propex.paths import DATA, ET, load_json, save_json
 
 URL = "https://api.open-meteo.com/v1/forecast"
 FORECAST_DAYS = 14  # Open-Meteo forecasts up to 16 days ahead
@@ -46,7 +46,7 @@ def _forecast(lat, lon, kickoff):
 
 def run(upcoming_games):
     """upcoming_games: list of dicts (rows of games.csv) not yet played."""
-    out = {}
+    out = load_json(DATA / "weather.json", {})  # keep forecasts for games not refreshed now
     now = datetime.now(ET)
     for g in upcoming_games:
         kickoff = _kickoff(g)
@@ -67,7 +67,7 @@ def run(upcoming_games):
                 entry["error"] = f"{type(exc).__name__}: {exc}"
         out[g["game_id"]] = entry
     save_json(DATA / "weather.json", out)
-    looked_up = sum(1 for e in out.values() if "wind_mph" in e)
-    print(f"weather: {looked_up} outdoor forecasts, "
-          f"{sum(1 for e in out.values() if e.get('covered'))} covered stadiums skipped")
+    fresh = [out[g["game_id"]] for g in upcoming_games if g["game_id"] in out]
+    print(f"weather: {sum(1 for e in fresh if 'wind_mph' in e)} outdoor forecasts, "
+          f"{sum(1 for e in fresh if e.get('covered'))} covered stadiums skipped")
     return out

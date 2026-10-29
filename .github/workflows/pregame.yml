@@ -1,0 +1,73 @@
+name: Pre-kickoff FINAL picks
+
+# Every 15 minutes from 8 AM to midnight Eastern, check whether any game kicks
+# off in the next 80 minutes. If one does: refresh injuries and weather for
+# just those games, rerun the model, and mark their picks FINAL. Most checks
+# find nothing due and stop after a few seconds.
+on:
+  schedule:
+    - cron: "*/15 0-4,12-23 * * *"
+  workflow_dispatch:
+    inputs:
+      games:
+        description: "Game ids to finalize now (leave blank to use the normal 80-minute check)"
+        required: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    outputs:
+      games: ${{ steps.due.outputs.games }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Which games are due?
+        id: due
+        env:
+          FORCE_GAMES: ${{ inputs.games }}
+        run: |
+          if [ -n "$FORCE_GAMES" ]; then
+            echo "games=$FORCE_GAMES" >> "$GITHUB_OUTPUT"; echo "Forced: $FORCE_GAMES"
+          else
+            python3 scripts/due_games.py
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.games != ''
+        with:
+          python-version: "3.12"
+      - if: steps.due.outputs.games != ''
+        run: pip install -r requirements.txt
+      - name: Refresh injuries, weather and missing props
+        if: steps.due.outputs.games != ''
+        run: python scripts/update_data.py --games ${{ steps.due.outputs.games }}
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      - name: Mark picks FINAL
+        if: steps.due.outputs.games != ''
+        run: |
+          python scripts/run_model.py --final ${{ steps.due.outputs.games }}
+          for g in ${{ steps.due.outputs.games }}; do
+            { echo '```'; python scripts/show_picks.py "$g"; echo '```'; } | tee -a "$GITHUB_STEP_SUMMARY"
+          done
+      - name: Save data to the repo
+        if: steps.due.outputs.games != ''
+        run: |
+          git config user.name "prop-exchange-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "FINAL picks: ${{ steps.due.outputs.games }}"
+          git pull --rebase origin main
+          git push
+
+  publish:
+    needs: finalize
+    if: needs.finalize.outputs.games != ''
+    uses: ./.github/workflows/pages.yml

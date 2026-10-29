@@ -1,6 +1,12 @@
 name: Update data
 
+# Daily refresh, Tuesday through Sunday. 15:00 UTC is 10 AM Eastern in winter
+# (11 AM during daylight time), before every 1 PM kickoff. Thursday and Sunday
+# games get their prop lines on this run; Monday games get theirs on the
+# pre-kickoff run instead. GitHub can start scheduled runs a few minutes late.
 on:
+  schedule:
+    - cron: "0 15 * * 0,2-6"
   workflow_dispatch:
 
 permissions:
