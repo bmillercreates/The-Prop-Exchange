@@ -17,6 +17,7 @@ Needs GH_TOKEN (to start the website build and its own next copy).
 """
 
 import json
+import os
 import subprocess
 import sys
 import time
@@ -30,7 +31,8 @@ FINALIZE_BEFORE = timedelta(minutes=80)
 GRADE_AFTER = timedelta(hours=3, minutes=20)
 GRADE_RETRY = timedelta(minutes=20)
 RUN_BUDGET = timedelta(minutes=335)      # GitHub's limit is 6 hours
-RESTART_HORIZON = timedelta(hours=26)    # keep going if anything is due this soon
+# keep going if anything is due this soon (HORIZON_HOURS overrides it, for testing)
+RESTART_HORIZON = timedelta(hours=float(os.environ.get("HORIZON_HOURS") or 30))
 
 
 def now():

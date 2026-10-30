@@ -6,6 +6,10 @@ name: Game-day runner
 # restarts itself before GitHub's 6-hour limit while games are still coming.
 on:
   workflow_dispatch:
+    inputs:
+      horizon_hours:
+        description: "Testing only: how far ahead to look before stopping (default 30)"
+        required: false
 
 permissions:
   contents: write
@@ -35,3 +39,4 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          HORIZON_HOURS: ${{ inputs.horizon_hours }}
