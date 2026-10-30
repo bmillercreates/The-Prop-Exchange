@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_PHI_WAS",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:39-04:00",
+ "updated_at": "2026-10-30T15:52-04:00",
  "kickoff": "2026-11-01T20:20",
  "weekday": "Sunday",
  "away": "PHI",
@@ -14,9 +14,9 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-01T20:20:00-05:00",
   "covered": false,
-  "temp_f": 54,
-  "wind_mph": 5,
-  "gust_mph": 5,
+  "temp_f": 53,
+  "wind_mph": 4,
+  "gust_mph": 4,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -25,7 +25,7 @@
    "implied_pts": 17.2,
    "margin": -6.0,
    "plays": 59.9,
-   "pass_att": 37.4,
+   "pass_att": 37.5,
    "notes": []
   },
   "WAS": {
@@ -43,34 +43,12 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Dontayvion Wicks",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.0,
-   "receptions": 3.2,
-   "rec_yds": 44.1,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.1,
-   "receptions": 1.3,
-   "rec_yds": 18.5,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Tanner McKee",
    "team": "PHI",
    "position": "QB",
    "rush_yds": 7.9,
-   "pass_yds": 256.7,
-   "pass_att": 37.4,
+   "pass_yds": 256.5,
+   "pass_att": 37.5,
    "carries": 1.6,
    "tds": 0.0
   },
@@ -81,9 +59,20 @@
    "rush_yds": 0.0,
    "targets": 5.1,
    "receptions": 3.8,
-   "rec_yds": 44.2,
+   "rec_yds": 44.3,
    "carries": 0.0,
    "tds": 0.3
+  },
+  {
+   "player": "Zach Ertz",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 18.0,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Marquise Brown",
@@ -97,17 +86,6 @@
    "tds": 0.0
   },
   {
-   "player": "DeVonta Smith",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 9.0,
-   "receptions": 5.9,
-   "rec_yds": 72.9,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
    "player": "Makai Lemon",
    "team": "PHI",
    "position": "WR",
@@ -119,15 +97,15 @@
    "tds": 0.1
   },
   {
-   "player": "Zach Ertz",
+   "player": "Darius Cooper",
    "team": "PHI",
-   "position": "TE",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 17.9,
+   "targets": 2.1,
+   "receptions": 1.3,
+   "rec_yds": 18.5,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.2
   },
   {
    "player": "Elijah Mitchell",
@@ -136,9 +114,20 @@
    "rush_yds": 9.2,
    "targets": 2.1,
    "receptions": 1.7,
-   "rec_yds": 12.5,
+   "rec_yds": 12.4,
    "carries": 2.5,
    "tds": 0.0
+  },
+  {
+   "player": "Dontayvion Wicks",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.0,
+   "receptions": 3.2,
+   "rec_yds": 44.1,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Saquon Barkley",
@@ -148,18 +137,19 @@
    "targets": 2.0,
    "receptions": 1.5,
    "rec_yds": 9.8,
-   "carries": 13.0,
+   "carries": 13.1,
    "tds": 0.5
   },
   {
-   "player": "Jayden Daniels",
-   "team": "WAS",
-   "position": "QB",
-   "rush_yds": 28.0,
-   "pass_yds": 239.7,
-   "pass_att": 33.4,
-   "carries": 5.3,
-   "tds": 0.2
+   "player": "DeVonta Smith",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.0,
+   "receptions": 5.9,
+   "rec_yds": 72.9,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Stefon Diggs",
@@ -168,31 +158,9 @@
    "rush_yds": 0.0,
    "targets": 7.2,
    "receptions": 4.7,
-   "rec_yds": 57.1,
+   "rec_yds": 57.0,
    "carries": 0.0,
    "tds": 0.4
-  },
-  {
-   "player": "Dyami Brown",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.0,
-   "receptions": 1.3,
-   "rec_yds": 17.4,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Chig Okonkwo",
-   "team": "WAS",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 4.2,
-   "rec_yds": 39.8,
-   "carries": 0.0,
-   "tds": 0.0
   },
   {
    "player": "Treylon Burks",
@@ -206,15 +174,37 @@
    "tds": 0.3
   },
   {
-   "player": "Antonio Williams",
+   "player": "Chig Okonkwo",
+   "team": "WAS",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.2,
+   "receptions": 4.2,
+   "rec_yds": 39.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Dyami Brown",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 42.5,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 17.4,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 39.2,
+   "targets": 4.0,
+   "receptions": 3.1,
+   "rec_yds": 18.3,
+   "carries": 8.0,
+   "tds": 0.4
   },
   {
    "player": "Jeremy McNichols",
@@ -228,15 +218,25 @@
    "tds": 0.5
   },
   {
-   "player": "Rachaad White",
+   "player": "Antonio Williams",
    "team": "WAS",
-   "position": "RB",
-   "rush_yds": 39.2,
-   "targets": 4.0,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
    "receptions": 3.1,
-   "rec_yds": 18.3,
-   "carries": 8.0,
-   "tds": 0.4
+   "rec_yds": 42.5,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 28.2,
+   "pass_yds": 239.6,
+   "pass_att": 33.4,
+   "carries": 5.3,
+   "tds": 0.2
   }
  ]
 }

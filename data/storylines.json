@@ -1,24 +1,4 @@
 {
- "2026_08_CAR_GB": [
-  {
-   "type": "Milestone",
-   "player": "Jordan Love",
-   "team": "GB",
-   "text": "Jordan Love needs 42 more passing yards to reach 2,000 for the season (has 1,958)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Chuba Hubbard",
-   "team": "CAR",
-   "text": "Chuba Hubbard needs 41 more rushing yards to reach 500 for the season (has 459)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Bryce Young",
-   "team": "CAR",
-   "text": "Bryce Young needs 288 more passing yards to reach 2,000 for the season (has 1,712)."
-  }
- ],
  "2026_08_BAL_BUF": [
   {
    "type": "Milestone",
@@ -33,12 +13,6 @@
    "player": "Tony Pollard",
    "team": "TEN",
    "text": "Tony Pollard needs 22 more rushing yards to reach 500 for the season (has 478)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Carnell Tate",
-   "team": "TEN",
-   "text": "Carnell Tate needs 87 more receiving yards to reach 500 for the season (has 413)."
   },
   {
    "type": "Milestone",

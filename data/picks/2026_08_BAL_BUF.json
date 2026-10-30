@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_BAL_BUF",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:39-04:00",
+ "updated_at": "2026-10-30T15:52-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "BAL",
@@ -15,8 +15,8 @@
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
   "temp_f": 63,
-  "wind_mph": 6,
-  "gust_mph": 9,
+  "wind_mph": 5,
+  "gust_mph": 8,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -43,15 +43,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Zay Flowers",
+   "player": "Josh Cuevas",
    "team": "BAL",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 11.0,
-   "receptions": 8.2,
-   "rec_yds": 123.7,
-   "carries": 0.5,
-   "tds": 0.5
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.4,
+   "rec_yds": 29.9,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Devontez Walker",
@@ -93,16 +93,38 @@
    "rush_yds": 0.0,
    "targets": 5.3,
    "receptions": 4.0,
-   "rec_yds": 39.5,
+   "rec_yds": 39.6,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Zay Flowers",
+   "team": "BAL",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 11.0,
+   "receptions": 8.2,
+   "rec_yds": 123.7,
+   "carries": 0.5,
+   "tds": 0.5
+  },
+  {
+   "player": "Derrick Henry",
+   "team": "BAL",
+   "position": "RB",
+   "rush_yds": 71.2,
+   "targets": 1.8,
+   "receptions": 1.6,
+   "rec_yds": 12.3,
+   "carries": 19.0,
+   "tds": 1.1
   },
   {
    "player": "Tyler Huntley",
    "team": "BAL",
    "position": "QB",
-   "rush_yds": 16.5,
-   "pass_yds": 292.7,
+   "rush_yds": 16.6,
+   "pass_yds": 292.6,
    "pass_att": 36.2,
    "carries": 4.0,
    "tds": 0.1
@@ -119,28 +141,6 @@
    "tds": 0.3
   },
   {
-   "player": "Derrick Henry",
-   "team": "BAL",
-   "position": "RB",
-   "rush_yds": 71.1,
-   "targets": 1.8,
-   "receptions": 1.6,
-   "rec_yds": 12.3,
-   "carries": 19.0,
-   "tds": 1.1
-  },
-  {
-   "player": "Josh Cuevas",
-   "team": "BAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.4,
-   "rec_yds": 29.8,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
    "player": "Skyler Bell",
    "team": "BUF",
    "position": "WR",
@@ -152,15 +152,36 @@
    "tds": 0.1
   },
   {
-   "player": "Keon Coleman",
+   "player": "James Cook",
    "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 3.0,
-   "rec_yds": 46.7,
-   "carries": 0.0,
+   "position": "RB",
+   "rush_yds": 92.2,
+   "targets": 2.0,
+   "receptions": 1.5,
+   "rec_yds": 9.7,
+   "carries": 19.9,
+   "tds": 1.0
+  },
+  {
+   "player": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "rush_yds": 38.0,
+   "pass_yds": 251.4,
+   "pass_att": 30.5,
+   "carries": 7.6,
    "tds": 0.3
+  },
+  {
+   "player": "Dalton Kincaid",
+   "team": "BUF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.2,
+   "receptions": 2.9,
+   "rec_yds": 31.6,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Josh Palmer",
@@ -185,15 +206,15 @@
    "tds": 0.2
   },
   {
-   "player": "Dalton Kincaid",
+   "player": "Keon Coleman",
    "team": "BUF",
-   "position": "TE",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.2,
-   "receptions": 2.9,
-   "rec_yds": 31.6,
+   "targets": 4.1,
+   "receptions": 3.0,
+   "rec_yds": 46.7,
    "carries": 0.0,
-   "tds": 0.2
+   "tds": 0.3
   },
   {
    "player": "Ty Johnson",
@@ -211,31 +232,10 @@
    "team": "BUF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.2,
+   "targets": 5.3,
    "receptions": 3.6,
-   "rec_yds": 52.5,
+   "rec_yds": 52.4,
    "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "James Cook",
-   "team": "BUF",
-   "position": "RB",
-   "rush_yds": 92.1,
-   "targets": 2.0,
-   "receptions": 1.5,
-   "rec_yds": 9.8,
-   "carries": 19.9,
-   "tds": 1.0
-  },
-  {
-   "player": "Josh Allen",
-   "team": "BUF",
-   "position": "QB",
-   "rush_yds": 37.8,
-   "pass_yds": 251.4,
-   "pass_att": 30.5,
-   "carries": 7.6,
    "tds": 0.3
   }
  ]

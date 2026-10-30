@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_CLE_PIT",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:39-04:00",
+ "updated_at": "2026-10-30T15:52-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "CLE",
@@ -14,11 +14,11 @@
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 66,
-  "wind_mph": 4,
-  "gust_mph": 8,
+  "temp_f": 65,
+  "wind_mph": 6,
+  "gust_mph": 11,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "teams": {
   "CLE": {
@@ -41,6 +41,17 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Jerry Jeudy",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.8,
+   "rec_yds": 32.0,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Audric Estim\u00e9",
    "team": "CLE",
    "position": "RB",
@@ -52,15 +63,47 @@
    "tds": 0.5
   },
   {
-   "player": "Jerry Jeudy",
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "position": "QB",
+   "rush_yds": 16.2,
+   "pass_yds": 237.8,
+   "pass_att": 34.2,
+   "carries": 3.9,
+   "tds": 0.1
+  },
+  {
+   "player": "KC Concepcion",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 4.6,
+   "targets": 7.0,
+   "receptions": 4.7,
+   "rec_yds": 52.0,
+   "carries": 1.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Dylan Sampson",
+   "team": "CLE",
+   "position": "RB",
+   "rush_yds": 7.7,
+   "targets": 1.4,
+   "receptions": 1.2,
+   "rec_yds": 10.3,
+   "carries": 1.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Denzel Boston",
    "team": "CLE",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.8,
-   "rec_yds": 32.0,
+   "targets": 6.5,
+   "receptions": 3.6,
+   "rec_yds": 55.3,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.2
   },
   {
    "player": "Quinshon Judkins",
@@ -85,17 +128,6 @@
    "tds": 0.0
   },
   {
-   "player": "Dylan Sampson",
-   "team": "CLE",
-   "position": "RB",
-   "rush_yds": 7.7,
-   "targets": 1.4,
-   "receptions": 1.2,
-   "rec_yds": 10.3,
-   "carries": 1.9,
-   "tds": 0.0
-  },
-  {
    "player": "Harold Fannin Jr.",
    "team": "CLE",
    "position": "TE",
@@ -107,47 +139,36 @@
    "tds": 0.1
   },
   {
-   "player": "KC Concepcion",
-   "team": "CLE",
-   "position": "WR",
-   "rush_yds": 4.5,
-   "targets": 7.0,
-   "receptions": 4.7,
-   "rec_yds": 52.1,
-   "carries": 1.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Denzel Boston",
-   "team": "CLE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.5,
-   "receptions": 3.6,
-   "rec_yds": 55.4,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Deshaun Watson",
-   "team": "CLE",
-   "position": "QB",
-   "rush_yds": 16.1,
-   "pass_yds": 237.8,
-   "pass_att": 34.2,
-   "carries": 3.9,
-   "tds": 0.1
-  },
-  {
    "player": "Germie Bernard",
    "team": "PIT",
    "position": "WR",
    "rush_yds": 0.5,
    "targets": 6.9,
    "receptions": 4.6,
-   "rec_yds": 51.3,
+   "rec_yds": 51.2,
    "carries": 0.1,
    "tds": 0.5
+  },
+  {
+   "player": "Aaron Rodgers",
+   "team": "PIT",
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 214.6,
+   "pass_att": 33.6,
+   "carries": 1.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Pat Freiermuth",
+   "team": "PIT",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 4.7,
+   "receptions": 3.4,
+   "rec_yds": 29.2,
+   "carries": 0.3,
+   "tds": 0.2
   },
   {
    "player": "Rico Dowdle",
@@ -164,7 +185,7 @@
    "player": "Jaylen Warren",
    "team": "PIT",
    "position": "RB",
-   "rush_yds": 73.2,
+   "rush_yds": 73.3,
    "targets": 4.8,
    "receptions": 3.4,
    "rec_yds": 27.7,
@@ -192,27 +213,6 @@
    "rec_yds": 60.7,
    "carries": 0.1,
    "tds": 0.2
-  },
-  {
-   "player": "Pat Freiermuth",
-   "team": "PIT",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 4.7,
-   "receptions": 3.3,
-   "rec_yds": 29.1,
-   "carries": 0.3,
-   "tds": 0.2
-  },
-  {
-   "player": "Aaron Rodgers",
-   "team": "PIT",
-   "position": "QB",
-   "rush_yds": 4.5,
-   "pass_yds": 214.6,
-   "pass_att": 33.6,
-   "carries": 1.5,
-   "tds": 0.0
   }
  ]
 }

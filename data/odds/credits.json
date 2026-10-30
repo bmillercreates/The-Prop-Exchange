@@ -1,5 +1,5 @@
 {
- "remaining": 492,
+ "remaining": 490,
  "log": [
   {
    "at": "2026-10-29T14:01-04:00",
@@ -12,6 +12,12 @@
    "call": "odds",
    "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
    "cost": 5
+  },
+  {
+   "at": "2026-10-30T15:52-04:00",
+   "call": "odds",
+   "markets": "spreads,totals",
+   "cost": 2
   }
  ]
 }

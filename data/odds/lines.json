@@ -1,83 +1,37 @@
 {
- "_pulled_on": "2026-10-29",
- "2026_08_CAR_GB": {
-  "draftkings": {
-   "spreads": {
-    "Carolina Panthers": {
-     "point": 3.5,
-     "price": -108
-    },
-    "Green Bay Packers": {
-     "point": -3.5,
-     "price": -112
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 46.5,
-     "price": -120
-    },
-    "Under": {
-     "point": 46.5,
-     "price": 100
-    }
-   }
-  },
-  "fanduel": {
-   "spreads": {
-    "Carolina Panthers": {
-     "point": 3.5,
-     "price": -108
-    },
-    "Green Bay Packers": {
-     "point": -3.5,
-     "price": -112
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 46.5,
-     "price": -122
-    },
-    "Under": {
-     "point": 46.5,
-     "price": 100
-    }
-   }
-  }
- },
+ "_pulled_on": "2026-10-30",
  "2026_08_ARI_DAL": {
   "draftkings": {
    "spreads": {
     "Arizona Cardinals": {
      "point": 7.0,
-     "price": -108
+     "price": -112
     },
     "Dallas Cowboys": {
      "point": -7.0,
-     "price": -112
+     "price": -108
     }
    },
    "totals": {
     "Over": {
      "point": 54.5,
-     "price": -108
+     "price": -112
     },
     "Under": {
      "point": 54.5,
-     "price": -112
+     "price": -108
     }
    }
   },
   "fanduel": {
    "spreads": {
     "Arizona Cardinals": {
-     "point": 6.5,
-     "price": 100
+     "point": 7.0,
+     "price": -110
     },
     "Dallas Cowboys": {
-     "point": -6.5,
-     "price": -122
+     "point": -7.0,
+     "price": -110
     }
    },
    "totals": {
@@ -106,12 +60,12 @@
    },
    "totals": {
     "Over": {
-     "point": 44.5,
-     "price": -115
+     "point": 43.5,
+     "price": -108
     },
     "Under": {
-     "point": 44.5,
-     "price": -105
+     "point": 43.5,
+     "price": -112
     }
    }
   },
@@ -119,21 +73,21 @@
    "spreads": {
     "Atlanta Falcons": {
      "point": 2.5,
-     "price": -114
+     "price": -115
     },
     "Tampa Bay Buccaneers": {
      "point": -2.5,
-     "price": -106
+     "price": -105
     }
    },
    "totals": {
     "Over": {
-     "point": 44.5,
-     "price": -110
+     "point": 43.5,
+     "price": -115
     },
     "Under": {
-     "point": 44.5,
-     "price": -110
+     "point": 43.5,
+     "price": -105
     }
    }
   }
@@ -143,11 +97,11 @@
    "spreads": {
     "Baltimore Ravens": {
      "point": 3.0,
-     "price": -108
+     "price": -105
     },
     "Buffalo Bills": {
      "point": -3.0,
-     "price": -112
+     "price": -115
     }
    },
    "totals": {
@@ -165,21 +119,21 @@
    "spreads": {
     "Baltimore Ravens": {
      "point": 3.0,
-     "price": -108
+     "price": -104
     },
     "Buffalo Bills": {
      "point": -3.0,
-     "price": -112
+     "price": -118
     }
    },
    "totals": {
     "Over": {
      "point": 54.5,
-     "price": -106
+     "price": -105
     },
     "Under": {
      "point": 54.5,
-     "price": -114
+     "price": -115
     }
    }
   }
@@ -188,11 +142,11 @@
   "draftkings": {
    "spreads": {
     "Cincinnati Bengals": {
-     "point": -11.5,
+     "point": -12.5,
      "price": -108
     },
     "Tennessee Titans": {
-     "point": 11.5,
+     "point": 12.5,
      "price": -112
     }
    },
@@ -210,22 +164,22 @@
   "fanduel": {
    "spreads": {
     "Cincinnati Bengals": {
-     "point": -11.5,
+     "point": -12.5,
      "price": -110
     },
     "Tennessee Titans": {
-     "point": 11.5,
+     "point": 12.5,
      "price": -110
     }
    },
    "totals": {
     "Over": {
      "point": 46.5,
-     "price": -120
+     "price": -115
     },
     "Under": {
      "point": 46.5,
-     "price": -102
+     "price": -105
     }
    }
   }
@@ -257,11 +211,11 @@
    "spreads": {
     "Cleveland Browns": {
      "point": 3.5,
-     "price": -115
+     "price": -105
     },
     "Pittsburgh Steelers": {
      "point": -3.5,
-     "price": -105
+     "price": -115
     }
    },
    "totals": {
@@ -303,21 +257,21 @@
    "spreads": {
     "Detroit Lions": {
      "point": -3.5,
-     "price": -104
+     "price": 100
     },
     "Minnesota Vikings": {
      "point": 3.5,
-     "price": -118
+     "price": -122
     }
    },
    "totals": {
     "Over": {
      "point": 46.5,
-     "price": -104
+     "price": -102
     },
     "Under": {
      "point": 46.5,
-     "price": -118
+     "price": -120
     }
    }
   }
@@ -327,11 +281,11 @@
    "spreads": {
     "Indianapolis Colts": {
      "point": 10.0,
-     "price": -112
+     "price": -115
     },
     "Jacksonville Jaguars": {
      "point": -10.0,
-     "price": -108
+     "price": -105
     }
    },
    "totals": {
@@ -348,22 +302,22 @@
   "fanduel": {
    "spreads": {
     "Indianapolis Colts": {
-     "point": 9.5,
-     "price": -105
+     "point": 10.5,
+     "price": -120
     },
     "Jacksonville Jaguars": {
-     "point": -9.5,
-     "price": -115
+     "point": -10.5,
+     "price": -102
     }
    },
    "totals": {
     "Over": {
      "point": 46.5,
-     "price": -106
+     "price": -105
     },
     "Under": {
      "point": 46.5,
-     "price": -114
+     "price": -115
     }
    }
   }
@@ -383,11 +337,11 @@
    "totals": {
     "Over": {
      "point": 45.5,
-     "price": -105
+     "price": -110
     },
     "Under": {
      "point": 45.5,
-     "price": -115
+     "price": -110
     }
    }
   },
@@ -395,21 +349,21 @@
    "spreads": {
     "Las Vegas Raiders": {
      "point": 1.5,
-     "price": -110
+     "price": -115
     },
     "New York Jets": {
      "point": -1.5,
-     "price": -110
+     "price": -105
     }
    },
    "totals": {
     "Over": {
      "point": 45.5,
-     "price": -112
+     "price": -115
     },
     "Under": {
      "point": 45.5,
-     "price": -108
+     "price": -105
     }
    }
   }
@@ -475,11 +429,11 @@
    "totals": {
     "Over": {
      "point": 43.5,
-     "price": -110
+     "price": -108
     },
     "Under": {
      "point": 43.5,
-     "price": -110
+     "price": -112
     }
    }
   },
@@ -487,21 +441,21 @@
    "spreads": {
     "Miami Dolphins": {
      "point": 7.0,
-     "price": -115
+     "price": -120
     },
     "New England Patriots": {
      "point": -7.0,
-     "price": -105
+     "price": -102
     }
    },
    "totals": {
     "Over": {
      "point": 43.5,
-     "price": -115
+     "price": -105
     },
     "Under": {
      "point": 43.5,
-     "price": -105
+     "price": -115
     }
    }
   }
@@ -533,11 +487,11 @@
    "spreads": {
     "Philadelphia Eagles": {
      "point": 5.5,
-     "price": 104
+     "price": 100
     },
     "Washington Commanders": {
      "point": -5.5,
-     "price": -128
+     "price": -122
     }
    },
    "totals": {
@@ -579,11 +533,11 @@
    "spreads": {
     "Chicago Bears": {
      "point": 3.0,
-     "price": -106
+     "price": -105
     },
     "Seattle Seahawks": {
      "point": -3.0,
-     "price": -114
+     "price": -115
     }
    },
    "totals": {
@@ -690,52 +644,6 @@
    }
   }
  },
- "2026_09_DEN_CAR": {
-  "draftkings": {
-   "spreads": {
-    "Carolina Panthers": {
-     "point": 2.5,
-     "price": -110
-    },
-    "Denver Broncos": {
-     "point": -2.5,
-     "price": -110
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 44.5,
-     "price": -115
-    },
-    "Under": {
-     "point": 44.5,
-     "price": -105
-    }
-   }
-  },
-  "fanduel": {
-   "spreads": {
-    "Carolina Panthers": {
-     "point": 2.5,
-     "price": -110
-    },
-    "Denver Broncos": {
-     "point": -2.5,
-     "price": -110
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 44.5,
-     "price": -115
-    },
-    "Under": {
-     "point": 44.5,
-     "price": -105
-    }
-   }
-  }
- },
  "2026_09_CLE_NO": {
   "draftkings": {
    "spreads": {
@@ -787,11 +695,11 @@
    "spreads": {
     "Dallas Cowboys": {
      "point": -4.5,
-     "price": -105
+     "price": -110
     },
     "Indianapolis Colts": {
      "point": 4.5,
-     "price": -115
+     "price": -110
     }
    },
    "totals": {
@@ -809,11 +717,11 @@
    "spreads": {
     "Dallas Cowboys": {
      "point": -4.5,
-     "price": -105
+     "price": -110
     },
     "Indianapolis Colts": {
      "point": 4.5,
-     "price": -115
+     "price": -110
     }
    },
    "totals": {
@@ -1002,12 +910,12 @@
    },
    "totals": {
     "Over": {
-     "point": 40.5,
-     "price": -110
+     "point": 42.5,
+     "price": -105
     },
     "Under": {
-     "point": 40.5,
-     "price": -110
+     "point": 42.5,
+     "price": -115
     }
    }
   }
@@ -1016,11 +924,11 @@
   "draftkings": {
    "spreads": {
     "Las Vegas Raiders": {
-     "point": 9.5,
+     "point": 10.0,
      "price": -110
     },
     "San Francisco 49ers": {
-     "point": -9.5,
+     "point": -10.0,
      "price": -110
     }
    },
@@ -1038,12 +946,12 @@
   "fanduel": {
    "spreads": {
     "Las Vegas Raiders": {
-     "point": 9.5,
-     "price": -110
+     "point": 10.5,
+     "price": -115
     },
     "San Francisco 49ers": {
-     "point": -9.5,
-     "price": -110
+     "point": -10.5,
+     "price": -105
     }
    },
    "totals": {
@@ -1100,52 +1008,6 @@
     "Under": {
      "point": 44.5,
      "price": -115
-    }
-   }
-  }
- },
- "2026_09_GB_NE": {
-  "draftkings": {
-   "spreads": {
-    "Green Bay Packers": {
-     "point": 3.0,
-     "price": -105
-    },
-    "New England Patriots": {
-     "point": -3.0,
-     "price": -115
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 47.5,
-     "price": -110
-    },
-    "Under": {
-     "point": 47.5,
-     "price": -110
-    }
-   }
-  },
-  "fanduel": {
-   "spreads": {
-    "Green Bay Packers": {
-     "point": 2.5,
-     "price": -104
-    },
-    "New England Patriots": {
-     "point": -2.5,
-     "price": -118
-    }
-   },
-   "totals": {
-    "Over": {
-     "point": 46.5,
-     "price": -110
-    },
-    "Under": {
-     "point": 46.5,
-     "price": -110
     }
    }
   }

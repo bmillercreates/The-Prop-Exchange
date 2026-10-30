@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_LV_NYJ",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-29T14:39-04:00",
+ "updated_at": "2026-10-30T15:52-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "LV",
@@ -15,8 +15,8 @@
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
   "temp_f": 59,
-  "wind_mph": 5,
-  "gust_mph": 5,
+  "wind_mph": 4,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -43,17 +43,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Tre Tucker",
-   "team": "LV",
-   "position": "WR",
-   "rush_yds": 1.0,
-   "targets": 7.3,
-   "receptions": 4.4,
-   "rec_yds": 61.5,
-   "carries": 0.2,
-   "tds": 0.3
-  },
-  {
    "player": "Kirk Cousins",
    "team": "LV",
    "position": "QB",
@@ -62,6 +51,17 @@
    "pass_att": 39.3,
    "carries": 1.7,
    "tds": 0.0
+  },
+  {
+   "player": "Cody White",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.7,
+   "receptions": 1.5,
+   "rec_yds": 17.9,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Michael Mayer",
@@ -75,13 +75,35 @@
    "tds": 0.0
   },
   {
+   "player": "Ashton Jeanty",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 41.8,
+   "targets": 6.2,
+   "receptions": 4.5,
+   "rec_yds": 31.4,
+   "carries": 11.6,
+   "tds": 0.8
+  },
+  {
+   "player": "Tre Tucker",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 1.0,
+   "targets": 7.3,
+   "receptions": 4.4,
+   "rec_yds": 61.5,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
    "player": "Brock Bowers",
    "team": "LV",
    "position": "TE",
    "rush_yds": 0.0,
    "targets": 9.2,
    "receptions": 6.0,
-   "rec_yds": 68.2,
+   "rec_yds": 68.3,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -108,48 +130,15 @@
    "tds": 0.2
   },
   {
-   "player": "Cody White",
-   "team": "LV",
+   "player": "Garrett Wilson",
+   "team": "NYJ",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.5,
-   "rec_yds": 17.9,
+   "targets": 5.9,
+   "receptions": 3.8,
+   "rec_yds": 50.4,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Ashton Jeanty",
-   "team": "LV",
-   "position": "RB",
-   "rush_yds": 41.8,
-   "targets": 6.2,
-   "receptions": 4.5,
-   "rec_yds": 31.4,
-   "carries": 11.5,
-   "tds": 0.8
-  },
-  {
-   "player": "Isaiah Davis",
-   "team": "NYJ",
-   "position": "RB",
-   "rush_yds": 13.2,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 11.8,
-   "carries": 2.8,
-   "tds": 0.3
-  },
-  {
-   "player": "Omar Cooper Jr.",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.7,
-   "rec_yds": 46.7,
-   "carries": 0.0,
-   "tds": 0.4
   },
   {
    "player": "Kenyon Sadiq",
@@ -163,57 +152,13 @@
    "tds": 0.2
   },
   {
-   "player": "Braelon Allen",
-   "team": "NYJ",
-   "position": "RB",
-   "rush_yds": 88.2,
-   "targets": 3.6,
-   "receptions": 2.7,
-   "rec_yds": 19.6,
-   "carries": 16.5,
-   "tds": 0.6
-  },
-  {
-   "player": "Mason Taylor",
-   "team": "NYJ",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 3.6,
-   "rec_yds": 32.1,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
    "player": "Geno Smith",
    "team": "NYJ",
    "position": "QB",
-   "rush_yds": 8.9,
+   "rush_yds": 9.0,
    "pass_yds": 233.4,
    "pass_att": 30.1,
    "carries": 2.8,
-   "tds": 0.0
-  },
-  {
-   "player": "Garrett Wilson",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.9,
-   "receptions": 3.8,
-   "rec_yds": 50.4,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Tim Patrick",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.2,
-   "receptions": 1.2,
-   "rec_yds": 17.1,
-   "carries": 0.0,
    "tds": 0.0
   },
   {
@@ -226,6 +171,61 @@
    "rec_yds": 24.2,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Isaiah Davis",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 13.2,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 11.8,
+   "carries": 2.8,
+   "tds": 0.3
+  },
+  {
+   "player": "Tim Patrick",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.2,
+   "receptions": 1.2,
+   "rec_yds": 17.0,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.7,
+   "rec_yds": 46.7,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Braelon Allen",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 88.2,
+   "targets": 3.6,
+   "receptions": 2.7,
+   "rec_yds": 19.5,
+   "carries": 16.5,
+   "tds": 0.6
+  },
+  {
+   "player": "Mason Taylor",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 3.6,
+   "rec_yds": 32.2,
+   "carries": 0.0,
+   "tds": 0.4
   }
  ]
 }
