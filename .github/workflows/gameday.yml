@@ -1,0 +1,37 @@
+name: Game-day runner
+
+# Waits for each game and does the timed jobs itself: FINAL picks 80 minutes
+# before kickoff, grading after the final whistle. See scripts/gameday.py.
+# Started by the daily update and by the backup check in pregame.yml; it
+# restarts itself before GitHub's 6-hour limit while games are still coming.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: gameday
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run game-day jobs on time
+        run: |
+          git config user.name "prop-exchange-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/gameday.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}

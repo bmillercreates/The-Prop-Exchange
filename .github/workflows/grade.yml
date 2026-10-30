@@ -1,15 +1,9 @@
 name: Grade picks
 
-# Grades finished games and updates Portfolio Performance.
-#   21:45 UTC Sunday   after the early Sunday games (about 4:45 PM ET)
-#   01:15 UTC Monday   after the late Sunday games (about 8:15 PM ET)
-#   05:30 UTC daily    after Thursday, Sunday night and Monday night games
-# A game that isn't final yet is simply picked up by the next run.
+# Manual grading. Normally the game-day runner (gameday.yml) grades each game
+# about 3 hours 20 minutes after kickoff; use this to regrade or to check one
+# game's box score.
 on:
-  schedule:
-    - cron: "45 21 * * 0"
-    - cron: "15 1 * * 1"
-    - cron: "30 5 * * *"
   workflow_dispatch:
     inputs:
       check:
@@ -22,7 +16,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: data-updates
+  group: gameday
   cancel-in-progress: false
 
 jobs:

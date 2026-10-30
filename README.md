@@ -39,13 +39,15 @@ call if fewer than 25 credits remain.
 
 | Workflow | When | What it does |
 | --- | --- | --- |
-| Update data | 10 AM ET (11 AM during daylight time), Tue–Sun | stats, injuries, weather, lines, then PRELIMINARY picks and a site rebuild |
-| Pre-kickoff FINAL picks | checks every 15 min, 8 AM–midnight ET | for games 65–80 min from kickoff: fresh injuries and weather, then FINAL picks and a site rebuild |
-| Publish website | after either run above | rebuilds the GitHub Pages site |
+| Update data | 10 AM ET (11 AM during daylight time), Tue–Sun | stats, injuries, weather, lines, then PRELIMINARY picks, Storylines and a site rebuild; then starts the game-day runner |
+| Game-day runner | runs continuously around game days | waits on its own until 80 min before each kickoff (fresh injuries and weather, then FINAL picks), and grades each game about 3h20m after kickoff |
+| Game-day runner backup check | whenever GitHub runs it (scheduled twice an hour) | restarts the runner if it isn't running |
+| Publish website | after any of the above | rebuilds the GitHub Pages site |
+| Grade picks | manual only | regrade, or print one game's box score |
 
-Inactives come out 90 minutes before kickoff. GitHub sometimes starts
-scheduled runs late, so any game that isn't FINAL yet is retried every 15
-minutes up to kickoff.
+GitHub often skips or delays frequent scheduled runs, so the timed work isn't
+left to the scheduler: the runner sleeps until each job is due, and before
+GitHub's 6-hour job limit it starts a fresh copy of itself.
 
 ## Checking the setup
 
