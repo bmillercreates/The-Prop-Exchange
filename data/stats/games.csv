@@ -131,7 +131,7 @@ game_id,season,week,game_type,gameday,weekday,gametime,away_team,home_team,away_
 2026_09_LA_WAS,2026,9,REG,2026-11-08,Sunday,13:00,LA,WAS,,,7,7,-5.5,48.5,0,outdoors,WAS00,Northwest Stadium,Home,401873043
 2026_09_HOU_LAC,2026,9,REG,2026-11-08,Sunday,16:05,HOU,LAC,,,14,7,-3.5,42.5,0,dome,LAX01,SoFi Stadium,Home,401873046
 2026_09_LV_SF,2026,9,REG,2026-11-08,Sunday,16:05,LV,SF,,,7,14,10.0,48.5,0,outdoors,SFO01,Levi's Stadium,Home,401873047
-2026_09_GB_NE,2026,9,REG,2026-11-08,Sunday,16:25,GB,NE,,,10,7,2.5,47.5,0,outdoors,BOS00,Gillette Stadium,Home,401873049
+2026_09_GB_NE,2026,9,REG,2026-11-08,Sunday,16:25,GB,NE,,,10,7,3.0,47.5,0,outdoors,BOS00,Gillette Stadium,Home,401873049
 2026_09_ARI_SEA,2026,9,REG,2026-11-08,Sunday,16:25,ARI,SEA,,,7,6,10.5,44.5,1,outdoors,SEA00,Lumen Field,Home,401873048
 2026_09_TB_CHI,2026,9,REG,2026-11-08,Sunday,20:20,TB,CHI,,,7,6,6.0,47.5,0,outdoors,CHI98,Soldier Field,Home,401873050
 2026_09_BUF_MIN,2026,9,REG,2026-11-09,Monday,20:15,BUF,MIN,,,8,8,-2.5,47.5,0,dome,MIN01,U.S. Bank Stadium,Home,401873051

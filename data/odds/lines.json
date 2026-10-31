@@ -1,5 +1,5 @@
 {
- "_pulled_on": "2026-10-30",
+ "_pulled_on": "2026-10-31",
  "2026_08_ARI_DAL": {
   "draftkings": {
    "spreads": {
@@ -27,11 +27,11 @@
    "spreads": {
     "Arizona Cardinals": {
      "point": 7.0,
-     "price": -110
+     "price": -112
     },
     "Dallas Cowboys": {
      "point": -7.0,
-     "price": -110
+     "price": -108
     }
    },
    "totals": {
@@ -51,11 +51,11 @@
    "spreads": {
     "Atlanta Falcons": {
      "point": 2.5,
-     "price": -110
+     "price": -115
     },
     "Tampa Bay Buccaneers": {
      "point": -2.5,
-     "price": -110
+     "price": -105
     }
    },
    "totals": {
@@ -83,11 +83,11 @@
    "totals": {
     "Over": {
      "point": 43.5,
-     "price": -115
+     "price": -110
     },
     "Under": {
      "point": 43.5,
-     "price": -105
+     "price": -110
     }
    }
   }
@@ -97,11 +97,11 @@
    "spreads": {
     "Baltimore Ravens": {
      "point": 3.0,
-     "price": -105
+     "price": -108
     },
     "Buffalo Bills": {
      "point": -3.0,
-     "price": -115
+     "price": -112
     }
    },
    "totals": {
@@ -129,11 +129,11 @@
    "totals": {
     "Over": {
      "point": 54.5,
-     "price": -105
+     "price": -108
     },
     "Under": {
      "point": 54.5,
-     "price": -115
+     "price": -112
     }
    }
   }
@@ -175,11 +175,11 @@
    "totals": {
     "Over": {
      "point": 46.5,
-     "price": -115
+     "price": -110
     },
     "Under": {
      "point": 46.5,
-     "price": -105
+     "price": -110
     }
    }
   }
@@ -199,11 +199,11 @@
    "totals": {
     "Over": {
      "point": 39.5,
-     "price": -105
+     "price": -102
     },
     "Under": {
      "point": 39.5,
-     "price": -115
+     "price": -118
     }
    }
   },
@@ -211,11 +211,11 @@
    "spreads": {
     "Cleveland Browns": {
      "point": 3.5,
-     "price": -105
+     "price": -108
     },
     "Pittsburgh Steelers": {
      "point": -3.5,
-     "price": -115
+     "price": -112
     }
    },
    "totals": {
@@ -405,11 +405,11 @@
    "totals": {
     "Over": {
      "point": 40.5,
-     "price": -115
+     "price": -110
     },
     "Under": {
      "point": 40.5,
-     "price": -105
+     "price": -110
     }
    }
   }
@@ -451,11 +451,11 @@
    "totals": {
     "Over": {
      "point": 43.5,
-     "price": -105
+     "price": -104
     },
     "Under": {
      "point": 43.5,
-     "price": -115
+     "price": -118
     }
    }
   }
@@ -578,12 +578,12 @@
   "fanduel": {
    "spreads": {
     "Baltimore Ravens": {
-     "point": -3.0,
-     "price": -105
+     "point": -2.5,
+     "price": -118
     },
     "Jacksonville Jaguars": {
-     "point": 3.0,
-     "price": -115
+     "point": 2.5,
+     "price": -104
     }
    },
    "totals": {
@@ -640,6 +640,52 @@
     "Under": {
      "point": 49.5,
      "price": -115
+    }
+   }
+  }
+ },
+ "2026_09_DEN_CAR": {
+  "draftkings": {
+   "spreads": {
+    "Carolina Panthers": {
+     "point": 2.5,
+     "price": -110
+    },
+    "Denver Broncos": {
+     "point": -2.5,
+     "price": -110
+    }
+   },
+   "totals": {
+    "Over": {
+     "point": 44.5,
+     "price": -115
+    },
+    "Under": {
+     "point": 44.5,
+     "price": -105
+    }
+   }
+  },
+  "fanduel": {
+   "spreads": {
+    "Carolina Panthers": {
+     "point": 2.5,
+     "price": -108
+    },
+    "Denver Broncos": {
+     "point": -2.5,
+     "price": -112
+    }
+   },
+   "totals": {
+    "Over": {
+     "point": 44.5,
+     "price": -118
+    },
+    "Under": {
+     "point": 44.5,
+     "price": -104
     }
    }
   }
@@ -717,21 +763,21 @@
    "spreads": {
     "Dallas Cowboys": {
      "point": -4.5,
-     "price": -110
+     "price": -112
     },
     "Indianapolis Colts": {
      "point": 4.5,
-     "price": -110
+     "price": -108
     }
    },
    "totals": {
     "Over": {
      "point": 52.5,
-     "price": -110
+     "price": -105
     },
     "Under": {
      "point": 52.5,
-     "price": -110
+     "price": -115
     }
    }
   }
@@ -1008,6 +1054,52 @@
     "Under": {
      "point": 44.5,
      "price": -115
+    }
+   }
+  }
+ },
+ "2026_09_GB_NE": {
+  "draftkings": {
+   "spreads": {
+    "Green Bay Packers": {
+     "point": 3.0,
+     "price": -118
+    },
+    "New England Patriots": {
+     "point": -3.0,
+     "price": -102
+    }
+   },
+   "totals": {
+    "Over": {
+     "point": 47.5,
+     "price": -110
+    },
+    "Under": {
+     "point": 47.5,
+     "price": -110
+    }
+   }
+  },
+  "fanduel": {
+   "spreads": {
+    "Green Bay Packers": {
+     "point": 2.5,
+     "price": -106
+    },
+    "New England Patriots": {
+     "point": -2.5,
+     "price": -114
+    }
+   },
+   "totals": {
+    "Over": {
+     "point": 47.5,
+     "price": -110
+    },
+    "Under": {
+     "point": 47.5,
+     "price": -110
     }
    }
   }

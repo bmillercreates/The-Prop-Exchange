@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_BAL_BUF",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-30T15:52-04:00",
+ "updated_at": "2026-10-31T15:05-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "BAL",
@@ -14,11 +14,11 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 63,
-  "wind_mph": 5,
-  "gust_mph": 8,
+  "temp_f": 66,
+  "wind_mph": 9,
+  "gust_mph": 12,
   "precip_in": 0.0,
-  "precip_chance": 0
+  "precip_chance": 4
  },
  "teams": {
   "BAL": {
@@ -43,15 +43,37 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Josh Cuevas",
+   "player": "Zay Flowers",
+   "team": "BAL",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 11.0,
+   "receptions": 8.2,
+   "rec_yds": 123.7,
+   "carries": 0.5,
+   "tds": 0.5
+  },
+  {
+   "player": "Derrick Henry",
+   "team": "BAL",
+   "position": "RB",
+   "rush_yds": 71.2,
+   "targets": 1.8,
+   "receptions": 1.6,
+   "rec_yds": 12.3,
+   "carries": 19.0,
+   "tds": 1.1
+  },
+  {
+   "player": "Mark Andrews",
    "team": "BAL",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.4,
-   "rec_yds": 29.9,
+   "targets": 5.3,
+   "receptions": 4.0,
+   "rec_yds": 39.6,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.2
   },
   {
    "player": "Devontez Walker",
@@ -63,6 +85,27 @@
    "rec_yds": 19.0,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Tyler Huntley",
+   "team": "BAL",
+   "position": "QB",
+   "rush_yds": 16.6,
+   "pass_yds": 292.6,
+   "pass_att": 36.2,
+   "carries": 4.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Josh Cuevas",
+   "team": "BAL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.4,
+   "rec_yds": 29.9,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Rashod Bateman",
@@ -87,49 +130,6 @@
    "tds": 0.1
   },
   {
-   "player": "Mark Andrews",
-   "team": "BAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 4.0,
-   "rec_yds": 39.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Zay Flowers",
-   "team": "BAL",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 11.0,
-   "receptions": 8.2,
-   "rec_yds": 123.7,
-   "carries": 0.5,
-   "tds": 0.5
-  },
-  {
-   "player": "Derrick Henry",
-   "team": "BAL",
-   "position": "RB",
-   "rush_yds": 71.2,
-   "targets": 1.8,
-   "receptions": 1.6,
-   "rec_yds": 12.3,
-   "carries": 19.0,
-   "tds": 1.1
-  },
-  {
-   "player": "Tyler Huntley",
-   "team": "BAL",
-   "position": "QB",
-   "rush_yds": 16.6,
-   "pass_yds": 292.6,
-   "pass_att": 36.2,
-   "carries": 4.0,
-   "tds": 0.1
-  },
-  {
    "player": "Ja'Kobi Lane",
    "team": "BAL",
    "position": "WR",
@@ -141,15 +141,37 @@
    "tds": 0.3
   },
   {
-   "player": "Skyler Bell",
+   "player": "Josh Palmer",
    "team": "BUF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.4,
-   "receptions": 0.9,
-   "rec_yds": 12.4,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 25.7,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Dalton Kincaid",
+   "team": "BUF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.2,
+   "receptions": 2.9,
+   "rec_yds": 31.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "DJ Moore",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 2.6,
+   "targets": 4.8,
+   "receptions": 3.0,
+   "rec_yds": 46.5,
+   "carries": 0.6,
+   "tds": 0.2
   },
   {
    "player": "James Cook",
@@ -173,39 +195,6 @@
    "tds": 0.3
   },
   {
-   "player": "Dalton Kincaid",
-   "team": "BUF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.2,
-   "receptions": 2.9,
-   "rec_yds": 31.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Josh Palmer",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.5,
-   "rec_yds": 25.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "DJ Moore",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 2.6,
-   "targets": 4.8,
-   "receptions": 3.0,
-   "rec_yds": 46.5,
-   "carries": 0.6,
-   "tds": 0.2
-  },
-  {
    "player": "Keon Coleman",
    "team": "BUF",
    "position": "WR",
@@ -213,6 +202,28 @@
    "targets": 4.1,
    "receptions": 3.0,
    "rec_yds": 46.7,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Skyler Bell",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.4,
+   "receptions": 0.9,
+   "rec_yds": 12.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Khalil Shakir",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.3,
+   "receptions": 3.6,
+   "rec_yds": 52.4,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -226,17 +237,6 @@
    "rec_yds": 19.0,
    "carries": 0.6,
    "tds": 0.1
-  },
-  {
-   "player": "Khalil Shakir",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.6,
-   "rec_yds": 52.4,
-   "carries": 0.0,
-   "tds": 0.3
   }
  ]
 }

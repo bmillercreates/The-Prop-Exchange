@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_TEN_CIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-30T15:52-04:00",
+ "updated_at": "2026-10-31T15:05-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "TEN",
@@ -14,11 +14,11 @@
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 61,
-  "wind_mph": 7,
-  "gust_mph": 23,
-  "precip_in": 0.01,
-  "precip_chance": 19
+  "temp_f": 71,
+  "wind_mph": 5,
+  "gust_mph": 11,
+  "precip_in": 0.0,
+  "precip_chance": 4
  },
  "teams": {
   "TEN": {
@@ -41,57 +41,57 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Chimere Dike",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.3,
+   "receptions": 0.9,
+   "rec_yds": 10.1,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Gunnar Helm",
    "team": "TEN",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 3.3,
-   "rec_yds": 32.3,
+   "targets": 5.1,
+   "receptions": 3.9,
+   "rec_yds": 38.4,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Tyjae Spears",
+   "player": "Tony Pollard",
    "team": "TEN",
    "position": "RB",
-   "rush_yds": 8.3,
-   "targets": 4.7,
-   "receptions": 3.7,
-   "rec_yds": 24.1,
-   "carries": 2.2,
-   "tds": 0.0
+   "rush_yds": 56.4,
+   "targets": 4.3,
+   "receptions": 3.1,
+   "rec_yds": 20.1,
+   "carries": 14.4,
+   "tds": 0.7
   },
   {
    "player": "Elic Ayomanor",
    "team": "TEN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.4,
-   "receptions": 3.0,
-   "rec_yds": 42.4,
+   "targets": 7.0,
+   "receptions": 3.8,
+   "rec_yds": 54.6,
    "carries": 0.0,
    "tds": 0.3
   },
   {
-   "player": "Daniel Bellinger",
-   "team": "TEN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.9,
-   "rec_yds": 18.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Chimere Dike",
+   "player": "Calvin Ridley",
    "team": "TEN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.4,
-   "receptions": 0.9,
-   "rec_yds": 11.0,
+   "targets": 3.7,
+   "receptions": 2.1,
+   "rec_yds": 28.5,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -100,86 +100,32 @@
    "team": "TEN",
    "position": "WR",
    "rush_yds": 0.6,
-   "targets": 9.4,
-   "receptions": 6.0,
-   "rec_yds": 55.1,
+   "targets": 10.4,
+   "receptions": 6.6,
+   "rec_yds": 60.7,
    "carries": 0.1,
-   "tds": 0.2
+   "tds": 0.3
   },
   {
-   "player": "Tony Pollard",
+   "player": "Daniel Bellinger",
    "team": "TEN",
-   "position": "RB",
-   "rush_yds": 48.7,
-   "targets": 3.7,
-   "receptions": 2.7,
-   "rec_yds": 17.5,
-   "carries": 12.4,
-   "tds": 0.6
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 2.1,
+   "rec_yds": 21.4,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Cam Ward",
    "team": "TEN",
    "position": "QB",
-   "rush_yds": 9.7,
+   "rush_yds": 10.2,
    "pass_yds": 235.5,
    "pass_att": 36.4,
-   "carries": 1.9,
+   "carries": 2.0,
    "tds": 0.1
-  },
-  {
-   "player": "Calvin Ridley",
-   "team": "TEN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.3,
-   "receptions": 1.9,
-   "rec_yds": 25.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Mike Gesicki",
-   "team": "CIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.8,
-   "receptions": 2.0,
-   "rec_yds": 18.2,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Joe Burrow",
-   "team": "CIN",
-   "position": "QB",
-   "rush_yds": 14.7,
-   "pass_yds": 246.5,
-   "pass_att": 32.5,
-   "carries": 3.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Ja'Marr Chase",
-   "team": "CIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.1,
-   "receptions": 5.8,
-   "rec_yds": 71.0,
-   "carries": 0.0,
-   "tds": 0.7
-  },
-  {
-   "player": "Chase Brown",
-   "team": "CIN",
-   "position": "RB",
-   "rush_yds": 64.1,
-   "targets": 5.3,
-   "receptions": 4.0,
-   "rec_yds": 26.3,
-   "carries": 15.9,
-   "tds": 0.6
   },
   {
    "player": "Mitchell Tinsley",
@@ -193,6 +139,16 @@
    "tds": 0.3
   },
   {
+   "player": "Joe Burrow",
+   "team": "CIN",
+   "position": "QB",
+   "rush_yds": 14.7,
+   "pass_yds": 246.5,
+   "pass_att": 32.5,
+   "carries": 3.3,
+   "tds": 0.1
+  },
+  {
    "player": "Tee Higgins",
    "team": "CIN",
    "position": "WR",
@@ -204,15 +160,26 @@
    "tds": 0.3
   },
   {
-   "player": "Samaje Perine",
+   "player": "Ja'Marr Chase",
    "team": "CIN",
-   "position": "RB",
-   "rush_yds": 27.2,
-   "targets": 1.5,
-   "receptions": 1.0,
-   "rec_yds": 8.6,
-   "carries": 6.1,
-   "tds": 0.5
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.1,
+   "receptions": 5.8,
+   "rec_yds": 71.0,
+   "carries": 0.0,
+   "tds": 0.7
+  },
+  {
+   "player": "Dohnte Meyers",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.7,
+   "targets": 3.0,
+   "receptions": 2.0,
+   "rec_yds": 25.7,
+   "carries": 0.1,
+   "tds": 0.1
   },
   {
    "player": "Drew Sample",
@@ -226,15 +193,37 @@
    "tds": 0.1
   },
   {
-   "player": "Dohnte Meyers",
+   "player": "Mike Gesicki",
    "team": "CIN",
-   "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 3.0,
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.8,
    "receptions": 2.0,
-   "rec_yds": 25.7,
-   "carries": 0.1,
-   "tds": 0.1
+   "rec_yds": 18.2,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Samaje Perine",
+   "team": "CIN",
+   "position": "RB",
+   "rush_yds": 27.2,
+   "targets": 1.5,
+   "receptions": 1.0,
+   "rec_yds": 8.6,
+   "carries": 6.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Chase Brown",
+   "team": "CIN",
+   "position": "RB",
+   "rush_yds": 64.1,
+   "targets": 5.3,
+   "receptions": 4.0,
+   "rec_yds": 26.3,
+   "carries": 15.9,
+   "tds": 0.6
   }
  ]
 }

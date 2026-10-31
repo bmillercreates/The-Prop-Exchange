@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_IND_JAX",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-30T15:52-04:00",
+ "updated_at": "2026-10-31T15:05-04:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "IND",
@@ -15,10 +15,10 @@
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
   "temp_f": 77,
-  "wind_mph": 14,
-  "gust_mph": 21,
-  "precip_in": 0.04,
-  "precip_chance": 43
+  "wind_mph": 11,
+  "gust_mph": 22,
+  "precip_in": 0.0,
+  "precip_chance": 27
  },
  "teams": {
   "IND": {
@@ -43,15 +43,69 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Josh Downs",
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "rush_yds": 8.0,
+   "pass_yds": 256.8,
+   "pass_att": 37.0,
+   "carries": 2.3,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 49.7,
+   "targets": 3.7,
+   "receptions": 2.8,
+   "rec_yds": 25.3,
+   "carries": 14.9,
+   "tds": 0.8
+  },
+  {
+   "player": "Keenan Allen",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 0.9,
-   "targets": 6.3,
-   "receptions": 3.9,
-   "rec_yds": 54.8,
-   "carries": 0.1,
+   "rush_yds": 0.0,
+   "targets": 6.4,
+   "receptions": 4.4,
+   "rec_yds": 52.6,
+   "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Deion Burks",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 2.3,
+   "targets": 1.3,
+   "receptions": 0.8,
+   "rec_yds": 12.7,
+   "carries": 0.4,
+   "tds": 0.0
+  },
+  {
+   "player": "Ashton Dulin",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.3,
+   "receptions": 0.8,
+   "rec_yds": 11.6,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Laquon Treadwell",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.2,
+   "rec_yds": 32.9,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Seth McGowan",
@@ -87,69 +141,69 @@
    "tds": 0.1
   },
   {
-   "player": "Deion Burks",
+   "player": "Josh Downs",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 2.3,
-   "targets": 1.3,
-   "receptions": 0.8,
-   "rec_yds": 12.7,
-   "carries": 0.4,
-   "tds": 0.0
-  },
-  {
-   "player": "Ashton Dulin",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.3,
-   "receptions": 0.8,
-   "rec_yds": 11.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Daniel Jones",
-   "team": "IND",
-   "position": "QB",
-   "rush_yds": 8.0,
-   "pass_yds": 256.8,
-   "pass_att": 37.0,
-   "carries": 2.3,
+   "rush_yds": 0.9,
+   "targets": 6.3,
+   "receptions": 3.9,
+   "rec_yds": 54.8,
+   "carries": 0.1,
    "tds": 0.1
   },
   {
-   "player": "Jonathan Taylor",
-   "team": "IND",
+   "player": "Josh Cameron",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.1,
+   "rec_yds": 15.5,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Brenton Strange",
+   "team": "JAX",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.2,
+   "receptions": 3.8,
+   "rec_yds": 37.2,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Chris Rodriguez Jr.",
+   "team": "JAX",
    "position": "RB",
-   "rush_yds": 49.7,
-   "targets": 3.7,
-   "receptions": 2.8,
-   "rec_yds": 25.3,
-   "carries": 14.9,
-   "tds": 0.8
+   "rush_yds": 32.0,
+   "targets": 0.3,
+   "receptions": 0.2,
+   "rec_yds": 1.8,
+   "carries": 7.2,
+   "tds": 0.5
   },
   {
-   "player": "Laquon Treadwell",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.2,
-   "rec_yds": 32.9,
-   "carries": 0.0,
+   "player": "Trevor Lawrence",
+   "team": "JAX",
+   "position": "QB",
+   "rush_yds": 16.5,
+   "pass_yds": 205.2,
+   "pass_att": 26.9,
+   "carries": 3.1,
    "tds": 0.0
   },
   {
-   "player": "Keenan Allen",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.4,
-   "receptions": 4.4,
-   "rec_yds": 52.6,
-   "carries": 0.0,
-   "tds": 0.1
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 74.0,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 16.4,
+   "carries": 17.1,
+   "tds": 0.9
   },
   {
    "player": "Jakobi Meyers",
@@ -183,60 +237,6 @@
    "rec_yds": 56.7,
    "carries": 0.2,
    "tds": 0.4
-  },
-  {
-   "player": "Chris Rodriguez Jr.",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 32.0,
-   "targets": 0.3,
-   "receptions": 0.2,
-   "rec_yds": 1.8,
-   "carries": 7.2,
-   "tds": 0.5
-  },
-  {
-   "player": "Josh Cameron",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.1,
-   "rec_yds": 15.5,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Bhayshul Tuten",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 74.0,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 16.4,
-   "carries": 17.1,
-   "tds": 0.9
-  },
-  {
-   "player": "Trevor Lawrence",
-   "team": "JAX",
-   "position": "QB",
-   "rush_yds": 16.5,
-   "pass_yds": 205.2,
-   "pass_att": 26.9,
-   "carries": 3.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Brenton Strange",
-   "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.2,
-   "receptions": 3.8,
-   "rec_yds": 37.2,
-   "carries": 0.0,
-   "tds": 0.2
   }
  ]
 }

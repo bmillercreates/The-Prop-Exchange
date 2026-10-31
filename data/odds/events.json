@@ -105,6 +105,13 @@
   "kickoff_et": "2026-11-08T09:30:00-05:00"
  },
  {
+  "event_id": "014282b888c741b7d70c857c09f40aa7",
+  "game_id": "2026_09_DEN_CAR",
+  "away": "Denver Broncos",
+  "home": "Carolina Panthers",
+  "kickoff_et": "2026-11-08T13:00:00-05:00"
+ },
+ {
   "event_id": "e571bab6736f9338130a78a4f75c3231",
   "game_id": "2026_09_CLE_NO",
   "away": "Cleveland Browns",
@@ -165,6 +172,13 @@
   "game_id": "2026_09_ARI_SEA",
   "away": "Arizona Cardinals",
   "home": "Seattle Seahawks",
+  "kickoff_et": "2026-11-08T16:25:00-05:00"
+ },
+ {
+  "event_id": "2922c573ec3df8466c4a34975e446898",
+  "game_id": "2026_09_GB_NE",
+  "away": "Green Bay Packers",
+  "home": "New England Patriots",
   "kickoff_et": "2026-11-08T16:25:00-05:00"
  },
  {
