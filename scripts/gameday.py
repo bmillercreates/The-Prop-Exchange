@@ -133,6 +133,12 @@ def main():
             return
         left = start + RUN_BUDGET - now()
         if nxt - now() > left:
+            if left > timedelta(minutes=5):
+                # use up this run's time first; otherwise each fresh copy would
+                # see the same far-off job and restart straight away, forever
+                log(f"next job at {nxt:%a %H:%M} ET; waiting out this run's time limit first")
+                time.sleep((left - timedelta(minutes=2)).total_seconds())
+                continue
             log(f"next job at {nxt:%a %H:%M} ET is past this run's time limit, starting a fresh runner")
             sh("gh", "workflow", "run", "gameday.yml", "--ref", "main", check=False)
             return
