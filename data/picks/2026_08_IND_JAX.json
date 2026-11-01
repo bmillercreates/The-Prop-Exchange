@@ -1,14 +1,14 @@
 {
  "game_id": "2026_08_IND_JAX",
- "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T11:40-05:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "IND",
  "home": "JAX",
  "stadium": "EverBank Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T11:40-05:00",
  "weather": {
   "game_id": "2026_08_IND_JAX",
   "stadium": "EverBank Stadium",
@@ -16,9 +16,9 @@
   "covered": false,
   "temp_f": 77,
   "wind_mph": 11,
-  "gust_mph": 22,
+  "gust_mph": 17,
   "precip_in": 0.0,
-  "precip_chance": 27
+  "precip_chance": 25
  },
  "teams": {
   "IND": {
@@ -38,51 +38,93 @@
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Parker Washington",
+   "team": "JAX",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Under",
+   "line": 4.5,
+   "title": "Parker Washington Under 4.5 receptions",
+   "price": 108,
+   "book": "fanduel",
+   "model_prob": 0.5271,
+   "fair_prob": 0.4489,
+   "prob_edge": 0.0782,
+   "edge": 0.0963,
+   "projection": 3.75,
+   "flags": [],
+   "why": [
+    "Model projects 4 catches vs. a line of 4.5 (67% chance to go under on its own).",
+    "Earns 25% of the Jaguars' targets and 37% of their air yards, on 77% of snaps.",
+    "The Colts defense allows 7% fewer receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Bhayshul Tuten Yes anytime TD",
+   "price": -105,
+   "book": "fanduel",
+   "model_prob": 0.5216,
+   "fair_prob": 0.4787,
+   "prob_edge": 0.043,
+   "edge": 0.0185,
+   "projection": 0.92,
+   "flags": [],
+   "why": [
+    "Model gives him a 60% chance to score; the odds imply about 48%.",
+    "Gets 31% of the Jaguars' red-zone touches.",
+    "Also factored in: coming off a bye."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Chris Rodriguez Jr.",
+   "team": "JAX",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Chris Rodriguez Jr. Yes anytime TD",
+   "price": 260,
+   "book": "draftkings",
+   "model_prob": 0.3017,
+   "fair_prob": 0.2596,
+   "prob_edge": 0.0421,
+   "edge": 0.0862,
+   "projection": 0.48,
+   "flags": [],
+   "why": [
+    "Model gives him a 38% chance to score; the odds imply about 26%.",
+    "Gets 17% of the Jaguars' red-zone touches.",
+    "Also factored in: coming off a bye."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
   {
-   "player": "Daniel Jones",
-   "team": "IND",
-   "position": "QB",
-   "rush_yds": 8.0,
-   "pass_yds": 256.8,
-   "pass_att": 37.0,
-   "carries": 2.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Jonathan Taylor",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 49.7,
-   "targets": 3.7,
-   "receptions": 2.8,
-   "rec_yds": 25.3,
-   "carries": 14.9,
-   "tds": 0.8
-  },
-  {
-   "player": "Keenan Allen",
+   "player": "Laquon Treadwell",
    "team": "IND",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.4,
-   "receptions": 4.4,
-   "rec_yds": 52.6,
+   "targets": 3.5,
+   "receptions": 2.2,
+   "rec_yds": 32.9,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Deion Burks",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 2.3,
-   "targets": 1.3,
-   "receptions": 0.8,
-   "rec_yds": 12.7,
-   "carries": 0.4,
    "tds": 0.0
   },
   {
@@ -93,17 +135,6 @@
    "targets": 1.3,
    "receptions": 0.8,
    "rec_yds": 11.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Laquon Treadwell",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.2,
-   "rec_yds": 32.9,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -119,15 +150,47 @@
    "tds": 0.1
   },
   {
-   "player": "Tyler Warren",
+   "player": "Josh Downs",
    "team": "IND",
-   "position": "TE",
-   "rush_yds": 1.1,
-   "targets": 6.5,
-   "receptions": 4.7,
-   "rec_yds": 33.3,
-   "carries": 0.5,
-   "tds": 0.3
+   "position": "WR",
+   "rush_yds": 0.9,
+   "targets": 6.3,
+   "receptions": 3.9,
+   "rec_yds": 54.8,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 49.7,
+   "targets": 3.7,
+   "receptions": 2.8,
+   "rec_yds": 25.3,
+   "carries": 14.9,
+   "tds": 0.8
+  },
+  {
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "rush_yds": 8.0,
+   "pass_yds": 256.8,
+   "pass_att": 37.0,
+   "carries": 2.3,
+   "tds": 0.1
+  },
+  {
+   "player": "Deion Burks",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 2.3,
+   "targets": 1.3,
+   "receptions": 0.8,
+   "rec_yds": 12.7,
+   "carries": 0.4,
+   "tds": 0.0
   },
   {
    "player": "Will Mallory",
@@ -141,36 +204,36 @@
    "tds": 0.1
   },
   {
-   "player": "Josh Downs",
+   "player": "Tyler Warren",
+   "team": "IND",
+   "position": "TE",
+   "rush_yds": 1.1,
+   "targets": 6.5,
+   "receptions": 4.7,
+   "rec_yds": 33.3,
+   "carries": 0.5,
+   "tds": 0.3
+  },
+  {
+   "player": "Keenan Allen",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 0.9,
-   "targets": 6.3,
-   "receptions": 3.9,
-   "rec_yds": 54.8,
-   "carries": 0.1,
+   "rush_yds": 0.0,
+   "targets": 6.4,
+   "receptions": 4.4,
+   "rec_yds": 52.6,
+   "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Josh Cameron",
+   "player": "Jakobi Meyers",
    "team": "JAX",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.1,
-   "rec_yds": 15.5,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Brenton Strange",
-   "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.2,
-   "receptions": 3.8,
-   "rec_yds": 37.2,
-   "carries": 0.0,
+   "rush_yds": 0.7,
+   "targets": 4.3,
+   "receptions": 2.8,
+   "rec_yds": 38.8,
+   "carries": 0.1,
    "tds": 0.2
   },
   {
@@ -185,45 +248,13 @@
    "tds": 0.5
   },
   {
-   "player": "Trevor Lawrence",
+   "player": "Brenton Strange",
    "team": "JAX",
-   "position": "QB",
-   "rush_yds": 16.5,
-   "pass_yds": 205.2,
-   "pass_att": 26.9,
-   "carries": 3.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Bhayshul Tuten",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 74.0,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 16.4,
-   "carries": 17.1,
-   "tds": 0.9
-  },
-  {
-   "player": "Jakobi Meyers",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 4.3,
-   "receptions": 2.8,
-   "rec_yds": 38.8,
-   "carries": 0.1,
-   "tds": 0.2
-  },
-  {
-   "player": "Brian Thomas Jr.",
-   "team": "JAX",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.5,
-   "rec_yds": 19.0,
+   "targets": 5.2,
+   "receptions": 3.8,
+   "rec_yds": 37.2,
    "carries": 0.0,
    "tds": 0.2
   },
@@ -237,6 +268,49 @@
    "rec_yds": 56.7,
    "carries": 0.2,
    "tds": 0.4
+  },
+  {
+   "player": "Trevor Lawrence",
+   "team": "JAX",
+   "position": "QB",
+   "rush_yds": 16.5,
+   "pass_yds": 205.2,
+   "pass_att": 26.9,
+   "carries": 3.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Brian Thomas Jr.",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.7,
+   "receptions": 1.5,
+   "rec_yds": 19.0,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Josh Cameron",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.1,
+   "rec_yds": 15.5,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 74.0,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 16.4,
+   "carries": 17.1,
+   "tds": 0.9
   }
  ]
 }

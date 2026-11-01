@@ -1,24 +1,24 @@
 {
  "game_id": "2026_08_BAL_BUF",
- "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T11:40-05:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "BAL",
  "home": "BUF",
  "stadium": "Highmark Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T11:40-05:00",
  "weather": {
   "game_id": "2026_08_BAL_BUF",
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 66,
+  "temp_f": 70,
   "wind_mph": 9,
-  "gust_mph": 12,
+  "gust_mph": 13,
   "precip_in": 0.0,
-  "precip_chance": 4
+  "precip_chance": 1
  },
  "teams": {
   "BAL": {
@@ -38,43 +38,84 @@
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Zay Flowers",
-   "team": "BAL",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 11.0,
-   "receptions": 8.2,
-   "rec_yds": 123.7,
-   "carries": 0.5,
-   "tds": 0.5
+   "tier": "Blue Chip",
+   "player": "Ty Johnson",
+   "team": "BUF",
+   "position": "RB",
+   "market": "player_rush_yds",
+   "label": "rushing yards",
+   "side": "Under",
+   "line": 3.5,
+   "title": "Ty Johnson Under 3.5 rushing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.6007,
+   "fair_prob": 0.5,
+   "prob_edge": 0.1007,
+   "edge": 0.1323,
+   "projection": 2.41,
+   "flags": [],
+   "why": [
+    "Model projects 2 yards vs. a line of 3.5 (79% chance to go under on its own).",
+    "Handles 2% of the Bills' carries (about 1 expected).",
+    "The Ravens defense allows 10% fewer rushing yards to RBs than average."
+   ]
   },
   {
-   "player": "Derrick Henry",
+   "tier": "Blue Chip",
+   "player": "Justice Hill",
    "team": "BAL",
    "position": "RB",
-   "rush_yds": 71.2,
-   "targets": 1.8,
-   "receptions": 1.6,
-   "rec_yds": 12.3,
-   "carries": 19.0,
-   "tds": 1.1
-  },
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Justice Hill Over 1.5 receptions",
+   "price": -154,
+   "book": "fanduel",
+   "model_prob": 0.6157,
+   "fair_prob": 0.567,
+   "prob_edge": 0.0487,
+   "edge": 0.0155,
+   "projection": 2.81,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 1.5 (71% chance to go over on its own).",
+    "Earns 9% of the Ravens' targets and -1% of their air yards, on 43% of snaps.",
+    "The Bills defense allows 14% more receptions to RBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
   {
-   "player": "Mark Andrews",
+   "tier": "Penny Stock",
+   "player": "Josh Cuevas",
    "team": "BAL",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 4.0,
-   "rec_yds": 39.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Josh Cuevas Over 1.5 receptions",
+   "price": 148,
+   "book": "draftkings",
+   "model_prob": 0.4695,
+   "fair_prob": 0.381,
+   "prob_edge": 0.0886,
+   "edge": 0.1645,
+   "projection": 2.43,
+   "flags": [],
+   "why": [
+    "Model projects 2 catches vs. a line of 1.5 (63% chance to go over on its own).",
+    "Earns 9% of the Ravens' targets and 5% of their air yards, on 28% of snaps.",
+    "The Bills defense allows 11% more receptions to TEs than average."
+   ]
+  }
+ ],
+ "etfs": [],
+ "projections": [
   {
    "player": "Devontez Walker",
    "team": "BAL",
@@ -84,16 +125,6 @@
    "receptions": 1.3,
    "rec_yds": 19.0,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tyler Huntley",
-   "team": "BAL",
-   "position": "QB",
-   "rush_yds": 16.6,
-   "pass_yds": 292.6,
-   "pass_att": 36.2,
-   "carries": 4.0,
    "tds": 0.1
   },
   {
@@ -108,6 +139,16 @@
    "tds": 0.3
   },
   {
+   "player": "Tyler Huntley",
+   "team": "BAL",
+   "position": "QB",
+   "rush_yds": 16.6,
+   "pass_yds": 292.6,
+   "pass_att": 36.2,
+   "carries": 4.0,
+   "tds": 0.1
+  },
+  {
    "player": "Rashod Bateman",
    "team": "BAL",
    "position": "WR",
@@ -117,6 +158,28 @@
    "rec_yds": 35.1,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Ja'Kobi Lane",
+   "team": "BAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 2.9,
+   "rec_yds": 36.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Zay Flowers",
+   "team": "BAL",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 11.0,
+   "receptions": 8.2,
+   "rec_yds": 123.7,
+   "carries": 0.5,
+   "tds": 0.5
   },
   {
    "player": "Justice Hill",
@@ -130,15 +193,26 @@
    "tds": 0.1
   },
   {
-   "player": "Ja'Kobi Lane",
+   "player": "Mark Andrews",
    "team": "BAL",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 2.9,
-   "rec_yds": 36.3,
+   "targets": 5.3,
+   "receptions": 4.0,
+   "rec_yds": 39.6,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.2
+  },
+  {
+   "player": "Derrick Henry",
+   "team": "BAL",
+   "position": "RB",
+   "rush_yds": 71.2,
+   "targets": 1.8,
+   "receptions": 1.6,
+   "rec_yds": 12.3,
+   "carries": 19.0,
+   "tds": 1.1
   },
   {
    "player": "Josh Palmer",
@@ -163,47 +237,15 @@
    "tds": 0.2
   },
   {
-   "player": "DJ Moore",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 2.6,
-   "targets": 4.8,
-   "receptions": 3.0,
-   "rec_yds": 46.5,
-   "carries": 0.6,
-   "tds": 0.2
-  },
-  {
-   "player": "James Cook",
+   "player": "Ty Johnson",
    "team": "BUF",
    "position": "RB",
-   "rush_yds": 92.2,
-   "targets": 2.0,
-   "receptions": 1.5,
-   "rec_yds": 9.7,
-   "carries": 19.9,
-   "tds": 1.0
-  },
-  {
-   "player": "Josh Allen",
-   "team": "BUF",
-   "position": "QB",
-   "rush_yds": 38.0,
-   "pass_yds": 251.4,
-   "pass_att": 30.5,
-   "carries": 7.6,
-   "tds": 0.3
-  },
-  {
-   "player": "Keon Coleman",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 3.0,
-   "rec_yds": 46.7,
-   "carries": 0.0,
-   "tds": 0.3
+   "rush_yds": 2.4,
+   "targets": 3.0,
+   "receptions": 2.5,
+   "rec_yds": 19.0,
+   "carries": 0.6,
+   "tds": 0.1
   },
   {
    "player": "Skyler Bell",
@@ -217,6 +259,49 @@
    "tds": 0.1
   },
   {
+   "player": "James Cook",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 92.2,
+   "targets": 2.0,
+   "receptions": 1.5,
+   "rec_yds": 9.7,
+   "carries": 19.9,
+   "tds": 1.0
+  },
+  {
+   "player": "Keon Coleman",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 3.0,
+   "rec_yds": 46.7,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "DJ Moore",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 2.6,
+   "targets": 4.8,
+   "receptions": 3.0,
+   "rec_yds": 46.5,
+   "carries": 0.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "rush_yds": 38.0,
+   "pass_yds": 251.4,
+   "pass_att": 30.5,
+   "carries": 7.6,
+   "tds": 0.3
+  },
+  {
    "player": "Khalil Shakir",
    "team": "BUF",
    "position": "WR",
@@ -226,17 +311,6 @@
    "rec_yds": 52.4,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Ty Johnson",
-   "team": "BUF",
-   "position": "RB",
-   "rush_yds": 2.4,
-   "targets": 3.0,
-   "receptions": 2.5,
-   "rec_yds": 19.0,
-   "carries": 0.6,
-   "tds": 0.1
   }
  ]
 }

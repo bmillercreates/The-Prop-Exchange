@@ -1,14 +1,14 @@
 {
  "game_id": "2026_08_ARI_DAL",
- "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T11:40-05:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "ARI",
  "home": "DAL",
  "stadium": "AT&T Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T11:40-05:00",
  "weather": {
   "game_id": "2026_08_ARI_DAL",
   "stadium": "AT&T Stadium",
@@ -33,7 +33,55 @@
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Brevyn Spann-Ford",
+   "team": "DAL",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Under",
+   "line": 1.5,
+   "title": "Brevyn Spann-Ford Under 1.5 receptions",
+   "price": 117,
+   "book": "draftkings",
+   "model_prob": 0.4968,
+   "fair_prob": 0.4344,
+   "prob_edge": 0.0624,
+   "edge": 0.0781,
+   "projection": 1.43,
+   "flags": [],
+   "why": [
+    "Model projects 1 catches vs. a line of 1.5 (61% chance to go under on its own).",
+    "Earns 6% of the Cowboys' targets and 2% of their air yards, on 42% of snaps."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Kendrick Bourne",
+   "team": "ARI",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Kendrick Bourne Over 3.5 receptions",
+   "price": -122,
+   "book": "fanduel",
+   "model_prob": 0.5468,
+   "fair_prob": 0.5164,
+   "prob_edge": 0.0303,
+   "edge": -0.0051,
+   "projection": 4.47,
+   "flags": [],
+   "why": [
+    "Model projects 4 catches vs. a line of 3.5 (60% chance to go over on its own).",
+    "Earns 16% of the Cardinals' targets and 11% of their air yards, on 53% of snaps.",
+    "With Jalen Brooks out, there's more work to go around."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
@@ -49,6 +97,28 @@
    "tds": 0.6
   },
   {
+   "player": "Michael Wilson",
+   "team": "ARI",
+   "position": "WR",
+   "rush_yds": 1.3,
+   "targets": 8.9,
+   "receptions": 5.2,
+   "rec_yds": 58.9,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Jeremiyah Love",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 43.2,
+   "targets": 2.3,
+   "receptions": 1.7,
+   "rec_yds": 8.9,
+   "carries": 10.5,
+   "tds": 0.4
+  },
+  {
    "player": "Tyler Allgeier",
    "team": "ARI",
    "position": "RB",
@@ -60,25 +130,15 @@
    "tds": 0.3
   },
   {
-   "player": "Jacoby Brissett",
+   "player": "Bam Knight",
    "team": "ARI",
-   "position": "QB",
-   "rush_yds": 10.9,
-   "pass_yds": 245.2,
-   "pass_att": 41.6,
-   "carries": 2.4,
+   "position": "RB",
+   "rush_yds": 15.0,
+   "targets": 1.2,
+   "receptions": 0.9,
+   "rec_yds": 5.5,
+   "carries": 2.8,
    "tds": 0.1
-  },
-  {
-   "player": "Michael Wilson",
-   "team": "ARI",
-   "position": "WR",
-   "rush_yds": 1.3,
-   "targets": 8.9,
-   "receptions": 5.2,
-   "rec_yds": 58.9,
-   "carries": 0.2,
-   "tds": 0.2
   },
   {
    "player": "Reggie Virgil",
@@ -114,59 +174,14 @@
    "tds": 0.0
   },
   {
-   "player": "Jeremiyah Love",
+   "player": "Jacoby Brissett",
    "team": "ARI",
-   "position": "RB",
-   "rush_yds": 43.2,
-   "targets": 2.3,
-   "receptions": 1.7,
-   "rec_yds": 8.9,
-   "carries": 10.5,
-   "tds": 0.4
-  },
-  {
-   "player": "Bam Knight",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 15.0,
-   "targets": 1.2,
-   "receptions": 0.9,
-   "rec_yds": 5.5,
-   "carries": 2.8,
+   "position": "QB",
+   "rush_yds": 10.9,
+   "pass_yds": 245.2,
+   "pass_att": 41.6,
+   "carries": 2.4,
    "tds": 0.1
-  },
-  {
-   "player": "Jake Ferguson",
-   "team": "DAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 2.1,
-   "rec_yds": 18.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Ryan Flournoy",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.4,
-   "receptions": 3.3,
-   "rec_yds": 43.2,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "George Pickens",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.6,
-   "receptions": 4.5,
-   "rec_yds": 64.0,
-   "carries": 0.0,
-   "tds": 0.3
   },
   {
    "player": "Dak Prescott",
@@ -190,15 +205,37 @@
    "tds": 0.6
   },
   {
-   "player": "Javonte Williams",
+   "player": "Jake Ferguson",
    "team": "DAL",
-   "position": "RB",
-   "rush_yds": 80.4,
-   "targets": 2.3,
-   "receptions": 1.7,
-   "rec_yds": 11.8,
-   "carries": 17.5,
-   "tds": 1.3
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 2.1,
+   "rec_yds": 18.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Brevyn Spann-Ford",
+   "team": "DAL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.0,
+   "receptions": 1.4,
+   "rec_yds": 14.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.6,
+   "receptions": 4.5,
+   "rec_yds": 64.0,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Tyler Goodson",
@@ -212,15 +249,26 @@
    "tds": 0.3
   },
   {
-   "player": "Brevyn Spann-Ford",
+   "player": "Javonte Williams",
    "team": "DAL",
-   "position": "TE",
+   "position": "RB",
+   "rush_yds": 80.4,
+   "targets": 2.3,
+   "receptions": 1.7,
+   "rec_yds": 11.8,
+   "carries": 17.5,
+   "tds": 1.3
+  },
+  {
+   "player": "Ryan Flournoy",
+   "team": "DAL",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.0,
-   "receptions": 1.4,
-   "rec_yds": 14.4,
+   "targets": 5.4,
+   "receptions": 3.3,
+   "rec_yds": 43.2,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.3
   }
  ]
 }

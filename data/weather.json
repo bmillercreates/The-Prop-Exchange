@@ -15,22 +15,22 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 66,
+  "temp_f": 70,
   "wind_mph": 9,
-  "gust_mph": 12,
+  "gust_mph": 13,
   "precip_in": 0.0,
-  "precip_chance": 4
+  "precip_chance": 1
  },
  "2026_08_TEN_CIN": {
   "game_id": "2026_08_TEN_CIN",
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 71,
-  "wind_mph": 5,
-  "gust_mph": 11,
+  "temp_f": 74,
+  "wind_mph": 3,
+  "gust_mph": 6,
   "precip_in": 0.0,
-  "precip_chance": 4
+  "precip_chance": 9
  },
  "2026_08_ARI_DAL": {
   "game_id": "2026_08_ARI_DAL",
@@ -51,9 +51,9 @@
   "covered": false,
   "temp_f": 77,
   "wind_mph": 11,
-  "gust_mph": 22,
+  "gust_mph": 17,
   "precip_in": 0.0,
-  "precip_chance": 27
+  "precip_chance": 25
  },
  "2026_08_LV_NYJ": {
   "game_id": "2026_08_LV_NYJ",
@@ -62,7 +62,7 @@
   "covered": false,
   "temp_f": 61,
   "wind_mph": 5,
-  "gust_mph": 8,
+  "gust_mph": 7,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -71,22 +71,22 @@
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 67,
-  "wind_mph": 4,
-  "gust_mph": 6,
+  "temp_f": 69,
+  "wind_mph": 6,
+  "gust_mph": 13,
   "precip_in": 0.0,
-  "precip_chance": 8
+  "precip_chance": 4
  },
  "2026_08_ATL_TB": {
   "game_id": "2026_08_ATL_TB",
   "stadium": "Raymond James Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 76,
-  "wind_mph": 12,
-  "gust_mph": 28,
-  "precip_in": 2.69,
-  "precip_chance": 60
+  "temp_f": 74,
+  "wind_mph": 11,
+  "gust_mph": 23,
+  "precip_in": 0.06,
+  "precip_chance": 54
  },
  "2026_08_LAC_LA": {
   "game_id": "2026_08_LAC_LA",

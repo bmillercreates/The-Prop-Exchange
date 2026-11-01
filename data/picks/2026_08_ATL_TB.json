@@ -1,24 +1,24 @@
 {
  "game_id": "2026_08_ATL_TB",
- "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T11:40-05:00",
  "kickoff": "2026-11-01T13:00",
  "weekday": "Sunday",
  "away": "ATL",
  "home": "TB",
  "stadium": "Raymond James Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T11:40-05:00",
  "weather": {
   "game_id": "2026_08_ATL_TB",
   "stadium": "Raymond James Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 76,
-  "wind_mph": 12,
-  "gust_mph": 28,
-  "precip_in": 2.69,
-  "precip_chance": 60
+  "temp_f": 74,
+  "wind_mph": 11,
+  "gust_mph": 23,
+  "precip_in": 0.06,
+  "precip_chance": 54
  },
  "teams": {
   "ATL": {
@@ -40,20 +40,80 @@
    ]
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Chris Godwin",
+   "team": "TB",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 4.5,
+   "title": "Chris Godwin Over 4.5 receptions",
+   "price": -106,
+   "book": "fanduel",
+   "model_prob": 0.5925,
+   "fair_prob": 0.4808,
+   "prob_edge": 0.1117,
+   "edge": 0.1515,
+   "projection": 7.35,
+   "flags": [],
+   "why": [
+    "Model projects 7 catches vs. a line of 4.5 (80% chance to go over on its own).",
+    "Earns 33% of the Buccaneers' targets and -5% of their air yards, on 79% of snaps.",
+    "The Falcons defense allows 13% more receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Bucky Irving",
+   "team": "TB",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Bucky Irving Yes anytime TD",
+   "price": 105,
+   "book": "draftkings",
+   "model_prob": 0.5208,
+   "fair_prob": 0.4559,
+   "prob_edge": 0.0649,
+   "edge": 0.0676,
+   "projection": 1.03,
+   "flags": [],
+   "why": [
+    "Model gives him a 64% chance to score; the odds imply about 46%.",
+    "Gets 44% of the Buccaneers' red-zone touches.",
+    "With Emeka Egbuka out, there's more work to go around."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
   {
-   "player": "Jahan Dotson",
+   "player": "Bijan Robinson",
+   "team": "ATL",
+   "position": "RB",
+   "rush_yds": 81.5,
+   "targets": 4.8,
+   "receptions": 4.0,
+   "rec_yds": 31.0,
+   "carries": 19.7,
+   "tds": 0.6
+  },
+  {
+   "player": "Olamide Zaccheaus",
    "team": "ATL",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.9,
-   "receptions": 2.2,
-   "rec_yds": 31.1,
+   "targets": 2.0,
+   "receptions": 1.1,
+   "rec_yds": 11.6,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
    "player": "Zachariah Branch",
@@ -67,15 +127,25 @@
    "tds": 0.1
   },
   {
-   "player": "Bijan Robinson",
+   "player": "Michael Penix Jr.",
    "team": "ATL",
-   "position": "RB",
-   "rush_yds": 81.5,
-   "targets": 4.8,
-   "receptions": 4.0,
-   "rec_yds": 31.0,
-   "carries": 19.7,
-   "tds": 0.6
+   "position": "QB",
+   "rush_yds": 7.7,
+   "pass_yds": 225.0,
+   "pass_att": 30.7,
+   "carries": 2.8,
+   "tds": 0.0
+  },
+  {
+   "player": "Kyle Pitts",
+   "team": "ATL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.3,
+   "receptions": 3.2,
+   "rec_yds": 32.6,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Drake London",
@@ -100,36 +170,15 @@
    "tds": 0.0
   },
   {
-   "player": "Kyle Pitts",
-   "team": "ATL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 3.2,
-   "rec_yds": 32.6,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Olamide Zaccheaus",
+   "player": "Jahan Dotson",
    "team": "ATL",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.0,
-   "receptions": 1.1,
-   "rec_yds": 11.6,
+   "targets": 3.9,
+   "receptions": 2.2,
+   "rec_yds": 31.1,
    "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Michael Penix Jr.",
-   "team": "ATL",
-   "position": "QB",
-   "rush_yds": 7.7,
-   "pass_yds": 225.0,
-   "pass_att": 30.7,
-   "carries": 2.8,
-   "tds": 0.0
+   "tds": 0.1
   },
   {
    "player": "Cade Otton",
@@ -143,15 +192,15 @@
    "tds": 0.1
   },
   {
-   "player": "Chris Godwin Jr.",
+   "player": "Kenny Gainwell",
    "team": "TB",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 9.7,
-   "receptions": 7.4,
-   "rec_yds": 77.9,
-   "carries": 0.2,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 22.4,
+   "targets": 1.9,
+   "receptions": 1.5,
+   "rec_yds": 9.8,
+   "carries": 5.6,
+   "tds": 0.3
   },
   {
    "player": "Sean Tucker",
@@ -165,25 +214,15 @@
    "tds": 0.3
   },
   {
-   "player": "Baker Mayfield",
+   "player": "Chris Godwin Jr.",
    "team": "TB",
-   "position": "QB",
-   "rush_yds": 6.8,
-   "pass_yds": 210.0,
-   "pass_att": 29.4,
-   "carries": 1.8,
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 9.7,
+   "receptions": 7.4,
+   "rec_yds": 77.9,
+   "carries": 0.2,
    "tds": 0.1
-  },
-  {
-   "player": "Kenny Gainwell",
-   "team": "TB",
-   "position": "RB",
-   "rush_yds": 22.4,
-   "targets": 1.9,
-   "receptions": 1.5,
-   "rec_yds": 9.8,
-   "carries": 5.6,
-   "tds": 0.3
   },
   {
    "player": "Tez Johnson",
@@ -206,6 +245,16 @@
    "rec_yds": 22.1,
    "carries": 16.5,
    "tds": 1.0
+  },
+  {
+   "player": "Baker Mayfield",
+   "team": "TB",
+   "position": "QB",
+   "rush_yds": 6.8,
+   "pass_yds": 210.0,
+   "pass_att": 29.4,
+   "carries": 1.8,
+   "tds": 0.1
   },
   {
    "player": "Ted Hurst III",
