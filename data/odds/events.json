@@ -64,14 +64,14 @@
  },
  {
   "event_id": "f2a036d5edf483a277880014861e78ad",
-  "game_id": null,
+  "game_id": "2026_08_KC_DEN",
   "away": "Kansas City Chiefs",
   "home": "Denver Broncos",
   "kickoff_et": "2026-11-01T16:25:00-05:00"
  },
  {
   "event_id": "05405af79752f5e742cdf50b61f6745e",
-  "game_id": null,
+  "game_id": "2026_08_NE_MIA",
   "away": "New England Patriots",
   "home": "Miami Dolphins",
   "kickoff_et": "2026-11-01T16:25:00-05:00"

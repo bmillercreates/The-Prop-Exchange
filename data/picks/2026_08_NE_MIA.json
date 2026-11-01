@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_NE_MIA",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-01T14:21-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T15:05-05:00",
  "kickoff": "2026-11-01T16:25",
  "weekday": "Sunday",
  "away": "NE",
@@ -136,7 +136,7 @@
    "why": [
     "Model gives him a 40% chance to score; the odds imply about 22%.",
     "Gets 19% of the Patriots' red-zone touches.",
-    "With Romeo Doubs, A.J. Brown out, there's more work to go around."
+    "With A.J. Brown, Romeo Doubs out, there's more work to go around."
    ]
   },
   {
@@ -230,16 +230,6 @@
  ],
  "projections": [
   {
-   "player": "Drake Maye",
-   "team": "NE",
-   "position": "QB",
-   "rush_yds": 27.4,
-   "pass_yds": 220.4,
-   "pass_att": 28.8,
-   "carries": 6.9,
-   "tds": 0.2
-  },
-  {
    "player": "Corey Kiner",
    "team": "NE",
    "position": "RB",
@@ -249,6 +239,39 @@
    "rec_yds": 2.6,
    "carries": 6.8,
    "tds": 0.2
+  },
+  {
+   "player": "Kyle Williams",
+   "team": "NE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.4,
+   "rec_yds": 19.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Eli Raridon",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 3.3,
+   "rec_yds": 39.9,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
+   "player": "Hunter Henry",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.9,
+   "receptions": 5.9,
+   "rec_yds": 66.5,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Efton Chism III",
@@ -273,28 +296,6 @@
    "tds": 0.6
   },
   {
-   "player": "Hunter Henry",
-   "team": "NE",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.9,
-   "receptions": 5.9,
-   "rec_yds": 66.5,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Kyle Williams",
-   "team": "NE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.4,
-   "rec_yds": 19.2,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "DeMario Douglas",
    "team": "NE",
    "position": "WR",
@@ -306,15 +307,14 @@
    "tds": 0.2
   },
   {
-   "player": "Eli Raridon",
+   "player": "Drake Maye",
    "team": "NE",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 3.3,
-   "rec_yds": 39.9,
-   "carries": 0.0,
-   "tds": 0.5
+   "position": "QB",
+   "rush_yds": 27.4,
+   "pass_yds": 220.4,
+   "pass_att": 28.8,
+   "carries": 6.9,
+   "tds": 0.2
   },
   {
    "player": "Jaylen Wright",
@@ -326,6 +326,17 @@
    "rec_yds": 3.3,
    "carries": 3.3,
    "tds": 0.2
+  },
+  {
+   "player": "Chris Bell",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 3.9,
+   "receptions": 2.1,
+   "rec_yds": 27.9,
+   "carries": 0.1,
+   "tds": 0.0
   },
   {
    "player": "Greg Dulcich",
@@ -350,15 +361,26 @@
    "tds": 0.1
   },
   {
-   "player": "Caleb Douglas",
+   "player": "Malik Washington",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.0,
-   "receptions": 2.6,
-   "rec_yds": 38.5,
-   "carries": 0.0,
-   "tds": 0.2
+   "rush_yds": 4.4,
+   "targets": 6.4,
+   "receptions": 4.1,
+   "rec_yds": 47.9,
+   "carries": 1.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "rush_yds": 49.4,
+   "targets": 2.3,
+   "receptions": 1.8,
+   "rec_yds": 11.7,
+   "carries": 11.6,
+   "tds": 0.7
   },
   {
    "player": "Malik Willis",
@@ -382,17 +404,6 @@
    "tds": 0.0
   },
   {
-   "player": "Malik Washington",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 4.4,
-   "targets": 6.4,
-   "receptions": 4.1,
-   "rec_yds": 47.9,
-   "carries": 1.1,
-   "tds": 0.1
-  },
-  {
    "player": "Will Kacmarek",
    "team": "MIA",
    "position": "TE",
@@ -404,26 +415,15 @@
    "tds": 0.0
   },
   {
-   "player": "Chris Bell",
+   "player": "Caleb Douglas",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 3.9,
-   "receptions": 2.1,
-   "rec_yds": 27.9,
-   "carries": 0.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Ollie Gordon II",
-   "team": "MIA",
-   "position": "RB",
-   "rush_yds": 49.4,
-   "targets": 2.3,
-   "receptions": 1.8,
-   "rec_yds": 11.7,
-   "carries": 11.6,
-   "tds": 0.7
+   "rush_yds": 0.0,
+   "targets": 4.0,
+   "receptions": 2.6,
+   "rec_yds": 38.5,
+   "carries": 0.0,
+   "tds": 0.2
   }
  ]
 }
