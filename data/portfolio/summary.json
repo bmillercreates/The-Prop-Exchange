@@ -1,32 +1,32 @@
 {
- "updated_at": "2026-11-01T16:20-05:00",
+ "updated_at": "2026-11-01T16:40-05:00",
  "overall": {
-  "wins": 12,
-  "losses": 8,
+  "wins": 13,
+  "losses": 12,
   "pushes": 0,
-  "units": 8.27,
-  "roi": 0.4135,
-  "hit_rate": 0.6,
-  "bets": 20
+  "units": 4.92,
+  "roi": 0.1968,
+  "hit_rate": 0.52,
+  "bets": 25
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 9,
-   "losses": 4,
+   "wins": 10,
+   "losses": 7,
    "pushes": 0,
-   "units": 4.07,
-   "roi": 0.3131,
-   "hit_rate": 0.6923,
-   "bets": 13
+   "units": 1.72,
+   "roi": 0.1012,
+   "hit_rate": 0.5882,
+   "bets": 17
   },
   "Penny Stock": {
    "wins": 3,
-   "losses": 3,
+   "losses": 4,
    "pushes": 0,
-   "units": 5.2,
-   "roi": 0.8667,
-   "hit_rate": 0.5,
-   "bets": 6
+   "units": 4.2,
+   "roi": 0.6,
+   "hit_rate": 0.4286,
+   "bets": 7
   },
   "ETF": {
    "wins": 0,
@@ -45,7 +45,7 @@
   },
   {
    "date": "2026-11-01",
-   "units": 8.27
+   "units": 4.92
   }
  ],
  "recent": [
@@ -143,6 +143,25 @@
    "actual": 1.0,
    "result": "win",
    "units": 2.4
+  },
+  {
+   "game_id": "2026_08_BAL_BUF",
+   "matchup": "BAL @ BUF",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T16:40-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Josh Cuevas Over 1.5 receptions",
+   "player": "Josh Cuevas",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 1.5,
+   "price": 148,
+   "edge": 0.1645,
+   "actual": 1.0,
+   "result": "loss",
+   "units": -1.0
   },
   {
    "game_id": "2026_08_MIN_DET",
@@ -378,6 +397,82 @@
    "actual": 176.0,
    "result": "win",
    "units": 0.885
+  },
+  {
+   "game_id": "2026_08_ARI_DAL",
+   "matchup": "ARI @ DAL",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T16:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Brevyn Spann-Ford Under 1.5 receptions",
+   "player": "Brevyn Spann-Ford",
+   "market": "player_receptions",
+   "side": "Under",
+   "line": 1.5,
+   "price": 117,
+   "edge": 0.0781,
+   "actual": 4.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_08_ARI_DAL",
+   "matchup": "ARI @ DAL",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T16:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Kendrick Bourne Over 3.5 receptions",
+   "player": "Kendrick Bourne",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 3.5,
+   "price": -122,
+   "edge": -0.0051,
+   "actual": 1.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_08_BAL_BUF",
+   "matchup": "BAL @ BUF",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T16:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Ty Johnson Under 3.5 rushing yards",
+   "player": "Ty Johnson",
+   "market": "player_rush_yds",
+   "side": "Under",
+   "line": 3.5,
+   "price": -113,
+   "edge": 0.1323,
+   "actual": 4.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_08_BAL_BUF",
+   "matchup": "BAL @ BUF",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T16:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Justice Hill Over 1.5 receptions",
+   "player": "Justice Hill",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 1.5,
+   "price": -154,
+   "edge": 0.0155,
+   "actual": 4.0,
+   "result": "win",
+   "units": 0.649
   },
   {
    "game_id": "2026_08_CAR_GB",
