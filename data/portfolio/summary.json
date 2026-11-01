@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-11-01T16:40-05:00",
+ "updated_at": "2026-11-01T17:00-05:00",
  "overall": {
-  "wins": 13,
-  "losses": 12,
+  "wins": 17,
+  "losses": 14,
   "pushes": 0,
-  "units": 4.92,
-  "roi": 0.1968,
-  "hit_rate": 0.52,
-  "bets": 25
+  "units": 7.92,
+  "roi": 0.2555,
+  "hit_rate": 0.5484,
+  "bets": 31
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 10,
-   "losses": 7,
+   "wins": 12,
+   "losses": 8,
    "pushes": 0,
-   "units": 1.72,
-   "roi": 0.1012,
-   "hit_rate": 0.5882,
-   "bets": 17
+   "units": 2.5,
+   "roi": 0.125,
+   "hit_rate": 0.6,
+   "bets": 20
   },
   "Penny Stock": {
-   "wins": 3,
-   "losses": 4,
+   "wins": 4,
+   "losses": 5,
    "pushes": 0,
-   "units": 4.2,
-   "roi": 0.6,
-   "hit_rate": 0.4286,
-   "bets": 7
+   "units": 4.64,
+   "roi": 0.5156,
+   "hit_rate": 0.4444,
+   "bets": 9
   },
   "ETF": {
-   "wins": 0,
+   "wins": 1,
    "losses": 1,
    "pushes": 0,
-   "units": -1.0,
-   "roi": -1.0,
-   "hit_rate": 0.0,
-   "bets": 1
+   "units": 0.78,
+   "roi": 0.39,
+   "hit_rate": 0.5,
+   "bets": 2
   }
  },
  "curve": [
@@ -45,7 +45,7 @@
   },
   {
    "date": "2026-11-01",
-   "units": 4.92
+   "units": 7.92
   }
  ],
  "recent": [
@@ -164,6 +164,44 @@
    "units": -1.0
   },
   {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Elic Ayomanor Yes anytime TD",
+   "player": "Elic Ayomanor",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 430,
+   "edge": 0.1236,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Daniel Bellinger Over 1.5 receptions",
+   "player": "Daniel Bellinger",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 1.5,
+   "price": 144,
+   "edge": 0.1028,
+   "actual": 3.0,
+   "result": "win",
+   "units": 1.44
+  },
+  {
    "game_id": "2026_08_MIN_DET",
    "matchup": "MIN @ DET",
    "kickoff": "2026-11-01T13:00",
@@ -188,6 +226,32 @@
    ],
    "result": "loss",
    "units": -1.0
+  },
+  {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "ETF",
+   "title": "Cam Ward Over 191.5 passing yards + Wan'Dale Robinson Over 5.5 receptions",
+   "player": "Cam Ward / Wan'Dale Robinson",
+   "market": "parlay",
+   "side": "Over",
+   "line": null,
+   "price": 178,
+   "edge": 0.0477,
+   "actual": [
+    304.0,
+    6.0
+   ],
+   "leg_results": [
+    "win",
+    "win"
+   ],
+   "result": "win",
+   "units": 1.78
   },
   {
    "game_id": "2026_08_ATL_TB",
@@ -475,6 +539,63 @@
    "units": 0.649
   },
   {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Cam Ward Over 191.5 passing yards",
+   "player": "Cam Ward",
+   "market": "player_pass_yds",
+   "side": "Over",
+   "line": 191.5,
+   "price": -111,
+   "edge": 0.0688,
+   "actual": 304.0,
+   "result": "win",
+   "units": 0.901
+  },
+  {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Gunnar Helm Over 2.5 receptions",
+   "player": "Gunnar Helm",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 2.5,
+   "price": -114,
+   "edge": 0.0643,
+   "actual": 5.0,
+   "result": "win",
+   "units": 0.877
+  },
+  {
+   "game_id": "2026_08_TEN_CIN",
+   "matchup": "TEN @ CIN",
+   "kickoff": "2026-11-01T13:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-01T17:00-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Mike Gesicki Under 24.5 receiving yards",
+   "player": "Mike Gesicki",
+   "market": "player_reception_yds",
+   "side": "Under",
+   "line": 24.5,
+   "price": -116,
+   "edge": 0.0975,
+   "actual": 76.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
    "game_id": "2026_08_CAR_GB",
    "matchup": "CAR @ GB",
    "kickoff": "2026-10-29T20:15",
@@ -511,25 +632,6 @@
    "actual": 53.0,
    "result": "loss",
    "units": -1.0
-  },
-  {
-   "game_id": "2026_08_CAR_GB",
-   "matchup": "CAR @ GB",
-   "kickoff": "2026-10-29T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-10-30T02:02-04:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Tetairoa McMillan Over 5.5 receptions",
-   "player": "Tetairoa McMillan",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 5.5,
-   "price": 112,
-   "edge": 0.053,
-   "actual": 6.0,
-   "result": "win",
-   "units": 1.12
   }
  ]
 }
