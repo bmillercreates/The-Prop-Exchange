@@ -1,81 +1,254 @@
 {
  "game_id": "2026_08_NE_MIA",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "updated_at": "2026-11-01T14:21-05:00",
  "kickoff": "2026-11-01T16:25",
  "weekday": "Sunday",
  "away": "NE",
  "home": "MIA",
  "stadium": "Hard Rock Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T14:21-05:00",
  "weather": {
   "game_id": "2026_08_NE_MIA",
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-01T16:25:00-05:00",
   "covered": false,
-  "temp_f": 73,
-  "wind_mph": 12,
-  "gust_mph": 30,
-  "precip_in": 0.62,
-  "precip_chance": 55
+  "temp_f": 77,
+  "wind_mph": 9,
+  "gust_mph": 22,
+  "precip_in": 0.07,
+  "precip_chance": 65
  },
  "teams": {
   "NE": {
-   "implied_pts": 25.2,
+   "implied_pts": 24.2,
    "margin": 7.0,
-   "plays": 59.4,
-   "pass_att": 29.2,
+   "plays": 58.6,
+   "pass_att": 28.8,
    "notes": [
     "rain/snow expected"
    ]
   },
   "MIA": {
-   "implied_pts": 18.2,
+   "implied_pts": 17.2,
    "margin": -7.0,
-   "plays": 58.0,
-   "pass_att": 30.9,
+   "plays": 57.2,
+   "pass_att": 30.4,
    "notes": [
     "rain/snow expected"
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Eli Raridon",
+   "tier": "Blue Chip",
+   "player": "Corey Kiner",
    "team": "NE",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.2,
-   "receptions": 3.4,
-   "rec_yds": 40.4,
-   "carries": 0.0,
-   "tds": 0.5
+   "position": "RB",
+   "market": "player_reception_yds",
+   "label": "receiving yards",
+   "side": "Over",
+   "line": 0.5,
+   "title": "Corey Kiner Over 0.5 receiving yards",
+   "price": -105,
+   "book": "draftkings",
+   "model_prob": 0.6196,
+   "fair_prob": 0.4852,
+   "prob_edge": 0.1344,
+   "edge": 0.2097,
+   "projection": 2.56,
+   "flags": [],
+   "why": [
+    "Model projects 3 yards vs. a line of 0.5 (87% chance to go over on its own).",
+    "Earns 1% of the Patriots' targets and -0% of their air yards, on 12% of snaps.",
+    "The Dolphins defense allows 19% more receiving yards to RBs than average."
+   ]
   },
   {
+   "tier": "Blue Chip",
    "player": "Hunter Henry",
    "team": "NE",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.9,
-   "receptions": 5.9,
-   "rec_yds": 67.4,
-   "carries": 0.0,
-   "tds": 0.5
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 4.5,
+   "title": "Hunter Henry Over 4.5 receptions",
+   "price": 120,
+   "book": "draftkings",
+   "model_prob": 0.5037,
+   "fair_prob": 0.4285,
+   "prob_edge": 0.0752,
+   "edge": 0.108,
+   "projection": 5.86,
+   "flags": [],
+   "why": [
+    "Model projects 6 catches vs. a line of 4.5 (64% chance to go over on its own).",
+    "Earns 24% of the Patriots' targets and 9% of their air yards, on 73% of snaps.",
+    "The Dolphins defense allows 20% more receptions to TEs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Jaylen Wright",
+   "team": "MIA",
+   "position": "RB",
+   "market": "player_rush_yds",
+   "label": "rushing yards",
+   "side": "Under",
+   "line": 14.5,
+   "title": "Jaylen Wright Under 14.5 rushing yards",
+   "price": -112,
+   "book": "draftkings",
+   "model_prob": 0.5926,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0926,
+   "edge": 0.1216,
+   "projection": 10.47,
+   "flags": [],
+   "why": [
+    "Model projects 10 yards vs. a line of 14.5 (76% chance to go under on its own).",
+    "Handles 14% of the Dolphins' carries (about 3 expected).",
+    "The Patriots defense allows 6% fewer rushing yards to RBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Eli Raridon",
+   "team": "NE",
+   "position": "TE",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Eli Raridon Yes anytime TD",
+   "price": 320,
+   "book": "draftkings",
+   "model_prob": 0.2831,
+   "fair_prob": 0.2225,
+   "prob_edge": 0.0606,
+   "edge": 0.1891,
+   "projection": 0.5,
+   "flags": [],
+   "why": [
+    "Model gives him a 40% chance to score; the odds imply about 22%.",
+    "Gets 19% of the Patriots' red-zone touches.",
+    "With Romeo Doubs, A.J. Brown out, there's more work to go around."
+   ]
+  },
+  {
+   "tier": "Penny Stock",
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Ollie Gordon II Yes anytime TD",
+   "price": 160,
+   "book": "fanduel",
+   "model_prob": 0.4157,
+   "fair_prob": 0.3595,
+   "prob_edge": 0.0562,
+   "edge": 0.0808,
+   "projection": 0.73,
+   "flags": [
+    "playing time has swung a lot"
+   ],
+   "why": [
+    "Model gives him a 52% chance to score; the odds imply about 36%.",
+    "Gets 43% of the Dolphins' red-zone touches.",
+    "Also factored in: rain/snow expected."
+   ]
+  }
+ ],
+ "etfs": [
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Greg Dulcich",
+     "team": "MIA",
+     "position": "TE",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 3.5,
+     "title": "Greg Dulcich Over 3.5 receptions",
+     "price": 135,
+     "book": "draftkings",
+     "model_prob": 0.4471,
+     "fair_prob": 0.4017,
+     "prob_edge": 0.0454,
+     "edge": 0.0508,
+     "projection": 4.02,
+     "flags": [],
+     "why": [
+      "Model projects 4 catches vs. a line of 3.5 (53% chance to go over on its own).",
+      "Earns 17% of the Dolphins' targets and 17% of their air yards, on 66% of snaps.",
+      "The Dolphins are 7-point underdogs, so they should be throwing to catch up."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Malik Willis",
+     "team": "MIA",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 176.5,
+     "title": "Malik Willis Over 176.5 passing yards",
+     "price": -112,
+     "book": "draftkings",
+     "model_prob": 0.5508,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0508,
+     "edge": 0.0426,
+     "projection": 209.31,
+     "flags": [],
+     "why": [
+      "Model projects 209 yards vs. a line of 176.5 (65% chance to go over on its own).",
+      "Expected to throw about 30 times; completion % over expected is -6.4 lately.",
+      "The Dolphins are 7-point underdogs, so they should be throwing to catch up."
+     ]
+    }
+   ],
+   "model_prob": 0.3328,
+   "price": 211,
+   "edge": 0.0367,
+   "why": [
+    "Greg Dulcich and Malik Willis are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 33% chance to hit together. The price (about +211) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
+ "projections": [
+  {
+   "player": "Drake Maye",
+   "team": "NE",
+   "position": "QB",
+   "rush_yds": 27.4,
+   "pass_yds": 220.4,
+   "pass_att": 28.8,
+   "carries": 6.9,
+   "tds": 0.2
   },
   {
    "player": "Corey Kiner",
    "team": "NE",
    "position": "RB",
-   "rush_yds": 31.1,
+   "rush_yds": 30.6,
    "targets": 0.4,
    "receptions": 0.3,
    "rec_yds": 2.6,
-   "carries": 6.9,
-   "tds": 0.3
+   "carries": 6.8,
+   "tds": 0.2
   },
   {
    "player": "Efton Chism III",
@@ -84,31 +257,31 @@
    "rush_yds": 0.9,
    "targets": 3.3,
    "receptions": 2.0,
-   "rec_yds": 22.2,
+   "rec_yds": 21.9,
    "carries": 0.2,
    "tds": 0.1
-  },
-  {
-   "player": "DeMario Douglas",
-   "team": "NE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.1,
-   "receptions": 4.4,
-   "rec_yds": 46.4,
-   "carries": 0.0,
-   "tds": 0.2
   },
   {
    "player": "Rhamondre Stevenson",
    "team": "NE",
    "position": "RB",
-   "rush_yds": 56.0,
-   "targets": 4.7,
+   "rush_yds": 55.3,
+   "targets": 4.6,
    "receptions": 4.0,
-   "rec_yds": 37.3,
-   "carries": 13.6,
-   "tds": 0.7
+   "rec_yds": 36.8,
+   "carries": 13.4,
+   "tds": 0.6
+  },
+  {
+   "player": "Hunter Henry",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.9,
+   "receptions": 5.9,
+   "rec_yds": 66.5,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Kyle Williams",
@@ -117,84 +290,41 @@
    "rush_yds": 0.0,
    "targets": 2.5,
    "receptions": 1.4,
-   "rec_yds": 19.5,
+   "rec_yds": 19.2,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Drake Maye",
+   "player": "DeMario Douglas",
    "team": "NE",
-   "position": "QB",
-   "rush_yds": 27.8,
-   "pass_yds": 223.5,
-   "pass_att": 29.2,
-   "carries": 7.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Caleb Douglas",
-   "team": "MIA",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.0,
-   "receptions": 2.6,
-   "rec_yds": 39.0,
+   "targets": 7.0,
+   "receptions": 4.3,
+   "rec_yds": 45.7,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "Ollie Gordon II",
-   "team": "MIA",
-   "position": "RB",
-   "rush_yds": 50.1,
-   "targets": 2.4,
-   "receptions": 1.8,
-   "rec_yds": 11.9,
-   "carries": 11.8,
-   "tds": 0.8
-  },
-  {
-   "player": "Chris Bell",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 4.0,
-   "receptions": 2.1,
-   "rec_yds": 28.3,
-   "carries": 0.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Kevin Coleman Jr.",
-   "team": "MIA",
-   "position": "WR",
+   "player": "Eli Raridon",
+   "team": "NE",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 1.7,
-   "rec_yds": 19.6,
+   "targets": 4.1,
+   "receptions": 3.3,
+   "rec_yds": 39.9,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Malik Washington",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 4.5,
-   "targets": 6.5,
-   "receptions": 4.2,
-   "rec_yds": 48.6,
-   "carries": 1.1,
-   "tds": 0.2
+   "tds": 0.5
   },
   {
    "player": "Jaylen Wright",
    "team": "MIA",
    "position": "RB",
-   "rush_yds": 10.6,
+   "rush_yds": 10.5,
    "targets": 0.6,
    "receptions": 0.4,
    "rec_yds": 3.3,
-   "carries": 3.4,
+   "carries": 3.3,
    "tds": 0.2
   },
   {
@@ -203,9 +333,63 @@
    "position": "TE",
    "rush_yds": 0.0,
    "targets": 5.3,
-   "receptions": 4.1,
-   "rec_yds": 42.2,
+   "receptions": 4.0,
+   "rec_yds": 41.6,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kevin Coleman Jr.",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.4,
+   "receptions": 1.7,
+   "rec_yds": 19.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Caleb Douglas",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.0,
+   "receptions": 2.6,
+   "rec_yds": 38.5,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Malik Willis",
+   "team": "MIA",
+   "position": "QB",
+   "rush_yds": 20.2,
+   "pass_yds": 209.3,
+   "pass_att": 30.4,
+   "carries": 4.7,
+   "tds": 0.1
+  },
+  {
+   "player": "Jalen Tolbert",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 0.9,
+   "rec_yds": 12.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Malik Washington",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 4.4,
+   "targets": 6.4,
+   "receptions": 4.1,
+   "rec_yds": 47.9,
+   "carries": 1.1,
    "tds": 0.1
   },
   {
@@ -215,30 +399,31 @@
    "rush_yds": 0.0,
    "targets": 1.6,
    "receptions": 1.1,
-   "rec_yds": 10.4,
+   "rec_yds": 10.3,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Jalen Tolbert",
+   "player": "Chris Bell",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 0.9,
-   "rec_yds": 12.4,
-   "carries": 0.0,
+   "rush_yds": 0.6,
+   "targets": 3.9,
+   "receptions": 2.1,
+   "rec_yds": 27.9,
+   "carries": 0.1,
    "tds": 0.0
   },
   {
-   "player": "Malik Willis",
+   "player": "Ollie Gordon II",
    "team": "MIA",
-   "position": "QB",
-   "rush_yds": 20.4,
-   "pass_yds": 212.3,
-   "pass_att": 30.9,
-   "carries": 4.8,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 49.4,
+   "targets": 2.3,
+   "receptions": 1.8,
+   "rec_yds": 11.7,
+   "carries": 11.6,
+   "tds": 0.7
   }
  ]
 }

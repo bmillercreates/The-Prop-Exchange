@@ -1,55 +1,102 @@
 {
  "game_id": "2026_08_KC_DEN",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "updated_at": "2026-11-01T14:21-05:00",
  "kickoff": "2026-11-01T16:25",
  "weekday": "Sunday",
  "away": "KC",
  "home": "DEN",
  "stadium": "Empower Field at Mile High",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T14:21-05:00",
  "weather": {
   "game_id": "2026_08_KC_DEN",
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-11-01T16:25:00-05:00",
   "covered": false,
-  "temp_f": 66,
-  "wind_mph": 10,
-  "gust_mph": 14,
+  "temp_f": 65,
+  "wind_mph": 7,
+  "gust_mph": 11,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 9
  },
  "teams": {
   "KC": {
-   "implied_pts": 21.0,
+   "implied_pts": 21.5,
    "margin": 1.5,
-   "plays": 59.8,
-   "pass_att": 31.3,
+   "plays": 60.3,
+   "pass_att": 31.5,
    "notes": []
   },
   "DEN": {
-   "implied_pts": 19.5,
+   "implied_pts": 20.0,
    "margin": -1.5,
-   "plays": 59.7,
-   "pass_att": 31.8,
+   "plays": 60.1,
+   "pass_att": 32.0,
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Kenneth Walker III",
+   "team": "KC",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Kenneth Walker III Yes anytime TD",
+   "price": -125,
+   "book": "fanduel",
+   "model_prob": 0.5619,
+   "fair_prob": 0.5192,
+   "prob_edge": 0.0427,
+   "edge": 0.0114,
+   "projection": 1.02,
+   "flags": [],
+   "why": [
+    "Model gives him a 64% chance to score; the odds imply about 52%.",
+    "Gets 46% of the Chiefs' red-zone touches."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Noah Gray",
+   "team": "KC",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Noah Gray Over 1.5 receptions",
+   "price": -110,
+   "book": "draftkings",
+   "model_prob": 0.5281,
+   "fair_prob": 0.4948,
+   "prob_edge": 0.0333,
+   "edge": 0.0081,
+   "projection": 2.22,
+   "flags": [],
+   "why": [
+    "Model projects 2 catches vs. a line of 1.5 (59% chance to go over on its own).",
+    "Earns 9% of the Chiefs' targets and 11% of their air yards, on 59% of snaps.",
+    "The Broncos defense allows 8% more receptions to TEs than average."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
   {
-   "player": "Emmett Johnson",
+   "player": "Patrick Mahomes",
    "team": "KC",
-   "position": "RB",
-   "rush_yds": 9.7,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 13.3,
-   "carries": 2.4,
-   "tds": 0.1
+   "position": "QB",
+   "rush_yds": 15.0,
+   "pass_yds": 235.6,
+   "pass_att": 31.5,
+   "carries": 3.0,
+   "tds": 0.0
   },
   {
    "player": "Cyrus Allen",
@@ -58,31 +105,9 @@
    "rush_yds": 0.0,
    "targets": 1.6,
    "receptions": 0.9,
-   "rec_yds": 12.0,
+   "rec_yds": 12.1,
    "carries": 0.0,
    "tds": 0.0
-  },
-  {
-   "player": "Travis Kelce",
-   "team": "KC",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.9,
-   "receptions": 4.3,
-   "rec_yds": 56.9,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Xavier Worthy",
-   "team": "KC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 4.0,
-   "rec_yds": 41.4,
-   "carries": 0.0,
-   "tds": 0.1
   },
   {
    "player": "Noah Gray",
@@ -91,18 +116,7 @@
    "rush_yds": 0.0,
    "targets": 2.8,
    "receptions": 2.2,
-   "rec_yds": 26.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Jalen Royals",
-   "team": "KC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.1,
-   "receptions": 1.2,
-   "rec_yds": 13.8,
+   "rec_yds": 26.7,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -110,22 +124,34 @@
    "player": "Kenneth Walker III",
    "team": "KC",
    "position": "RB",
-   "rush_yds": 114.5,
+   "rush_yds": 115.3,
    "targets": 4.2,
    "receptions": 3.1,
-   "rec_yds": 20.6,
-   "carries": 19.7,
+   "rec_yds": 20.8,
+   "carries": 19.8,
    "tds": 1.0
   },
   {
-   "player": "Patrick Mahomes",
+   "player": "Emmett Johnson",
    "team": "KC",
-   "position": "QB",
-   "rush_yds": 14.9,
-   "pass_yds": 233.9,
-   "pass_att": 31.3,
-   "carries": 3.0,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 9.8,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 13.4,
+   "carries": 2.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Travis Kelce",
+   "team": "KC",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.9,
+   "receptions": 4.3,
+   "rec_yds": 57.3,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Andrew Armstrong",
@@ -134,31 +160,31 @@
    "rush_yds": 0.0,
    "targets": 1.6,
    "receptions": 0.9,
-   "rec_yds": 11.4,
+   "rec_yds": 11.5,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Jonah Coleman",
-   "team": "DEN",
-   "position": "RB",
-   "rush_yds": 25.3,
+   "player": "Jalen Royals",
+   "team": "KC",
+   "position": "WR",
+   "rush_yds": 0.0,
    "targets": 2.1,
-   "receptions": 1.7,
-   "rec_yds": 12.8,
-   "carries": 6.6,
-   "tds": 0.2
+   "receptions": 1.2,
+   "rec_yds": 13.9,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
-   "player": "Jaylen Waddle",
-   "team": "DEN",
+   "player": "Xavier Worthy",
+   "team": "KC",
    "position": "WR",
-   "rush_yds": 1.3,
-   "targets": 8.8,
-   "receptions": 5.0,
-   "rec_yds": 54.1,
-   "carries": 0.2,
-   "tds": 0.3
+   "rush_yds": 0.0,
+   "targets": 6.3,
+   "receptions": 4.0,
+   "rec_yds": 41.7,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Adam Trautman",
@@ -167,42 +193,9 @@
    "rush_yds": 0.0,
    "targets": 1.7,
    "receptions": 1.2,
-   "rec_yds": 12.5,
+   "rec_yds": 12.6,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Marvin Mims Jr.",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 3.2,
-   "targets": 2.8,
-   "receptions": 1.7,
-   "rec_yds": 20.1,
-   "carries": 0.5,
-   "tds": 0.0
-  },
-  {
-   "player": "J.K. Dobbins",
-   "team": "DEN",
-   "position": "RB",
-   "rush_yds": 38.2,
-   "targets": 1.4,
-   "receptions": 1.1,
-   "rec_yds": 7.3,
-   "carries": 12.0,
-   "tds": 0.5
-  },
-  {
-   "player": "Troy Franklin",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 2.2,
-   "receptions": 1.3,
-   "rec_yds": 15.5,
-   "carries": 0.2,
-   "tds": 0.1
   },
   {
    "player": "Evan Engram",
@@ -211,20 +204,9 @@
    "rush_yds": 0.0,
    "targets": 4.1,
    "receptions": 3.0,
-   "rec_yds": 32.5,
+   "rec_yds": 32.7,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Courtland Sutton",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.0,
-   "receptions": 3.2,
-   "rec_yds": 35.1,
-   "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.2
   },
   {
    "player": "Lil'Jordan Humphrey",
@@ -233,19 +215,85 @@
    "rush_yds": 0.0,
    "targets": 1.5,
    "receptions": 0.9,
-   "rec_yds": 10.1,
+   "rec_yds": 10.2,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 25.5,
+   "targets": 2.1,
+   "receptions": 1.7,
+   "rec_yds": 12.9,
+   "carries": 6.6,
+   "tds": 0.2
   },
   {
    "player": "Bo Nix",
    "team": "DEN",
    "position": "QB",
-   "rush_yds": 22.8,
-   "pass_yds": 196.1,
-   "pass_att": 31.8,
-   "carries": 5.1,
+   "rush_yds": 23.0,
+   "pass_yds": 197.5,
+   "pass_att": 32.0,
+   "carries": 5.2,
    "tds": 0.1
+  },
+  {
+   "player": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 3.2,
+   "rec_yds": 35.4,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Marvin Mims Jr.",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 3.2,
+   "targets": 2.9,
+   "receptions": 1.7,
+   "rec_yds": 20.2,
+   "carries": 0.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Troy Franklin",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 1.5,
+   "targets": 2.2,
+   "receptions": 1.3,
+   "rec_yds": 15.7,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "J.K. Dobbins",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 38.5,
+   "targets": 1.4,
+   "receptions": 1.1,
+   "rec_yds": 7.4,
+   "carries": 12.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Jaylen Waddle",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 1.3,
+   "targets": 8.8,
+   "receptions": 5.1,
+   "rec_yds": 54.5,
+   "carries": 0.2,
+   "tds": 0.3
   }
  ]
 }

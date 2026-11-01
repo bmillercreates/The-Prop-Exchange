@@ -1,24 +1,24 @@
 {
  "game_id": "2026_08_PHI_WAS",
  "status": "PRELIMINARY",
- "updated_at": "2026-10-31T15:05-04:00",
+ "updated_at": "2026-11-01T14:21-05:00",
  "kickoff": "2026-11-01T20:20",
  "weekday": "Sunday",
  "away": "PHI",
  "home": "WAS",
  "stadium": "Northwest Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-01T14:21-05:00",
  "weather": {
   "game_id": "2026_08_PHI_WAS",
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-01T20:20:00-05:00",
   "covered": false,
-  "temp_f": 52,
+  "temp_f": 50,
   "wind_mph": 5,
-  "gust_mph": 7,
+  "gust_mph": 9,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "teams": {
   "PHI": {
@@ -38,10 +38,249 @@
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Chig Okonkwo",
+   "team": "WAS",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Chig Okonkwo Over 3.5 receptions",
+   "price": 117,
+   "book": "draftkings",
+   "model_prob": 0.4812,
+   "fair_prob": 0.4351,
+   "prob_edge": 0.0461,
+   "edge": 0.0442,
+   "projection": 4.24,
+   "flags": [],
+   "why": [
+    "Model projects 4 catches vs. a line of 3.5 (57% chance to go over on its own).",
+    "Earns 18% of the Commanders' targets and 11% of their air yards, on 67% of snaps.",
+    "The Eagles defense allows 12% fewer receptions to TEs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Makai Lemon",
+   "team": "PHI",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 4.5,
+   "title": "Makai Lemon Over 4.5 receptions",
+   "price": -120,
+   "book": "fanduel",
+   "model_prob": 0.5499,
+   "fair_prob": 0.5101,
+   "prob_edge": 0.0398,
+   "edge": 0.0082,
+   "projection": 5.71,
+   "flags": [],
+   "why": [
+    "Model projects 6 catches vs. a line of 4.5 (62% chance to go over on its own).",
+    "Earns 22% of the Eagles' targets and 10% of their air yards, on 80% of snaps.",
+    "The Commanders defense allows 8% more receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Rachaad White Over 2.5 receptions",
+   "price": 109,
+   "book": "draftkings",
+   "model_prob": 0.4839,
+   "fair_prob": 0.4521,
+   "prob_edge": 0.0318,
+   "edge": 0.0114,
+   "projection": 3.06,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 2.5 (54% chance to go over on its own).",
+    "Earns 12% of the Commanders' targets and 2% of their air yards, on 61% of snaps.",
+    "The Eagles defense allows 17% fewer receptions to RBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Saquon Barkley Yes anytime TD",
+   "price": 170,
+   "book": "draftkings",
+   "model_prob": 0.4321,
+   "fair_prob": 0.3461,
+   "prob_edge": 0.086,
+   "edge": 0.1667,
+   "projection": 0.9,
+   "flags": [
+    "missed recent games",
+    "playing time has swung a lot"
+   ],
+   "why": [
+    "Model gives him a 59% chance to score; the odds imply about 35%.",
+    "Gets 54% of the Eagles' red-zone touches.",
+    "With DeVonta Smith, Jalen Hurts out, there's more work to go around."
+   ]
+  }
+ ],
+ "etfs": [
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Tanner McKee",
+     "team": "PHI",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 204.5,
+     "title": "Tanner McKee Over 204.5 passing yards",
+     "price": -113,
+     "book": "fanduel",
+     "model_prob": 0.5703,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0703,
+     "edge": 0.075,
+     "projection": 256.53,
+     "flags": [
+      "only 2 games of data",
+      "missed recent games"
+     ],
+     "why": [
+      "Model projects 257 yards vs. a line of 204.5 (70% chance to go over on its own).",
+      "Expected to throw about 37 times; completion % over expected is -4.3 lately.",
+      "The Commanders defense allows 8% more passing yards to QBs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Makai Lemon",
+     "team": "PHI",
+     "position": "WR",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 4.5,
+     "title": "Makai Lemon Over 4.5 receptions",
+     "price": -120,
+     "book": "fanduel",
+     "model_prob": 0.5499,
+     "fair_prob": 0.5101,
+     "prob_edge": 0.0398,
+     "edge": 0.0082,
+     "projection": 5.71,
+     "flags": [],
+     "why": [
+      "Model projects 6 catches vs. a line of 4.5 (62% chance to go over on its own).",
+      "Earns 22% of the Eagles' targets and 10% of their air yards, on 80% of snaps.",
+      "The Commanders defense allows 8% more receptions to WRs than average."
+     ]
+    }
+   ],
+   "model_prob": 0.3998,
+   "price": 161,
+   "edge": 0.0421,
+   "why": [
+    "Tanner McKee and Makai Lemon are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 40% chance to hit together. The price (about +161) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  },
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Jayden Daniels",
+     "team": "WAS",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 198.5,
+     "title": "Jayden Daniels Over 198.5 passing yards",
+     "price": -113,
+     "book": "fanduel",
+     "model_prob": 0.5571,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0571,
+     "edge": 0.0501,
+     "projection": 239.58,
+     "flags": [
+      "missed recent games",
+      "playing time has swung a lot"
+     ],
+     "why": [
+      "Model projects 240 yards vs. a line of 198.5 (66% chance to go over on its own).",
+      "Expected to throw about 33 times; completion % over expected is +12.8 lately.",
+      "Also factored in: coming off a bye."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Chig Okonkwo",
+     "team": "WAS",
+     "position": "TE",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 3.5,
+     "title": "Chig Okonkwo Over 3.5 receptions",
+     "price": 117,
+     "book": "draftkings",
+     "model_prob": 0.4812,
+     "fair_prob": 0.4351,
+     "prob_edge": 0.0461,
+     "edge": 0.0442,
+     "projection": 4.24,
+     "flags": [],
+     "why": [
+      "Model projects 4 catches vs. a line of 3.5 (57% chance to go over on its own).",
+      "Earns 18% of the Commanders' targets and 11% of their air yards, on 67% of snaps.",
+      "The Eagles defense allows 12% fewer receptions to TEs than average."
+     ]
+    }
+   ],
+   "model_prob": 0.355,
+   "price": 193,
+   "edge": 0.0415,
+   "why": [
+    "Jayden Daniels and Chig Okonkwo are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 35% chance to hit together. The price (about +193) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
  "projections": [
+  {
+   "player": "Elijah Mitchell",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 10.7,
+   "targets": 3.0,
+   "receptions": 2.4,
+   "rec_yds": 17.9,
+   "carries": 2.9,
+   "tds": 0.0
+  },
   {
    "player": "Tanner McKee",
    "team": "PHI",
@@ -51,50 +290,6 @@
    "pass_att": 37.5,
    "carries": 1.5,
    "tds": 0.0
-  },
-  {
-   "player": "Dallas Goedert",
-   "team": "PHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 8.0,
-   "receptions": 5.9,
-   "rec_yds": 69.5,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Johnny Mundt",
-   "team": "PHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 12.0,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Marquise Brown",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 1.9,
-   "targets": 3.9,
-   "receptions": 2.4,
-   "rec_yds": 31.7,
-   "carries": 0.4,
-   "tds": 0.0
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.7,
-   "receptions": 2.2,
-   "rec_yds": 31.9,
-   "carries": 0.0,
-   "tds": 0.2
   },
   {
    "player": "Saquon Barkley",
@@ -141,47 +336,48 @@
    "tds": 0.2
   },
   {
-   "player": "Elijah Mitchell",
+   "player": "Marquise Brown",
    "team": "PHI",
-   "position": "RB",
-   "rush_yds": 10.7,
-   "targets": 3.0,
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 3.9,
    "receptions": 2.4,
-   "rec_yds": 17.9,
-   "carries": 2.9,
+   "rec_yds": 31.7,
+   "carries": 0.4,
    "tds": 0.0
   },
   {
-   "player": "Antonio Williams",
-   "team": "WAS",
-   "position": "WR",
+   "player": "Dallas Goedert",
+   "team": "PHI",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 42.5,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Treylon Burks",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.1,
-   "rec_yds": 50.6,
+   "targets": 8.0,
+   "receptions": 5.9,
+   "rec_yds": 69.5,
    "carries": 0.0,
    "tds": 0.3
   },
   {
-   "player": "Jayden Daniels",
-   "team": "WAS",
-   "position": "QB",
-   "rush_yds": 28.2,
-   "pass_yds": 239.6,
-   "pass_att": 33.4,
-   "carries": 5.3,
+   "player": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.7,
+   "receptions": 2.2,
+   "rec_yds": 31.9,
+   "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Johnny Mundt",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 12.0,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Jeremy McNichols",
@@ -206,6 +402,16 @@
    "tds": 0.4
   },
   {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 28.2,
+   "pass_yds": 239.6,
+   "pass_att": 33.4,
+   "carries": 5.3,
+   "tds": 0.2
+  },
+  {
    "player": "Dyami Brown",
    "team": "WAS",
    "position": "WR",
@@ -215,6 +421,28 @@
    "rec_yds": 17.4,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Treylon Burks",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.1,
+   "rec_yds": 50.6,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Stefon Diggs",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.2,
+   "receptions": 4.7,
+   "rec_yds": 57.0,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Chig Okonkwo",
@@ -228,15 +456,15 @@
    "tds": 0.0
   },
   {
-   "player": "Stefon Diggs",
+   "player": "Antonio Williams",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.2,
-   "receptions": 4.7,
-   "rec_yds": 57.0,
+   "targets": 4.5,
+   "receptions": 3.1,
+   "rec_yds": 42.5,
    "carries": 0.0,
-   "tds": 0.4
+   "tds": 0.0
   }
  ]
 }

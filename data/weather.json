@@ -17,7 +17,7 @@
   "covered": false,
   "temp_f": 70,
   "wind_mph": 9,
-  "gust_mph": 13,
+  "gust_mph": 12,
   "precip_in": 0.0,
   "precip_chance": 1
  },
@@ -26,11 +26,11 @@
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 74,
+  "temp_f": 73,
   "wind_mph": 3,
-  "gust_mph": 6,
+  "gust_mph": 7,
   "precip_in": 0.0,
-  "precip_chance": 9
+  "precip_chance": 7
  },
  "2026_08_ARI_DAL": {
   "game_id": "2026_08_ARI_DAL",
@@ -49,11 +49,11 @@
   "stadium": "EverBank Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 77,
-  "wind_mph": 11,
-  "gust_mph": 17,
+  "temp_f": 78,
+  "wind_mph": 13,
+  "gust_mph": 20,
   "precip_in": 0.0,
-  "precip_chance": 25
+  "precip_chance": 19
  },
  "2026_08_LV_NYJ": {
   "game_id": "2026_08_LV_NYJ",
@@ -61,8 +61,8 @@
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
   "temp_f": 61,
-  "wind_mph": 5,
-  "gust_mph": 7,
+  "wind_mph": 4,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -71,22 +71,22 @@
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 69,
-  "wind_mph": 6,
-  "gust_mph": 13,
+  "temp_f": 68,
+  "wind_mph": 7,
+  "gust_mph": 14,
   "precip_in": 0.0,
-  "precip_chance": 4
+  "precip_chance": 5
  },
  "2026_08_ATL_TB": {
   "game_id": "2026_08_ATL_TB",
   "stadium": "Raymond James Stadium",
   "kickoff_et": "2026-11-01T13:00:00-05:00",
   "covered": false,
-  "temp_f": 74,
-  "wind_mph": 11,
-  "gust_mph": 23,
-  "precip_in": 0.06,
-  "precip_chance": 54
+  "temp_f": 76,
+  "wind_mph": 12,
+  "gust_mph": 29,
+  "precip_in": 0.27,
+  "precip_chance": 60
  },
  "2026_08_LAC_LA": {
   "game_id": "2026_08_LAC_LA",
@@ -99,55 +99,55 @@
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-11-01T16:25:00-05:00",
   "covered": false,
-  "temp_f": 66,
-  "wind_mph": 10,
-  "gust_mph": 14,
+  "temp_f": 65,
+  "wind_mph": 7,
+  "gust_mph": 11,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 9
  },
  "2026_08_NE_MIA": {
   "game_id": "2026_08_NE_MIA",
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-01T16:25:00-05:00",
   "covered": false,
-  "temp_f": 73,
-  "wind_mph": 12,
-  "gust_mph": 30,
-  "precip_in": 0.62,
-  "precip_chance": 55
+  "temp_f": 77,
+  "wind_mph": 9,
+  "gust_mph": 22,
+  "precip_in": 0.07,
+  "precip_chance": 65
  },
  "2026_08_PHI_WAS": {
   "game_id": "2026_08_PHI_WAS",
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-01T20:20:00-05:00",
   "covered": false,
-  "temp_f": 52,
+  "temp_f": 50,
   "wind_mph": 5,
-  "gust_mph": 7,
+  "gust_mph": 9,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "2026_08_CHI_SEA": {
   "game_id": "2026_08_CHI_SEA",
   "stadium": "Lumen Field",
   "kickoff_et": "2026-11-02T20:15:00-05:00",
   "covered": false,
-  "temp_f": 51,
-  "wind_mph": 1,
-  "gust_mph": 1,
+  "temp_f": 50,
+  "wind_mph": 3,
+  "gust_mph": 5,
   "precip_in": 0.0,
-  "precip_chance": 0
+  "precip_chance": 5
  },
  "2026_09_JAX_BAL": {
   "game_id": "2026_09_JAX_BAL",
   "stadium": "M&T Bank Stadium",
   "kickoff_et": "2026-11-05T20:15:00-05:00",
   "covered": false,
-  "temp_f": 66,
+  "temp_f": 64,
   "wind_mph": 4,
-  "gust_mph": 13,
-  "precip_in": 0.0,
-  "precip_chance": 40
+  "gust_mph": 18,
+  "precip_in": 0.02,
+  "precip_chance": 46
  },
  "2026_09_CIN_ATL": {
   "game_id": "2026_09_CIN_ATL",
@@ -160,10 +160,10 @@
   "stadium": "Bank of America Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 72,
-  "wind_mph": 10,
-  "gust_mph": 22,
-  "precip_in": 0.03,
+  "temp_f": 66,
+  "wind_mph": 4,
+  "gust_mph": 6,
+  "precip_in": 0.0,
   "precip_chance": 6
  },
  "2026_09_DAL_IND": {
@@ -177,22 +177,22 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 58,
-  "wind_mph": 13,
-  "gust_mph": 16,
+  "temp_f": 56,
+  "wind_mph": 17,
+  "gust_mph": 25,
   "precip_in": 0.0,
-  "precip_chance": 12
+  "precip_chance": 16
  },
  "2026_09_DET_MIA": {
   "game_id": "2026_09_DET_MIA",
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 86,
-  "wind_mph": 8,
-  "gust_mph": 8,
+  "temp_f": 85,
+  "wind_mph": 2,
+  "gust_mph": 5,
   "precip_in": 0.0,
-  "precip_chance": 9
+  "precip_chance": 8
  },
  "2026_09_CLE_NO": {
   "game_id": "2026_09_CLE_NO",
@@ -205,22 +205,22 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 66,
-  "wind_mph": 6,
-  "gust_mph": 6,
+  "temp_f": 61,
+  "wind_mph": 9,
+  "gust_mph": 12,
   "precip_in": 0.0,
-  "precip_chance": 12
+  "precip_chance": 9
  },
  "2026_09_LA_WAS": {
   "game_id": "2026_09_LA_WAS",
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 68,
-  "wind_mph": 5,
-  "gust_mph": 6,
+  "temp_f": 62,
+  "wind_mph": 7,
+  "gust_mph": 10,
   "precip_in": 0.0,
-  "precip_chance": 13
+  "precip_chance": 7
  },
  "2026_09_HOU_LAC": {
   "game_id": "2026_09_HOU_LAC",
@@ -233,44 +233,44 @@
   "stadium": "Levi's Stadium",
   "kickoff_et": "2026-11-08T16:05:00-05:00",
   "covered": false,
-  "temp_f": 73,
+  "temp_f": 76,
   "wind_mph": 6,
-  "gust_mph": 5,
+  "gust_mph": 7,
   "precip_in": 0.0,
-  "precip_chance": 1
+  "precip_chance": 0
  },
  "2026_09_GB_NE": {
   "game_id": "2026_09_GB_NE",
   "stadium": "Gillette Stadium",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 52,
-  "wind_mph": 2,
-  "gust_mph": 26,
+  "temp_f": 55,
+  "wind_mph": 8,
+  "gust_mph": 21,
   "precip_in": 0.0,
-  "precip_chance": 17
+  "precip_chance": 12
  },
  "2026_09_ARI_SEA": {
   "game_id": "2026_09_ARI_SEA",
   "stadium": "Lumen Field",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 56,
-  "wind_mph": 15,
-  "gust_mph": 24,
+  "temp_f": 54,
+  "wind_mph": 6,
+  "gust_mph": 7,
   "precip_in": 0.0,
-  "precip_chance": 37
+  "precip_chance": 42
  },
  "2026_09_TB_CHI": {
   "game_id": "2026_09_TB_CHI",
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-08T20:20:00-05:00",
   "covered": false,
-  "temp_f": 53,
-  "wind_mph": 5,
-  "gust_mph": 12,
+  "temp_f": 49,
+  "wind_mph": 10,
+  "gust_mph": 18,
   "precip_in": 0.0,
-  "precip_chance": 14
+  "precip_chance": 21
  },
  "2026_09_BUF_MIN": {
   "game_id": "2026_09_BUF_MIN",
@@ -283,10 +283,78 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-12T20:15:00-05:00",
   "covered": false,
-  "temp_f": 49,
-  "wind_mph": 12,
-  "gust_mph": 24,
+  "temp_f": 46,
+  "wind_mph": 10,
+  "gust_mph": 16,
   "precip_in": 0.0,
-  "precip_chance": 0
+  "precip_chance": 3
+ },
+ "2026_10_NE_DET": {
+  "game_id": "2026_10_NE_DET",
+  "stadium": "FC Bayern Munich Stadium",
+  "kickoff_et": "2026-11-15T09:30:00-05:00",
+  "covered": true
+ },
+ "2026_10_KC_ATL": {
+  "game_id": "2026_10_KC_ATL",
+  "stadium": "Mercedes-Benz Stadium",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": true
+ },
+ "2026_10_HOU_CLE": {
+  "game_id": "2026_10_HOU_CLE",
+  "stadium": "Huntington Bank Field",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 54,
+  "wind_mph": 20,
+  "gust_mph": 36,
+  "precip_in": 0.03,
+  "precip_chance": 16
+ },
+ "2026_10_MIN_GB": {
+  "game_id": "2026_10_MIN_GB",
+  "stadium": "Lambeau Field",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 50,
+  "wind_mph": 14,
+  "gust_mph": 20,
+  "precip_in": 0.0,
+  "precip_chance": 13
+ },
+ "2026_10_MIA_IND": {
+  "game_id": "2026_10_MIA_IND",
+  "stadium": "Lucas Oil Stadium",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": true
+ },
+ "2026_10_CAR_NO": {
+  "game_id": "2026_10_CAR_NO",
+  "stadium": "Caesars Superdome",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": true
+ },
+ "2026_10_BUF_NYJ": {
+  "game_id": "2026_10_BUF_NYJ",
+  "stadium": "MetLife Stadium",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 52,
+  "wind_mph": 13,
+  "gust_mph": 32,
+  "precip_in": 0.07,
+  "precip_chance": 23
+ },
+ "2026_10_JAX_TEN": {
+  "game_id": "2026_10_JAX_TEN",
+  "stadium": "Nissan Stadium",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 69,
+  "wind_mph": 12,
+  "gust_mph": 31,
+  "precip_in": 0.0,
+  "precip_chance": 19
  }
 }
