@@ -1,7 +1,7 @@
 {
  "game_id": "2026_08_PHI_WAS",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-01T14:21-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-01T19:00-05:00",
  "kickoff": "2026-11-01T20:20",
  "weekday": "Sunday",
  "away": "PHI",
@@ -14,7 +14,7 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-01T20:20:00-05:00",
   "covered": false,
-  "temp_f": 50,
+  "temp_f": 51,
   "wind_mph": 5,
   "gust_mph": 9,
   "precip_in": 0.0,
@@ -137,7 +137,7 @@
    "why": [
     "Model gives him a 59% chance to score; the odds imply about 35%.",
     "Gets 54% of the Eagles' red-zone touches.",
-    "With DeVonta Smith, Jalen Hurts out, there's more work to go around."
+    "With DeVonta Smith, Dontayvion Wicks out, there's more work to go around."
    ]
   }
  ],
@@ -147,67 +147,30 @@
    "legs": [
     {
      "tier": "ETF leg",
-     "player": "Tanner McKee",
-     "team": "PHI",
-     "position": "QB",
-     "market": "player_pass_yds",
-     "label": "passing yards",
-     "side": "Over",
-     "line": 204.5,
-     "title": "Tanner McKee Over 204.5 passing yards",
-     "price": -113,
-     "book": "fanduel",
-     "model_prob": 0.5703,
-     "fair_prob": 0.5,
-     "prob_edge": 0.0703,
-     "edge": 0.075,
-     "projection": 256.53,
-     "flags": [
-      "only 2 games of data",
-      "missed recent games"
-     ],
-     "why": [
-      "Model projects 257 yards vs. a line of 204.5 (70% chance to go over on its own).",
-      "Expected to throw about 37 times; completion % over expected is -4.3 lately.",
-      "The Commanders defense allows 8% more passing yards to QBs than average."
-     ]
-    },
-    {
-     "tier": "ETF leg",
-     "player": "Makai Lemon",
-     "team": "PHI",
+     "player": "Treylon Burks",
+     "team": "WAS",
      "position": "WR",
      "market": "player_receptions",
      "label": "receptions",
      "side": "Over",
-     "line": 4.5,
-     "title": "Makai Lemon Over 4.5 receptions",
-     "price": -120,
+     "line": 1.5,
+     "title": "Treylon Burks Over 1.5 receptions",
+     "price": -114,
      "book": "fanduel",
-     "model_prob": 0.5499,
-     "fair_prob": 0.5101,
-     "prob_edge": 0.0398,
-     "edge": 0.0082,
-     "projection": 5.71,
-     "flags": [],
+     "model_prob": 0.5905,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0905,
+     "edge": 0.1084,
+     "projection": 3.15,
+     "flags": [
+      "playing time has swung a lot"
+     ],
      "why": [
-      "Model projects 6 catches vs. a line of 4.5 (62% chance to go over on its own).",
-      "Earns 22% of the Eagles' targets and 10% of their air yards, on 80% of snaps.",
-      "The Commanders defense allows 8% more receptions to WRs than average."
+      "Model projects 3 catches vs. a line of 1.5 (76% chance to go over on its own).",
+      "Earns 15% of the Commanders' targets and 22% of their air yards, on 54% of snaps.",
+      "The Eagles defense allows 9% more receptions to WRs than average."
      ]
-    }
-   ],
-   "model_prob": 0.3998,
-   "price": 161,
-   "edge": 0.0421,
-   "why": [
-    "Tanner McKee and Makai Lemon are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
-    "Model gives both legs a 40% chance to hit together. The price (about +161) is our estimate of a same-game parlay; check your book's exact number."
-   ]
-  },
-  {
-   "tier": "ETF",
-   "legs": [
+    },
     {
      "tier": "ETF leg",
      "player": "Jayden Daniels",
@@ -234,95 +197,91 @@
       "Expected to throw about 33 times; completion % over expected is +12.8 lately.",
       "Also factored in: coming off a bye."
      ]
-    },
+    }
+   ],
+   "model_prob": 0.4144,
+   "price": 165,
+   "edge": 0.0964,
+   "why": [
+    "Treylon Burks and Jayden Daniels are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 41% chance to hit together. The price (about +165) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  },
+  {
+   "tier": "ETF",
+   "legs": [
     {
      "tier": "ETF leg",
-     "player": "Chig Okonkwo",
-     "team": "WAS",
-     "position": "TE",
+     "player": "Makai Lemon",
+     "team": "PHI",
+     "position": "WR",
      "market": "player_receptions",
      "label": "receptions",
      "side": "Over",
-     "line": 3.5,
-     "title": "Chig Okonkwo Over 3.5 receptions",
-     "price": 117,
-     "book": "draftkings",
-     "model_prob": 0.4812,
-     "fair_prob": 0.4351,
-     "prob_edge": 0.0461,
-     "edge": 0.0442,
-     "projection": 4.24,
+     "line": 4.5,
+     "title": "Makai Lemon Over 4.5 receptions",
+     "price": -120,
+     "book": "fanduel",
+     "model_prob": 0.5499,
+     "fair_prob": 0.5101,
+     "prob_edge": 0.0398,
+     "edge": 0.0082,
+     "projection": 5.71,
      "flags": [],
      "why": [
-      "Model projects 4 catches vs. a line of 3.5 (57% chance to go over on its own).",
-      "Earns 18% of the Commanders' targets and 11% of their air yards, on 67% of snaps.",
-      "The Eagles defense allows 12% fewer receptions to TEs than average."
+      "Model projects 6 catches vs. a line of 4.5 (62% chance to go over on its own).",
+      "Earns 22% of the Eagles' targets and 10% of their air yards, on 80% of snaps.",
+      "The Commanders defense allows 8% more receptions to WRs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Tanner McKee",
+     "team": "PHI",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 204.5,
+     "title": "Tanner McKee Over 204.5 passing yards",
+     "price": -113,
+     "book": "fanduel",
+     "model_prob": 0.5703,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0703,
+     "edge": 0.075,
+     "projection": 256.53,
+     "flags": [
+      "only 2 games of data",
+      "missed recent games"
+     ],
+     "why": [
+      "Model projects 257 yards vs. a line of 204.5 (70% chance to go over on its own).",
+      "Expected to throw about 37 times; completion % over expected is -4.3 lately.",
+      "The Commanders defense allows 8% more passing yards to QBs than average."
      ]
     }
    ],
-   "model_prob": 0.355,
-   "price": 193,
-   "edge": 0.0415,
+   "model_prob": 0.3998,
+   "price": 161,
+   "edge": 0.0421,
    "why": [
-    "Jayden Daniels and Chig Okonkwo are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
-    "Model gives both legs a 35% chance to hit together. The price (about +193) is our estimate of a same-game parlay; check your book's exact number."
+    "Makai Lemon and Tanner McKee are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 40% chance to hit together. The price (about +161) is our estimate of a same-game parlay; check your book's exact number."
    ]
   }
  ],
  "projections": [
   {
-   "player": "Elijah Mitchell",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 10.7,
-   "targets": 3.0,
-   "receptions": 2.4,
-   "rec_yds": 17.9,
-   "carries": 2.9,
-   "tds": 0.0
-  },
-  {
-   "player": "Tanner McKee",
-   "team": "PHI",
-   "position": "QB",
-   "rush_yds": 7.7,
-   "pass_yds": 256.5,
-   "pass_att": 37.5,
-   "carries": 1.5,
-   "tds": 0.0
-  },
-  {
-   "player": "Saquon Barkley",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 58.9,
-   "targets": 2.6,
-   "receptions": 2.1,
-   "rec_yds": 13.2,
-   "carries": 13.1,
-   "tds": 0.9
-  },
-  {
-   "player": "Zach Ertz",
+   "player": "Dallas Goedert",
    "team": "PHI",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.4,
-   "rec_yds": 26.7,
+   "targets": 8.0,
+   "receptions": 5.9,
+   "rec_yds": 69.5,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Elijah Moore",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.9,
-   "receptions": 1.3,
-   "rec_yds": 15.3,
-   "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.3
   },
   {
    "player": "Makai Lemon",
@@ -336,37 +295,15 @@
    "tds": 0.2
   },
   {
-   "player": "Marquise Brown",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 1.9,
-   "targets": 3.9,
-   "receptions": 2.4,
-   "rec_yds": 31.7,
-   "carries": 0.4,
-   "tds": 0.0
-  },
-  {
-   "player": "Dallas Goedert",
+   "player": "Zach Ertz",
    "team": "PHI",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 8.0,
-   "receptions": 5.9,
-   "rec_yds": 69.5,
+   "targets": 3.6,
+   "receptions": 2.4,
+   "rec_yds": 26.7,
    "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.7,
-   "receptions": 2.2,
-   "rec_yds": 31.9,
-   "carries": 0.0,
-   "tds": 0.2
+   "tds": 0.1
   },
   {
    "player": "Johnny Mundt",
@@ -380,36 +317,80 @@
    "tds": 0.0
   },
   {
-   "player": "Jeremy McNichols",
-   "team": "WAS",
-   "position": "RB",
-   "rush_yds": 19.4,
-   "targets": 0.0,
-   "receptions": 0.0,
-   "rec_yds": 0.0,
-   "carries": 4.1,
-   "tds": 0.5
-  },
-  {
-   "player": "Rachaad White",
-   "team": "WAS",
-   "position": "RB",
-   "rush_yds": 39.2,
-   "targets": 4.0,
-   "receptions": 3.1,
-   "rec_yds": 18.3,
-   "carries": 8.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Jayden Daniels",
-   "team": "WAS",
-   "position": "QB",
-   "rush_yds": 28.2,
-   "pass_yds": 239.6,
-   "pass_att": 33.4,
-   "carries": 5.3,
+   "player": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.7,
+   "receptions": 2.2,
+   "rec_yds": 31.9,
+   "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 58.9,
+   "targets": 2.6,
+   "receptions": 2.1,
+   "rec_yds": 13.2,
+   "carries": 13.1,
+   "tds": 0.9
+  },
+  {
+   "player": "Elijah Mitchell",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 10.7,
+   "targets": 3.0,
+   "receptions": 2.4,
+   "rec_yds": 17.9,
+   "carries": 2.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Elijah Moore",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.3,
+   "rec_yds": 15.3,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Tanner McKee",
+   "team": "PHI",
+   "position": "QB",
+   "rush_yds": 7.7,
+   "pass_yds": 256.5,
+   "pass_att": 37.5,
+   "carries": 1.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Marquise Brown",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 3.9,
+   "receptions": 2.4,
+   "rec_yds": 31.7,
+   "carries": 0.4,
+   "tds": 0.0
+  },
+  {
+   "player": "Antonio Williams",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 3.1,
+   "rec_yds": 42.5,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Dyami Brown",
@@ -419,6 +400,17 @@
    "targets": 2.0,
    "receptions": 1.3,
    "rec_yds": 17.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Chig Okonkwo",
+   "team": "WAS",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.2,
+   "receptions": 4.2,
+   "rec_yds": 39.9,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -434,6 +426,38 @@
    "tds": 0.3
   },
   {
+   "player": "Jeremy McNichols",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 19.4,
+   "targets": 0.0,
+   "receptions": 0.0,
+   "rec_yds": 0.0,
+   "carries": 4.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 28.2,
+   "pass_yds": 239.6,
+   "pass_att": 33.4,
+   "carries": 5.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 39.2,
+   "targets": 4.0,
+   "receptions": 3.1,
+   "rec_yds": 18.3,
+   "carries": 8.0,
+   "tds": 0.4
+  },
+  {
    "player": "Stefon Diggs",
    "team": "WAS",
    "position": "WR",
@@ -443,28 +467,6 @@
    "rec_yds": 57.0,
    "carries": 0.0,
    "tds": 0.4
-  },
-  {
-   "player": "Chig Okonkwo",
-   "team": "WAS",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 4.2,
-   "rec_yds": 39.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Antonio Williams",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 42.5,
-   "carries": 0.0,
-   "tds": 0.0
   }
  ]
 }
