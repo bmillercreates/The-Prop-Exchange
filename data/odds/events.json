@@ -1,35 +1,7 @@
 [
  {
-  "event_id": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
-  "game_id": null,
-  "away": "Los Angeles Chargers",
-  "home": "Los Angeles Rams",
-  "kickoff_et": "2026-11-01T16:05:33-05:00"
- },
- {
-  "event_id": "f2a036d5edf483a277880014861e78ad",
-  "game_id": null,
-  "away": "Kansas City Chiefs",
-  "home": "Denver Broncos",
-  "kickoff_et": "2026-11-01T16:25:29-05:00"
- },
- {
-  "event_id": "05405af79752f5e742cdf50b61f6745e",
-  "game_id": null,
-  "away": "New England Patriots",
-  "home": "Miami Dolphins",
-  "kickoff_et": "2026-11-01T16:25:39-05:00"
- },
- {
-  "event_id": "b9c60db63b1a19ad319f24b33c0defe8",
-  "game_id": "2026_08_PHI_WAS",
-  "away": "Philadelphia Eagles",
-  "home": "Washington Commanders",
-  "kickoff_et": "2026-11-01T20:20:00-05:00"
- },
- {
   "event_id": "7d664fbcd39350e559d83c0068ba7169",
-  "game_id": null,
+  "game_id": "2026_08_CHI_SEA",
   "away": "Chicago Bears",
   "home": "Seattle Seahawks",
   "kickoff_et": "2026-11-02T20:20:00-05:00"
