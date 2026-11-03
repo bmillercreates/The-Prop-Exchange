@@ -1,0 +1,119 @@
+{
+ "game_id": "2026_09_CLE_NO",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-03T15:47-05:00",
+ "kickoff": "2026-11-08T13:00",
+ "weekday": "Sunday",
+ "away": "CLE",
+ "home": "NO",
+ "stadium": "Caesars Superdome",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_09_CLE_NO",
+  "stadium": "Caesars Superdome",
+  "kickoff_et": "2026-11-08T13:00:00-05:00",
+  "covered": true
+ },
+ "teams": {
+  "CLE": {
+   "implied_pts": 20.5,
+   "margin": -1.5,
+   "plays": 60.5,
+   "pass_att": 36.0,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Quinshon Judkins",
+   "team": "CLE",
+   "position": "RB",
+   "rush_yds": 52.4,
+   "targets": 3.1,
+   "receptions": 2.7,
+   "rec_yds": 20.1,
+   "carries": 12.3,
+   "tds": 0.8
+  },
+  {
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "position": "QB",
+   "rush_yds": 21.0,
+   "pass_yds": 270.1,
+   "pass_att": 36.0,
+   "carries": 4.6,
+   "tds": 0.1
+  },
+  {
+   "player": "Denzel Boston",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.4,
+   "receptions": 3.9,
+   "rec_yds": 57.7,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
+   "player": "Dylan Sampson",
+   "team": "CLE",
+   "position": "RB",
+   "rush_yds": 10.0,
+   "targets": 3.4,
+   "receptions": 2.8,
+   "rec_yds": 24.7,
+   "carries": 1.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Harold Fannin Jr.",
+   "team": "CLE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 7.0,
+   "receptions": 5.1,
+   "rec_yds": 62.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "KC Concepcion",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 3.4,
+   "targets": 6.2,
+   "receptions": 4.0,
+   "rec_yds": 46.2,
+   "carries": 0.8,
+   "tds": 0.2
+  },
+  {
+   "player": "Jerry Jeudy",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.2,
+   "rec_yds": 26.7,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Isaiah Bond",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.0,
+   "receptions": 1.2,
+   "rec_yds": 16.2,
+   "carries": 0.0,
+   "tds": 0.0
+  }
+ ]
+}

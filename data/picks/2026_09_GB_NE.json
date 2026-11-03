@@ -1,0 +1,207 @@
+{
+ "game_id": "2026_09_GB_NE",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-03T15:47-05:00",
+ "kickoff": "2026-11-08T16:25",
+ "weekday": "Sunday",
+ "away": "GB",
+ "home": "NE",
+ "stadium": "Gillette Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_09_GB_NE",
+  "stadium": "Gillette Stadium",
+  "kickoff_et": "2026-11-08T16:25:00-05:00",
+  "covered": false,
+  "temp_f": 48,
+  "wind_mph": 12,
+  "gust_mph": 28,
+  "precip_in": 0.0,
+  "precip_chance": 5
+ },
+ "teams": {
+  "GB": {
+   "implied_pts": 21.8,
+   "margin": -3.0,
+   "plays": 61.7,
+   "pass_att": 37.0,
+   "notes": []
+  },
+  "NE": {
+   "implied_pts": 24.8,
+   "margin": 3.0,
+   "plays": 63.1,
+   "pass_att": 31.1,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Josh Jacobs",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 32.7,
+   "targets": 4.3,
+   "receptions": 3.3,
+   "rec_yds": 23.3,
+   "carries": 10.6,
+   "tds": 1.0
+  },
+  {
+   "player": "Jordan Love",
+   "team": "GB",
+   "position": "QB",
+   "rush_yds": 2.6,
+   "pass_yds": 266.4,
+   "pass_att": 37.0,
+   "carries": 0.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Matthew Golden",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 0.2,
+   "targets": 10.6,
+   "receptions": 5.9,
+   "rec_yds": 83.2,
+   "carries": 0.1,
+   "tds": 0.4
+  },
+  {
+   "player": "Tucker Kraft",
+   "team": "GB",
+   "position": "TE",
+   "rush_yds": 0.3,
+   "targets": 5.8,
+   "receptions": 4.2,
+   "rec_yds": 40.6,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "MarShawn Lloyd",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 16.0,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 8.7,
+   "carries": 5.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Christian Watson",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.2,
+   "receptions": 5.3,
+   "rec_yds": 83.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Savion Williams",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 4.8,
+   "targets": 2.0,
+   "receptions": 1.4,
+   "rec_yds": 17.4,
+   "carries": 1.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Rhamondre Stevenson",
+   "team": "NE",
+   "position": "RB",
+   "rush_yds": 56.1,
+   "targets": 4.8,
+   "receptions": 4.0,
+   "rec_yds": 33.4,
+   "carries": 14.3,
+   "tds": 0.7
+  },
+  {
+   "player": "Corey Kiner",
+   "team": "NE",
+   "position": "RB",
+   "rush_yds": 28.8,
+   "targets": 0.3,
+   "receptions": 0.2,
+   "rec_yds": 1.6,
+   "carries": 6.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Efton Chism III",
+   "team": "NE",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 4.9,
+   "receptions": 3.5,
+   "rec_yds": 39.2,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
+   "player": "Eli Raridon",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.2,
+   "rec_yds": 31.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Kyle Williams",
+   "team": "NE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.3,
+   "receptions": 1.5,
+   "rec_yds": 23.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Drake Maye",
+   "team": "NE",
+   "position": "QB",
+   "rush_yds": 28.0,
+   "pass_yds": 239.8,
+   "pass_att": 31.1,
+   "carries": 7.0,
+   "tds": 0.2
+  },
+  {
+   "player": "DeMario Douglas",
+   "team": "NE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.6,
+   "receptions": 4.7,
+   "rec_yds": 57.9,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Hunter Henry",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.8,
+   "receptions": 4.9,
+   "rec_yds": 46.2,
+   "carries": 0.0,
+   "tds": 0.4
+  }
+ ]
+}

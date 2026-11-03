@@ -1,0 +1,135 @@
+{
+ "game_id": "2026_09_NYG_PHI",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-03T15:47-05:00",
+ "kickoff": "2026-11-08T13:00",
+ "weekday": "Sunday",
+ "away": "NYG",
+ "home": "PHI",
+ "stadium": "Lincoln Financial Field",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_09_NYG_PHI",
+  "stadium": "Lincoln Financial Field",
+  "kickoff_et": "2026-11-08T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 58,
+  "wind_mph": 14,
+  "gust_mph": 17,
+  "precip_in": 0.0,
+  "precip_chance": 3
+ },
+ "teams": {
+  "PHI": {
+   "implied_pts": 18.0,
+   "margin": -3.5,
+   "plays": 58.3,
+   "pass_att": 35.9,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 48.9,
+   "targets": 2.0,
+   "receptions": 1.4,
+   "rec_yds": 8.4,
+   "carries": 10.1,
+   "tds": 0.9
+  },
+  {
+   "player": "Marquise Brown",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 3.1,
+   "receptions": 1.9,
+   "rec_yds": 22.2,
+   "carries": 0.2,
+   "tds": 0.0
+  },
+  {
+   "player": "Elijah Mitchell",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 22.4,
+   "targets": 4.7,
+   "receptions": 3.3,
+   "rec_yds": 18.6,
+   "carries": 5.4,
+   "tds": 0.4
+  },
+  {
+   "player": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.8,
+   "receptions": 2.6,
+   "rec_yds": 34.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Elijah Moore",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.1,
+   "rec_yds": 12.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Eli Stowers",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.4,
+   "rec_yds": 13.6,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Dallas Goedert",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.3,
+   "targets": 6.5,
+   "receptions": 4.9,
+   "rec_yds": 42.0,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Tanner McKee",
+   "team": "PHI",
+   "position": "QB",
+   "rush_yds": 10.9,
+   "pass_yds": 202.3,
+   "pass_att": 35.9,
+   "carries": 2.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Makai Lemon",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 8.9,
+   "receptions": 5.8,
+   "rec_yds": 53.5,
+   "carries": 0.1,
+   "tds": 0.3
+  }
+ ]
+}

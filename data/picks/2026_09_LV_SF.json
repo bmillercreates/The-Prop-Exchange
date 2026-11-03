@@ -1,0 +1,124 @@
+{
+ "game_id": "2026_09_LV_SF",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-03T15:47-05:00",
+ "kickoff": "2026-11-08T16:05",
+ "weekday": "Sunday",
+ "away": "LV",
+ "home": "SF",
+ "stadium": "Levi's Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_09_LV_SF",
+  "stadium": "Levi's Stadium",
+  "kickoff_et": "2026-11-08T16:05:00-05:00",
+  "covered": false,
+  "temp_f": 71,
+  "wind_mph": 8,
+  "gust_mph": 7,
+  "precip_in": 0.0,
+  "precip_chance": 0
+ },
+ "teams": {
+  "LV": {
+   "implied_pts": 20.8,
+   "margin": -10.0,
+   "plays": 63.4,
+   "pass_att": 40.2,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Ashton Jeanty",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 25.5,
+   "targets": 6.4,
+   "receptions": 5.5,
+   "rec_yds": 54.1,
+   "carries": 8.3,
+   "tds": 0.6
+  },
+  {
+   "player": "Michael Mayer",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.3,
+   "receptions": 5.1,
+   "rec_yds": 42.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Tre Tucker",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 1.0,
+   "targets": 6.2,
+   "receptions": 3.7,
+   "rec_yds": 52.5,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Brock Bowers",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 11.1,
+   "receptions": 7.9,
+   "rec_yds": 80.9,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Cody White",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.5,
+   "rec_yds": 18.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jalen Nailor",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.7,
+   "receptions": 2.6,
+   "rec_yds": 28.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Kirk Cousins",
+   "team": "LV",
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 288.1,
+   "pass_att": 40.2,
+   "carries": 1.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 28.9,
+   "targets": 0.6,
+   "receptions": 0.5,
+   "rec_yds": 3.9,
+   "carries": 7.6,
+   "tds": 0.4
+  }
+ ]
+}
