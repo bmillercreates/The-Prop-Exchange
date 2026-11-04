@@ -117,5 +117,82 @@
   "away": "New England Patriots",
   "home": "Detroit Lions",
   "kickoff_et": "2026-11-15T09:30:00-05:00"
+ },
+ {
+  "event_id": "3c71d515b726f1096aabb435badb83fd",
+  "game_id": "2026_10_KC_ATL",
+  "away": "Kansas City Chiefs",
+  "home": "Atlanta Falcons",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "1057d50949844ddf483da9c8c20354be",
+  "game_id": "2026_10_BUF_NYJ",
+  "away": "Buffalo Bills",
+  "home": "New York Jets",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "e5aa20e1364dd639f042af1c2281bbe2",
+  "game_id": "2026_10_CAR_NO",
+  "away": "Carolina Panthers",
+  "home": "New Orleans Saints",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "be0e03cc42fbc9b6962467b22c7bf9dd",
+  "game_id": "2026_10_HOU_CLE",
+  "away": "Houston Texans",
+  "home": "Cleveland Browns",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "5d8d85473b87f772a979ecf294acab94",
+  "game_id": "2026_10_MIN_GB",
+  "away": "Minnesota Vikings",
+  "home": "Green Bay Packers",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "b5700b4d938fd94429f60d4622cc9c0a",
+  "game_id": "2026_10_MIA_IND",
+  "away": "Miami Dolphins",
+  "home": "Indianapolis Colts",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "28800df7e768ecec14f116454d560f9b",
+  "game_id": "2026_10_JAX_TEN",
+  "away": "Jacksonville Jaguars",
+  "home": "Tennessee Titans",
+  "kickoff_et": "2026-11-15T13:00:00-05:00"
+ },
+ {
+  "event_id": "6c932a965110f3f89ec4a5f1a6ac256e",
+  "game_id": null,
+  "away": "Los Angeles Rams",
+  "home": "Arizona Cardinals",
+  "kickoff_et": "2026-11-15T16:05:00-05:00"
+ },
+ {
+  "event_id": "7627192fd89b05120ab6c712aa23fd81",
+  "game_id": "2026_10_SF_DAL",
+  "away": "San Francisco 49ers",
+  "home": "Dallas Cowboys",
+  "kickoff_et": "2026-11-15T16:25:00-05:00"
+ },
+ {
+  "event_id": "48e497c230e6c9afcb3b600091d28e17",
+  "game_id": "2026_10_PIT_CIN",
+  "away": "Pittsburgh Steelers",
+  "home": "Cincinnati Bengals",
+  "kickoff_et": "2026-11-15T20:20:00-05:00"
+ },
+ {
+  "event_id": "35e3bdff558b5d1506251e814986f164",
+  "game_id": "2026_10_LAC_BAL",
+  "away": "Los Angeles Chargers",
+  "home": "Baltimore Ravens",
+  "kickoff_et": "2026-11-16T20:15:00-05:00"
  }
 ]

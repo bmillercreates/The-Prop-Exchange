@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_NYG_PHI",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-03T15:47-05:00",
+ "updated_at": "2026-11-04T16:03-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "NYG",
@@ -14,18 +14,18 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 58,
+  "temp_f": 61,
   "wind_mph": 14,
-  "gust_mph": 17,
+  "gust_mph": 21,
   "precip_in": 0.0,
-  "precip_chance": 3
+  "precip_chance": 1
  },
  "teams": {
   "PHI": {
-   "implied_pts": 18.0,
+   "implied_pts": 17.5,
    "margin": -3.5,
-   "plays": 58.3,
-   "pass_att": 35.9,
+   "plays": 57.8,
+   "pass_att": 35.7,
    "notes": []
   }
  },
@@ -34,48 +34,14 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Saquon Barkley",
+   "player": "Tanner McKee",
    "team": "PHI",
-   "position": "RB",
-   "rush_yds": 48.9,
-   "targets": 2.0,
-   "receptions": 1.4,
-   "rec_yds": 8.4,
-   "carries": 10.1,
-   "tds": 0.9
-  },
-  {
-   "player": "Marquise Brown",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.8,
-   "targets": 3.1,
-   "receptions": 1.9,
-   "rec_yds": 22.2,
-   "carries": 0.2,
+   "position": "QB",
+   "rush_yds": 10.8,
+   "pass_yds": 200.7,
+   "pass_att": 35.7,
+   "carries": 2.1,
    "tds": 0.0
-  },
-  {
-   "player": "Elijah Mitchell",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 22.4,
-   "targets": 4.7,
-   "receptions": 3.3,
-   "rec_yds": 18.6,
-   "carries": 5.4,
-   "tds": 0.4
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.8,
-   "receptions": 2.6,
-   "rec_yds": 34.0,
-   "carries": 0.0,
-   "tds": 0.1
   },
   {
    "player": "Elijah Moore",
@@ -84,19 +50,19 @@
    "rush_yds": 0.0,
    "targets": 1.7,
    "receptions": 1.1,
-   "rec_yds": 12.2,
+   "rec_yds": 12.1,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Eli Stowers",
+   "player": "Marquise Brown",
    "team": "PHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.9,
-   "receptions": 1.4,
-   "rec_yds": 13.6,
-   "carries": 0.0,
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 3.1,
+   "receptions": 1.9,
+   "rec_yds": 22.0,
+   "carries": 0.2,
    "tds": 0.0
   },
   {
@@ -105,31 +71,65 @@
    "position": "TE",
    "rush_yds": 0.3,
    "targets": 6.5,
-   "receptions": 4.9,
-   "rec_yds": 42.0,
+   "receptions": 4.8,
+   "rec_yds": 41.7,
    "carries": 0.2,
    "tds": 0.2
   },
   {
-   "player": "Tanner McKee",
+   "player": "Darius Cooper",
    "team": "PHI",
-   "position": "QB",
-   "rush_yds": 10.9,
-   "pass_yds": 202.3,
-   "pass_att": 35.9,
-   "carries": 2.1,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.8,
+   "receptions": 2.6,
+   "rec_yds": 33.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Eli Stowers",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.4,
+   "rec_yds": 13.5,
+   "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 48.5,
+   "targets": 2.0,
+   "receptions": 1.4,
+   "rec_yds": 8.4,
+   "carries": 10.0,
+   "tds": 0.9
   },
   {
    "player": "Makai Lemon",
    "team": "PHI",
    "position": "WR",
    "rush_yds": 0.3,
-   "targets": 8.9,
-   "receptions": 5.8,
-   "rec_yds": 53.5,
+   "targets": 8.8,
+   "receptions": 5.7,
+   "rec_yds": 53.1,
    "carries": 0.1,
    "tds": 0.3
+  },
+  {
+   "player": "Elijah Mitchell",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 22.2,
+   "targets": 4.7,
+   "receptions": 3.2,
+   "rec_yds": 18.5,
+   "carries": 5.4,
+   "tds": 0.4
   }
  ]
 }

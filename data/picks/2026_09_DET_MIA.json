@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_DET_MIA",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-03T15:47-05:00",
+ "updated_at": "2026-11-04T16:03-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DET",
@@ -14,11 +14,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 82,
-  "wind_mph": 11,
-  "gust_mph": 5,
-  "precip_in": 0.02,
-  "precip_chance": 9
+  "temp_f": 83,
+  "wind_mph": 13,
+  "gust_mph": 10,
+  "precip_in": 0.0,
+  "precip_chance": 12
  },
  "teams": {
   "DET": {
@@ -73,17 +73,6 @@
    "tds": 0.0
   },
   {
-   "player": "Jahmyr Gibbs",
-   "team": "DET",
-   "position": "RB",
-   "rush_yds": 126.9,
-   "targets": 5.4,
-   "receptions": 4.4,
-   "rec_yds": 36.5,
-   "carries": 24.5,
-   "tds": 1.5
-  },
-  {
    "player": "Isaac TeSlaa",
    "team": "DET",
    "position": "WR",
@@ -117,15 +106,15 @@
    "tds": 0.5
   },
   {
-   "player": "Malik Washington",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 3.5,
-   "targets": 7.0,
-   "receptions": 5.0,
-   "rec_yds": 59.8,
-   "carries": 0.8,
-   "tds": 0.3
+   "player": "Jahmyr Gibbs",
+   "team": "DET",
+   "position": "RB",
+   "rush_yds": 126.9,
+   "targets": 5.4,
+   "receptions": 4.4,
+   "rec_yds": 36.5,
+   "carries": 24.5,
+   "tds": 1.5
   },
   {
    "player": "Caleb Douglas",
@@ -137,17 +126,6 @@
    "rec_yds": 55.9,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Chris Bell",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 2.1,
-   "targets": 4.7,
-   "receptions": 2.9,
-   "rec_yds": 38.3,
-   "carries": 0.4,
-   "tds": 0.0
   },
   {
    "player": "Will Kacmarek",
@@ -193,15 +171,15 @@
    "tds": 0.2
   },
   {
-   "player": "Greg Dulcich",
+   "player": "Chris Bell",
    "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.1,
-   "receptions": 5.0,
-   "rec_yds": 59.3,
-   "carries": 0.0,
-   "tds": 0.1
+   "position": "WR",
+   "rush_yds": 2.1,
+   "targets": 4.7,
+   "receptions": 2.9,
+   "rec_yds": 38.3,
+   "carries": 0.4,
+   "tds": 0.0
   },
   {
    "player": "Jalen Tolbert",
@@ -213,6 +191,28 @@
    "rec_yds": 11.8,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Malik Washington",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 3.5,
+   "targets": 7.0,
+   "receptions": 5.0,
+   "rec_yds": 59.8,
+   "carries": 0.8,
+   "tds": 0.3
+  },
+  {
+   "player": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 5.0,
+   "rec_yds": 59.3,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

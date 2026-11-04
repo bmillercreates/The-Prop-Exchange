@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_HOU_LAC",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-03T15:47-05:00",
+ "updated_at": "2026-11-04T16:03-05:00",
  "kickoff": "2026-11-08T16:05",
  "weekday": "Sunday",
  "away": "HOU",
@@ -29,6 +29,17 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Charlie Kolar",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.2,
+   "receptions": 2.7,
+   "rec_yds": 25.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
    "player": "KeAndre Lambert-Smith",
    "team": "LAC",
    "position": "WR",
@@ -40,15 +51,26 @@
    "tds": 0.0
   },
   {
-   "player": "Oronde Gadsden II",
+   "player": "Keaton Mitchell",
    "team": "LAC",
-   "position": "TE",
-   "rush_yds": 0.1,
+   "position": "RB",
+   "rush_yds": 14.5,
+   "targets": 2.9,
+   "receptions": 2.3,
+   "rec_yds": 11.4,
+   "carries": 3.7,
+   "tds": 0.4
+  },
+  {
+   "player": "Ladd McConkey",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
    "targets": 4.7,
-   "receptions": 3.1,
-   "rec_yds": 28.1,
-   "carries": 0.1,
-   "tds": 0.2
+   "receptions": 3.3,
+   "rec_yds": 53.9,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Tre Harris",
@@ -59,16 +81,6 @@
    "receptions": 2.9,
    "rec_yds": 43.9,
    "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Justin Herbert",
-   "team": "LAC",
-   "position": "QB",
-   "rush_yds": 14.6,
-   "pass_yds": 248.7,
-   "pass_att": 34.1,
-   "carries": 3.8,
    "tds": 0.0
   },
   {
@@ -83,15 +95,25 @@
    "tds": 0.1
   },
   {
-   "player": "Keaton Mitchell",
+   "player": "Oronde Gadsden II",
    "team": "LAC",
-   "position": "RB",
-   "rush_yds": 14.5,
-   "targets": 2.9,
-   "receptions": 2.3,
-   "rec_yds": 11.4,
-   "carries": 3.7,
-   "tds": 0.4
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 4.7,
+   "receptions": 3.1,
+   "rec_yds": 28.1,
+   "carries": 0.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Justin Herbert",
+   "team": "LAC",
+   "position": "QB",
+   "rush_yds": 14.6,
+   "pass_yds": 248.7,
+   "pass_att": 34.1,
+   "carries": 3.8,
+   "tds": 0.0
   },
   {
    "player": "Omarion Hampton",
@@ -105,17 +127,6 @@
    "tds": 0.6
   },
   {
-   "player": "Ladd McConkey",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.7,
-   "receptions": 3.3,
-   "rec_yds": 53.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "Quentin Johnston",
    "team": "LAC",
    "position": "WR",
@@ -125,17 +136,6 @@
    "rec_yds": 40.7,
    "carries": 0.1,
    "tds": 0.0
-  },
-  {
-   "player": "Charlie Kolar",
-   "team": "LAC",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.2,
-   "receptions": 2.7,
-   "rec_yds": 25.4,
-   "carries": 0.0,
-   "tds": 0.1
   }
  ]
 }

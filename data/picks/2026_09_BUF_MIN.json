@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_BUF_MIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-03T15:47-05:00",
+ "updated_at": "2026-11-04T16:03-05:00",
  "kickoff": "2026-11-09T20:15",
  "weekday": "Monday",
  "away": "BUF",
@@ -36,17 +36,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Dalton Kincaid",
-   "team": "BUF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 2.9,
-   "rec_yds": 33.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Khalil Shakir",
    "team": "BUF",
    "position": "WR",
@@ -56,6 +45,27 @@
    "rec_yds": 39.9,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "rush_yds": 24.7,
+   "pass_yds": 194.3,
+   "pass_att": 28.0,
+   "carries": 6.4,
+   "tds": 0.3
+  },
+  {
+   "player": "James Cook",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 90.9,
+   "targets": 2.1,
+   "receptions": 1.5,
+   "rec_yds": 10.1,
+   "carries": 17.4,
+   "tds": 0.8
   },
   {
    "player": "Josh Palmer",
@@ -69,15 +79,26 @@
    "tds": 0.1
   },
   {
-   "player": "James Cook",
+   "player": "Dalton Kincaid",
    "team": "BUF",
-   "position": "RB",
-   "rush_yds": 90.9,
-   "targets": 2.1,
-   "receptions": 1.5,
-   "rec_yds": 10.1,
-   "carries": 17.4,
-   "tds": 0.8
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.3,
+   "receptions": 2.9,
+   "rec_yds": 33.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Keon Coleman",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.4,
+   "rec_yds": 30.0,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Ty Johnson",
@@ -102,27 +123,6 @@
    "tds": 0.3
   },
   {
-   "player": "Josh Allen",
-   "team": "BUF",
-   "position": "QB",
-   "rush_yds": 24.7,
-   "pass_yds": 194.3,
-   "pass_att": 28.0,
-   "carries": 6.4,
-   "tds": 0.3
-  },
-  {
-   "player": "Keon Coleman",
-   "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.4,
-   "rec_yds": 30.0,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Jauan Jennings",
    "team": "MIN",
    "position": "WR",
@@ -130,39 +130,6 @@
    "targets": 2.4,
    "receptions": 1.5,
    "rec_yds": 18.3,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Gavin Bartholomew",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.4,
-   "rec_yds": 15.5,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Justin Jefferson",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.2,
-   "targets": 8.9,
-   "receptions": 6.1,
-   "rec_yds": 75.9,
-   "carries": 0.1,
-   "tds": 0.5
-  },
-  {
-   "player": "Tai Felton",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.0,
-   "rec_yds": 12.7,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -176,6 +143,71 @@
    "rec_yds": 15.7,
    "carries": 9.9,
    "tds": 0.4
+  },
+  {
+   "player": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 5.0,
+   "rec_yds": 55.0,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.4,
+   "rec_yds": 15.5,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Kyler Murray",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 18.4,
+   "pass_yds": 254.1,
+   "pass_att": 34.0,
+   "carries": 4.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.0,
+   "rec_yds": 12.7,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Jordan Mason",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 36.1,
+   "targets": 0.8,
+   "receptions": 0.7,
+   "rec_yds": 5.1,
+   "carries": 9.8,
+   "tds": 0.3
+  },
+  {
+   "player": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.2,
+   "targets": 8.9,
+   "receptions": 6.1,
+   "rec_yds": 75.9,
+   "carries": 0.1,
+   "tds": 0.5
   },
   {
    "player": "Ben Yurosek",
@@ -198,38 +230,6 @@
    "rec_yds": 51.8,
    "carries": 0.3,
    "tds": 0.1
-  },
-  {
-   "player": "Kyler Murray",
-   "team": "MIN",
-   "position": "QB",
-   "rush_yds": 18.4,
-   "pass_yds": 254.1,
-   "pass_att": 34.0,
-   "carries": 4.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Jordan Mason",
-   "team": "MIN",
-   "position": "RB",
-   "rush_yds": 36.1,
-   "targets": 0.8,
-   "receptions": 0.7,
-   "rec_yds": 5.1,
-   "carries": 9.8,
-   "tds": 0.3
-  },
-  {
-   "player": "T.J. Hockenson",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.1,
-   "receptions": 5.0,
-   "rec_yds": 55.0,
-   "carries": 0.0,
-   "tds": 0.5
   }
  ]
 }

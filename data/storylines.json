@@ -11,12 +11,6 @@
    "player": "Derrick Henry",
    "team": "BAL",
    "text": "Derrick Henry needs 1 more total TD to reach 10 for the season (has 9)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Parker Washington",
-   "team": "JAX",
-   "text": "Parker Washington needs 68 more receiving yards to reach 500 for the season (has 432)."
   }
  ],
  "2026_09_CIN_ATL": [
@@ -205,9 +199,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Michael Wilson",
-   "team": "ARI",
-   "text": "Michael Wilson needs 5 more catches to reach 50 for the season (has 45)."
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "text": "Jaxon Smith-Njigba needs 1 more total TD to reach 10 for the season (has 9)."
   }
  ],
  "2026_09_TB_CHI": [
