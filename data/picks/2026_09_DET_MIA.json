@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_DET_MIA",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-04T16:03-05:00",
+ "updated_at": "2026-11-05T16:20-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DET",
@@ -14,11 +14,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 83,
-  "wind_mph": 13,
-  "gust_mph": 10,
+  "temp_f": 84,
+  "wind_mph": 12,
+  "gust_mph": 9,
   "precip_in": 0.0,
-  "precip_chance": 12
+  "precip_chance": 5
  },
  "teams": {
   "DET": {
@@ -41,28 +41,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Sione Vaki",
-   "team": "DET",
-   "position": "RB",
-   "rush_yds": 18.9,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 4.6,
-   "carries": 4.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Amon-Ra St. Brown",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 9.4,
-   "receptions": 6.0,
-   "rec_yds": 64.0,
-   "carries": 0.3,
-   "tds": 0.4
-  },
-  {
    "player": "Jared Goff",
    "team": "DET",
    "position": "QB",
@@ -71,39 +49,6 @@
    "pass_att": 29.5,
    "carries": 2.2,
    "tds": 0.0
-  },
-  {
-   "player": "Isaac TeSlaa",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.4,
-   "rec_yds": 19.9,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Sam LaPorta",
-   "team": "DET",
-   "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 4.9,
-   "receptions": 3.8,
-   "rec_yds": 45.4,
-   "carries": 0.2,
-   "tds": 0.4
-  },
-  {
-   "player": "Jameson Williams",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.7,
-   "receptions": 3.3,
-   "rec_yds": 46.4,
-   "carries": 0.0,
-   "tds": 0.5
   },
   {
    "player": "Jahmyr Gibbs",
@@ -117,47 +62,59 @@
    "tds": 1.5
   },
   {
-   "player": "Caleb Douglas",
-   "team": "MIA",
+   "player": "Amon-Ra St. Brown",
+   "team": "DET",
+   "position": "WR",
+   "rush_yds": 1.5,
+   "targets": 9.4,
+   "receptions": 6.0,
+   "rec_yds": 64.0,
+   "carries": 0.3,
+   "tds": 0.4
+  },
+  {
+   "player": "Isaac TeSlaa",
+   "team": "DET",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.2,
-   "receptions": 3.6,
-   "rec_yds": 55.9,
+   "targets": 2.6,
+   "receptions": 1.4,
+   "rec_yds": 19.9,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.2
   },
   {
-   "player": "Will Kacmarek",
-   "team": "MIA",
-   "position": "TE",
+   "player": "Jameson Williams",
+   "team": "DET",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.5,
-   "receptions": 1.1,
-   "rec_yds": 11.5,
+   "targets": 5.7,
+   "receptions": 3.3,
+   "rec_yds": 46.4,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.5
   },
   {
-   "player": "Ollie Gordon II",
-   "team": "MIA",
+   "player": "Sione Vaki",
+   "team": "DET",
    "position": "RB",
-   "rush_yds": 58.8,
-   "targets": 2.1,
-   "receptions": 1.5,
-   "rec_yds": 8.4,
-   "carries": 15.3,
-   "tds": 0.9
+   "rush_yds": 18.9,
+   "targets": 0.7,
+   "receptions": 0.5,
+   "rec_yds": 4.6,
+   "carries": 4.1,
+   "tds": 0.0
   },
   {
-   "player": "Malik Willis",
-   "team": "MIA",
-   "position": "QB",
-   "rush_yds": 24.2,
-   "pass_yds": 273.7,
-   "pass_att": 33.4,
-   "carries": 3.9,
-   "tds": 0.1
+   "player": "Sam LaPorta",
+   "team": "DET",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 4.9,
+   "receptions": 3.8,
+   "rec_yds": 45.4,
+   "carries": 0.2,
+   "tds": 0.4
   },
   {
    "player": "Kevin Coleman Jr.",
@@ -171,15 +128,26 @@
    "tds": 0.2
   },
   {
-   "player": "Chris Bell",
+   "player": "Will Kacmarek",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.5,
+   "receptions": 1.1,
+   "rec_yds": 11.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Caleb Douglas",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 2.1,
-   "targets": 4.7,
-   "receptions": 2.9,
-   "rec_yds": 38.3,
-   "carries": 0.4,
-   "tds": 0.0
+   "rush_yds": 0.0,
+   "targets": 5.2,
+   "receptions": 3.6,
+   "rec_yds": 55.9,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Jalen Tolbert",
@@ -202,6 +170,38 @@
    "rec_yds": 59.8,
    "carries": 0.8,
    "tds": 0.3
+  },
+  {
+   "player": "Malik Willis",
+   "team": "MIA",
+   "position": "QB",
+   "rush_yds": 24.2,
+   "pass_yds": 273.7,
+   "pass_att": 33.4,
+   "carries": 3.9,
+   "tds": 0.1
+  },
+  {
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "rush_yds": 58.8,
+   "targets": 2.1,
+   "receptions": 1.5,
+   "rec_yds": 8.4,
+   "carries": 15.3,
+   "tds": 0.9
+  },
+  {
+   "player": "Chris Bell",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 2.1,
+   "targets": 4.7,
+   "receptions": 2.9,
+   "rec_yds": 38.3,
+   "carries": 0.4,
+   "tds": 0.0
   },
   {
    "player": "Greg Dulcich",

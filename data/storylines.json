@@ -11,6 +11,12 @@
    "player": "Derrick Henry",
    "team": "BAL",
    "text": "Derrick Henry needs 1 more total TD to reach 10 for the season (has 9)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Parker Washington",
+   "team": "JAX",
+   "text": "Parker Washington needs 68 more receiving yards to reach 500 for the season (has 432)."
   }
  ],
  "2026_09_CIN_ATL": [
@@ -98,6 +104,12 @@
   },
   {
    "type": "Milestone",
+   "player": "Chris Olave",
+   "team": "NO",
+   "text": "Chris Olave needs 1 more catch to reach 50 for the season (has 49)."
+  },
+  {
+   "type": "Milestone",
    "player": "Deshaun Watson",
    "team": "CLE",
    "text": "Deshaun Watson needs 194 more passing yards to reach 2,000 for the season (has 1,806)."
@@ -109,23 +121,42 @@
    "player": "Saquon Barkley",
    "team": "PHI",
    "text": "Saquon Barkley (PHI RB) faces the Giants, the team he played for from 2018 to 2023."
+  },
+  {
+   "type": "Milestone",
+   "player": "Malik Nabers",
+   "team": "NYG",
+   "text": "Malik Nabers needs 2 more catches to reach 50 for the season (has 48)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Cam Skattebo",
+   "team": "NYG",
+   "text": "Cam Skattebo needs 82 more rushing yards to reach 500 for the season (has 418)."
   }
  ],
  "2026_09_LA_WAS": [
   {
    "type": "Milestone",
-   "player": "Puka Nacua",
-   "team": "LA",
-   "text": "Puka Nacua needs 1 more total TD to reach 5 for the season (has 4)."
-  },
-  {
-   "type": "Milestone",
    "player": "Blake Corum",
    "team": "LA",
    "text": "Blake Corum needs 1 more total TD to reach 5 for the season (has 4)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Puka Nacua",
+   "team": "LA",
+   "text": "Puka Nacua needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
- "2026_09_HOU_LAC": [],
+ "2026_09_HOU_LAC": [
+  {
+   "type": "Milestone",
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "text": "C.J. Stroud needs 133 more passing yards to reach 2,000 for the season (has 1,867)."
+  }
+ ],
  "2026_09_LV_SF": [
   {
    "type": "Milestone",
@@ -141,9 +172,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Brock Bowers",
-   "team": "LV",
-   "text": "Brock Bowers needs 9 more catches to reach 50 for the season (has 41)."
+   "player": "Brock Purdy",
+   "team": "SF",
+   "text": "Brock Purdy needs 252 more passing yards to reach 2,000 for the season (has 1,748)."
   }
  ],
  "2026_09_GB_NE": [
@@ -175,12 +206,6 @@
    "type": "Milestone",
    "player": "Matthew Golden",
    "team": "GB",
-   "text": "Matthew Golden needs 7 more catches to reach 50 for the season (has 43)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Matthew Golden",
-   "team": "GB",
    "text": "Matthew Golden needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
@@ -199,9 +224,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Jaxon Smith-Njigba",
-   "team": "SEA",
-   "text": "Jaxon Smith-Njigba needs 1 more total TD to reach 10 for the season (has 9)."
+   "player": "Michael Wilson",
+   "team": "ARI",
+   "text": "Michael Wilson needs 5 more catches to reach 50 for the season (has 45)."
   }
  ],
  "2026_09_TB_CHI": [

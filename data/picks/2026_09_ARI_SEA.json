@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_ARI_SEA",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-04T16:03-05:00",
+ "updated_at": "2026-11-05T16:20-05:00",
  "kickoff": "2026-11-08T16:25",
  "weekday": "Sunday",
  "away": "ARI",
@@ -14,11 +14,11 @@
   "stadium": "Lumen Field",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 50,
-  "wind_mph": 10,
-  "gust_mph": 13,
+  "temp_f": 55,
+  "wind_mph": 9,
+  "gust_mph": 15,
   "precip_in": 0.02,
-  "precip_chance": 20
+  "precip_chance": 12
  },
  "teams": {
   "ARI": {
@@ -41,36 +41,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Reggie Virgil",
+   "player": "Michael Wilson",
    "team": "ARI",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.3,
-   "rec_yds": 14.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Bam Knight",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 20.6,
-   "targets": 2.3,
-   "receptions": 1.8,
-   "rec_yds": 12.1,
-   "carries": 4.9,
-   "tds": 0.2
-  },
-  {
-   "player": "Jacoby Brissett",
-   "team": "ARI",
-   "position": "QB",
-   "rush_yds": 13.3,
-   "pass_yds": 189.6,
-   "pass_att": 38.5,
-   "carries": 3.5,
-   "tds": 0.1
+   "rush_yds": 4.3,
+   "targets": 11.9,
+   "receptions": 6.4,
+   "rec_yds": 62.4,
+   "carries": 0.6,
+   "tds": 0.3
   },
   {
    "player": "Elijah Higgins",
@@ -95,6 +74,38 @@
    "tds": 0.4
   },
   {
+   "player": "Bam Knight",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 20.6,
+   "targets": 2.3,
+   "receptions": 1.8,
+   "rec_yds": 12.1,
+   "carries": 4.9,
+   "tds": 0.2
+  },
+  {
+   "player": "Jacoby Brissett",
+   "team": "ARI",
+   "position": "QB",
+   "rush_yds": 13.3,
+   "pass_yds": 189.6,
+   "pass_att": 38.5,
+   "carries": 3.5,
+   "tds": 0.1
+  },
+  {
+   "player": "Reggie Virgil",
+   "team": "ARI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.3,
+   "rec_yds": 14.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Trey McBride",
    "team": "ARI",
    "position": "TE",
@@ -106,90 +117,35 @@
    "tds": 0.5
   },
   {
-   "player": "Michael Wilson",
-   "team": "ARI",
-   "position": "WR",
-   "rush_yds": 4.3,
-   "targets": 11.9,
-   "receptions": 6.4,
-   "rec_yds": 62.4,
-   "carries": 0.6,
+   "player": "George Holani",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 13.2,
+   "targets": 1.5,
+   "receptions": 1.1,
+   "rec_yds": 8.4,
+   "carries": 3.4,
    "tds": 0.3
   },
   {
    "player": "Zach Charbonnet",
    "team": "SEA",
    "position": "RB",
-   "rush_yds": 17.2,
-   "targets": 1.9,
-   "receptions": 1.3,
-   "rec_yds": 9.5,
-   "carries": 4.0,
+   "rush_yds": 16.0,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 8.3,
+   "carries": 3.7,
    "tds": 0.3
-  },
-  {
-   "player": "AJ Barner",
-   "team": "SEA",
-   "position": "TE",
-   "rush_yds": 0.3,
-   "targets": 3.9,
-   "receptions": 2.6,
-   "rec_yds": 26.2,
-   "carries": 0.2,
-   "tds": 0.2
   },
   {
    "player": "Cooper Kupp",
    "team": "SEA",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 1.9,
-   "rec_yds": 23.7,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "George Holani",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 13.0,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 9.0,
-   "carries": 3.4,
-   "tds": 0.3
-  },
-  {
-   "player": "Emanuel Wilson",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 45.7,
-   "targets": 1.3,
-   "receptions": 0.9,
-   "rec_yds": 7.6,
-   "carries": 11.6,
-   "tds": 0.5
-  },
-  {
-   "player": "Jadarian Price",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 36.6,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 11.3,
-   "carries": 8.7,
-   "tds": 0.1
-  },
-  {
-   "player": "Tory Horton",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 1.6,
-   "rec_yds": 21.5,
+   "targets": 2.8,
+   "receptions": 1.7,
+   "rec_yds": 21.4,
    "carries": 0.0,
    "tds": 0.2
   },
@@ -197,12 +153,67 @@
    "player": "Jaxon Smith-Njigba",
    "team": "SEA",
    "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 10.3,
-   "receptions": 6.8,
-   "rec_yds": 108.4,
+   "rush_yds": 1.3,
+   "targets": 9.1,
+   "receptions": 6.1,
+   "rec_yds": 96.5,
    "carries": 0.2,
    "tds": 0.5
+  },
+  {
+   "player": "Rashid Shaheed",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 3.5,
+   "receptions": 1.9,
+   "rec_yds": 24.1,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "AJ Barner",
+   "team": "SEA",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 3.4,
+   "receptions": 2.3,
+   "rec_yds": 22.8,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Tory Horton",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.2,
+   "receptions": 1.2,
+   "rec_yds": 16.3,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Emanuel Wilson",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 42.6,
+   "targets": 1.1,
+   "receptions": 0.8,
+   "rec_yds": 6.6,
+   "carries": 10.8,
+   "tds": 0.5
+  },
+  {
+   "player": "Jadarian Price",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 32.0,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 9.3,
+   "carries": 7.6,
+   "tds": 0.1
   }
  ]
 }
