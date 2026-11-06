@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_HOU_LAC",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-05T16:20-05:00",
+ "updated_at": "2026-11-06T15:44-05:00",
  "kickoff": "2026-11-08T16:05",
  "weekday": "Sunday",
  "away": "HOU",
@@ -17,19 +17,19 @@
  },
  "teams": {
   "HOU": {
-   "implied_pts": 23.0,
-   "margin": 5.5,
+   "implied_pts": 23.2,
+   "margin": 6.0,
    "plays": 56.3,
-   "pass_att": 28.8,
+   "pass_att": 28.6,
    "notes": [
     "coming off a bye"
    ]
   },
   "LAC": {
-   "implied_pts": 17.5,
-   "margin": -5.5,
+   "implied_pts": 17.2,
+   "margin": -6.0,
    "plays": 60.4,
-   "pass_att": 34.5,
+   "pass_att": 34.6,
    "notes": []
   }
  },
@@ -38,69 +38,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Woody Marks",
-   "team": "HOU",
-   "position": "RB",
-   "rush_yds": 65.1,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 9.9,
-   "carries": 15.6,
-   "tds": 0.5
-  },
-  {
    "player": "Foster Moreau",
    "team": "HOU",
    "position": "TE",
    "rush_yds": 0.0,
    "targets": 2.0,
    "receptions": 1.4,
-   "rec_yds": 12.8,
+   "rec_yds": 12.7,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Marvin Harrison Jr.",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 1.8,
-   "rec_yds": 21.3,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Kayshon Boutte",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 1.8,
-   "rec_yds": 22.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Dalton Schultz",
-   "team": "HOU",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.4,
-   "receptions": 3.8,
-   "rec_yds": 39.2,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "position": "QB",
-   "rush_yds": 8.2,
-   "pass_yds": 201.8,
-   "pass_att": 28.8,
-   "carries": 2.3,
-   "tds": 0.0
   },
   {
    "player": "Nico Collins",
@@ -109,7 +55,7 @@
    "rush_yds": 3.6,
    "targets": 5.4,
    "receptions": 3.5,
-   "rec_yds": 45.9,
+   "rec_yds": 45.7,
    "carries": 0.5,
    "tds": 0.3
   },
@@ -117,33 +63,76 @@
    "player": "Jawhar Jordan",
    "team": "HOU",
    "position": "RB",
-   "rush_yds": 19.1,
+   "rush_yds": 19.2,
    "targets": 0.5,
    "receptions": 0.4,
    "rec_yds": 2.5,
-   "carries": 3.7,
+   "carries": 3.8,
    "tds": 0.2
+  },
+  {
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "rush_yds": 8.3,
+   "pass_yds": 201.0,
+   "pass_att": 28.6,
+   "carries": 2.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Kayshon Boutte",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 1.8,
+   "rec_yds": 22.6,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Xavier Hutchinson",
    "team": "HOU",
    "position": "WR",
    "rush_yds": 4.5,
-   "targets": 4.6,
+   "targets": 4.5,
    "receptions": 2.5,
-   "rec_yds": 31.2,
+   "rec_yds": 31.1,
    "carries": 0.7,
    "tds": 0.3
   },
   {
-   "player": "Oronde Gadsden II",
-   "team": "LAC",
+   "player": "Woody Marks",
+   "team": "HOU",
+   "position": "RB",
+   "rush_yds": 65.6,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 9.9,
+   "carries": 15.7,
+   "tds": 0.5
+  },
+  {
+   "player": "Dalton Schultz",
+   "team": "HOU",
    "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 4.5,
-   "receptions": 2.9,
-   "rec_yds": 26.9,
-   "carries": 0.1,
+   "rush_yds": 0.0,
+   "targets": 5.3,
+   "receptions": 3.7,
+   "rec_yds": 39.0,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Marvin Harrison Jr.",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 1.7,
+   "rec_yds": 21.2,
+   "carries": 0.0,
    "tds": 0.2
   },
   {
@@ -151,66 +140,21 @@
    "team": "LAC",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.0,
+   "targets": 4.1,
    "receptions": 2.6,
-   "rec_yds": 24.3,
+   "rec_yds": 24.4,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Theo Wease Jr.",
+   "player": "Justin Herbert",
    "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.2,
-   "rec_yds": 17.8,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Keaton Mitchell",
-   "team": "LAC",
-   "position": "RB",
+   "position": "QB",
    "rush_yds": 14.2,
-   "targets": 2.7,
-   "receptions": 2.2,
-   "rec_yds": 10.9,
+   "pass_yds": 253.3,
+   "pass_att": 34.6,
    "carries": 3.7,
-   "tds": 0.3
-  },
-  {
-   "player": "Quentin Johnston",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 4.2,
-   "receptions": 2.4,
-   "rec_yds": 38.9,
-   "carries": 0.1,
    "tds": 0.0
-  },
-  {
-   "player": "Omarion Hampton",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 32.1,
-   "targets": 2.7,
-   "receptions": 2.2,
-   "rec_yds": 11.5,
-   "carries": 8.9,
-   "tds": 0.6
-  },
-  {
-   "player": "Kimani Vidal",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 21.6,
-   "targets": 2.3,
-   "receptions": 1.8,
-   "rec_yds": 9.3,
-   "carries": 5.1,
-   "tds": 0.1
   },
   {
    "player": "KeAndre Lambert-Smith",
@@ -219,19 +163,20 @@
    "rush_yds": 0.0,
    "targets": 2.0,
    "receptions": 1.3,
-   "rec_yds": 16.3,
+   "rec_yds": 16.4,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Justin Herbert",
+   "player": "Keaton Mitchell",
    "team": "LAC",
-   "position": "QB",
-   "rush_yds": 14.3,
-   "pass_yds": 251.4,
-   "pass_att": 34.5,
-   "carries": 3.7,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 14.0,
+   "targets": 2.7,
+   "receptions": 2.3,
+   "rec_yds": 10.9,
+   "carries": 3.6,
+   "tds": 0.3
   },
   {
    "player": "Ladd McConkey",
@@ -240,9 +185,64 @@
    "rush_yds": 0.0,
    "targets": 4.5,
    "receptions": 3.1,
-   "rec_yds": 51.5,
+   "rec_yds": 51.9,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Quentin Johnston",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 4.2,
+   "receptions": 2.4,
+   "rec_yds": 39.2,
+   "carries": 0.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Theo Wease Jr.",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 17.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kimani Vidal",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 21.3,
+   "targets": 2.3,
+   "receptions": 1.8,
+   "rec_yds": 9.3,
+   "carries": 5.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Oronde Gadsden II",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 4.5,
+   "receptions": 3.0,
+   "rec_yds": 27.1,
+   "carries": 0.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 31.8,
+   "targets": 2.7,
+   "receptions": 2.2,
+   "rec_yds": 11.6,
+   "carries": 8.8,
+   "tds": 0.5
   },
   {
    "player": "Tre Harris",
@@ -251,7 +251,7 @@
    "rush_yds": 0.0,
    "targets": 4.2,
    "receptions": 2.8,
-   "rec_yds": 42.0,
+   "rec_yds": 42.3,
    "carries": 0.0,
    "tds": 0.0
   }

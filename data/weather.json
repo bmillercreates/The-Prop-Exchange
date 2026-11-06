@@ -161,8 +161,8 @@
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
   "temp_f": 64,
-  "wind_mph": 5,
-  "gust_mph": 7,
+  "wind_mph": 7,
+  "gust_mph": 8,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -177,8 +177,8 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 65,
-  "wind_mph": 9,
+  "temp_f": 64,
+  "wind_mph": 8,
   "gust_mph": 11,
   "precip_in": 0.0,
   "precip_chance": 0
@@ -188,11 +188,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 84,
-  "wind_mph": 12,
-  "gust_mph": 9,
+  "temp_f": 83,
+  "wind_mph": 9,
+  "gust_mph": 7,
   "precip_in": 0.0,
-  "precip_chance": 5
+  "precip_chance": 6
  },
  "2026_09_CLE_NO": {
   "game_id": "2026_09_CLE_NO",
@@ -205,9 +205,9 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 59,
-  "wind_mph": 14,
-  "gust_mph": 21,
+  "temp_f": 63,
+  "wind_mph": 11,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -216,9 +216,9 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 61,
-  "wind_mph": 13,
-  "gust_mph": 18,
+  "temp_f": 62,
+  "wind_mph": 10,
+  "gust_mph": 16,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -235,7 +235,7 @@
   "covered": false,
   "temp_f": 72,
   "wind_mph": 7,
-  "gust_mph": 7,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -244,11 +244,11 @@
   "stadium": "Gillette Stadium",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 48,
+  "temp_f": 50,
   "wind_mph": 12,
-  "gust_mph": 29,
+  "gust_mph": 25,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "2026_09_ARI_SEA": {
   "game_id": "2026_09_ARI_SEA",
@@ -256,19 +256,19 @@
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
   "temp_f": 55,
-  "wind_mph": 9,
-  "gust_mph": 15,
-  "precip_in": 0.02,
-  "precip_chance": 12
+  "wind_mph": 13,
+  "gust_mph": 24,
+  "precip_in": 0.0,
+  "precip_chance": 6
  },
  "2026_09_TB_CHI": {
   "game_id": "2026_09_TB_CHI",
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-08T20:20:00-05:00",
   "covered": false,
-  "temp_f": 55,
-  "wind_mph": 10,
-  "gust_mph": 25,
+  "temp_f": 54,
+  "wind_mph": 9,
+  "gust_mph": 24,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -284,10 +284,10 @@
   "kickoff_et": "2026-11-12T20:15:00-05:00",
   "covered": false,
   "temp_f": 46,
-  "wind_mph": 8,
-  "gust_mph": 11,
+  "wind_mph": 6,
+  "gust_mph": 8,
   "precip_in": 0.0,
-  "precip_chance": 13
+  "precip_chance": 10
  },
  "2026_10_NE_DET": {
   "game_id": "2026_10_NE_DET",
@@ -307,21 +307,21 @@
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
   "temp_f": 42,
-  "wind_mph": 9,
-  "gust_mph": 12,
-  "precip_in": 0.02,
-  "precip_chance": 4
+  "wind_mph": 14,
+  "gust_mph": 16,
+  "precip_in": 0.0,
+  "precip_chance": 5
  },
  "2026_10_MIN_GB": {
   "game_id": "2026_10_MIN_GB",
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 44,
-  "wind_mph": 3,
-  "gust_mph": 3,
+  "temp_f": 43,
+  "wind_mph": 11,
+  "gust_mph": 18,
   "precip_in": 0.0,
-  "precip_chance": 3
+  "precip_chance": 4
  },
  "2026_10_MIA_IND": {
   "game_id": "2026_10_MIA_IND",
@@ -340,22 +340,14 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 14,
-  "gust_mph": 20,
-  "precip_in": 0.0,
-  "precip_chance": 4
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
  },
  "2026_10_JAX_TEN": {
   "game_id": "2026_10_JAX_TEN",
   "stadium": "Nissan Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 56,
-  "wind_mph": 4,
-  "gust_mph": 8,
-  "precip_in": 0.0,
-  "precip_chance": 4
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
  },
  "2026_10_LA_ARI": {
   "game_id": "2026_10_LA_ARI",
@@ -380,21 +372,19 @@
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-15T20:20:00-05:00",
   "covered": false,
-  "temp_f": 41,
-  "wind_mph": 3,
-  "gust_mph": 4,
-  "precip_in": 0.0,
-  "precip_chance": 3
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
  },
  "2026_10_LAC_BAL": {
   "game_id": "2026_10_LAC_BAL",
   "stadium": "M&T Bank Stadium",
   "kickoff_et": "2026-11-16T20:15:00-05:00",
   "covered": false,
-  "temp_f": 42,
-  "wind_mph": 10,
-  "gust_mph": 23,
-  "precip_in": 0.0,
-  "precip_chance": 2
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+ },
+ "2026_11_IND_HOU": {
+  "game_id": "2026_11_IND_HOU",
+  "stadium": "Reliant Stadium",
+  "kickoff_et": "2026-11-19T20:15:00-05:00",
+  "covered": true
  }
 }

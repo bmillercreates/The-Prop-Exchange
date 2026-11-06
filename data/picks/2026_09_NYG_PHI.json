@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_NYG_PHI",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-05T16:20-05:00",
+ "updated_at": "2026-11-06T15:44-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "NYG",
@@ -14,27 +14,27 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 59,
-  "wind_mph": 14,
-  "gust_mph": 21,
+  "temp_f": 63,
+  "wind_mph": 11,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "teams": {
   "NYG": {
-   "implied_pts": 21.0,
-   "margin": 3.5,
+   "implied_pts": 20.8,
+   "margin": 3.0,
    "plays": 61.9,
-   "pass_att": 32.3,
+   "pass_att": 32.5,
    "notes": [
     "coming off a bye"
    ]
   },
   "PHI": {
-   "implied_pts": 17.5,
-   "margin": -3.5,
+   "implied_pts": 17.8,
+   "margin": -3.0,
    "plays": 57.8,
-   "pass_att": 35.7,
+   "pass_att": 35.5,
    "notes": []
   }
  },
@@ -43,47 +43,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Jameis Winston",
-   "team": "NYG",
-   "position": "QB",
-   "rush_yds": 10.4,
-   "pass_yds": 220.3,
-   "pass_att": 32.3,
-   "carries": 2.8,
-   "tds": 0.2
-  },
-  {
-   "player": "Darnell Mooney",
-   "team": "NYG",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 3.1,
-   "receptions": 1.7,
-   "rec_yds": 24.8,
-   "carries": 0.5,
-   "tds": 0.0
-  },
-  {
    "player": "Malachi Fields",
    "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
    "targets": 4.6,
    "receptions": 2.8,
-   "rec_yds": 44.6,
+   "rec_yds": 45.0,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Cam Skattebo",
-   "team": "NYG",
-   "position": "RB",
-   "rush_yds": 68.2,
-   "targets": 2.1,
-   "receptions": 1.5,
-   "rec_yds": 9.8,
-   "carries": 13.6,
-   "tds": 0.6
   },
   {
    "player": "Theo Johnson",
@@ -92,8 +60,62 @@
    "rush_yds": 0.0,
    "targets": 2.0,
    "receptions": 1.2,
-   "rec_yds": 12.1,
+   "rec_yds": 12.2,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jameis Winston",
+   "team": "NYG",
+   "position": "QB",
+   "rush_yds": 10.4,
+   "pass_yds": 222.1,
+   "pass_att": 32.5,
+   "carries": 2.7,
+   "tds": 0.2
+  },
+  {
+   "player": "Malik Nabers",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.3,
+   "receptions": 6.5,
+   "rec_yds": 93.8,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Cam Skattebo",
+   "team": "NYG",
+   "position": "RB",
+   "rush_yds": 67.5,
+   "targets": 2.1,
+   "receptions": 1.5,
+   "rec_yds": 9.9,
+   "carries": 13.5,
+   "tds": 0.6
+  },
+  {
+   "player": "Darnell Mooney",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 3.1,
+   "receptions": 1.7,
+   "rec_yds": 25.0,
+   "carries": 0.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Devin Singletary",
+   "team": "NYG",
+   "position": "RB",
+   "rush_yds": 19.0,
+   "targets": 2.2,
+   "receptions": 1.6,
+   "rec_yds": 10.6,
+   "carries": 3.8,
    "tds": 0.1
   },
   {
@@ -101,76 +123,22 @@
    "team": "NYG",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 7.7,
+   "targets": 7.8,
    "receptions": 4.8,
-   "rec_yds": 43.5,
+   "rec_yds": 43.8,
    "carries": 0.0,
    "tds": 0.3
   },
   {
-   "player": "Malik Nabers",
-   "team": "NYG",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 9.2,
-   "receptions": 6.4,
-   "rec_yds": 93.0,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Devin Singletary",
-   "team": "NYG",
-   "position": "RB",
-   "rush_yds": 19.2,
-   "targets": 2.2,
-   "receptions": 1.6,
-   "rec_yds": 10.5,
-   "carries": 3.8,
-   "tds": 0.1
-  },
-  {
-   "player": "Tanner McKee",
-   "team": "PHI",
-   "position": "QB",
-   "rush_yds": 10.1,
-   "pass_yds": 200.7,
-   "pass_att": 35.7,
-   "carries": 2.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.4,
-   "rec_yds": 18.3,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Saquon Barkley",
+   "player": "Elijah Mitchell",
    "team": "PHI",
    "position": "RB",
-   "rush_yds": 49.2,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 6.7,
-   "carries": 10.2,
-   "tds": 0.6
-  },
-  {
-   "player": "Marquise Brown",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 1.9,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 12.3,
-   "carries": 0.4,
-   "tds": 0.0
+   "rush_yds": 21.5,
+   "targets": 3.3,
+   "receptions": 2.2,
+   "rec_yds": 12.7,
+   "carries": 5.2,
+   "tds": 0.3
   },
   {
    "player": "Dontayvion Wicks",
@@ -179,31 +147,19 @@
    "rush_yds": 0.0,
    "targets": 4.5,
    "receptions": 2.7,
-   "rec_yds": 35.0,
+   "rec_yds": 34.9,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "DeVonta Smith",
+   "player": "Tanner McKee",
    "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.2,
-   "receptions": 5.0,
-   "rec_yds": 58.0,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Elijah Mitchell",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 21.3,
-   "targets": 3.3,
-   "receptions": 2.3,
-   "rec_yds": 12.8,
-   "carries": 5.2,
-   "tds": 0.3
+   "position": "QB",
+   "rush_yds": 10.2,
+   "pass_yds": 200.1,
+   "pass_att": 35.5,
+   "carries": 2.0,
+   "tds": 0.0
   },
   {
    "player": "Makai Lemon",
@@ -220,12 +176,56 @@
    "player": "Dallas Goedert",
    "team": "PHI",
    "position": "TE",
-   "rush_yds": 0.2,
+   "rush_yds": 0.1,
    "targets": 4.4,
    "receptions": 3.3,
-   "rec_yds": 28.5,
+   "rec_yds": 28.4,
    "carries": 0.1,
    "tds": 0.2
+  },
+  {
+   "player": "Marquise Brown",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 12.2,
+   "carries": 0.4,
+   "tds": 0.0
+  },
+  {
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 49.7,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 6.6,
+   "carries": 10.3,
+   "tds": 0.6
+  },
+  {
+   "player": "DeVonta Smith",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.1,
+   "receptions": 5.0,
+   "rec_yds": 57.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.4,
+   "rec_yds": 18.3,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

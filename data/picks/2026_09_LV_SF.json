@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_LV_SF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-05T16:20-05:00",
+ "updated_at": "2026-11-06T15:44-05:00",
  "kickoff": "2026-11-08T16:05",
  "weekday": "Sunday",
  "away": "LV",
@@ -16,7 +16,7 @@
   "covered": false,
   "temp_f": 72,
   "wind_mph": 7,
-  "gust_mph": 7,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -43,6 +43,17 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Tre Tucker",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 1.0,
+   "targets": 6.0,
+   "receptions": 3.6,
+   "rec_yds": 51.1,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
    "player": "Cody White",
    "team": "LV",
    "position": "WR",
@@ -51,28 +62,6 @@
    "receptions": 1.5,
    "rec_yds": 18.3,
    "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Brock Bowers",
-   "team": "LV",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 10.8,
-   "receptions": 7.6,
-   "rec_yds": 78.7,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Tre Tucker",
-   "team": "LV",
-   "position": "WR",
-   "rush_yds": 1.0,
-   "targets": 6.0,
-   "receptions": 3.6,
-   "rec_yds": 51.0,
-   "carries": 0.2,
    "tds": 0.2
   },
   {
@@ -87,15 +76,14 @@
    "tds": 0.4
   },
   {
-   "player": "Jalen Nailor",
+   "player": "Kirk Cousins",
    "team": "LV",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.6,
-   "receptions": 2.6,
-   "rec_yds": 28.0,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 288.7,
+   "pass_att": 40.2,
+   "carries": 1.9,
+   "tds": 0.0
   },
   {
    "player": "Michael Mayer",
@@ -109,23 +97,35 @@
    "tds": 0.1
   },
   {
-   "player": "Kirk Cousins",
+   "player": "Jalen Nailor",
    "team": "LV",
-   "position": "QB",
-   "rush_yds": 4.5,
-   "pass_yds": 288.1,
-   "pass_att": 40.2,
-   "carries": 1.9,
-   "tds": 0.0
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.6,
+   "receptions": 2.6,
+   "rec_yds": 28.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Brock Bowers",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 10.8,
+   "receptions": 7.7,
+   "rec_yds": 78.7,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Ashton Jeanty",
    "team": "LV",
    "position": "RB",
-   "rush_yds": 25.5,
+   "rush_yds": 25.4,
    "targets": 6.3,
    "receptions": 5.3,
-   "rec_yds": 52.6,
+   "rec_yds": 52.5,
    "carries": 8.3,
    "tds": 0.6
   },
@@ -136,41 +136,20 @@
    "rush_yds": 0.0,
    "targets": 1.5,
    "receptions": 0.8,
-   "rec_yds": 11.8,
+   "rec_yds": 11.9,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "Jordan Watkins",
+   "player": "George Kittle",
    "team": "SF",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.1,
-   "rec_yds": 19.2,
+   "targets": 6.0,
+   "receptions": 4.7,
+   "rec_yds": 51.9,
    "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Brock Purdy",
-   "team": "SF",
-   "position": "QB",
-   "rush_yds": 22.0,
-   "pass_yds": 242.9,
-   "pass_att": 29.0,
-   "carries": 5.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Deebo Samuel Sr.",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 10.8,
-   "targets": 3.5,
-   "receptions": 2.4,
-   "rec_yds": 34.4,
-   "carries": 2.1,
-   "tds": 0.3
+   "tds": 0.5
   },
   {
    "player": "Kyle Juszczyk",
@@ -201,9 +180,41 @@
    "rush_yds": 0.0,
    "targets": 6.5,
    "receptions": 4.1,
-   "rec_yds": 67.5,
+   "rec_yds": 67.6,
    "carries": 0.0,
    "tds": 0.4
+  },
+  {
+   "player": "Deebo Samuel Sr.",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 10.7,
+   "targets": 3.5,
+   "receptions": 2.4,
+   "rec_yds": 34.5,
+   "carries": 2.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 22.1,
+   "pass_yds": 243.4,
+   "pass_att": 29.0,
+   "carries": 5.3,
+   "tds": 0.1
+  },
+  {
+   "player": "Jordan Watkins",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.1,
+   "rec_yds": 19.3,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Christian McCaffrey",
@@ -212,20 +223,9 @@
    "rush_yds": 77.7,
    "targets": 5.2,
    "receptions": 4.0,
-   "rec_yds": 32.2,
+   "rec_yds": 32.3,
    "carries": 14.2,
    "tds": 1.0
-  },
-  {
-   "player": "George Kittle",
-   "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.0,
-   "receptions": 4.7,
-   "rec_yds": 51.9,
-   "carries": 0.0,
-   "tds": 0.5
   }
  ]
 }
