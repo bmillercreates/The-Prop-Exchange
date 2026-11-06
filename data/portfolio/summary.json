@@ -1,32 +1,32 @@
 {
- "updated_at": "2026-11-02T23:35-05:00",
+ "updated_at": "2026-11-05T23:35-05:00",
  "overall": {
-  "wins": 25,
-  "losses": 22,
+  "wins": 26,
+  "losses": 24,
   "pushes": 0,
-  "units": 10.78,
-  "roi": 0.2294,
-  "hit_rate": 0.5319,
-  "bets": 47
+  "units": 9.6,
+  "roi": 0.192,
+  "hit_rate": 0.52,
+  "bets": 50
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 16,
-   "losses": 14,
+   "wins": 17,
+   "losses": 15,
    "pushes": 0,
-   "units": 0.29,
-   "roi": 0.0097,
-   "hit_rate": 0.5333,
-   "bets": 30
+   "units": 0.11,
+   "roi": 0.0034,
+   "hit_rate": 0.5312,
+   "bets": 32
   },
   "Penny Stock": {
    "wins": 5,
-   "losses": 7,
+   "losses": 8,
    "pushes": 0,
-   "units": 4.34,
-   "roi": 0.3617,
-   "hit_rate": 0.4167,
-   "bets": 12
+   "units": 3.34,
+   "roi": 0.2569,
+   "hit_rate": 0.3846,
+   "bets": 13
   },
   "ETF": {
    "wins": 4,
@@ -50,9 +50,70 @@
   {
    "date": "2026-11-02",
    "units": 10.78
+  },
+  {
+   "date": "2026-11-05",
+   "units": 9.6
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_09_JAX_BAL",
+   "matchup": "JAX @ BAL",
+   "kickoff": "2026-11-05T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-05T23:35-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Rashod Bateman Over 1.5 receptions",
+   "player": "Rashod Bateman",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 1.5,
+   "price": 130,
+   "edge": 0.1156,
+   "actual": 1.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_09_JAX_BAL",
+   "matchup": "JAX @ BAL",
+   "kickoff": "2026-11-05T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-05T23:35-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Justice Hill Over 2.5 receptions",
+   "player": "Justice Hill",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 2.5,
+   "price": -122,
+   "edge": 0.0898,
+   "actual": 3.0,
+   "result": "win",
+   "units": 0.82
+  },
+  {
+   "game_id": "2026_09_JAX_BAL",
+   "matchup": "JAX @ BAL",
+   "kickoff": "2026-11-05T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-05T23:35-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Trevor Lawrence Under 232.5 passing yards",
+   "player": "Trevor Lawrence",
+   "market": "player_pass_yds",
+   "side": "Under",
+   "line": 232.5,
+   "price": -111,
+   "edge": 0.0788,
+   "actual": 242.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_08_CHI_SEA",
    "matchup": "CHI @ SEA",
@@ -593,70 +654,6 @@
    ],
    "result": "loss",
    "units": -1.0
-  },
-  {
-   "game_id": "2026_08_TEN_CIN",
-   "matchup": "TEN @ CIN",
-   "kickoff": "2026-11-01T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-01T17:00-05:00",
-   "source": "espn",
-   "tier": "ETF",
-   "title": "Cam Ward Over 191.5 passing yards + Wan'Dale Robinson Over 5.5 receptions",
-   "player": "Cam Ward / Wan'Dale Robinson",
-   "market": "parlay",
-   "side": "Over",
-   "line": null,
-   "price": 178,
-   "edge": 0.0477,
-   "actual": [
-    304.0,
-    6.0
-   ],
-   "leg_results": [
-    "win",
-    "win"
-   ],
-   "result": "win",
-   "units": 1.78
-  },
-  {
-   "game_id": "2026_08_ATL_TB",
-   "matchup": "ATL @ TB",
-   "kickoff": "2026-11-01T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-01T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Chris Godwin Over 4.5 receptions",
-   "player": "Chris Godwin",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 4.5,
-   "price": -106,
-   "edge": 0.1515,
-   "actual": 0.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_08_ATL_TB",
-   "matchup": "ATL @ TB",
-   "kickoff": "2026-11-01T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-01T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Bucky Irving Yes anytime TD",
-   "player": "Bucky Irving",
-   "market": "player_anytime_td",
-   "side": "Yes",
-   "line": null,
-   "price": 105,
-   "edge": 0.0676,
-   "actual": 1.0,
-   "result": "win",
-   "units": 1.05
   }
  ]
 }
