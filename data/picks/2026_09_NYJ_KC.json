@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_NYJ_KC",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-06T15:44-05:00",
+ "updated_at": "2026-11-07T14:15-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "NYJ",
@@ -14,25 +14,25 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 64,
-  "wind_mph": 8,
-  "gust_mph": 11,
+  "temp_f": 59,
+  "wind_mph": 7,
+  "gust_mph": 12,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "teams": {
   "NYJ": {
-   "implied_pts": 19.5,
+   "implied_pts": 19.0,
    "margin": -9.5,
-   "plays": 62.6,
-   "pass_att": 36.3,
+   "plays": 62.2,
+   "pass_att": 36.0,
    "notes": []
   },
   "KC": {
-   "implied_pts": 29.0,
+   "implied_pts": 28.5,
    "margin": 9.5,
-   "plays": 61.9,
-   "pass_att": 30.6,
+   "plays": 61.5,
+   "pass_att": 30.4,
    "notes": []
   }
  },
@@ -41,15 +41,37 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Kenyon Sadiq",
+   "player": "Mason Taylor",
    "team": "NYJ",
    "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 3.6,
-   "receptions": 2.7,
-   "rec_yds": 28.9,
-   "carries": 0.1,
-   "tds": 0.1
+   "rush_yds": 0.0,
+   "targets": 6.7,
+   "receptions": 5.2,
+   "rec_yds": 49.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Isaiah Davis",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 8.9,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 14.9,
+   "carries": 2.8,
+   "tds": 0.3
+  },
+  {
+   "player": "Tim Patrick",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.8,
+   "rec_yds": 21.9,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Adonai Mitchell",
@@ -58,18 +80,28 @@
    "rush_yds": 0.0,
    "targets": 6.5,
    "receptions": 3.8,
-   "rec_yds": 51.6,
+   "rec_yds": 51.3,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Geno Smith",
+   "team": "NYJ",
+   "position": "QB",
+   "rush_yds": 7.6,
+   "pass_yds": 273.6,
+   "pass_att": 36.0,
+   "carries": 2.2,
+   "tds": 0.0
   },
   {
    "player": "Omar Cooper Jr.",
    "team": "NYJ",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.0,
+   "targets": 5.9,
    "receptions": 4.1,
-   "rec_yds": 60.7,
+   "rec_yds": 60.3,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -77,107 +109,54 @@
    "player": "Braelon Allen",
    "team": "NYJ",
    "position": "RB",
-   "rush_yds": 60.5,
+   "rush_yds": 60.1,
    "targets": 4.9,
    "receptions": 3.8,
-   "rec_yds": 27.3,
-   "carries": 14.9,
-   "tds": 0.6
-  },
-  {
-   "player": "Tim Patrick",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.2,
-   "receptions": 1.8,
-   "rec_yds": 22.1,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Geno Smith",
-   "team": "NYJ",
-   "position": "QB",
-   "rush_yds": 7.6,
-   "pass_yds": 275.3,
-   "pass_att": 36.3,
-   "carries": 2.2,
-   "tds": 0.0
-  },
-  {
-   "player": "Mason Taylor",
-   "team": "NYJ",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.7,
-   "receptions": 5.3,
-   "rec_yds": 50.1,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Isaiah Davis",
-   "team": "NYJ",
-   "position": "RB",
-   "rush_yds": 9.0,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 15.0,
-   "carries": 2.8,
-   "tds": 0.3
+   "rec_yds": 27.1,
+   "carries": 14.8,
+   "tds": 0.5
   },
   {
    "player": "Isaiah Williams",
    "team": "NYJ",
    "position": "WR",
    "rush_yds": 2.1,
-   "targets": 1.4,
+   "targets": 1.3,
    "receptions": 0.9,
-   "rec_yds": 11.0,
+   "rec_yds": 10.9,
    "carries": 0.3,
    "tds": 0.1
   },
   {
-   "player": "Patrick Mahomes",
-   "team": "KC",
-   "position": "QB",
-   "rush_yds": 12.1,
-   "pass_yds": 213.7,
-   "pass_att": 30.6,
-   "carries": 2.9,
-   "tds": 0.0
-  },
-  {
-   "player": "Kenneth Walker III",
-   "team": "KC",
-   "position": "RB",
-   "rush_yds": 123.9,
-   "targets": 4.2,
-   "receptions": 2.8,
-   "rec_yds": 18.3,
-   "carries": 22.2,
-   "tds": 1.3
+   "player": "Kenyon Sadiq",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 3.6,
+   "receptions": 2.6,
+   "rec_yds": 28.7,
+   "carries": 0.1,
+   "tds": 0.1
   },
   {
    "player": "Emmett Johnson",
    "team": "KC",
    "position": "RB",
-   "rush_yds": 11.5,
+   "rush_yds": 11.4,
    "targets": 2.3,
    "receptions": 1.7,
-   "rec_yds": 18.3,
+   "rec_yds": 18.2,
    "carries": 2.6,
    "tds": 0.1
   },
   {
-   "player": "Rashee Rice",
+   "player": "Xavier Worthy",
    "team": "KC",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.8,
-   "receptions": 3.9,
-   "rec_yds": 45.5,
+   "targets": 5.3,
+   "receptions": 3.3,
+   "rec_yds": 31.2,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -193,37 +172,58 @@
    "tds": 0.1
   },
   {
-   "player": "Noah Gray",
+   "player": "Patrick Mahomes",
    "team": "KC",
-   "position": "TE",
+   "position": "QB",
+   "rush_yds": 12.1,
+   "pass_yds": 212.4,
+   "pass_att": 30.4,
+   "carries": 2.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Rashee Rice",
+   "team": "KC",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.2,
-   "receptions": 1.7,
-   "rec_yds": 20.1,
+   "targets": 5.8,
+   "receptions": 3.9,
+   "rec_yds": 45.2,
    "carries": 0.0,
-   "tds": 0.2
+   "tds": 0.3
   },
   {
    "player": "Travis Kelce",
    "team": "KC",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 5.5,
-   "receptions": 3.9,
-   "rec_yds": 50.5,
+   "targets": 5.4,
+   "receptions": 3.8,
+   "rec_yds": 50.1,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Xavier Worthy",
+   "player": "Kenneth Walker III",
    "team": "KC",
-   "position": "WR",
+   "position": "RB",
+   "rush_yds": 123.1,
+   "targets": 4.2,
+   "receptions": 2.8,
+   "rec_yds": 18.1,
+   "carries": 22.0,
+   "tds": 1.3
+  },
+  {
+   "player": "Noah Gray",
+   "team": "KC",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.3,
-   "rec_yds": 31.4,
+   "targets": 2.2,
+   "receptions": 1.7,
+   "rec_yds": 20.0,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.2
   }
  ]
 }

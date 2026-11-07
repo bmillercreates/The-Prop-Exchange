@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_DAL_IND",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-06T15:44-05:00",
+ "updated_at": "2026-11-07T14:15-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DAL",
@@ -17,17 +17,17 @@
  },
  "teams": {
   "DAL": {
-   "implied_pts": 28.5,
-   "margin": 5.5,
+   "implied_pts": 28.0,
+   "margin": 4.5,
    "plays": 62.0,
-   "pass_att": 32.8,
+   "pass_att": 33.2,
    "notes": []
   },
   "IND": {
-   "implied_pts": 23.0,
-   "margin": -5.5,
+   "implied_pts": 23.5,
+   "margin": -4.5,
    "plays": 66.4,
-   "pass_att": 37.6,
+   "pass_att": 37.2,
    "notes": []
   }
  },
@@ -36,26 +36,58 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Tyler Goodson",
+   "team": "DAL",
+   "position": "RB",
+   "rush_yds": 16.2,
+   "targets": 1.2,
+   "receptions": 0.8,
+   "rec_yds": 7.3,
+   "carries": 4.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "rush_yds": 13.9,
+   "pass_yds": 223.1,
+   "pass_att": 33.2,
+   "carries": 2.7,
+   "tds": 0.1
+  },
+  {
    "player": "Jake Ferguson",
    "team": "DAL",
    "position": "TE",
    "rush_yds": 0.0,
    "targets": 2.6,
    "receptions": 1.8,
-   "rec_yds": 15.1,
+   "rec_yds": 15.3,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "CeeDee Lamb",
+   "player": "Ryan Flournoy",
    "team": "DAL",
    "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 11.6,
-   "receptions": 7.0,
-   "rec_yds": 83.6,
-   "carries": 0.2,
-   "tds": 0.5
+   "rush_yds": 0.9,
+   "targets": 5.0,
+   "receptions": 3.1,
+   "rec_yds": 36.4,
+   "carries": 0.1,
+   "tds": 0.4
+  },
+  {
+   "player": "Javonte Williams",
+   "team": "DAL",
+   "position": "RB",
+   "rush_yds": 69.8,
+   "targets": 2.2,
+   "receptions": 1.6,
+   "rec_yds": 13.1,
+   "carries": 16.3,
+   "tds": 1.1
   },
   {
    "player": "Brevyn Spann-Ford",
@@ -64,156 +96,81 @@
    "rush_yds": 0.0,
    "targets": 2.7,
    "receptions": 1.9,
-   "rec_yds": 17.7,
+   "rec_yds": 17.9,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Dak Prescott",
-   "team": "DAL",
-   "position": "QB",
-   "rush_yds": 14.2,
-   "pass_yds": 220.5,
-   "pass_att": 32.8,
-   "carries": 2.7,
-   "tds": 0.1
-  },
-  {
-   "player": "Javonte Williams",
-   "team": "DAL",
-   "position": "RB",
-   "rush_yds": 71.0,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 13.0,
-   "carries": 16.6,
-   "tds": 1.1
-  },
-  {
-   "player": "Ryan Flournoy",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 1.0,
-   "targets": 4.9,
-   "receptions": 3.0,
-   "rec_yds": 35.9,
-   "carries": 0.1,
-   "tds": 0.4
-  },
-  {
-   "player": "Tyler Goodson",
-   "team": "DAL",
-   "position": "RB",
-   "rush_yds": 16.5,
-   "targets": 1.2,
-   "receptions": 0.8,
-   "rec_yds": 7.2,
-   "carries": 4.1,
-   "tds": 0.3
   },
   {
    "player": "George Pickens",
    "team": "DAL",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.4,
+   "targets": 6.5,
    "receptions": 3.8,
-   "rec_yds": 50.4,
+   "rec_yds": 51.0,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "CeeDee Lamb",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 11.7,
+   "receptions": 7.1,
+   "rec_yds": 84.6,
+   "carries": 0.2,
+   "tds": 0.5
+  },
+  {
+   "player": "Tyler Warren",
+   "team": "IND",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 8.3,
+   "receptions": 6.1,
+   "rec_yds": 46.5,
+   "carries": 0.3,
+   "tds": 0.4
   },
   {
    "player": "Jonathan Taylor",
    "team": "IND",
    "position": "RB",
-   "rush_yds": 59.9,
-   "targets": 4.3,
+   "rush_yds": 61.0,
+   "targets": 4.2,
    "receptions": 3.1,
-   "rec_yds": 24.7,
-   "carries": 12.5,
+   "rec_yds": 24.4,
+   "carries": 12.8,
    "tds": 0.9
-  },
-  {
-   "player": "Josh Downs",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 6.1,
-   "receptions": 3.7,
-   "rec_yds": 46.8,
-   "carries": 0.1,
-   "tds": 0.4
-  },
-  {
-   "player": "Keenan Allen",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.9,
-   "receptions": 4.8,
-   "rec_yds": 52.8,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Mo Alie-Cox",
-   "team": "IND",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.5,
-   "receptions": 1.1,
-   "rec_yds": 10.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Deion Burks",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 1.2,
-   "receptions": 0.8,
-   "rec_yds": 10.6,
-   "carries": 0.2,
-   "tds": 0.0
   },
   {
    "player": "Seth McGowan",
    "team": "IND",
    "position": "RB",
-   "rush_yds": 20.3,
+   "rush_yds": 20.7,
    "targets": 0.5,
    "receptions": 0.4,
-   "rec_yds": 2.5,
-   "carries": 4.1,
+   "rec_yds": 2.4,
+   "carries": 4.2,
    "tds": 0.2
   },
   {
-   "player": "Laquon Treadwell",
+   "player": "Deion Burks",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 1.9,
-   "rec_yds": 26.6,
-   "carries": 0.0,
+   "rush_yds": 1.6,
+   "targets": 1.2,
+   "receptions": 0.8,
+   "rec_yds": 10.5,
+   "carries": 0.2,
    "tds": 0.0
-  },
-  {
-   "player": "Daniel Jones",
-   "team": "IND",
-   "position": "QB",
-   "rush_yds": 12.6,
-   "pass_yds": 239.1,
-   "pass_att": 37.6,
-   "carries": 2.8,
-   "tds": 0.1
   },
   {
    "player": "DJ Giddens",
    "team": "IND",
    "position": "RB",
-   "rush_yds": 16.3,
+   "rush_yds": 16.6,
    "targets": 0.0,
    "receptions": 0.0,
    "rec_yds": 0.0,
@@ -221,15 +178,15 @@
    "tds": 0.0
   },
   {
-   "player": "Tyler Warren",
+   "player": "Keenan Allen",
    "team": "IND",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 8.4,
-   "receptions": 6.2,
-   "rec_yds": 47.0,
-   "carries": 0.3,
-   "tds": 0.4
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.8,
+   "receptions": 4.7,
+   "rec_yds": 52.2,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Will Mallory",
@@ -238,9 +195,41 @@
    "rush_yds": 0.0,
    "targets": 3.6,
    "receptions": 2.2,
-   "rec_yds": 20.8,
+   "rec_yds": 20.5,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "rush_yds": 12.8,
+   "pass_yds": 236.5,
+   "pass_att": 37.2,
+   "carries": 2.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Laquon Treadwell",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.9,
+   "rec_yds": 26.3,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Josh Downs",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.7,
+   "targets": 6.1,
+   "receptions": 3.7,
+   "rec_yds": 46.3,
+   "carries": 0.1,
+   "tds": 0.4
   }
  ]
 }

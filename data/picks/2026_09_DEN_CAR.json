@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_DEN_CAR",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-06T15:44-05:00",
+ "updated_at": "2026-11-07T14:15-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DEN",
@@ -14,25 +14,25 @@
   "stadium": "Bank of America Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 64,
+  "temp_f": 66,
   "wind_mph": 7,
-  "gust_mph": 8,
+  "gust_mph": 11,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "teams": {
   "DEN": {
-   "implied_pts": 23.5,
-   "margin": 2.5,
+   "implied_pts": 23.8,
+   "margin": 3.0,
    "plays": 59.8,
-   "pass_att": 29.9,
+   "pass_att": 29.7,
    "notes": []
   },
   "CAR": {
-   "implied_pts": 21.0,
-   "margin": -2.5,
+   "implied_pts": 20.8,
+   "margin": -3.0,
    "plays": 65.6,
-   "pass_att": 39.1,
+   "pass_att": 39.3,
    "notes": []
   }
  },
@@ -41,47 +41,47 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Bo Nix",
+   "player": "J.K. Dobbins",
    "team": "DEN",
-   "position": "QB",
-   "rush_yds": 23.3,
-   "pass_yds": 182.1,
-   "pass_att": 29.9,
-   "carries": 4.9,
-   "tds": 0.1
-  },
-  {
-   "player": "Jaylen Waddle",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 7.6,
-   "receptions": 4.6,
-   "rec_yds": 51.6,
-   "carries": 0.2,
+   "position": "RB",
+   "rush_yds": 47.4,
+   "targets": 0.9,
+   "receptions": 0.8,
+   "rec_yds": 4.3,
+   "carries": 11.7,
    "tds": 0.4
   },
   {
-   "player": "Marvin Mims Jr.",
+   "player": "Jonah Coleman",
    "team": "DEN",
-   "position": "WR",
-   "rush_yds": 7.5,
-   "targets": 2.8,
-   "receptions": 1.8,
-   "rec_yds": 20.9,
-   "carries": 1.1,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 45.2,
+   "targets": 3.1,
+   "receptions": 2.5,
+   "rec_yds": 18.9,
+   "carries": 9.2,
+   "tds": 0.6
   },
   {
-   "player": "Courtland Sutton",
+   "player": "Bo Nix",
    "team": "DEN",
-   "position": "WR",
+   "position": "QB",
+   "rush_yds": 23.5,
+   "pass_yds": 180.9,
+   "pass_att": 29.7,
+   "carries": 5.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Evan Engram",
+   "team": "DEN",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 5.2,
-   "receptions": 3.1,
-   "rec_yds": 35.5,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 20.7,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.1
   },
   {
    "player": "Adam Trautman",
@@ -95,15 +95,15 @@
    "tds": 0.2
   },
   {
-   "player": "Jonah Coleman",
+   "player": "Jaylen Waddle",
    "team": "DEN",
-   "position": "RB",
-   "rush_yds": 44.9,
-   "targets": 3.1,
-   "receptions": 2.5,
-   "rec_yds": 19.0,
-   "carries": 9.1,
-   "tds": 0.6
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 7.5,
+   "receptions": 4.5,
+   "rec_yds": 51.3,
+   "carries": 0.2,
+   "tds": 0.4
   },
   {
    "player": "Troy Franklin",
@@ -111,32 +111,53 @@
    "position": "WR",
    "rush_yds": 1.3,
    "targets": 2.0,
-   "receptions": 1.3,
-   "rec_yds": 15.4,
+   "receptions": 1.2,
+   "rec_yds": 15.3,
    "carries": 0.2,
    "tds": 0.1
   },
   {
-   "player": "Evan Engram",
+   "player": "Marvin Mims Jr.",
    "team": "DEN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.2,
-   "rec_yds": 20.9,
-   "carries": 0.0,
+   "position": "WR",
+   "rush_yds": 7.6,
+   "targets": 2.8,
+   "receptions": 1.8,
+   "rec_yds": 20.8,
+   "carries": 1.1,
    "tds": 0.1
   },
   {
-   "player": "J.K. Dobbins",
+   "player": "Courtland Sutton",
    "team": "DEN",
-   "position": "RB",
-   "rush_yds": 47.0,
-   "targets": 0.9,
-   "receptions": 0.8,
-   "rec_yds": 4.3,
-   "carries": 11.6,
-   "tds": 0.4
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.0,
+   "rec_yds": 35.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "rush_yds": 5.1,
+   "pass_yds": 290.5,
+   "pass_att": 39.3,
+   "carries": 1.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Tommy Tremble",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.7,
+   "rec_yds": 28.8,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Jalen Coker",
@@ -145,7 +166,7 @@
    "rush_yds": 0.0,
    "targets": 7.9,
    "receptions": 4.8,
-   "rec_yds": 60.0,
+   "rec_yds": 60.4,
    "carries": 0.0,
    "tds": 0.2
   },
@@ -156,74 +177,9 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 2.2,
-   "rec_yds": 28.0,
+   "rec_yds": 28.1,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Mitchell Evans",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 19.2,
-   "carries": 0.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Bryce Young",
-   "team": "CAR",
-   "position": "QB",
-   "rush_yds": 5.2,
-   "pass_yds": 289.0,
-   "pass_att": 39.1,
-   "carries": 1.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 10.2,
-   "receptions": 6.4,
-   "rec_yds": 80.7,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Tommy Tremble",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.7,
-   "rec_yds": 28.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "John Metchie III",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.7,
-   "receptions": 2.3,
-   "rec_yds": 24.7,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Chuba Hubbard",
-   "team": "CAR",
-   "position": "RB",
-   "rush_yds": 73.1,
-   "targets": 5.4,
-   "receptions": 4.6,
-   "rec_yds": 36.7,
-   "carries": 15.7,
-   "tds": 0.8
   },
   {
    "player": "Brycen Tremayne",
@@ -232,9 +188,53 @@
    "rush_yds": 0.0,
    "targets": 1.3,
    "receptions": 0.8,
-   "rec_yds": 10.6,
+   "rec_yds": 10.7,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "John Metchie III",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.3,
+   "rec_yds": 24.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Tetairoa McMillan",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 10.2,
+   "receptions": 6.4,
+   "rec_yds": 81.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Mitchell Evans",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 19.3,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "rush_yds": 72.3,
+   "targets": 5.4,
+   "receptions": 4.6,
+   "rec_yds": 36.9,
+   "carries": 15.5,
+   "tds": 0.8
   }
  ]
 }

@@ -8,15 +8,15 @@
   },
   {
    "type": "Milestone",
-   "player": "Ja'Marr Chase",
-   "team": "CIN",
-   "text": "Ja'Marr Chase needs 7 more catches to reach 50 for the season (has 43)."
-  },
-  {
-   "type": "Milestone",
    "player": "Tee Higgins",
    "team": "CIN",
    "text": "Tee Higgins needs 7 more catches to reach 50 for the season (has 43)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Ja'Marr Chase",
+   "team": "CIN",
+   "text": "Ja'Marr Chase needs 7 more catches to reach 50 for the season (has 43)."
   }
  ],
  "2026_09_DEN_CAR": [
@@ -107,12 +107,6 @@
    "player": "Malik Nabers",
    "team": "NYG",
    "text": "Malik Nabers needs 2 more catches to reach 50 for the season (has 48)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Cam Skattebo",
-   "team": "NYG",
-   "text": "Cam Skattebo needs 82 more rushing yards to reach 500 for the season (has 418)."
   }
  ],
  "2026_09_LA_WAS": [
