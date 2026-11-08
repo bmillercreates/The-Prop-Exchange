@@ -1,24 +1,24 @@
 {
  "game_id": "2026_09_DET_MIA",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-08T11:40-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DET",
  "home": "MIA",
  "stadium": "Hard Rock Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-08T11:40-05:00",
  "weather": {
   "game_id": "2026_09_DET_MIA",
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 82,
-  "wind_mph": 6,
-  "gust_mph": 7,
+  "temp_f": 84,
+  "wind_mph": 7,
+  "gust_mph": 8,
   "precip_in": 0.0,
-  "precip_chance": 6
+  "precip_chance": 2
  },
  "teams": {
   "DET": {
@@ -36,7 +36,55 @@
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Jared Goff",
+   "team": "DET",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 260.5,
+   "title": "Jared Goff Under 260.5 passing yards",
+   "price": -111,
+   "book": "draftkings",
+   "model_prob": 0.5737,
+   "fair_prob": 0.4979,
+   "prob_edge": 0.0758,
+   "edge": 0.0905,
+   "projection": 224.1,
+   "flags": [],
+   "why": [
+    "Model projects 224 yards vs. a line of 260.5 (71% chance to go under on its own).",
+    "Expected to throw about 30 times; completion % over expected is -0.1 lately."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Greg Dulcich Over 3.5 receptions",
+   "price": -148,
+   "book": "draftkings",
+   "model_prob": 0.5998,
+   "fair_prob": 0.5631,
+   "prob_edge": 0.0367,
+   "edge": 0.0051,
+   "projection": 4.93,
+   "flags": [],
+   "why": [
+    "Model projects 5 catches vs. a line of 3.5 (67% chance to go over on its own).",
+    "Earns 18% of the Dolphins' targets and 17% of their air yards, on 67% of snaps.",
+    "The Lions defense allows 20% more receptions to TEs than average."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
@@ -52,15 +100,25 @@
    "tds": 1.5
   },
   {
-   "player": "Amon-Ra St. Brown",
+   "player": "Isaac TeSlaa",
    "team": "DET",
    "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 9.4,
-   "receptions": 6.0,
-   "rec_yds": 64.2,
-   "carries": 0.3,
-   "tds": 0.4
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.4,
+   "rec_yds": 20.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jared Goff",
+   "team": "DET",
+   "position": "QB",
+   "rush_yds": 5.8,
+   "pass_yds": 224.1,
+   "pass_att": 29.5,
+   "carries": 2.1,
+   "tds": 0.0
   },
   {
    "player": "Jameson Williams",
@@ -74,15 +132,26 @@
    "tds": 0.5
   },
   {
-   "player": "Isaac TeSlaa",
+   "player": "Sam LaPorta",
+   "team": "DET",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 5.0,
+   "receptions": 3.8,
+   "rec_yds": 45.5,
+   "carries": 0.2,
+   "tds": 0.4
+  },
+  {
+   "player": "Amon-Ra St. Brown",
    "team": "DET",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.4,
-   "rec_yds": 20.0,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 1.5,
+   "targets": 9.4,
+   "receptions": 6.0,
+   "rec_yds": 64.2,
+   "carries": 0.3,
+   "tds": 0.4
   },
   {
    "player": "Sione Vaki",
@@ -96,82 +165,6 @@
    "tds": 0.0
   },
   {
-   "player": "Jared Goff",
-   "team": "DET",
-   "position": "QB",
-   "rush_yds": 5.8,
-   "pass_yds": 224.1,
-   "pass_att": 29.5,
-   "carries": 2.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Sam LaPorta",
-   "team": "DET",
-   "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 5.0,
-   "receptions": 3.8,
-   "rec_yds": 45.5,
-   "carries": 0.2,
-   "tds": 0.4
-  },
-  {
-   "player": "Ollie Gordon II",
-   "team": "MIA",
-   "position": "RB",
-   "rush_yds": 58.9,
-   "targets": 2.1,
-   "receptions": 1.5,
-   "rec_yds": 8.3,
-   "carries": 15.4,
-   "tds": 0.9
-  },
-  {
-   "player": "Will Kacmarek",
-   "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.5,
-   "receptions": 1.1,
-   "rec_yds": 11.4,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Chris Bell",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 2.1,
-   "targets": 4.7,
-   "receptions": 2.8,
-   "rec_yds": 38.0,
-   "carries": 0.4,
-   "tds": 0.0
-  },
-  {
-   "player": "Greg Dulcich",
-   "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.0,
-   "receptions": 4.9,
-   "rec_yds": 58.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Caleb Douglas",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.6,
-   "rec_yds": 55.4,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Malik Washington",
    "team": "MIA",
    "position": "WR",
@@ -181,17 +174,6 @@
    "rec_yds": 59.3,
    "carries": 0.8,
    "tds": 0.3
-  },
-  {
-   "player": "Kevin Coleman Jr.",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.0,
-   "rec_yds": 25.8,
-   "carries": 0.0,
-   "tds": 0.2
   },
   {
    "player": "Jalen Tolbert",
@@ -205,6 +187,28 @@
    "tds": 0.0
   },
   {
+   "player": "Caleb Douglas",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.6,
+   "rec_yds": 55.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "rush_yds": 58.9,
+   "targets": 2.1,
+   "receptions": 1.5,
+   "rec_yds": 8.3,
+   "carries": 15.4,
+   "tds": 0.9
+  },
+  {
    "player": "Malik Willis",
    "team": "MIA",
    "position": "QB",
@@ -213,6 +217,50 @@
    "pass_att": 33.0,
    "carries": 3.9,
    "tds": 0.1
+  },
+  {
+   "player": "Kevin Coleman Jr.",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.0,
+   "rec_yds": 25.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Will Kacmarek",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.5,
+   "receptions": 1.1,
+   "rec_yds": 11.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.0,
+   "receptions": 4.9,
+   "rec_yds": 58.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Chris Bell",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 2.1,
+   "targets": 4.7,
+   "receptions": 2.8,
+   "rec_yds": 38.0,
+   "carries": 0.4,
+   "tds": 0.0
   }
  ]
 }

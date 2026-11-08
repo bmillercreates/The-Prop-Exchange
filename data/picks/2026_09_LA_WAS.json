@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_LA_WAS",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-08T11:40-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "LA",
@@ -14,9 +14,9 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 60,
+  "temp_f": 62,
   "wind_mph": 10,
-  "gust_mph": 18,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -43,28 +43,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Davis Allen",
-   "team": "LA",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 2.2,
-   "receptions": 1.7,
-   "rec_yds": 17.4,
-   "carries": 0.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Konata Mumpfield",
-   "team": "LA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.4,
-   "rec_yds": 19.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Colby Parkinson",
    "team": "LA",
    "position": "TE",
@@ -85,6 +63,28 @@
    "rec_yds": 20.6,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Konata Mumpfield",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.4,
+   "rec_yds": 19.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Puka Nacua",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 3.5,
+   "targets": 11.3,
+   "receptions": 8.4,
+   "rec_yds": 86.5,
+   "carries": 0.8,
+   "tds": 0.7
   },
   {
    "player": "Tyler Higbee",
@@ -119,6 +119,17 @@
    "tds": 0.9
   },
   {
+   "player": "Davis Allen",
+   "team": "LA",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 2.2,
+   "receptions": 1.7,
+   "rec_yds": 17.4,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
    "player": "Blake Corum",
    "team": "LA",
    "position": "RB",
@@ -130,15 +141,15 @@
    "tds": 0.5
   },
   {
-   "player": "Puka Nacua",
-   "team": "LA",
+   "player": "Antonio Williams",
+   "team": "WAS",
    "position": "WR",
-   "rush_yds": 3.5,
-   "targets": 11.3,
-   "receptions": 8.4,
-   "rec_yds": 86.5,
-   "carries": 0.8,
-   "tds": 0.7
+   "rush_yds": 0.0,
+   "targets": 8.6,
+   "receptions": 5.2,
+   "rec_yds": 57.7,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Stefon Diggs",
@@ -150,6 +161,16 @@
    "rec_yds": 60.8,
    "carries": 0.0,
    "tds": 0.5
+  },
+  {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 32.0,
+   "pass_yds": 233.2,
+   "pass_att": 37.5,
+   "carries": 4.4,
+   "tds": 0.1
   },
   {
    "player": "Rachaad White",
@@ -183,27 +204,6 @@
    "rec_yds": 9.8,
    "carries": 4.0,
    "tds": 0.5
-  },
-  {
-   "player": "Jayden Daniels",
-   "team": "WAS",
-   "position": "QB",
-   "rush_yds": 32.0,
-   "pass_yds": 233.2,
-   "pass_att": 37.5,
-   "carries": 4.4,
-   "tds": 0.1
-  },
-  {
-   "player": "Antonio Williams",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.6,
-   "receptions": 5.2,
-   "rec_yds": 57.7,
-   "carries": 0.0,
-   "tds": 0.0
   }
  ]
 }

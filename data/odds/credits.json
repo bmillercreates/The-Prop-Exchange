@@ -1,5 +1,5 @@
 {
- "remaining": 418,
+ "remaining": 388,
  "log": [
   {
    "at": "2026-10-29T14:01-04:00",
@@ -141,6 +141,42 @@
   },
   {
    "at": "2026-11-08T08:10-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
+   "call": "odds",
+   "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
+   "cost": 5
+  },
+  {
+   "at": "2026-11-08T11:40-05:00",
    "call": "odds",
    "markets": "player_pass_yds,player_rush_yds,player_reception_yds,player_receptions,player_anytime_td",
    "cost": 5

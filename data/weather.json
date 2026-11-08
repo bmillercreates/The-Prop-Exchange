@@ -161,8 +161,8 @@
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
   "temp_f": 66,
-  "wind_mph": 7,
-  "gust_mph": 11,
+  "wind_mph": 9,
+  "gust_mph": 13,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -177,9 +177,9 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 59,
+  "temp_f": 60,
   "wind_mph": 7,
-  "gust_mph": 12,
+  "gust_mph": 10,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -188,11 +188,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 82,
-  "wind_mph": 6,
-  "gust_mph": 7,
+  "temp_f": 84,
+  "wind_mph": 7,
+  "gust_mph": 8,
   "precip_in": 0.0,
-  "precip_chance": 6
+  "precip_chance": 2
  },
  "2026_09_CLE_NO": {
   "game_id": "2026_09_CLE_NO",
@@ -205,9 +205,9 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 56,
-  "wind_mph": 11,
-  "gust_mph": 19,
+  "temp_f": 59,
+  "wind_mph": 12,
+  "gust_mph": 20,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -216,9 +216,9 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-08T13:00:00-05:00",
   "covered": false,
-  "temp_f": 60,
+  "temp_f": 62,
   "wind_mph": 10,
-  "gust_mph": 18,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 0
  },

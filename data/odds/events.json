@@ -1,42 +1,42 @@
 [
  {
   "event_id": "dc56d980f527ffeef89940133b211b13",
-  "game_id": "2026_09_CIN_ATL",
+  "game_id": null,
   "away": "Cincinnati Bengals",
   "home": "Atlanta Falcons",
-  "kickoff_et": "2026-11-08T09:30:00-05:00"
+  "kickoff_et": "2026-11-08T09:35:00-05:00"
  },
  {
   "event_id": "014282b888c741b7d70c857c09f40aa7",
-  "game_id": null,
+  "game_id": "2026_09_DEN_CAR",
   "away": "Denver Broncos",
   "home": "Carolina Panthers",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
  },
  {
   "event_id": "e571bab6736f9338130a78a4f75c3231",
-  "game_id": null,
+  "game_id": "2026_09_CLE_NO",
   "away": "Cleveland Browns",
   "home": "New Orleans Saints",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
  },
  {
   "event_id": "415fc42e72888c63e82f7bce24c65391",
-  "game_id": null,
+  "game_id": "2026_09_DAL_IND",
   "away": "Dallas Cowboys",
   "home": "Indianapolis Colts",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
  },
  {
   "event_id": "44d8c37868b700e90f816db7c5df5cdd",
-  "game_id": null,
+  "game_id": "2026_09_DET_MIA",
   "away": "Detroit Lions",
   "home": "Miami Dolphins",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
  },
  {
   "event_id": "e354e6a04b1cb9c96e549b863debb92e",
-  "game_id": null,
+  "game_id": "2026_09_NYJ_KC",
   "away": "New York Jets",
   "home": "Kansas City Chiefs",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
@@ -50,7 +50,7 @@
  },
  {
   "event_id": "fe93e6ab1e553c0169936a0a983c324f",
-  "game_id": null,
+  "game_id": "2026_09_NYG_PHI",
   "away": "New York Giants",
   "home": "Philadelphia Eagles",
   "kickoff_et": "2026-11-08T13:00:00-05:00"
@@ -112,13 +112,6 @@
   "kickoff_et": "2026-11-15T09:30:00-05:00"
  },
  {
-  "event_id": "3c71d515b726f1096aabb435badb83fd",
-  "game_id": null,
-  "away": "Kansas City Chiefs",
-  "home": "Atlanta Falcons",
-  "kickoff_et": "2026-11-15T13:00:00-05:00"
- },
- {
   "event_id": "1057d50949844ddf483da9c8c20354be",
   "game_id": null,
   "away": "Buffalo Bills",
@@ -173,13 +166,6 @@
   "away": "San Francisco 49ers",
   "home": "Dallas Cowboys",
   "kickoff_et": "2026-11-15T16:25:00-05:00"
- },
- {
-  "event_id": "48e497c230e6c9afcb3b600091d28e17",
-  "game_id": null,
-  "away": "Pittsburgh Steelers",
-  "home": "Cincinnati Bengals",
-  "kickoff_et": "2026-11-15T20:20:00-05:00"
  },
  {
   "event_id": "35e3bdff558b5d1506251e814986f164",

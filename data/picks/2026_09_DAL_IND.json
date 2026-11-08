@@ -1,14 +1,14 @@
 {
  "game_id": "2026_09_DAL_IND",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-08T11:40-05:00",
  "kickoff": "2026-11-08T13:00",
  "weekday": "Sunday",
  "away": "DAL",
  "home": "IND",
  "stadium": "Lucas Oil Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-08T11:40-05:00",
  "weather": {
   "game_id": "2026_09_DAL_IND",
   "stadium": "Lucas Oil Stadium",
@@ -31,41 +31,116 @@
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
+   "tier": "Blue Chip",
+   "player": "Jonathan Mingo",
+   "team": "DAL",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Under",
+   "line": 1.5,
+   "title": "Jonathan Mingo Under 1.5 receptions",
+   "price": -132,
+   "book": "fanduel",
+   "model_prob": 0.6611,
+   "fair_prob": 0.5323,
+   "prob_edge": 0.1288,
+   "edge": 0.1619,
+   "projection": 0.46,
+   "flags": [],
+   "why": [
+    "Model projects 0 catches vs. a line of 1.5 (90% chance to go under on its own).",
+    "Earns 3% of the Cowboys' targets and 5% of their air yards, on 22% of snaps.",
+    "The Colts defense allows 11% fewer receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 201.5,
+   "title": "Daniel Jones Over 201.5 passing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.547,
+   "fair_prob": 0.5,
+   "prob_edge": 0.047,
+   "edge": 0.0311,
+   "projection": 236.46,
+   "flags": [],
+   "why": [
+    "Model projects 236 yards vs. a line of 201.5 (63% chance to go over on its own).",
+    "Expected to throw about 37 times; completion % over expected is -5.8 lately.",
+    "The Colts are 4.5-point underdogs, so they should be throwing to catch up."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
    "player": "Tyler Goodson",
    "team": "DAL",
    "position": "RB",
-   "rush_yds": 16.2,
-   "targets": 1.2,
-   "receptions": 0.8,
-   "rec_yds": 7.3,
-   "carries": 4.1,
-   "tds": 0.3
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Tyler Goodson Yes anytime TD",
+   "price": 425,
+   "book": "draftkings",
+   "model_prob": 0.2076,
+   "fair_prob": 0.178,
+   "prob_edge": 0.0296,
+   "edge": 0.0901,
+   "projection": 0.3,
+   "flags": [],
+   "why": [
+    "Model gives him a 26% chance to score; the odds imply about 18%.",
+    "Gets 13% of the Cowboys' red-zone touches."
+   ]
   },
   {
-   "player": "Dak Prescott",
-   "team": "DAL",
-   "position": "QB",
-   "rush_yds": 13.9,
-   "pass_yds": 223.1,
-   "pass_att": 33.2,
-   "carries": 2.7,
-   "tds": 0.1
-  },
+   "tier": "Penny Stock",
+   "player": "Josh Downs",
+   "team": "IND",
+   "position": "WR",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Josh Downs Yes anytime TD",
+   "price": 310,
+   "book": "fanduel",
+   "model_prob": 0.2597,
+   "fair_prob": 0.2279,
+   "prob_edge": 0.0317,
+   "edge": 0.0646,
+   "projection": 0.38,
+   "flags": [],
+   "why": [
+    "Model gives him a 32% chance to score; the odds imply about 23%.",
+    "Gets 12% of the Colts' red-zone touches."
+   ]
+  }
+ ],
+ "etfs": [],
+ "projections": [
   {
-   "player": "Jake Ferguson",
+   "player": "Javonte Williams",
    "team": "DAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.8,
-   "rec_yds": 15.3,
-   "carries": 0.0,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 69.8,
+   "targets": 2.2,
+   "receptions": 1.6,
+   "rec_yds": 13.1,
+   "carries": 16.3,
+   "tds": 1.1
   },
   {
    "player": "Ryan Flournoy",
@@ -79,15 +154,25 @@
    "tds": 0.4
   },
   {
-   "player": "Javonte Williams",
+   "player": "CeeDee Lamb",
    "team": "DAL",
-   "position": "RB",
-   "rush_yds": 69.8,
-   "targets": 2.2,
-   "receptions": 1.6,
-   "rec_yds": 13.1,
-   "carries": 16.3,
-   "tds": 1.1
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 11.7,
+   "receptions": 7.1,
+   "rec_yds": 84.6,
+   "carries": 0.2,
+   "tds": 0.5
+  },
+  {
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "rush_yds": 13.9,
+   "pass_yds": 223.1,
+   "pass_att": 33.2,
+   "carries": 2.7,
+   "tds": 0.1
   },
   {
    "player": "Brevyn Spann-Ford",
@@ -97,6 +182,17 @@
    "targets": 2.7,
    "receptions": 1.9,
    "rec_yds": 17.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jake Ferguson",
+   "team": "DAL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.8,
+   "rec_yds": 15.3,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -112,48 +208,36 @@
    "tds": 0.2
   },
   {
-   "player": "CeeDee Lamb",
+   "player": "Tyler Goodson",
    "team": "DAL",
+   "position": "RB",
+   "rush_yds": 16.2,
+   "targets": 1.2,
+   "receptions": 0.8,
+   "rec_yds": 7.3,
+   "carries": 4.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "rush_yds": 12.8,
+   "pass_yds": 236.5,
+   "pass_att": 37.2,
+   "carries": 2.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Josh Downs",
+   "team": "IND",
    "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 11.7,
-   "receptions": 7.1,
-   "rec_yds": 84.6,
-   "carries": 0.2,
-   "tds": 0.5
-  },
-  {
-   "player": "Tyler Warren",
-   "team": "IND",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 8.3,
-   "receptions": 6.1,
-   "rec_yds": 46.5,
-   "carries": 0.3,
+   "rush_yds": 0.7,
+   "targets": 6.1,
+   "receptions": 3.7,
+   "rec_yds": 46.3,
+   "carries": 0.1,
    "tds": 0.4
-  },
-  {
-   "player": "Jonathan Taylor",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 61.0,
-   "targets": 4.2,
-   "receptions": 3.1,
-   "rec_yds": 24.4,
-   "carries": 12.8,
-   "tds": 0.9
-  },
-  {
-   "player": "Seth McGowan",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 20.7,
-   "targets": 0.5,
-   "receptions": 0.4,
-   "rec_yds": 2.4,
-   "carries": 4.2,
-   "tds": 0.2
   },
   {
    "player": "Deion Burks",
@@ -164,6 +248,17 @@
    "receptions": 0.8,
    "rec_yds": 10.5,
    "carries": 0.2,
+   "tds": 0.0
+  },
+  {
+   "player": "Laquon Treadwell",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.9,
+   "rec_yds": 26.3,
+   "carries": 0.0,
    "tds": 0.0
   },
   {
@@ -200,35 +295,36 @@
    "tds": 0.1
   },
   {
-   "player": "Daniel Jones",
+   "player": "Jonathan Taylor",
    "team": "IND",
-   "position": "QB",
-   "rush_yds": 12.8,
-   "pass_yds": 236.5,
-   "pass_att": 37.2,
-   "carries": 2.8,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 61.0,
+   "targets": 4.2,
+   "receptions": 3.1,
+   "rec_yds": 24.4,
+   "carries": 12.8,
+   "tds": 0.9
   },
   {
-   "player": "Laquon Treadwell",
+   "player": "Seth McGowan",
    "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 1.9,
-   "rec_yds": 26.3,
-   "carries": 0.0,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 20.7,
+   "targets": 0.5,
+   "receptions": 0.4,
+   "rec_yds": 2.4,
+   "carries": 4.2,
+   "tds": 0.2
   },
   {
-   "player": "Josh Downs",
+   "player": "Tyler Warren",
    "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 6.1,
-   "receptions": 3.7,
-   "rec_yds": 46.3,
-   "carries": 0.1,
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 8.3,
+   "receptions": 6.1,
+   "rec_yds": 46.5,
+   "carries": 0.3,
    "tds": 0.4
   }
  ]
