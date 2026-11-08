@@ -1,0 +1,1574 @@
+{
+ "game_id": "2026_09_TB_CHI",
+ "pulled_at": "2026-11-08T14:21-05:00",
+ "props": [
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "D'Andre Swift",
+   "side": "Yes",
+   "line": null,
+   "price": -185
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Bucky Irving",
+   "side": "Yes",
+   "line": null,
+   "price": 110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Luther Burden III",
+   "side": "Yes",
+   "line": null,
+   "price": 160
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Colston Loveland",
+   "side": "Yes",
+   "line": null,
+   "price": 160
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Rome Odunze",
+   "side": "Yes",
+   "line": null,
+   "price": 180
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Emeka Egbuka",
+   "side": "Yes",
+   "line": null,
+   "price": 220
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Roschon Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 270
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Chris Godwin",
+   "side": "Yes",
+   "line": null,
+   "price": 310
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Caleb Williams",
+   "side": "Yes",
+   "line": null,
+   "price": 320
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Cade Otton",
+   "side": "Yes",
+   "line": null,
+   "price": 360
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kenny Gainwell",
+   "side": "Yes",
+   "line": null,
+   "price": 380
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kalif Raymond",
+   "side": "Yes",
+   "line": null,
+   "price": 390
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ted Hurst III",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Chicago Bears D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tampa Bay Buccaneers D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Sam Roush",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Baker Mayfield",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tez Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Sean Tucker",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Zavion Thomas",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Payne Durham",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "David Sills V",
+   "side": "Yes",
+   "line": null,
+   "price": 1800
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jahdae Walker",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Stephen Carlson",
+   "side": "Yes",
+   "line": null,
+   "price": 2200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Salvon Ahmed",
+   "side": "Yes",
+   "line": null,
+   "price": 2200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Bauer Sharp",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ko Kieft",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kameron Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Caleb Williams",
+   "side": "Over",
+   "line": 246.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Caleb Williams",
+   "side": "Under",
+   "line": 246.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Baker Mayfield",
+   "side": "Over",
+   "line": 210.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Baker Mayfield",
+   "side": "Under",
+   "line": 210.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 65.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 65.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Colston Loveland",
+   "side": "Over",
+   "line": 54.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Colston Loveland",
+   "side": "Under",
+   "line": 54.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Emeka Egbuka",
+   "side": "Over",
+   "line": 50.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Emeka Egbuka",
+   "side": "Under",
+   "line": 50.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rome Odunze",
+   "side": "Over",
+   "line": 50.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rome Odunze",
+   "side": "Under",
+   "line": 50.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chris Godwin",
+   "side": "Over",
+   "line": 32.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chris Godwin",
+   "side": "Under",
+   "line": 32.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Cade Otton",
+   "side": "Over",
+   "line": 29.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Cade Otton",
+   "side": "Under",
+   "line": 29.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ted Hurst III",
+   "side": "Over",
+   "line": 22.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ted Hurst III",
+   "side": "Under",
+   "line": 22.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 21.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 21.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kalif Raymond",
+   "side": "Over",
+   "line": 16.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kalif Raymond",
+   "side": "Under",
+   "line": 16.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tez Johnson",
+   "side": "Over",
+   "line": 15.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tez Johnson",
+   "side": "Under",
+   "line": 15.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 14.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 14.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 9.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 9.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 3.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Colston Loveland",
+   "side": "Over",
+   "line": 5.5,
+   "price": -104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Colston Loveland",
+   "side": "Under",
+   "line": 5.5,
+   "price": -123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 4.5,
+   "price": -154
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 4.5,
+   "price": 120
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Emeka Egbuka",
+   "side": "Over",
+   "line": 3.5,
+   "price": -146
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Emeka Egbuka",
+   "side": "Under",
+   "line": 3.5,
+   "price": 114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chris Godwin",
+   "side": "Over",
+   "line": 3.5,
+   "price": -121
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chris Godwin",
+   "side": "Under",
+   "line": 3.5,
+   "price": -106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rome Odunze",
+   "side": "Over",
+   "line": 3.5,
+   "price": 127
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rome Odunze",
+   "side": "Under",
+   "line": 3.5,
+   "price": -162
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Cade Otton",
+   "side": "Over",
+   "line": 3.5,
+   "price": 128
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Cade Otton",
+   "side": "Under",
+   "line": 3.5,
+   "price": -163
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 2.5,
+   "price": -152
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 2.5,
+   "price": 119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 2.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 2.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kalif Raymond",
+   "side": "Over",
+   "line": 1.5,
+   "price": -191
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kalif Raymond",
+   "side": "Under",
+   "line": 1.5,
+   "price": 149
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 1.5,
+   "price": -169
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 1.5,
+   "price": 132
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ted Hurst III",
+   "side": "Over",
+   "line": 1.5,
+   "price": -120
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ted Hurst III",
+   "side": "Under",
+   "line": 1.5,
+   "price": -106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tez Johnson",
+   "side": "Over",
+   "line": 1.5,
+   "price": 114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tez Johnson",
+   "side": "Under",
+   "line": 1.5,
+   "price": -145
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 0.5,
+   "price": -157
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 0.5,
+   "price": 123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 64.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 64.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 62.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 62.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 22.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 22.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Caleb Williams",
+   "side": "Over",
+   "line": 19.5,
+   "price": -107
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Caleb Williams",
+   "side": "Under",
+   "line": 19.5,
+   "price": -117
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 16.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 16.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Baker Mayfield",
+   "side": "Over",
+   "line": 16.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Baker Mayfield",
+   "side": "Under",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 1.5,
+   "price": -122
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 1.5,
+   "price": -103
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "D'Andre Swift",
+   "side": "Yes",
+   "line": null,
+   "price": -185
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Bucky Irving",
+   "side": "Yes",
+   "line": null,
+   "price": 110
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Colston Loveland",
+   "side": "Yes",
+   "line": null,
+   "price": 165
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Luther Burden III",
+   "side": "Yes",
+   "line": null,
+   "price": 165
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Rome Odunze",
+   "side": "Yes",
+   "line": null,
+   "price": 185
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Emeka Egbuka",
+   "side": "Yes",
+   "line": null,
+   "price": 230
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Roschon Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 270
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Caleb Williams",
+   "side": "Yes",
+   "line": null,
+   "price": 300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Chris Godwin",
+   "side": "Yes",
+   "line": null,
+   "price": 310
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Cade Otton",
+   "side": "Yes",
+   "line": null,
+   "price": 350
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kenny Gainwell",
+   "side": "Yes",
+   "line": null,
+   "price": 380
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kalif Raymond",
+   "side": "Yes",
+   "line": null,
+   "price": 400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ted Hurst III",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Baker Mayfield",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Sam Roush",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tampa Bay Buccaneers Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tez Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Chicago Bears Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Sean Tucker",
+   "side": "Yes",
+   "line": null,
+   "price": 850
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Zavion Thomas",
+   "side": "Yes",
+   "line": null,
+   "price": 1300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Payne Durham",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "David Sills V",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jahdae Walker",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Salvon Ahmed",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Stephen Carlson",
+   "side": "Yes",
+   "line": null,
+   "price": 2200
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Bauer Sharp",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kameron Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ko Kieft",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Baker Mayfield",
+   "side": "Over",
+   "line": 209.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Baker Mayfield",
+   "side": "Under",
+   "line": 209.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Caleb Williams",
+   "side": "Over",
+   "line": 243.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Caleb Williams",
+   "side": "Under",
+   "line": 243.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kalif Raymond",
+   "side": "Over",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kalif Raymond",
+   "side": "Under",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chris Godwin",
+   "side": "Over",
+   "line": 31.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chris Godwin",
+   "side": "Under",
+   "line": 31.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Emeka Egbuka",
+   "side": "Over",
+   "line": 47.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Emeka Egbuka",
+   "side": "Under",
+   "line": 47.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Cade Otton",
+   "side": "Over",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Cade Otton",
+   "side": "Under",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 65.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 65.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tez Johnson",
+   "side": "Over",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tez Johnson",
+   "side": "Under",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ted Hurst III",
+   "side": "Over",
+   "line": 23.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ted Hurst III",
+   "side": "Under",
+   "line": 23.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rome Odunze",
+   "side": "Over",
+   "line": 48.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rome Odunze",
+   "side": "Under",
+   "line": 48.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Colston Loveland",
+   "side": "Over",
+   "line": 52.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Colston Loveland",
+   "side": "Under",
+   "line": 52.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 2.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 2.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tez Johnson",
+   "side": "Over",
+   "line": 1.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tez Johnson",
+   "side": "Under",
+   "line": 1.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ted Hurst III",
+   "side": "Over",
+   "line": 1.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ted Hurst III",
+   "side": "Under",
+   "line": 1.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 5.5,
+   "price": 122
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 5.5,
+   "price": -162
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Emeka Egbuka",
+   "side": "Over",
+   "line": 3.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Emeka Egbuka",
+   "side": "Under",
+   "line": 3.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kalif Raymond",
+   "side": "Over",
+   "line": 1.5,
+   "price": -188
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kalif Raymond",
+   "side": "Under",
+   "line": 1.5,
+   "price": 140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rome Odunze",
+   "side": "Over",
+   "line": 3.5,
+   "price": 134
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rome Odunze",
+   "side": "Under",
+   "line": 3.5,
+   "price": -180
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 0.5,
+   "price": -162
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 0.5,
+   "price": 122
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Cade Otton",
+   "side": "Over",
+   "line": 3.5,
+   "price": 130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Cade Otton",
+   "side": "Under",
+   "line": 3.5,
+   "price": -174
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Colston Loveland",
+   "side": "Over",
+   "line": 5.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Colston Loveland",
+   "side": "Under",
+   "line": 5.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 1.5,
+   "price": -172
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 1.5,
+   "price": 128
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 2.5,
+   "price": -148
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 2.5,
+   "price": 112
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chris Godwin",
+   "side": "Over",
+   "line": 3.5,
+   "price": -128
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chris Godwin",
+   "side": "Under",
+   "line": 3.5,
+   "price": -104
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Kenny Gainwell",
+   "side": "Over",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Kenny Gainwell",
+   "side": "Under",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Caleb Williams",
+   "side": "Over",
+   "line": 19.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Caleb Williams",
+   "side": "Under",
+   "line": 19.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Baker Mayfield",
+   "side": "Over",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Baker Mayfield",
+   "side": "Under",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Bucky Irving",
+   "side": "Over",
+   "line": 63.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Bucky Irving",
+   "side": "Under",
+   "line": 63.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Roschon Johnson",
+   "side": "Over",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Roschon Johnson",
+   "side": "Under",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "D'Andre Swift",
+   "side": "Over",
+   "line": 62.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "D'Andre Swift",
+   "side": "Under",
+   "line": 62.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Luther Burden III",
+   "side": "Over",
+   "line": 2.5,
+   "price": 108
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Luther Burden III",
+   "side": "Under",
+   "line": 2.5,
+   "price": -138
+  }
+ ]
+}

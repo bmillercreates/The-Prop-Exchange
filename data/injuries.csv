@@ -24,7 +24,7 @@ ARI,Evan Hull,RB,Active,"",espn
 ARI,Eku Leota,LB,Active,"",espn
 ARI,Starling Thomas V,CB,Active,"",espn
 ARI,Albert Reese IV,OT,Active,"",espn
-ATL,Olamide Zaccheaus,WR,Questionable,Concussion,espn
+ATL,Olamide Zaccheaus,WR,Active,"Zaccheaus (head) has returned to Sunday's matchup against Cincinnati in Madrid, ",espn
 ATL,Billy Bowman Jr.,CB,Out,Coach's Decision,espn
 ATL,Andy Dalton,QB,Out,Coach's Decision,espn
 ATL,Yasir Abdullah,LB,Active,"Abdullah (hamstring) is active for Sunday's game versus the Bengals in Madrid, W",espn
@@ -99,21 +99,22 @@ BUF,Khalil Shakir,WR,Active,Shakir caught five of six targets for 64 yards in Su
 BUF,James Cook III,RB,Active,Cook rushed 21 times for 80 yards and a touchdown while catching two of three ta,espn
 BUF,Josh Allen,QB,Active,"Allen completed 21 of 34 passes for 289 yards, two touchdowns and one intercepti",espn
 BUF,TJ Parker,LB,Active,"",espn
+CAR,Torricelli Simpkins III,G,Active,"Simpkins (ankle) is available for Sunday's game against Denver, Darin Gantt of t",espn
+CAR,Ja'Tavion Sanders,TE,Active,"Sanders is listed as active for Sunday's matchup against the Broncos, Joe Person",espn
+CAR,Corey Bullock,C,Active,"Bullock (quadriceps) is active for Sunday's game versus Denver, Darin Gantt of t",espn
+CAR,AJ Dillon,RB,Out,Coach's Decision,espn
+CAR,Haynes King,QB,Out,Coach's Decision,espn
+CAR,Bobby Okereke,LB,Out,Foot,espn
+CAR,Jaelan Phillips,LB,Out,Hamstring,espn
+CAR,Will Lee III,CB,Out,Hamstring,espn
+CAR,Damien Lewis,G,Out,Knee,espn
+CAR,TeRah Edwards,DT,Out,Coach's Decision,espn
 CAR,Brady Christensen,G,Injured Reserve,Hamstring,espn
 CAR,Marco Wilson,CB,Active,The Panthers elevated Wilson from their practice squad to their active roster Sa,espn
-CAR,Damien Lewis,G,Out,Knee,espn
-CAR,Will Lee III,CB,Out,Hamstring,espn
-CAR,Jaelan Phillips,LB,Out,Hamstring,espn
-CAR,Bobby Okereke,LB,Out,Foot,espn
-CAR,Torricelli Simpkins III,G,Questionable,Ankle,espn
 CAR,Bryce Young,QB,Active,Panthers coach Dave Canales said Friday that Young (ankle) is ready for Sunday's,espn
-CAR,Corey Bullock,C,Questionable,"Bullock (quadriceps) was a full participant at the Panthers' practice Thursday, ",espn
 CAR,Bobby Brown III,DT,Active,Brown (hand) practiced fully Wednesday.,espn
 CAR,Zakee Wheatley,S,Active,Wheatley recorded seven total tackles (four solo) and an interception during Thu,espn
 CAR,Jonathon Brooks,RB,Injured Reserve,Abdomen,espn
-CAR,Ja'Tavion Sanders,TE,Active,"",espn
-CAR,Haynes King,QB,Active,"",espn
-CAR,AJ Dillon,RB,Active,"",espn
 CAR,Darren Waller,TE,Active,Waller corralled one of two targets for 11 yards during last Thursday's 27-19 lo,espn
 CAR,Xavier Legette,WR,Injured Reserve,Knee,espn
 CAR,Brycen Tremayne,WR,Active,Tremayne finished with an 11-yard reception on his lone target in Thursday's 27-,espn
@@ -123,7 +124,6 @@ CAR,Ryan Fitzgerald,PK,Active,Fitzgerald made both field-goal attempts and conve
 CAR,Jalen Coker,WR,Active,Coker secured two of five targets for 37 yards and a touchdown in the Panthers' ,espn
 CAR,Chuba Hubbard,RB,Active,Hubbard rushed 22 times for 81 yards and a touchdown and brought in seven of eig,espn
 CAR,Tetairoa McMillan,WR,Active,McMillan brought in six of 11 targets for 57 yards in the Panthers' 27-19 loss t,espn
-CAR,Akayleb Evans,CB,Injured Reserve,Triceps,espn
 CHI,Tyrique Stevenson Sr.,CB,Questionable,Thumb,espn
 CHI,Malik Muhammad II,CB,Questionable,Toe,espn
 CHI,Kyle Monangai,RB,Questionable,Toe,espn
@@ -149,6 +149,7 @@ CHI,Colston Loveland,TE,Active,Loveland secured seven of nine targets for 65 yar
 CHI,D'Andre Swift,RB,Active,Swift rushed 27 times for 69 yards and three touchdowns and brought in two of th,espn
 CHI,Case Keenum,QB,Active,Keenum (coach's decision) is inactive but will operate as the Bears' emergency t,espn
 CHI,Jack Sanborn,LB,Active,Sanborn (concussion) does not carry an injury designation into Monday's game aga,espn
+CIN,Joe Burrow,QB,Active,Burrow completed 24 of 29 passes for 271 yards and three touchdowns in Sunday's ,espn
 CIN,Cedric Johnson,DE,Active,Johnson (ankle) is listed as active Sunday against the Falcons in Madrid.,espn
 CIN,Landon Robinson,DT,Out,Coach's Decision,espn
 CIN,Myles Hinton,OT,Out,Coach's Decision,espn
@@ -165,7 +166,6 @@ CIN,Mike Gesicki,TE,Active,Gesicki caught four of six targets for 76 yards and a
 CIN,Chase Brown,RB,Active,Brown rushed 12 times for 55 yards and brought in eight of nine targets for 46 y,espn
 CIN,Tee Higgins,WR,Active,Higgins secured 10 of 11 targets for 155 yards and two touchdowns in the Bengals,espn
 CIN,Ja'Marr Chase,WR,Active,Chase secured 11 of 16 targets for 141 yards and a touchdown in the Bengals' 43-,espn
-CIN,Joe Burrow,QB,Active,Burrow completed 38 of 48 passes for 462 yards with five touchdowns and three in,espn
 CIN,Joe Giles-Harris,LB,Active,"",espn
 CIN,Andrei Iosivas,WR,Injured Reserve,Thumb,espn
 CIN,Erick All Jr.,TE,Injured Reserve,Knee - ACL,espn
@@ -174,7 +174,13 @@ CIN,Boye Mafe,DE,Active,"Mafe finished Sunday's 35-13 win over the Ravens with f
 CIN,Bryan Cook,S,Active,"Cook recorded nine tackles (six solo), including 0.5 sacks, during the Bengals' ",espn
 CIN,Demetrius Knight Jr.,LB,Active,Knight totaled eight tackles (two solo) and an interception during the Bengals' ,espn
 CIN,Dohnte Meyers,WR,Active,Meyers failed to catch either of his two targets in Sunday's 35-13 win over the ,espn
-CLE,Deshaun Watson,QB,Questionable,Concussion,espn
+CLE,Michael Burton,FB,Active,"Burton (calf) has returned to Sunday's matchup against New Orleans, Daniel Oyefu",espn
+CLE,Taylen Green,QB,Out,Coach's Decision,espn
+CLE,Deshaun Watson,QB,Out,Concussion,espn
+CLE,Noah Igbinoghene,CB,Out,Coach's Decision,espn
+CLE,Justin Jefferson,LB,Out,Coach's Decision,espn
+CLE,Parker Brailsford,C,Out,Coach's Decision,espn
+CLE,Maliek Collins,DT,Out,Elbow,espn
 CLE,Dillon Gabriel,QB,Active,"Gabriel ""will serve as the backup quarterback"" Sunday against the Saints, Jeremy",espn
 CLE,Carsen Ryan,TE,Active,The Browns elevated Ryan from the practice squad to the active roster Saturday.,espn
 CLE,Quincy Williams,LB,Active,"Williams has no injury designation ahead of Sunday's game against the Saints, Sc",espn
@@ -182,7 +188,6 @@ CLE,Denzel Boston,WR,Active,Boston (calf) was a full participant in Friday's pra
 CLE,Carson Schwesinger,LB,Active,"",espn
 CLE,Emmanuel McNeil-Warren,S,Active,"",espn
 CLE,Austin Barber,OT,Active,"",espn
-CLE,Maliek Collins,DT,Out,Elbow,espn
 CLE,Harold Fannin Jr.,TE,Active,"Fannin (groin) will play Sunday against the Saints, Daniel Oyefusi of ESPN.com r",espn
 CLE,Shedeur Sanders,QB,Active,"Sanders will start at quarterback Sunday against the Saints, Scott Petrak of the",espn
 CLE,Elgton Jenkins,C,Active,"",espn
@@ -190,49 +195,46 @@ CLE,Myles Harden,CB,Active,"",espn
 CLE,Jared Verse,DE,Active,"",espn
 CLE,Andre Szmyt,PK,Active,Szmyt made both of his field-goal attempts in the Browns' 27-6 loss to the Steel,espn
 CLE,Jerry Jeudy,WR,Active,Jeudy did not catch his lone target Sunday in Cleveland's 27-6 loss to Pittsburg,espn
-CLE,Noah Igbinoghene,CB,Active,Coach's Decision,espn
-CLE,Taylen Green,QB,Active,Coach's Decision,espn
-CLE,Parker Brailsford,C,Active,Coach's Decision,espn
-CLE,Justin Jefferson,LB,Active,"",espn
 CLE,Malachi Corley,WR,Active,Corley went untargeted while playing 13 of 70 snaps on offense Sunday in the Bro,espn
 CLE,Tylan Wallace,WR,Active,Wallace recorded a three-yard reception on his lone target in Sunday's 27-6 loss,espn
 CLE,Isaiah Bond,WR,Active,Bond went without a target while taking the field for eight of the Browns' 70 sn,espn
 CLE,Dylan Sampson,RB,Active,Sampson rushed one time for seven yards and caught six of eight targets for 62 y,espn
-CLE,KC Concepcion,WR,Active,Concepcion caught three of four targets for 37 yards in Sunday's 27-6 loss to th,espn
+DAL,Marist Liufau,LB,Active,Liufau (forearm) is active for Sunday's game against the Colts.,espn
+DAL,Ryan Flournoy,WR,Active,"With George Pickens (hamstring) inactive, Flournoy is slated to move into the No",espn
+DAL,Joey Porter Jr.,CB,Out,Ankle,espn
+DAL,DeMarvion Overshown,LB,Out,Hamstring,espn
+DAL,Luke Schoonmaker,TE,Out,Groin,espn
+DAL,KaVontae Turpin,WR,Out,Ribs,espn
+DAL,Tyrus Wheat,LB,Out,Coach's Decision,espn
+DAL,Ajani Cornelius,OT,Out,Coach's Decision,espn
+DAL,Jake Ferguson,TE,Active,Ferguson (ankle) is listed as active Sunday in Indianapolis.,espn
+DAL,George Pickens,WR,Out,Hamstring,espn
 DAL,Jonathan Bullard,DT,Injured Reserve,Calf,espn
-DAL,Marist Liufau,LB,Questionable,Forearm,espn
 DAL,Jordan Hudson,WR,Active,The Cowboys elevated Hudson from their practice squad to their active roster Sat,espn
 DAL,James Mitchell,TE,Active,The Cowboys elevated Mitchell from their practice squad to their active roster S,espn
 DAL,Malachi Lawrence,LB,Injured Reserve,Ankle,espn
 DAL,Tyler Smith,G,Active,Smith (ankle) does not have any injury designation ahead of Sunday's game agains,espn
 DAL,P.J. Locke,S,Active,Locke (concussion) holds no injury designation ahead of Sunday's game against th,espn
-DAL,Joey Porter Jr.,CB,Questionable,Ankle,espn
 DAL,Caleb Downs,S,Active,Downs (concussion) has no injury designation ahead of Sunday's game against the ,espn
-DAL,DeMarvion Overshown,LB,Questionable,Hamstring,espn
-DAL,KaVontae Turpin,WR,Out,Ribs,espn
-DAL,Jake Ferguson,TE,Questionable,Ankle,espn
-DAL,George Pickens,WR,Questionable,Hamstring,espn
 DAL,Dee Winters,LB,Active,"Winters (calf) was a full participant in practice Thursday, Todd Archer of ESPN.",espn
 DAL,Drew Shelton,OT,Active,"Shelton (hamstring) was a full participant in Wednesday's practice, Patrik Walke",espn
 DAL,Jalen Thompson,S,Injured Reserve,Hamstring,espn
 DAL,Tyler Goodson,RB,Active,Goodson took seven carries for 14 yards and caught both of his two targets for 1,espn
 DAL,Brevyn Spann-Ford,TE,Active,Spann-Ford caught four of five targets for 31 yards during Sunday's 33-30 overti,espn
-DAL,Luke Schoonmaker,TE,Questionable,Groin,espn
 DAL,Brandon Aubrey,PK,Active,Aubrey made three of his four field-goal attempts and all three PATs in the Cowb,espn
-DAL,Tyrus Wheat,LB,Active,"",espn
 DAL,Shavon Revel Jr.,CB,Active,"",espn
-DAL,Ryan Flournoy,WR,Active,Flournoy caught three of four targets for 38 yards and a touchdown in Sunday's 3,espn
 DAL,Dak Prescott,QB,Active,"Prescott was 19-for-29 passing for 195 yards, one touchdown and no interceptions",espn
-DAL,Javonte Williams,RB,Active,Williams churned out 56 yards on 24 carries and notched one catch (on two target,espn
-DEN,Sam Ehlinger,QB,Out,Coach's Decision,espn
-DEN,Talanoa Hufanga,S,Out,Ankle,espn
+DEN,Jaylen Waddle,WR,Questionable,Head,espn
+DEN,Jonah Coleman,RB,Active,Coleman received the first rep with the starters during warmups before Sunday's ,espn
+DEN,Dondrea Tillman,LB,Active,"Tillman is active for Sunday's game against the Panthers, Aric DiLalla of the te",espn
 DEN,Lil'Jordan Humphrey,WR,Out,Coach's Decision,espn
+DEN,Talanoa Hufanga,S,Out,Ankle,espn
+DEN,Pat Bryant,WR,Active,Bryant (ankle) is active for Sunday's Week 9 matchup against the Panthers.,espn
+DEN,Sam Ehlinger,QB,Out,Coach's Decision,espn
 DEN,Brandon Jones,S,Out,Hamstring,espn
-DEN,Dondrea Tillman,LB,Active,"",espn
 DEN,Kris Abrams-Draine,CB,Out,Ankle,espn
 DEN,Dallen Bentley,TE,Out,Coach's Decision,espn
 DEN,Kage Casey,OT,Out,Coach's Decision,espn
-DEN,Pat Bryant,WR,Active,"",espn
 DEN,Eyioma Uwazurike,DE,Injured Reserve,Shoulder,espn
 DEN,Cody Schrader,RB,Active,The Broncos elevated Schrader from their practice squad to their active roster S,espn
 DEN,Alex Singleton,LB,Active,"Singleton notched 14 tackles (six solo), including 1.0 sacks, and defensed a pas",espn
@@ -242,29 +244,27 @@ DEN,Gavin Ortega,OT,Active,"",espn
 DEN,Jordan Jackson,DT,Active,"",espn
 DEN,Tyler Onyedim,DT,Active,"",espn
 DEN,Nate Adkins,TE,Active,Adkins caught both of his targets for four yards and a touchdown in Sunday's 28-,espn
-DEN,Jaylen Waddle,WR,Active,Waddle caught three of six targets for 39 yards and a touchdown and added a two-,espn
 DEN,J.K. Dobbins,RB,Active,Dobbins carried the ball seven times for 13 yards in Sunday's 28-24 win over Kan,espn
-DEN,Jonah Coleman,RB,Active,Coleman carried the ball 11 times for 41 yards and a touchdown and caught four o,espn
 DEN,Bo Nix,QB,Active,Nix completed 20 of 32 passes for 222 yards and two touchdowns in Sunday's 28-24,espn
 DEN,Courtland Sutton,WR,Active,"Sutton (undisclosed) briefly left Sunday's game against the Chiefs, Zac Stevens ",espn
 DEN,Zach Allen,DE,Active,"Allen (hamstring) is active for Sunday's game against the Chiefs, Aric DiLalla o",espn
 DEN,Garett Bolles,OT,Active,"",espn
-DET,Amon-Ra St. Brown,WR,Questionable,Ribs,espn
+DET,Jacob Saylors,RB,Out,Neck,espn
+DET,Sione Vaki,RB,Active,Vaki (ankle) is available for Sunday's game against Miami.,espn
+DET,Mekhi Wingo,DT,Out,Coach's Decision,espn
+DET,DJ Wonnum,LB,Out,Concussion,espn
+DET,Cade Mays,C,Out,Ankle,espn
+DET,Jackson Meeks,WR,Out,Coach's Decision,espn
+DET,D.J. Reed,CB,Out,Hip,espn
+DET,Ahmed Hassanein,DE,Out,Coach's Decision,espn
+DET,Amon-Ra St. Brown,WR,Active,St. Brown (ribs) is active for Sunday's game in Miami.,espn
 DET,Jabari Small,RB,Active,The Lions elevated Small from the practice squad to the active roster Saturday a,espn
 DET,Jack Campbell,LB,Injured Reserve,Neck,espn
-DET,Cade Mays,C,Out,Ankle,espn
-DET,DJ Wonnum,LB,Out,Concussion,espn
-DET,D.J. Reed,CB,Out,Hip,espn
 DET,Kerby Joseph,S,Out,Knee,espn
 DET,Brian Branch,S,Active,Branch (concussion) does not have any injury designation ahead of Sunday's game ,espn
-DET,Jacob Saylors,RB,Questionable,Neck,espn
-DET,Sione Vaki,RB,Questionable,Ankle,espn
 DET,Amen Ogbongbemiga,LB,Active,"",espn
 DET,Jimmy Rolder,LB,Injured Reserve,Hamstring,espn
 DET,Jake Bates,PK,Active,Bates made two of his three field-goal attempts and his sole PAT in the Lions' 1,espn
-DET,Jackson Meeks,WR,Active,"",espn
-DET,Ahmed Hassanein,DE,Active,"",espn
-DET,Mekhi Wingo,DT,Active,"",espn
 DET,Seth McLaughlin,C,Active,"",espn
 DET,Sam LaPorta,TE,Active,LaPorta caught three of five targets for 33 yards in Sunday's 19-15 win over the,espn
 DET,Jameson Williams,WR,Active,Williams brought in four of six targets for 70 yards and a touchdown in the Lion,espn
@@ -274,6 +274,7 @@ DET,Roger McCreary,CB,Active,McCreary (foot) is active for Sunday's game against
 DET,Ennis Rakestraw Jr.,CB,Active,Rakestraw (ankle) does not have a game designation for Sunday's Week 8 tilt vers,espn
 DET,Isiah Pacheco,RB,Injured Reserve,Back,espn
 DET,Tyleik Williams,DT,Active,"",espn
+GB,Christian Watson,WR,Active,"Watson (ribs) will be ""full go"" in Sunday's game at New England, per Jay Glazer ",espn
 GB,Chris Brooks,RB,Injured Reserve,Ankle,espn
 GB,Drake Dabney,TE,Active,The Packers elevated Dabney from the practice squad to the active roster Saturda,espn
 GB,Travis Glover,OT,Out,Knee,espn
@@ -284,7 +285,6 @@ GB,Zaire Franklin,LB,Out,Shin,espn
 GB,Josh Whyle,TE,Out,Concussion,espn
 GB,MarShawn Lloyd,RB,Questionable,Knee,espn
 GB,Micah Parsons,DE,Out,Knee - ACL,espn
-GB,Christian Watson,WR,Active,Watson (ribs) doesn't have a designation for Sunday's contest at New England.,espn
 GB,Josh Jacobs,RB,Active,Jacobs doesn't anticipate missing any additional game action due to the release ,espn
 GB,Isaiah McDuffie,LB,Active,McDuffie finished last Thursday's 27-19 win over Carolina with 10 tackles (three,espn
 GB,Ty'Ron Hopper,LB,Active,"Hopper recorded eight tackles, including 1.0 sacks, and three defensed passes, i",espn
@@ -324,14 +324,19 @@ HOU,Ka'imi Fairbairn,PK,Active,Fairbairn went 2-for-2 on field-goal attempts and
 HOU,Marvin Harrison Jr.,WR,Active,Harrison caught one of four targets for a six-yard touchdown in Sunday's 27-21 o,espn
 HOU,C.J. Stroud,QB,Active,Stroud completed 17 of 28 passes for 153 yards and two touchdowns in Sunday's 27,espn
 HOU,Nico Collins,WR,Active,Collins caught two of five targets for six yards in Sunday's 27-21 overtime loss,espn
+IND,Jaylon Carlies,LB,Questionable,Neck,espn
+IND,Riley Leonard,QB,Out,Coach's Decision,espn
+IND,Justin Walley,CB,Out,Knee,espn
+IND,Will Mallory,TE,Out,Coach's Decision,espn
+IND,Akeem Davis-Gaither,LB,Out,Knee,espn
+IND,Charlie Heck,OT,Out,Coach's Decision,espn
+IND,Jalen Travis,OT,Active,"",espn
+IND,Pharaoh Brown,TE,Out,Coach's Decision,espn
 IND,Jonathan Taylor,RB,Active,"The Colts have an offer of ""at least a second-round pick and more"" on the table ",espn
 IND,A.J. Haulcy,S,Out,Ankle,espn
 IND,Daniel Jones,QB,Active,The Colts have been contacted by multiple teams regarding the availability of Jo,espn
-IND,Justin Walley,CB,Out,Knee,espn
 IND,Anthony Gould,WR,Active,Gould (concussion) does not have a designation for Sunday's matchup versus Dalla,espn
 IND,Drew Ogletree,TE,Active,Ogletree (knee) does not carry an official injury designation ahead of Sunday's ,espn
-IND,Jalen Travis,OT,Questionable,Thumb,espn
-IND,Akeem Davis-Gaither,LB,Out,Knee,espn
 IND,Bryce Boettcher,LB,Active,Boettcher (groin) was a full participant at the Colts' practice Wednesday.,espn
 IND,Alec Pierce,WR,Injured Reserve,Heel,espn
 IND,Laquon Treadwell,WR,Active,Treadwell caught one of two targets for 18 yards during Sunday's 42-7 loss to th,espn
@@ -339,16 +344,11 @@ IND,Adetomiwa Adebawore,DT,Active,"Adebawore agreed Tuesday with the Colts on a 
 IND,Spencer Shrader,PK,Active,Shrader made his sole PAT in the Colts' 42-7 loss to the Jaguars on Sunday.,espn
 IND,DJ Giddens,RB,Active,Giddens racked up 43 yards on six carries in Indianapolis' Week 8 loss to Jackso,espn
 IND,Seth McGowan,RB,Active,McGowan rushed five times for 29 yards and returned four kickoffs for 103 yards ,espn
-IND,Charlie Heck,OT,Active,"",espn
-IND,Pharaoh Brown,TE,Active,"",espn
-IND,Riley Leonard,QB,Active,"",espn
 IND,Kevin Givens,DT,Active,"",espn
 IND,Keenan Allen,WR,Active,Allen caught all seven targets for 67 yards in Sunday's 42-7 loss to the Jaguars,espn
 IND,Josh Downs,WR,Active,Downs caught four of five targets for 23 yards and a touchdown during Sunday's 4,espn
 IND,Anthony Richardson Sr.,QB,Active,Richardson entered the Colts' 42-7 loss to the Jaguars on Sunday for an ineffect,espn
 IND,Tyler Warren,TE,Active,Warren secured four of 10 targets for 18 yards in the Colts' 42-7 loss to the Ja,espn
-IND,Sauce Gardner,CB,Active,Gardner (calf) practiced in full Thursday.,espn
-IND,Matt Goncalves,G,Active,"",espn
 JAX,Foyesade Oluokun,LB,Active,"Oluokun recorded seven tackles (six solo), including 1.0 sacks, in Thursday's 33",espn
 JAX,Tanner Koziol,TE,Active,Koziol finished Thursday's 33-10 win over Baltimore with two catches for 15 yard,espn
 JAX,Nate Boerkircher,TE,Active,Boerkircher hauled in two of three targets for 61 yards in Thursday night's 33-1,espn
@@ -374,23 +374,23 @@ JAX,Branson Combs,LB,Active,"",espn
 JAX,Ezra Cleveland,G,Active,"",espn
 JAX,Rayuan Lane III,S,Active,"Lane recorded four total tackles (one solo) and three passes defensed, including",espn
 JAX,Eric Murray,S,Injured Reserve,Elbow,espn
+KC,Garrett Nussmeier,QB,Out,Coach's Decision,espn
+KC,Nikko Remigio,WR,Active,Remigio is officially active for Sunday's game against the Jets.,espn
 KC,Peter Woods,DT,Out,Neck,espn
-KC,Nikko Remigio,WR,Questionable,Hip,espn
+KC,Ben VanSumeren,FB,Out,Coach's Decision,espn
+KC,Diego Pounds,OT,Out,Coach's Decision,espn
+KC,Jack Pyburn,LB,Out,Coach's Decision,espn
 KC,Mansoor Delane,CB,Out,Shoulder,espn
 KC,Travis Kelce,TE,Active,Kelce (ankle) was a full participant in Wednesday's practice.,espn
 KC,Rashee Rice,WR,Active,Rice (hamstring/knee) practiced without limitations Thursday.,espn
 KC,Harrison Butker,PK,Active,Head coach Andy Reid said that Butker will remain the Chiefs' kicker for Sunday',espn
 KC,Cyrus Allen,WR,Active,Allen caught two of three targets for 20 yards in Sunday's 28-24 loss to the Bro,espn
 KC,Tyreke Smith,DE,Active,"",espn
-KC,Ben VanSumeren,FB,Active,"",espn
-KC,Diego Pounds,OT,Active,"",espn
-KC,Jack Pyburn,LB,Active,"",espn
 KC,Noah Gray,TE,Active,Gray caught both of his targets for 15 yards and a touchdown in Sunday's 28-24 l,espn
 KC,Emmett Johnson,RB,Active,Johnson carried the ball once for 15 yards and caught all five of his targets fo,espn
 KC,Xavier Worthy,WR,Active,Worthy caught three of six targets for 13 yards during Sunday's 28-24 loss to th,espn
 KC,Kenneth Walker III,RB,Active,Walker carried the ball 21 times for 69 yards and caught four of five targets fo,espn
 KC,Patrick Mahomes,QB,Active,Mahomes completed 30 of 41 passes for 321 yards and three touchdowns in Sunday's,espn
-KC,Garrett Nussmeier,QB,Active,"Nussmeier (coach's decision) is inactive for Sunday's game against Denver, thoug",espn
 KC,R Mason Thomas,DE,Active,"",espn
 KC,L'Jarius Sneed,CB,Injured Reserve,Knee,espn
 KC,Jaylon Moore,OT,Active,Moore (concussion) does not carry an injury designation into Sunday's game again,espn
@@ -424,13 +424,13 @@ LV,Jalen Nailor,WR,Active,Nailor caught all four targets for 38 yards in Sunday'
 LV,Kirk Cousins,QB,Active,Cousins completed 19 of 26 passes for 247 yards and three touchdowns in Sunday's,espn
 LV,Brock Bowers,TE,Active,Bowers caught seven of 10 targets for 92 yards and two touchdowns in Sunday's 38,espn
 LV,Jackson Powers-Johnson,G,Active,"",espn
-LAC,Rodney Shelley,CB,Active,Shelley (ankle) has no designation for Sunday's tilt against the Texans.,espn
 LAC,Denzel Perryman,LB,Injured Reserve,Undisclosed,espn
+LAC,David Njoku,TE,Injured Reserve,Lower Leg,espn
+LAC,Rodney Shelley,CB,Active,Shelley (ankle) has no designation for Sunday's tilt against the Texans.,espn
 LAC,Kendall Williamson,S,Out,Calf,espn
 LAC,Deane Leonard,CB,Out,Concussion,espn
 LAC,Donte Jackson,CB,Active,Jackson (hamstring) does not have a designation for Sunday's tilt against the Te,espn
 LAC,Brenen Thompson,WR,Doubtful,Quadriceps,espn
-LAC,David Njoku,TE,Injured Reserve,Lower Leg,espn
 LAC,Kayode Awosika,G,Doubtful,Lower Leg,espn
 LAC,Daiyan Henley,LB,Active,"Henley (shoulder) was a full participant in Thursday's practice, Adam Caplan of ",espn
 LAC,Bud Dupree,LB,Active,"",espn
@@ -449,38 +449,44 @@ LAC,Justin Herbert,QB,Active,Herbert completed 24 of 32 passes for 257 yards wit
 LAC,Derwin James Jr.,S,Injured Reserve,Hamstring,espn
 LAC,Joe Alt,OT,Active,Alt (neck) was not listed on the Chargers' official injury report Wednesday.,espn
 LAC,Jamaree Caldwell,DT,Active,"",espn
+LAR,Steve Avila,G,Questionable,Hamstring,espn
+LAR,Grant Stuard,LB,Active,Stuard is listed as active for Sunday's matchup against the Commanders.,espn
+LAR,Joe Cardona,LS,Out,Ankle,espn
+LAR,Ty Simpson,QB,Out,Coach's Decision,espn
+LAR,Kam Curl,S,Active,Curl (foot) is active for Sunday's game against the Commanders.,espn
+LAR,Trent McDuffie,CB,Out,Back,espn
+LAR,Colby Parkinson,TE,Active,Parkinson (ribs) is listed as active for Sunday's game against the Commanders.,espn
+LAR,Jordan Whittington,WR,Active,Whittington (back) is active for Sunday's game against the Commanders.,espn
+LAR,Keagen Trost,OT,Out,Coach's Decision,espn
+LAR,Bill Murray,G,Out,Coach's Decision,espn
+LAR,Darryl Peterson III,LB,Out,Coach's Decision,espn
+LAR,Desjuan Johnson,DE,Out,Coach's Decision,espn
 LAR,Jaylen Watson,CB,Injured Reserve,Shoulder,espn
 LAR,Ronnie Rivers,RB,Active,The Rams activated Rivers (calf) from injured reserve Saturday.,espn
 LAR,Myles Garrett,DE,Active,Garrett (knee) was activated from injured reserve Saturday and doesn't have a de,espn
-LAR,Jordan Whittington,WR,Questionable,Back,espn
 LAR,Terrance Ferguson,TE,Injured Reserve,Hamstring,espn
-LAR,Colby Parkinson,TE,Questionable,Ribs,espn
-LAR,Joe Cardona,LS,Doubtful,Ankle,espn
-LAR,Kam Curl,S,Questionable,Foot,espn
-LAR,Trent McDuffie,CB,Questionable,Back,espn
 LAR,Quentin Lake,S,Active,"Lake recorded seven total tackles (two solo) and two passes defensed, including ",espn
-LAR,Steve Avila,G,Active,"",espn
 LAR,Joshua Karty,PK,Active,The Rams signed Karty to their active roster Thursday.,espn
 LAR,Matthew Stafford,QB,Active,"Stafford (right elbow) was a full participant in Wednesday's practice, Sarah Bar",espn
 LAR,Tyler Higbee,TE,Active,Higbee caught one of two targets for 14 yards against the Chargers in Sunday's 2,espn
 LAR,Dean Connors,RB,Injured Reserve,Hand,espn
 LAR,Brandon McManus,PK,Active,McManus converted his sole field-goal attempt and all three PATs in the Rams' 24,espn
-LAR,Grant Stuard,LB,Questionable,Hamstring,espn
-LAR,Bill Murray,G,Active,"",espn
-LAR,Ty Simpson,QB,Active,"",espn
-LAR,Desjuan Johnson,DE,Active,"",espn
-LAR,Keagen Trost,OT,Active,"",espn
 LAR,Blake Corum,RB,Active,Corum rushed 11 times for 73 yards and a touchdown and failed to bring in his on,espn
 LAR,Kyren Williams,RB,Active,Williams rushed 16 times for 56 yards and a touchdown and brought in his sole ta,espn
 LAR,Puka Nacua,WR,Active,Nacua secured 11 of 12 targets for 80 yards and a touchdown in the Rams' 24-9 wi,espn
-LAR,Coleman Shelton,C,Active,"",espn
-MIA,Jaylen Wright,RB,Questionable,Quadriceps,espn
+MIA,Malik Herring,DE,Active,Herring (neck) is active for Sunday's game against the Lions.,espn
+MIA,Kaytron Allen,RB,Active,Allen is listed as active for Sunday's matchup against the Lions.,espn
+MIA,Jaylen Wright,RB,Out,Quadriceps,espn
+MIA,Reese Taylor,CB,Out,Coach's Decision,espn
+MIA,Jalen Tolbert,WR,Out,Coach's Decision,espn
+MIA,Chukwuebuka Godrick,OT,Out,Coach's Decision,espn
+MIA,Christian Haynes,G,Out,Coach's Decision,espn
+MIA,Justin Joly,TE,Out,Coach's Decision,espn
+MIA,Marcellas Dial Jr.,CB,Out,Coach's Decision,espn
 MIA,Carlos Washington Jr.,RB,Active,Miami elevated Washington from the practice squad to the active roster Saturday ,espn
 MIA,Zane Gonzalez,PK,Active,The Dolphins elevated Gonzalez from their practice squad to their active roster ,espn
 MIA,Kadyn Proctor,OT,Active,Proctor (concussion) does not have a designation for Sunday's Week 9 matchup ver,espn
-MIA,Malik Herring,DE,Questionable,Neck,espn
 MIA,Will Kacmarek,TE,Active,Kacmarek (hamstring) does not carry an official injury designation ahead of Sund,espn
-MIA,Kaytron Allen,RB,Questionable,Quadriceps,espn
 MIA,Chop Robinson,LB,Active,"",espn
 MIA,Zach Sieler,DT,Active,"",espn
 MIA,Michael Taaffe,S,Active,"",espn
@@ -489,16 +495,10 @@ MIA,Tucker Addington,LS,Active,"",espn
 MIA,Jacob Rodriguez,LB,Active,Rodriguez notched eight tackles (two solo) and forced a fumble in Sunday's 24-19,espn
 MIA,Jordyn Brooks,LB,Active,Brooks recorded 11 tackles (six solo) in Sunday's 24-19 loss to the Patriots.,espn
 MIA,Darrell Baker Jr.,CB,Out,Undisclosed,espn
-MIA,Christian Haynes,G,Active,"",espn
 MIA,Jaylin Simpson,S,Active,"",espn
-MIA,Marcellas Dial Jr.,CB,Active,"",espn
-MIA,Justin Joly,TE,Active,"",espn
 MIA,Jamree Kromah,DE,Active,"",espn
 MIA,Malik Washington,WR,Active,Washington caught five of six targets for 40 yards and a touchdown in Sunday's 2,espn
 MIA,Kevin Coleman Jr.,WR,Active,Coleman caught all three of his targets for 46 yards and a touchdown during Sund,espn
-MIA,Ollie Gordon II,RB,Active,Gordon carried the ball 19 times for 69 yards in Sunday's 24-19 loss to the Patr,espn
-MIA,Malik Willis,QB,Active,Willis completed 21 of 32 passes for 211 yards and two touchdowns with one inter,espn
-MIA,Caleb Douglas,WR,Active,Douglas caught four of six targets for 43 yards in Sunday's 24-19 loss to the Pa,espn
 MIN,Odell Beckham Jr.,WR,Active,"The Vikings are signing Beckham from the practice squad to the active roster, To",espn
 MIN,Andrew Van Ginkel,LB,Active,Van Ginkel (chest) doesn't have a designation for Monday's matchup against the B,espn
 MIN,Demond Claiborne,RB,Out,Knee,espn
@@ -549,17 +549,24 @@ NE,Elliott Davison,S,Active,"",espn
 NE,Kyle Williams,WR,Active,Williams caught his lone target for a 43-yard touchdown during Sunday's 24-19 wi,espn
 NE,DeMario Douglas,WR,Active,Douglas caught all three of his targets for 76 yards and a touchdown in Sunday's,espn
 NE,Drake Maye,QB,Active,Maye completed 16 of 20 passes for 199 yards and two touchdowns in Sunday's 24-1,espn
-NO,Kelvin Banks Jr.,OT,Active,"The Saints activated Banks (ankle) from injured reserve Saturday, and he remains",espn
+NO,Kelvin Banks Jr.,OT,Active,Banks (ankle) is active for Sunday's game against the Browns.,espn
+NO,Zach Wilson,QB,Out,Coach's Decision,espn
+NO,Tyler Shough,QB,Active,Shough was still wearing a glove on his left hand during pregame warmups ahead o,espn
+NO,Martin Emerson Jr.,CB,Active,Emerson is listed as active for Sunday's matchup against the Browns.,espn
+NO,Jordyn Tyson,WR,Active,"Tyson (hamstring) is listed as active for Sunday's game against the Browns, Ross",espn
+NO,Mason Murphy,OT,Out,Coach's Decision,espn
+NO,Mike Reid,CB,Out,Coach's Decision,espn
+NO,John Ridgeway III,DT,Out,Coach's Decision,espn
+NO,Jaylan Ford,LB,Out,Coach's Decision,espn
+NO,Christen Miller,DT,Out,Coach's Decision,espn
+NO,Asim Richards,OT,Active,"",espn
+NO,CJ Donaldson,RB,Out,Shoulder,espn
 NO,Zamir White,RB,Active,The Saints elevated White from their practice squad to their active roster Satur,espn
 NO,Charlie Smyth,PK,Active,The Saints elevated Smyth from their practice squad to their active roster Satur,espn
-NO,Jordyn Tyson,WR,Questionable,Hamstring,espn
 NO,Justin Reid,S,Active,Reid (concussion) does not have any injury designation ahead of Sunday's game ag,espn
-NO,Martin Emerson Jr.,CB,Questionable,Emerson (shin) is questionable to suit up for Sunday's Week 9 matchup against th,espn
 NO,Alvin Kamara,RB,Active,Kamara (rest/back) doesn't have a designation for Sunday's game versus the Brown,espn
-NO,CJ Donaldson,RB,Out,Shoulder,espn
 NO,Cesar Ruiz,G,Active,Ruiz (knee) was a full participant in Wednesday's practice.,espn
 NO,Nathan Shepherd,DT,Active,Shepherd (illness) practiced in full Wednesday.,espn
-NO,Asim Richards,OT,Questionable,questionable,espn
 NO,Travis Etienne Jr.,RB,Injured Reserve,Hamstring,espn
 NO,Audric Estime,RB,Active,The Saints claimed Estime off waivers from the Browns on Tuesday.,espn
 NO,Carl Granderson,DE,Active,"Granderson totaled four tackles, including 1.5 sacks, in Sunday's Week 7 loss to",espn
@@ -567,14 +574,14 @@ NO,Pete Werner,LB,Active,Werner finished Sunday's loss to the Steelers with eigh
 NO,Jonas Sanker,S,Active,Sanker posted nine tackles (seven solo) in Sunday's Week 7 loss to Pittsburgh.,espn
 NO,Noah Fant,TE,Active,Fant gathered in all two targets for 11 yards during Sunday's 16-10 defeat again,espn
 NO,Bryce Lance,WR,Active,Lance reeled in all two targets for 12 yards during Sunday's 16-10 loss to Pitts,espn
-NO,Barion Brown,WR,Active,Brown hauled in all three targets for 57 yards during Sunday's 16-10 loss to the,espn
-NO,Mike Reid,CB,Active,"",espn
-NO,Tyree Wilson,DE,Active,"",espn
-NO,John Ridgeway III,DT,Active,"",espn
-NO,Zach Wilson,QB,Active,"",espn
-NO,Juwan Johnson,TE,Active,Johnson caught one of three targets for seven yards during Sunday's 16-10 loss t,espn
-NO,Devaughn Vele,WR,Active,Vele caught all five of his targets for 54 yards and a touchdown in Sunday's 16-,espn
-NYG,Cam Skattebo,RB,Doubtful,Hamstring,espn
+NYG,Charlie Jones,WR,Active,"Jones (hand) is active for Sunday's game against the Eagles, Dan Duggan of The A",espn
+NYG,Thomas Fidone II,TE,Out,Coach's Decision,espn
+NYG,Cam Skattebo,RB,Out,Hamstring,espn
+NYG,CJ Okoye,DT,Out,Coach's Decision,espn
+NYG,Nikko Reed,CB,Out,Coach's Decision,espn
+NYG,Josh Sills,G,Out,Coach's Decision,espn
+NYG,Colton Hood,CB,Out,Coach's Decision,espn
+NYG,Marcus Mbow,OT,Out,Coach's Decision,espn
 NYG,Phil Mafah,RB,Active,The Giants elevated Mafah from their practice squad to their active roster Satur,espn
 NYG,Jalin Hyatt,WR,Active,The Giants signed Hyatt from their practice squad to their active roster Saturda,espn
 NYG,Andrew Thomas,OT,Active,Thomas (groin) does not have a designation for Sunday's matchup in Philadelphia.,espn
@@ -583,60 +590,53 @@ NYG,Jermaine Eluemunor,OT,Active,"",espn
 NYG,Malik Nabers,WR,Active,Nabers (knee) doesn't have a designation for Sunday's game in Philadelphia.,espn
 NYG,Devin Singletary,RB,Active,"With Cam Skattebo (hamstring) doubtful to play Week 9, Singletary is expected to",espn
 NYG,Greg Desrosiers Jr.,RB,Active,"Desrosiers could serve as a backup for the Giants on Sunday, Dan Duggan of The A",espn
-NYG,Colton Hood,CB,Active,Hood (illness) was a full participant in Thursday's practice.,espn
 NYG,Malik Harrison,LB,Active,"",espn
 NYG,Abdul Carter,LB,Active,"Carter (illness) returned to practice Thursday, Dan Duggan of The Athletic repor",espn
 NYG,Greg Newsome II,CB,Active,Newsome (concussion) wasn't listed on the Giants' injury report Wednesday.,espn
 NYG,Jevon Holland,S,Active,"Holland (concussion) was not listed on the Giants' injury report Wednesday, Dan ",espn
 NYG,Theo Johnson,TE,Active,"Johnson (neck) was a full participant at the Giants' practice Wednesday, Dan Sal",espn
-NYG,Charlie Jones,WR,Questionable,Hand,espn
-NYG,Marcus Mbow,OT,Active,"",espn
 NYG,Arvell Reese,LB,Active,"Reese posted seven tackles (five solo), including 0.5 sacks, in Sunday's 27-21 o",espn
 NYG,Micah McFadden,LB,Active,McFadden notched 10 tackles (all solo) in Sunday's 27-21 overtime win against th,espn
 NYG,Tyrone Tracy Jr.,RB,Injured Reserve,Hamstring,espn
 NYG,Darnell Mooney,WR,Active,Mooney caught one of three targets for four yards and rushed once for three yard,espn
-NYG,Jameis Winston,QB,Active,Winston turned four carries into four yards and a touchdown during the Giants' 2,espn
-NYG,Dominic Zvada,PK,Active,Head coach John Harbaugh reiterated Monday that he's confident in Zvada and said,espn
-NYG,Nikko Reed,CB,Active,"",espn
-NYG,Josh Sills,G,Active,"",espn
+NYJ,Breece Hall,RB,Active,"Based on pregame warmups, Zack Rosenblatt of The Athletic suggests that it seems",espn
+NYJ,Tim Patrick,WR,Out,Coach's Decision,espn
+NYJ,Harrison Phillips,DT,Active,"",espn
+NYJ,Trevin Wallace,LB,Out,Groin,espn
+NYJ,Garrett Wilson,WR,Out,Concussion,espn
+NYJ,Blake Freeland,OL,Out,Coach's Decision,espn
+NYJ,Kohl Levao,G,Out,Coach's Decision,espn
 NYJ,VJ Payne,S,Injured Reserve,Knee,espn
 NYJ,Nahshon Wright,CB,Out,Back,espn
 NYJ,Joseph Ossai,DE,Out,Ankle,espn
-NYJ,Trevin Wallace,LB,Out,Groin,espn
 NYJ,Braelon Allen,RB,Active,Jets coach Aaron Glenn declined to elaborate on the distribution of carries betw,espn
 NYJ,Adonai Mitchell,WR,Active,Mitchell and Omar Cooper will be the Jets' top wide receivers with Garrett Wilso,espn
 NYJ,Omar Cooper Jr.,WR,Active,Cooper and Adonai Mitchell will be the Jets' top wide receivers with Garrett Wil,espn
-NYJ,Garrett Wilson,WR,Out,Concussion,espn
-NYJ,Breece Hall,RB,Active,"Hall (quadriceps) ""has been medically cleared"" and is expected to play Sunday ag",espn
 NYJ,Dane Belton,S,Active,Belton recorded 12 total tackles (eight solo) and a pass defensed in Sunday's 38,espn
 NYJ,Jamien Sherwood,LB,Active,Sherwood recorded 14 total tackles (five solo) during Sunday's 38-33 loss to the,espn
 NYJ,David Bailey,LB,Active,Bailey (groin) was a full participant in Thursday's practice.,espn
 NYJ,Mason Taylor,TE,Active,Taylor (back) was a full participant in Thursday's practice.,espn
-NYJ,Harrison Phillips,DT,Questionable,Ankle,espn
 NYJ,Max Mitchell,OT,Injured Reserve,Concussion,espn
 NYJ,Isaiah Davis,RB,Active,Davis rushed five times for 15 yards in Sunday's 38-33 loss to the Raiders.,espn
 NYJ,Kenyon Sadiq,TE,Active,Sadiq caught one of two targets for 22 yards in Sunday's 38-33 loss to the Raide,espn
 NYJ,Jason Sanders,PK,Active,Sanders made all four of his field-goal attempts and three PATs in the Jets' 38-,espn
-NYJ,Tim Patrick,WR,Active,"",espn
-NYJ,Kohl Levao,G,Active,"",espn
 NYJ,Isaiah Williams,WR,Active,Williams caught an 18-yard touchdown on his lone target in Sunday's 38-33 loss t,espn
 NYJ,Geno Smith,QB,Active,"Smith completed 20 of 32 passes for 290 yards, two touchdowns and one intercepti",espn
 NYJ,Dylan Parham,G,Active,Parham (knee) is active for Sunday's game against Las Vegas.,espn
 NYJ,T'Vondre Sweat,DT,Injured Reserve,Knee,espn
-NYJ,Kene Nwangwu,RB,Active,Nwangwu was a full participant in Wednesday's practice.,espn
-PHI,Tanner McKee,QB,Questionable,Ribs,espn
-PHI,Elijah Mitchell,RB,Active,The Eagles elevated Mitchell from the practice squad to the active roster Saturd,espn
-PHI,Jonathan Jones,CB,Out,Hamstring,espn
-PHI,Michael Carter II,CB,Out,Abdomen,espn
-PHI,Jihaad Campbell,LB,Out,Hamstring,espn
+PHI,Tanner McKee,QB,Active,McKee (ribs) is active for Sunday's game against the Giants.,espn
+PHI,Dontayvion Wicks,WR,Out,Ankle,espn
+PHI,DeVonta Smith,WR,Out,Hamstring,espn
 PHI,Britain Covey,WR,Out,Knee,espn
+PHI,Jonathan Jones,CB,Out,Hamstring,espn
+PHI,Jihaad Campbell,LB,Out,Hamstring,espn
+PHI,Michael Carter II,CB,Out,Abdomen,espn
+PHI,Elijah Mitchell,RB,Active,The Eagles elevated Mitchell from the practice squad to the active roster Saturd,espn
 PHI,Jake Elliott,PK,Active,Elliott (ankle) does not carry an official injury designation ahead of Sunday's ,espn
 PHI,Darius Cooper,WR,Active,"Cooper and Makai Lemon are positioned to start again Sunday against the Giants, ",espn
 PHI,Makai Lemon,WR,Active,Lemon and Darius Cooper profile as the top wide receivers for QB Joe Milton's fi,espn
 PHI,Jalyx Hunt,LB,Active,"",espn
 PHI,Jonathan Greenard,LB,Active,"",espn
-PHI,DeVonta Smith,WR,Out,Hamstring,espn
-PHI,Dontayvion Wicks,WR,Out,Ankle,espn
 PHI,Saquon Barkley,RB,Active,Barkley (hamstring/back) doesn't have a designation for Sunday's game against th,espn
 PHI,Joe Milton,QB,Active,"Milton is set to be the Eagles' starting quarterback Sunday against the Giants, ",espn
 PHI,Elijah Moore,WR,Active,Moore did not garner a target during Sunday night's 27-10 loss to the Commanders,espn
@@ -774,28 +774,28 @@ TEN,Thomas Morstead,P,Active,The Titans elevated Morstead from the practice squa
 TEN,Dorian Mausi,LB,Injured Reserve,Foot,espn
 TEN,Jonah Laulu,DT,Active,"The Titans claimed Laulu off waivers from the Raiders on Wednesday, Jim Wyatt of",espn
 TEN,Amani Hooker,S,Active,Hooker posted five tackles (two solo) during Sunday's 27-24 loss to Cleveland.,espn
+WAS,Athan Kaliakmanis,QB,Out,Coach's Decision,espn
+WAS,Jer'Zhan Newton,DT,Active,Newton (pectoral) is active for Sunday's game against the Rams.,espn
+WAS,Tanoa Togiai,G,Out,Coach's Decision,espn
+WAS,Isaac Yiadom,CB,Out,Coach's Decision,espn
+WAS,Fabian Moreau,CB,Out,Coach's Decision,espn
+WAS,Treylon Burks,WR,Out,Foot,espn
 WAS,Jaden Bradley,WR,Active,The Commanders elevated Bradley from their practice squad to the active roster S,espn
 WAS,Dyami Brown,WR,Injured Reserve,Calf,espn
-WAS,Jer'Zhan Newton,DT,Questionable,Pectoral,espn
 WAS,Sam Cosmi,G,Active,"",espn
 WAS,John Bates,TE,Active,"",espn
 WAS,Shy Tuttle,DT,Active,"",espn
-WAS,Treylon Burks,WR,Out,Foot,espn
 WAS,Daron Payne,DT,Injured Reserve,Foot,espn
 WAS,Jeremy McNichols,RB,Injured Reserve,Foot,espn
 WAS,Javon Kinlaw,DT,Injured Reserve,Knee - MCL,espn
 WAS,Robert Henry Jr.,RB,Active,The Commanders claimed Henry off waivers from the Seahawks on Tuesday.,espn
 WAS,Drew Stevens,PK,Active,Stevens made four of his five field-goal attempts and converted his only extra-p,espn
 WAS,Chig Okonkwo,TE,Active,Okonkwo tallied two catches (on four targets) for 32 yards during Sunday's 27-10,espn
-WAS,Isaac Yiadom,CB,Active,Coach's Decision,espn
-WAS,Tanoa Togiai,G,Active,Coach's Decision,espn
-WAS,Fabian Moreau,CB,Active,"",espn
 WAS,Antonio Williams,WR,Active,Williams caught five of seven targets for 54 yards during Sunday night's 27-10 w,espn
 WAS,Austin Ekeler,RB,Active,Ekeler rushed eight times for 36 yards in Sunday night's 27-10 win over the Eagl,espn
 WAS,Rachaad White,RB,Active,White rushed 11 times for 55 yards and a touchdown while catching two of three t,espn
 WAS,Stefon Diggs,WR,Active,Diggs caught three of six targets for 38 yards and a touchdown in Sunday's 19-10,espn
 WAS,Jayden Daniels,QB,Active,Daniels completed 16 of 29 passes for 217 yards and a touchdown while rushing tw,espn
 WAS,Charles Omenihu,DE,Active,Omenihu (groin/ankle) is active for Sunday night's contest against the Eagles.,espn
-WAS,Athan Kaliakmanis,QB,Active,Coach's Decision,espn
 WAS,Nick Allegretti,G,Active,"",espn
 WAS,Terry McLaurin,WR,Injured Reserve,Knee,espn

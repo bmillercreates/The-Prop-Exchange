@@ -8,15 +8,15 @@
   },
   {
    "type": "Milestone",
-   "player": "Tee Higgins",
-   "team": "CIN",
-   "text": "Tee Higgins needs 7 more catches to reach 50 for the season (has 43)."
-  },
-  {
-   "type": "Milestone",
    "player": "Ja'Marr Chase",
    "team": "CIN",
    "text": "Ja'Marr Chase needs 7 more catches to reach 50 for the season (has 43)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Tee Higgins",
+   "team": "CIN",
+   "text": "Tee Higgins needs 7 more catches to reach 50 for the season (has 43)."
   }
  ],
  "2026_09_DEN_CAR": [

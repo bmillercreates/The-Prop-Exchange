@@ -1,24 +1,24 @@
 {
  "game_id": "2026_09_ARI_SEA",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "updated_at": "2026-11-08T14:22-05:00",
  "kickoff": "2026-11-08T16:25",
  "weekday": "Sunday",
  "away": "ARI",
  "home": "SEA",
  "stadium": "Lumen Field",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-08T14:21-05:00",
  "weather": {
   "game_id": "2026_09_ARI_SEA",
   "stadium": "Lumen Field",
   "kickoff_et": "2026-11-08T16:25:00-05:00",
   "covered": false,
-  "temp_f": 53,
-  "wind_mph": 11,
-  "gust_mph": 20,
-  "precip_in": 0.03,
-  "precip_chance": 21
+  "temp_f": 57,
+  "wind_mph": 10,
+  "gust_mph": 21,
+  "precip_in": 0.0,
+  "precip_chance": 4
  },
  "teams": {
   "ARI": {
@@ -36,21 +36,59 @@
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Michael Wilson",
+   "team": "ARI",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 4.5,
+   "title": "Michael Wilson Over 4.5 receptions",
+   "price": 105,
+   "book": "draftkings",
+   "model_prob": 0.5686,
+   "fair_prob": 0.46,
+   "prob_edge": 0.1086,
+   "edge": 0.1657,
+   "projection": 7.02,
+   "flags": [],
+   "why": [
+    "Model projects 7 catches vs. a line of 4.5 (77% chance to go over on its own).",
+    "Earns 34% of the Cardinals' targets and 37% of their air yards, on 88% of snaps.",
+    "The Seahawks defense allows 10% fewer receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Trey McBride",
+   "team": "ARI",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 7.5,
+   "title": "Trey McBride Over 7.5 receptions",
+   "price": 112,
+   "book": "fanduel",
+   "model_prob": 0.535,
+   "fair_prob": 0.4415,
+   "prob_edge": 0.0936,
+   "edge": 0.1343,
+   "projection": 9.82,
+   "flags": [],
+   "why": [
+    "Model projects 10 catches vs. a line of 7.5 (71% chance to go over on its own).",
+    "Earns 35% of the Cardinals' targets and 20% of their air yards, on 92% of snaps.",
+    "The Seahawks defense allows 5% fewer receptions to TEs than average."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
-  {
-   "player": "Tyler Allgeier",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 44.4,
-   "targets": 3.7,
-   "receptions": 3.3,
-   "rec_yds": 20.4,
-   "carries": 11.9,
-   "tds": 0.4
-  },
   {
    "player": "Elijah Higgins",
    "team": "ARI",
@@ -61,6 +99,17 @@
    "rec_yds": 20.6,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Tyler Allgeier",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 44.4,
+   "targets": 3.7,
+   "receptions": 3.3,
+   "rec_yds": 20.4,
+   "carries": 11.9,
+   "tds": 0.4
   },
   {
    "player": "Michael Wilson",
@@ -85,17 +134,6 @@
    "tds": 0.0
   },
   {
-   "player": "Trey McBride",
-   "team": "ARI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 13.4,
-   "receptions": 9.8,
-   "rec_yds": 70.3,
-   "carries": 0.0,
-   "tds": 0.5
-  },
-  {
    "player": "Jacoby Brissett",
    "team": "ARI",
    "position": "QB",
@@ -104,6 +142,72 @@
    "pass_att": 38.5,
    "carries": 5.1,
    "tds": 0.1
+  },
+  {
+   "player": "Trey McBride",
+   "team": "ARI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 13.4,
+   "receptions": 9.8,
+   "rec_yds": 70.2,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
+   "player": "Tory Horton",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 1.6,
+   "rec_yds": 21.5,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "George Holani",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 13.0,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 9.0,
+   "carries": 3.4,
+   "tds": 0.3
+  },
+  {
+   "player": "Zach Charbonnet",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 17.2,
+   "targets": 1.9,
+   "receptions": 1.3,
+   "rec_yds": 9.5,
+   "carries": 4.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Jadarian Price",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 36.5,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 11.3,
+   "carries": 8.7,
+   "tds": 0.1
+  },
+  {
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 1.2,
+   "targets": 10.3,
+   "receptions": 6.8,
+   "rec_yds": 108.6,
+   "carries": 0.2,
+   "tds": 0.5
   },
   {
    "player": "AJ Barner",
@@ -123,42 +227,9 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 1.9,
-   "rec_yds": 23.8,
+   "rec_yds": 23.7,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Jadarian Price",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 36.5,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 11.3,
-   "carries": 8.7,
-   "tds": 0.1
-  },
-  {
-   "player": "George Holani",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 13.0,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 9.0,
-   "carries": 3.4,
-   "tds": 0.3
-  },
-  {
-   "player": "Jaxon Smith-Njigba",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 10.3,
-   "receptions": 6.8,
-   "rec_yds": 108.6,
-   "carries": 0.2,
-   "tds": 0.5
   },
   {
    "player": "Emanuel Wilson",
@@ -170,28 +241,6 @@
    "rec_yds": 7.6,
    "carries": 11.6,
    "tds": 0.5
-  },
-  {
-   "player": "Tory Horton",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 1.6,
-   "rec_yds": 21.5,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Zach Charbonnet",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 17.2,
-   "targets": 1.9,
-   "receptions": 1.3,
-   "rec_yds": 9.5,
-   "carries": 4.0,
-   "tds": 0.3
   }
  ]
 }

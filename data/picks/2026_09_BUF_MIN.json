@@ -1,7 +1,7 @@
 {
  "game_id": "2026_09_BUF_MIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "updated_at": "2026-11-08T14:22-05:00",
  "kickoff": "2026-11-09T20:15",
  "weekday": "Monday",
  "away": "BUF",
@@ -36,25 +36,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Josh Allen",
-   "team": "BUF",
-   "position": "QB",
-   "rush_yds": 24.3,
-   "pass_yds": 193.3,
-   "pass_att": 27.8,
-   "carries": 6.3,
-   "tds": 0.3
-  },
-  {
-   "player": "DJ Moore",
+   "player": "Keon Coleman",
    "team": "BUF",
    "position": "WR",
-   "rush_yds": 2.6,
-   "targets": 4.7,
-   "receptions": 2.8,
-   "rec_yds": 37.3,
-   "carries": 0.6,
-   "tds": 0.3
+   "rush_yds": 0.0,
+   "targets": 3.4,
+   "receptions": 2.2,
+   "rec_yds": 28.4,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Josh Palmer",
@@ -66,6 +56,17 @@
    "rec_yds": 13.5,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Dalton Kincaid",
+   "team": "BUF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.7,
+   "rec_yds": 31.8,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Ty Johnson",
@@ -90,15 +91,15 @@
    "tds": 0.8
   },
   {
-   "player": "Dalton Kincaid",
+   "player": "DJ Moore",
    "team": "BUF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.7,
-   "rec_yds": 31.8,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "WR",
+   "rush_yds": 2.6,
+   "targets": 4.7,
+   "receptions": 2.8,
+   "rec_yds": 37.3,
+   "carries": 0.6,
+   "tds": 0.3
   },
   {
    "player": "Khalil Shakir",
@@ -112,59 +113,14 @@
    "tds": 0.2
   },
   {
-   "player": "Keon Coleman",
+   "player": "Josh Allen",
    "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.4,
-   "receptions": 2.2,
-   "rec_yds": 28.4,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Gavin Bartholomew",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.9,
-   "receptions": 1.5,
-   "rec_yds": 16.4,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Justin Jefferson",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 9.4,
-   "receptions": 6.4,
-   "rec_yds": 80.3,
-   "carries": 0.1,
-   "tds": 0.5
-  },
-  {
-   "player": "Jordan Addison",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 6.8,
-   "receptions": 3.8,
-   "rec_yds": 55.1,
-   "carries": 0.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Tai Felton",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 13.4,
-   "carries": 0.0,
-   "tds": 0.0
+   "position": "QB",
+   "rush_yds": 24.3,
+   "pass_yds": 193.3,
+   "pass_att": 27.8,
+   "carries": 6.3,
+   "tds": 0.3
   },
   {
    "player": "Jordan Mason",
@@ -178,6 +134,39 @@
    "tds": 0.3
   },
   {
+   "player": "Jordan Addison",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 1.5,
+   "targets": 6.8,
+   "receptions": 3.8,
+   "rec_yds": 55.1,
+   "carries": 0.3,
+   "tds": 0.1
+  },
+  {
+   "player": "Ben Yurosek",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 14.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 13.4,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Aaron Jones",
    "team": "MIN",
    "position": "RB",
@@ -189,17 +178,6 @@
    "tds": 0.3
   },
   {
-   "player": "Ben Yurosek",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 14.5,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "T.J. Hockenson",
    "team": "MIN",
    "position": "TE",
@@ -209,6 +187,28 @@
    "rec_yds": 58.1,
    "carries": 0.0,
    "tds": 0.5
+  },
+  {
+   "player": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 9.4,
+   "receptions": 6.4,
+   "rec_yds": 80.3,
+   "carries": 0.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.5,
+   "rec_yds": 16.4,
+   "carries": 0.0,
+   "tds": 0.0
   }
  ]
 }

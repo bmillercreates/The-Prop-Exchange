@@ -1,14 +1,14 @@
 {
  "game_id": "2026_09_HOU_LAC",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "updated_at": "2026-11-08T14:22-05:00",
  "kickoff": "2026-11-08T16:05",
  "weekday": "Sunday",
  "away": "HOU",
  "home": "LAC",
  "stadium": "SoFi Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-08T14:21-05:00",
  "weather": {
   "game_id": "2026_09_HOU_LAC",
   "stadium": "SoFi Stadium",
@@ -17,58 +17,154 @@
  },
  "teams": {
   "HOU": {
-   "implied_pts": 23.2,
-   "margin": 6.0,
+   "implied_pts": 23.0,
+   "margin": 5.5,
    "plays": 56.3,
-   "pass_att": 28.6,
+   "pass_att": 28.8,
    "notes": [
     "coming off a bye"
    ]
   },
   "LAC": {
-   "implied_pts": 17.2,
-   "margin": -6.0,
+   "implied_pts": 17.5,
+   "margin": -5.5,
    "plays": 60.4,
-   "pass_att": 34.6,
+   "pass_att": 34.5,
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 248.5,
+   "title": "C.J. Stroud Under 248.5 passing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.5946,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0946,
+   "edge": 0.1208,
+   "projection": 202.18,
+   "flags": [],
+   "why": [
+    "Model projects 202 yards vs. a line of 248.5 (77% chance to go under on its own).",
+    "Expected to throw about 29 times; completion % over expected is +6.9 lately.",
+    "The Chargers defense allows 7% fewer passing yards to QBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Justin Herbert",
+   "team": "LAC",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 205.5,
+   "title": "Justin Herbert Over 205.5 passing yards",
+   "price": -112,
+   "book": "draftkings",
+   "model_prob": 0.5625,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0625,
+   "edge": 0.0647,
+   "projection": 251.9,
+   "flags": [],
+   "why": [
+    "Model projects 252 yards vs. a line of 205.5 (68% chance to go over on its own).",
+    "Expected to throw about 34 times; completion % over expected is -4.1 lately.",
+    "The Texans defense allows 8% more passing yards to QBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Oronde Gadsden II",
+   "team": "LAC",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Oronde Gadsden II Over 1.5 receptions",
+   "price": -163,
+   "book": "draftkings",
+   "model_prob": 0.6353,
+   "fair_prob": 0.5856,
+   "prob_edge": 0.0497,
+   "edge": 0.0251,
+   "projection": 2.94,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 1.5 (73% chance to go over on its own).",
+    "Earns 13% of the Chargers' targets and 12% of their air yards, on 48% of snaps.",
+    "The Texans defense allows 10% fewer receptions to TEs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Omarion Hampton Yes anytime TD",
+   "price": 260,
+   "book": "fanduel",
+   "model_prob": 0.317,
+   "fair_prob": 0.2596,
+   "prob_edge": 0.0574,
+   "edge": 0.1412,
+   "projection": 0.55,
+   "flags": [],
+   "why": [
+    "Model gives him a 42% chance to score; the odds imply about 26%.",
+    "Gets 34% of the Chargers' red-zone touches."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
-  {
-   "player": "Jawhar Jordan",
-   "team": "HOU",
-   "position": "RB",
-   "rush_yds": 19.2,
-   "targets": 0.5,
-   "receptions": 0.4,
-   "rec_yds": 2.5,
-   "carries": 3.8,
-   "tds": 0.2
-  },
   {
    "player": "Dalton Schultz",
    "team": "HOU",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.7,
-   "rec_yds": 39.0,
+   "targets": 5.4,
+   "receptions": 3.8,
+   "rec_yds": 39.2,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "Woody Marks",
+   "player": "Kayshon Boutte",
    "team": "HOU",
-   "position": "RB",
-   "rush_yds": 65.6,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 9.9,
-   "carries": 15.7,
-   "tds": 0.5
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 1.8,
+   "rec_yds": 22.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "rush_yds": 8.2,
+   "pass_yds": 202.2,
+   "pass_att": 28.8,
+   "carries": 2.3,
+   "tds": 0.0
   },
   {
    "player": "Marvin Harrison Jr.",
@@ -76,9 +172,42 @@
    "position": "WR",
    "rush_yds": 0.0,
    "targets": 3.0,
-   "receptions": 1.7,
-   "rec_yds": 21.2,
+   "receptions": 1.8,
+   "rec_yds": 21.3,
    "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Xavier Hutchinson",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 4.5,
+   "targets": 4.6,
+   "receptions": 2.5,
+   "rec_yds": 31.3,
+   "carries": 0.7,
+   "tds": 0.3
+  },
+  {
+   "player": "Woody Marks",
+   "team": "HOU",
+   "position": "RB",
+   "rush_yds": 65.0,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 10.0,
+   "carries": 15.5,
+   "tds": 0.5
+  },
+  {
+   "player": "Jawhar Jordan",
+   "team": "HOU",
+   "position": "RB",
+   "rush_yds": 19.0,
+   "targets": 0.5,
+   "receptions": 0.4,
+   "rec_yds": 2.5,
+   "carries": 3.7,
    "tds": 0.2
   },
   {
@@ -88,30 +217,9 @@
    "rush_yds": 3.6,
    "targets": 5.4,
    "receptions": 3.5,
-   "rec_yds": 45.7,
+   "rec_yds": 46.0,
    "carries": 0.5,
    "tds": 0.3
-  },
-  {
-   "player": "Xavier Hutchinson",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 4.5,
-   "targets": 4.5,
-   "receptions": 2.5,
-   "rec_yds": 31.1,
-   "carries": 0.7,
-   "tds": 0.3
-  },
-  {
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "position": "QB",
-   "rush_yds": 8.3,
-   "pass_yds": 201.0,
-   "pass_att": 28.6,
-   "carries": 2.3,
-   "tds": 0.0
   },
   {
    "player": "Foster Moreau",
@@ -120,108 +228,9 @@
    "rush_yds": 0.0,
    "targets": 2.0,
    "receptions": 1.4,
-   "rec_yds": 12.7,
+   "rec_yds": 12.8,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Kayshon Boutte",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 1.8,
-   "rec_yds": 22.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Ladd McConkey",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 51.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Keaton Mitchell",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 14.0,
-   "targets": 2.7,
-   "receptions": 2.3,
-   "rec_yds": 10.9,
-   "carries": 3.6,
-   "tds": 0.3
-  },
-  {
-   "player": "Kimani Vidal",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 21.3,
-   "targets": 2.3,
-   "receptions": 1.8,
-   "rec_yds": 9.3,
-   "carries": 5.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Theo Wease Jr.",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.2,
-   "rec_yds": 17.9,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Omarion Hampton",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 31.8,
-   "targets": 2.7,
-   "receptions": 2.2,
-   "rec_yds": 11.6,
-   "carries": 8.8,
-   "tds": 0.5
-  },
-  {
-   "player": "KeAndre Lambert-Smith",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.0,
-   "receptions": 1.3,
-   "rec_yds": 16.4,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Charlie Kolar",
-   "team": "LAC",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.6,
-   "rec_yds": 24.4,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Oronde Gadsden II",
-   "team": "LAC",
-   "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 4.5,
-   "receptions": 3.0,
-   "rec_yds": 27.1,
-   "carries": 0.1,
-   "tds": 0.2
   },
   {
    "player": "Quentin Johnston",
@@ -230,7 +239,7 @@
    "rush_yds": 0.6,
    "targets": 4.2,
    "receptions": 2.4,
-   "rec_yds": 39.2,
+   "rec_yds": 39.0,
    "carries": 0.1,
    "tds": 0.0
   },
@@ -241,19 +250,107 @@
    "rush_yds": 0.0,
    "targets": 4.2,
    "receptions": 2.8,
-   "rec_yds": 42.3,
+   "rec_yds": 42.1,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Keaton Mitchell",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 14.2,
+   "targets": 2.7,
+   "receptions": 2.2,
+   "rec_yds": 10.9,
+   "carries": 3.7,
+   "tds": 0.3
+  },
+  {
+   "player": "Kimani Vidal",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 21.5,
+   "targets": 2.3,
+   "receptions": 1.8,
+   "rec_yds": 9.3,
+   "carries": 5.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Ladd McConkey",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 3.1,
+   "rec_yds": 51.6,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Charlie Kolar",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.0,
+   "receptions": 2.6,
+   "rec_yds": 24.3,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Oronde Gadsden II",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 4.5,
+   "receptions": 2.9,
+   "rec_yds": 26.9,
+   "carries": 0.1,
+   "tds": 0.2
   },
   {
    "player": "Justin Herbert",
    "team": "LAC",
    "position": "QB",
-   "rush_yds": 14.2,
-   "pass_yds": 253.3,
-   "pass_att": 34.6,
+   "rush_yds": 14.3,
+   "pass_yds": 251.9,
+   "pass_att": 34.5,
    "carries": 3.7,
    "tds": 0.0
+  },
+  {
+   "player": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 32.1,
+   "targets": 2.7,
+   "receptions": 2.2,
+   "rec_yds": 11.5,
+   "carries": 8.9,
+   "tds": 0.6
+  },
+  {
+   "player": "KeAndre Lambert-Smith",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 16.3,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Theo Wease Jr.",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 17.8,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

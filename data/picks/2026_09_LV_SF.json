@@ -1,76 +1,247 @@
 {
  "game_id": "2026_09_LV_SF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-07T14:15-05:00",
+ "updated_at": "2026-11-08T14:22-05:00",
  "kickoff": "2026-11-08T16:05",
  "weekday": "Sunday",
  "away": "LV",
  "home": "SF",
  "stadium": "Levi's Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-08T14:21-05:00",
  "weather": {
   "game_id": "2026_09_LV_SF",
   "stadium": "Levi's Stadium",
   "kickoff_et": "2026-11-08T16:05:00-05:00",
   "covered": false,
-  "temp_f": 67,
-  "wind_mph": 8,
-  "gust_mph": 12,
+  "temp_f": 66,
+  "wind_mph": 6,
+  "gust_mph": 7,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "teams": {
   "LV": {
-   "implied_pts": 20.8,
-   "margin": -10.0,
+   "implied_pts": 21.5,
+   "margin": -8.5,
    "plays": 63.4,
-   "pass_att": 40.2,
+   "pass_att": 39.6,
    "notes": []
   },
   "SF": {
-   "implied_pts": 30.8,
-   "margin": 10.0,
+   "implied_pts": 30.0,
+   "margin": 8.5,
    "plays": 62.9,
-   "pass_att": 29.0,
+   "pass_att": 29.5,
    "notes": [
     "coming off a bye"
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Mike Washington Jr.",
+   "tier": "Blue Chip",
+   "player": "Michael Mayer",
    "team": "LV",
-   "position": "RB",
-   "rush_yds": 28.9,
-   "targets": 0.6,
-   "receptions": 0.5,
-   "rec_yds": 3.8,
-   "carries": 7.6,
-   "tds": 0.4
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Michael Mayer Over 3.5 receptions",
+   "price": 113,
+   "book": "draftkings",
+   "model_prob": 0.5198,
+   "fair_prob": 0.4424,
+   "prob_edge": 0.0774,
+   "edge": 0.1071,
+   "projection": 4.9,
+   "flags": [],
+   "why": [
+    "Model projects 5 catches vs. a line of 3.5 (66% chance to go over on its own).",
+    "Earns 15% of the Raiders' targets and 10% of their air yards, on 80% of snaps.",
+    "The 49ers defense allows 7% more receptions to TEs than average."
+   ]
   },
   {
+   "tier": "Blue Chip",
+   "player": "Kyle Juszczyk",
+   "team": "SF",
+   "position": "RB",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Kyle Juszczyk Over 1.5 receptions",
+   "price": 116,
+   "book": "fanduel",
+   "model_prob": 0.4737,
+   "fair_prob": 0.433,
+   "prob_edge": 0.0407,
+   "edge": 0.0231,
+   "projection": 2.04,
+   "flags": [],
+   "why": [
+    "Model projects 2 catches vs. a line of 1.5 (55% chance to go over on its own).",
+    "Earns 9% of the 49ers' targets and 6% of their air yards, on 47% of snaps.",
+    "The Raiders defense allows 9% fewer receptions to RBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
    "player": "Kirk Cousins",
    "team": "LV",
    "position": "QB",
-   "rush_yds": 4.5,
-   "pass_yds": 288.7,
-   "pass_att": 40.2,
-   "carries": 1.9,
-   "tds": 0.0
-  },
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 248.5,
+   "title": "Kirk Cousins Over 248.5 passing yards",
+   "price": -111,
+   "book": "draftkings",
+   "model_prob": 0.5363,
+   "fair_prob": 0.4979,
+   "prob_edge": 0.0384,
+   "edge": 0.0195,
+   "projection": 284.41,
+   "flags": [],
+   "why": [
+    "Model projects 284 yards vs. a line of 248.5 (61% chance to go over on its own).",
+    "Expected to throw about 40 times; completion % over expected is -0.5 lately.",
+    "The Raiders are 8.5-point underdogs, so they should be throwing to catch up."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Kaelon Black Yes anytime TD",
+   "price": 230,
+   "book": "draftkings",
+   "model_prob": 0.3454,
+   "fair_prob": 0.2832,
+   "prob_edge": 0.0622,
+   "edge": 0.1399,
+   "projection": 0.62,
+   "flags": [],
+   "why": [
+    "Model gives him a 46% chance to score; the odds imply about 28%.",
+    "Gets 22% of the 49ers' red-zone touches.",
+    "With Mike Evans, Deebo Samuel Sr. out, there's more work to go around."
+   ]
+  }
+ ],
+ "etfs": [
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Michael Mayer",
+     "team": "LV",
+     "position": "TE",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 3.5,
+     "title": "Michael Mayer Over 3.5 receptions",
+     "price": 113,
+     "book": "draftkings",
+     "model_prob": 0.5198,
+     "fair_prob": 0.4424,
+     "prob_edge": 0.0774,
+     "edge": 0.1071,
+     "projection": 4.9,
+     "flags": [],
+     "why": [
+      "Model projects 5 catches vs. a line of 3.5 (66% chance to go over on its own).",
+      "Earns 15% of the Raiders' targets and 10% of their air yards, on 80% of snaps.",
+      "The 49ers defense allows 7% more receptions to TEs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Kirk Cousins",
+     "team": "LV",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 248.5,
+     "title": "Kirk Cousins Over 248.5 passing yards",
+     "price": -111,
+     "book": "draftkings",
+     "model_prob": 0.5363,
+     "fair_prob": 0.4979,
+     "prob_edge": 0.0384,
+     "edge": 0.0195,
+     "projection": 284.41,
+     "flags": [],
+     "why": [
+      "Model projects 284 yards vs. a line of 248.5 (61% chance to go over on its own).",
+      "Expected to throw about 40 times; completion % over expected is -0.5 lately.",
+      "The Raiders are 8.5-point underdogs, so they should be throwing to catch up."
+     ]
+    }
+   ],
+   "model_prob": 0.366,
+   "price": 191,
+   "edge": 0.0638,
+   "why": [
+    "Michael Mayer and Kirk Cousins are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 37% chance to hit together. The price (about +191) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
+ "projections": [
   {
    "player": "Jalen Nailor",
    "team": "LV",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.6,
-   "receptions": 2.6,
-   "rec_yds": 28.1,
+   "targets": 4.5,
+   "receptions": 2.5,
+   "rec_yds": 27.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Brock Bowers",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 10.6,
+   "receptions": 7.5,
+   "rec_yds": 77.5,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 29.9,
+   "targets": 0.6,
+   "receptions": 0.5,
+   "rec_yds": 3.7,
+   "carries": 7.9,
+   "tds": 0.4
+  },
+  {
+   "player": "Cody White",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.7,
+   "receptions": 1.4,
+   "rec_yds": 18.1,
    "carries": 0.0,
    "tds": 0.2
   },
@@ -79,120 +250,43 @@
    "team": "LV",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 6.1,
-   "receptions": 5.0,
-   "rec_yds": 41.3,
+   "targets": 6.0,
+   "receptions": 4.9,
+   "rec_yds": 40.7,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Cody White",
+   "player": "Ashton Jeanty",
    "team": "LV",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.5,
-   "rec_yds": 18.3,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "RB",
+   "rush_yds": 26.3,
+   "targets": 6.2,
+   "receptions": 5.2,
+   "rec_yds": 51.7,
+   "carries": 8.6,
+   "tds": 0.6
   },
   {
    "player": "Tre Tucker",
    "team": "LV",
    "position": "WR",
    "rush_yds": 1.0,
-   "targets": 6.0,
-   "receptions": 3.6,
-   "rec_yds": 51.1,
+   "targets": 5.9,
+   "receptions": 3.5,
+   "rec_yds": 50.3,
    "carries": 0.2,
    "tds": 0.2
   },
   {
-   "player": "Ashton Jeanty",
+   "player": "Kirk Cousins",
    "team": "LV",
-   "position": "RB",
-   "rush_yds": 25.4,
-   "targets": 6.3,
-   "receptions": 5.3,
-   "rec_yds": 52.5,
-   "carries": 8.3,
-   "tds": 0.6
-  },
-  {
-   "player": "Brock Bowers",
-   "team": "LV",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 10.8,
-   "receptions": 7.7,
-   "rec_yds": 78.7,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Christian McCaffrey",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 79.8,
-   "targets": 7.8,
-   "receptions": 5.9,
-   "rec_yds": 48.3,
-   "carries": 14.6,
-   "tds": 1.3
-  },
-  {
-   "player": "Jacob Cowing",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 2.0,
-   "targets": 2.0,
-   "receptions": 1.1,
-   "rec_yds": 15.7,
-   "carries": 0.4,
-   "tds": 0.0
-  },
-  {
-   "player": "Kyle Juszczyk",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 2.0,
-   "rec_yds": 17.4,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Jordan Watkins",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 1.9,
-   "rec_yds": 32.2,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Brock Purdy",
-   "team": "SF",
    "position": "QB",
-   "rush_yds": 21.7,
-   "pass_yds": 243.4,
-   "pass_att": 29.0,
-   "carries": 5.2,
-   "tds": 0.1
-  },
-  {
-   "player": "George Kittle",
-   "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 8.8,
-   "receptions": 7.0,
-   "rec_yds": 76.6,
-   "carries": 0.0,
-   "tds": 0.6
+   "rush_yds": 4.7,
+   "pass_yds": 284.4,
+   "pass_att": 39.6,
+   "carries": 2.0,
+   "tds": 0.0
   },
   {
    "player": "Brandin Cooks",
@@ -201,20 +295,85 @@
    "rush_yds": 0.0,
    "targets": 2.3,
    "receptions": 1.3,
-   "rec_yds": 17.9,
+   "rec_yds": 18.3,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Kyle Juszczyk",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 2.0,
+   "rec_yds": 17.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 78.1,
+   "targets": 7.9,
+   "receptions": 6.0,
+   "rec_yds": 49.2,
+   "carries": 14.2,
+   "tds": 1.3
   },
   {
    "player": "Kaelon Black",
    "team": "SF",
    "position": "RB",
-   "rush_yds": 51.4,
+   "rush_yds": 50.3,
    "targets": 1.1,
    "receptions": 0.8,
-   "rec_yds": 5.8,
-   "carries": 10.2,
+   "rec_yds": 5.9,
+   "carries": 10.0,
    "tds": 0.6
+  },
+  {
+   "player": "Jacob Cowing",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 2.0,
+   "receptions": 1.1,
+   "rec_yds": 16.0,
+   "carries": 0.4,
+   "tds": 0.0
+  },
+  {
+   "player": "George Kittle",
+   "team": "SF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 9.0,
+   "receptions": 7.1,
+   "rec_yds": 78.2,
+   "carries": 0.0,
+   "tds": 0.6
+  },
+  {
+   "player": "Jordan Watkins",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.9,
+   "rec_yds": 32.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 21.3,
+   "pass_yds": 248.3,
+   "pass_att": 29.5,
+   "carries": 5.1,
+   "tds": 0.1
   }
  ]
 }
