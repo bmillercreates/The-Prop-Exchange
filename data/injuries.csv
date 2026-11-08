@@ -24,6 +24,7 @@ ARI,Evan Hull,RB,Active,"",espn
 ARI,Eku Leota,LB,Active,"",espn
 ARI,Starling Thomas V,CB,Active,"",espn
 ARI,Albert Reese IV,OT,Active,"",espn
+ATL,Bijan Robinson,RB,Active,Robinson carried the ball 19 times for 100 yards and a touchdown and caught six ,espn
 ATL,Olamide Zaccheaus,WR,Active,"Zaccheaus (head) has returned to Sunday's matchup against Cincinnati in Madrid, ",espn
 ATL,Billy Bowman Jr.,CB,Out,Coach's Decision,espn
 ATL,Andy Dalton,QB,Out,Coach's Decision,espn
@@ -45,7 +46,6 @@ ATL,Jahan Dotson,WR,Active,Dotson caught two of five targets for 95 yards during
 ATL,Kyle Pitts Sr.,TE,Active,Pitts caught two of five targets for six yards during Sunday's 16-0 loss to the ,espn
 ATL,Michael Penix Jr.,QB,Active,Penix completed eight of 24 passes for 125 yards with no touchdowns and four int,espn
 ATL,Drake London,WR,Active,London brought in one of six targets for eight yards in the Falcons' 16-0 loss t,espn
-ATL,Bijan Robinson,RB,Active,Robinson rushed 19 times for 76 yards and failed to bring in his only target in ,espn
 ATL,Avieon Terrell,CB,Active,Terrell (back/illness) is active for Sunday's game against Tampa Bay.,espn
 ATL,Charles Snowden,LB,Active,"",espn
 ATL,Anterio Thompson,DT,Out,Undisclosed,espn
@@ -149,6 +149,9 @@ CHI,Colston Loveland,TE,Active,Loveland secured seven of nine targets for 65 yar
 CHI,D'Andre Swift,RB,Active,Swift rushed 27 times for 69 yards and three touchdowns and brought in two of th,espn
 CHI,Case Keenum,QB,Active,Keenum (coach's decision) is inactive but will operate as the Bears' emergency t,espn
 CHI,Jack Sanborn,LB,Active,Sanborn (concussion) does not carry an injury designation into Monday's game aga,espn
+CIN,Chase Brown,RB,Active,Brown carried the ball nine times for 57 yards and caught all three of his targe,espn
+CIN,Tee Higgins,WR,Active,Higgins caught five of six targets for 32 yards and two touchdowns in Sunday's 3,espn
+CIN,Ja'Marr Chase,WR,Active,Chase caught 10 of 12 targets for 155 yards and a touchdown in Sunday's 34-17 wi,espn
 CIN,Joe Burrow,QB,Active,Burrow completed 24 of 29 passes for 271 yards and three touchdowns in Sunday's ,espn
 CIN,Cedric Johnson,DE,Active,Johnson (ankle) is listed as active Sunday against the Falcons in Madrid.,espn
 CIN,Landon Robinson,DT,Out,Coach's Decision,espn
@@ -163,9 +166,6 @@ CIN,Samaje Perine,RB,Active,Perine rushed four times for 10 yards and caught his
 CIN,Mitchell Tinsley,WR,Active,"",espn
 CIN,Colbie Young,WR,Active,Young went without a target while playing 19 of the Bengals' 74 snaps on offense,espn
 CIN,Mike Gesicki,TE,Active,Gesicki caught four of six targets for 76 yards and a touchdown during Sunday's ,espn
-CIN,Chase Brown,RB,Active,Brown rushed 12 times for 55 yards and brought in eight of nine targets for 46 y,espn
-CIN,Tee Higgins,WR,Active,Higgins secured 10 of 11 targets for 155 yards and two touchdowns in the Bengals,espn
-CIN,Ja'Marr Chase,WR,Active,Chase secured 11 of 16 targets for 141 yards and a touchdown in the Bengals' 43-,espn
 CIN,Joe Giles-Harris,LB,Active,"",espn
 CIN,Andrei Iosivas,WR,Injured Reserve,Thumb,espn
 CIN,Erick All Jr.,TE,Injured Reserve,Knee - ACL,espn
@@ -199,6 +199,8 @@ CLE,Malachi Corley,WR,Active,Corley went untargeted while playing 13 of 70 snaps
 CLE,Tylan Wallace,WR,Active,Wallace recorded a three-yard reception on his lone target in Sunday's 27-6 loss,espn
 CLE,Isaiah Bond,WR,Active,Bond went without a target while taking the field for eight of the Browns' 70 sn,espn
 CLE,Dylan Sampson,RB,Active,Sampson rushed one time for seven yards and caught six of eight targets for 62 y,espn
+DAL,Tyler Goodson,RB,Questionable,Knee,espn
+DAL,Donovan Ezeiruaku,LB,Questionable,Ankle,espn
 DAL,Marist Liufau,LB,Active,Liufau (forearm) is active for Sunday's game against the Colts.,espn
 DAL,Ryan Flournoy,WR,Active,"With George Pickens (hamstring) inactive, Flournoy is slated to move into the No",espn
 DAL,Joey Porter Jr.,CB,Out,Ankle,espn
@@ -219,11 +221,10 @@ DAL,Caleb Downs,S,Active,Downs (concussion) has no injury designation ahead of S
 DAL,Dee Winters,LB,Active,"Winters (calf) was a full participant in practice Thursday, Todd Archer of ESPN.",espn
 DAL,Drew Shelton,OT,Active,"Shelton (hamstring) was a full participant in Wednesday's practice, Patrik Walke",espn
 DAL,Jalen Thompson,S,Injured Reserve,Hamstring,espn
-DAL,Tyler Goodson,RB,Active,Goodson took seven carries for 14 yards and caught both of his two targets for 1,espn
 DAL,Brevyn Spann-Ford,TE,Active,Spann-Ford caught four of five targets for 31 yards during Sunday's 33-30 overti,espn
 DAL,Brandon Aubrey,PK,Active,Aubrey made three of his four field-goal attempts and all three PATs in the Cowb,espn
 DAL,Shavon Revel Jr.,CB,Active,"",espn
-DAL,Dak Prescott,QB,Active,"Prescott was 19-for-29 passing for 195 yards, one touchdown and no interceptions",espn
+DEN,Riley Moss,CB,Questionable,Concussion,espn
 DEN,Jaylen Waddle,WR,Questionable,Head,espn
 DEN,Jonah Coleman,RB,Active,Coleman received the first rep with the starters during warmups before Sunday's ,espn
 DEN,Dondrea Tillman,LB,Active,"Tillman is active for Sunday's game against the Panthers, Aric DiLalla of the te",espn
@@ -248,7 +249,6 @@ DEN,J.K. Dobbins,RB,Active,Dobbins carried the ball seven times for 13 yards in 
 DEN,Bo Nix,QB,Active,Nix completed 20 of 32 passes for 222 yards and two touchdowns in Sunday's 28-24,espn
 DEN,Courtland Sutton,WR,Active,"Sutton (undisclosed) briefly left Sunday's game against the Chiefs, Zac Stevens ",espn
 DEN,Zach Allen,DE,Active,"Allen (hamstring) is active for Sunday's game against the Chiefs, Aric DiLalla o",espn
-DEN,Garett Bolles,OT,Active,"",espn
 DET,Jacob Saylors,RB,Out,Neck,espn
 DET,Sione Vaki,RB,Active,Vaki (ankle) is available for Sunday's game against Miami.,espn
 DET,Mekhi Wingo,DT,Out,Coach's Decision,espn
@@ -440,7 +440,7 @@ LAC,Tre' Harris,WR,Active,Harris caught all three of his targets for 31 yards in
 LAC,Keaton Mitchell,RB,Active,Mitchell rushed four times for six yards and caught all three of his targets for,espn
 LAC,Cameron Dicker,PK,Active,Dicker made all three of his field-goal attempts during Sunday's 24-9 loss again,espn
 LAC,Kimani Vidal,RB,Active,Vidal rushed eight times for 23 yards and caught both of his targets for seven y,espn
-LAC,Theo Wease Jr.,WR,Active,"",espn
+LAC,Theo Wease Jr.,WR,Active,Coach's Decision,espn
 LAC,Quentin Johnston,WR,Active,Johnston caught all four of his targets for 37 yards in Sunday's 24-9 loss to th,espn
 LAC,Oronde Gadsden,TE,Active,Gadsden caught all five of his targets for 52 yards during Sunday's 24-9 loss to,espn
 LAC,Omarion Hampton,RB,Active,Hampton rushed nine times for 20 yards and brought in two of three targets for s,espn
@@ -524,6 +524,7 @@ MIN,T.J. Hockenson,TE,Active,Hockenson caught four of five targets for 58 yards 
 MIN,Jordan Addison,WR,Active,Addison caught three of eight targets for 66 yards in Sunday's 19-15 loss to the,espn
 MIN,Aaron Jones Sr.,RB,Active,Jones rushed five times for 22 yards and brought in both targets for 18 yards in,espn
 MIN,Jordan Mason,RB,Active,Mason rushed eight times for 20 yards in the Vikings' 19-15 loss to the Lions on,espn
+NE,Charles Woods,CB,Questionable,Hamstring,espn
 NE,Hunter Henry,TE,Questionable,Foot,espn
 NE,Greg Van Roten,G,Injured Reserve,Hamstring,espn
 NE,Mack Hollins,WR,Questionable,Calf,espn
@@ -548,7 +549,6 @@ NE,Karon Prunty,CB,Active,"",espn
 NE,Elliott Davison,S,Active,"",espn
 NE,Kyle Williams,WR,Active,Williams caught his lone target for a 43-yard touchdown during Sunday's 24-19 wi,espn
 NE,DeMario Douglas,WR,Active,Douglas caught all three of his targets for 76 yards and a touchdown in Sunday's,espn
-NE,Drake Maye,QB,Active,Maye completed 16 of 20 passes for 199 yards and two touchdowns in Sunday's 24-1,espn
 NO,Kelvin Banks Jr.,OT,Active,Banks (ankle) is active for Sunday's game against the Browns.,espn
 NO,Zach Wilson,QB,Out,Coach's Decision,espn
 NO,Tyler Shough,QB,Active,Shough was still wearing a glove on his left hand during pregame warmups ahead o,espn

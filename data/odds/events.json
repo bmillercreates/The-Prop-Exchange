@@ -1,42 +1,42 @@
 [
  {
   "event_id": "44d8c37868b700e90f816db7c5df5cdd",
-  "game_id": "2026_09_DET_MIA",
+  "game_id": null,
   "away": "Detroit Lions",
   "home": "Miami Dolphins",
   "kickoff_et": "2026-11-08T13:02:36-05:00"
  },
  {
   "event_id": "e571bab6736f9338130a78a4f75c3231",
-  "game_id": "2026_09_CLE_NO",
+  "game_id": null,
   "away": "Cleveland Browns",
   "home": "New Orleans Saints",
   "kickoff_et": "2026-11-08T13:02:45-05:00"
  },
  {
   "event_id": "e354e6a04b1cb9c96e549b863debb92e",
-  "game_id": "2026_09_NYJ_KC",
+  "game_id": null,
   "away": "New York Jets",
   "home": "Kansas City Chiefs",
   "kickoff_et": "2026-11-08T13:02:51-05:00"
  },
  {
   "event_id": "fe93e6ab1e553c0169936a0a983c324f",
-  "game_id": "2026_09_NYG_PHI",
+  "game_id": null,
   "away": "New York Giants",
   "home": "Philadelphia Eagles",
   "kickoff_et": "2026-11-08T13:02:51-05:00"
  },
  {
   "event_id": "014282b888c741b7d70c857c09f40aa7",
-  "game_id": "2026_09_DEN_CAR",
+  "game_id": null,
   "away": "Denver Broncos",
   "home": "Carolina Panthers",
   "kickoff_et": "2026-11-08T13:03:03-05:00"
  },
  {
   "event_id": "415fc42e72888c63e82f7bce24c65391",
-  "game_id": "2026_09_DAL_IND",
+  "game_id": null,
   "away": "Dallas Cowboys",
   "home": "Indianapolis Colts",
   "kickoff_et": "2026-11-08T13:03:06-05:00"
@@ -57,14 +57,14 @@
  },
  {
   "event_id": "240e23b02b1e3fef655d04a286b5a623",
-  "game_id": "2026_09_ARI_SEA",
+  "game_id": null,
   "away": "Arizona Cardinals",
   "home": "Seattle Seahawks",
   "kickoff_et": "2026-11-08T16:25:00-05:00"
  },
  {
   "event_id": "2922c573ec3df8466c4a34975e446898",
-  "game_id": "2026_09_GB_NE",
+  "game_id": null,
   "away": "Green Bay Packers",
   "home": "New England Patriots",
   "kickoff_et": "2026-11-08T16:25:00-05:00"
@@ -78,14 +78,14 @@
  },
  {
   "event_id": "9760d8f19f84bfee300a74ceb656c95d",
-  "game_id": "2026_09_TB_CHI",
+  "game_id": null,
   "away": "Tampa Bay Buccaneers",
   "home": "Chicago Bears",
   "kickoff_et": "2026-11-08T20:20:00-05:00"
  },
  {
   "event_id": "17ad7eff2f7875e20a8109abe40470e3",
-  "game_id": "2026_09_BUF_MIN",
+  "game_id": null,
   "away": "Buffalo Bills",
   "home": "Minnesota Vikings",
   "kickoff_et": "2026-11-09T20:15:00-05:00"
