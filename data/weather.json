@@ -266,9 +266,9 @@
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-08T20:20:00-05:00",
   "covered": false,
-  "temp_f": 47,
+  "temp_f": 46,
   "wind_mph": 8,
-  "gust_mph": 18,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 0
  },
