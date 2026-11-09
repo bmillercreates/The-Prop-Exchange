@@ -1904,5 +1904,43 @@
   "actual": 0.0,
   "result": "loss",
   "units": -1.0
+ },
+ {
+  "game_id": "2026_09_TB_CHI",
+  "matchup": "TB @ CHI",
+  "kickoff": "2026-11-08T20:20",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-08T23:40-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Cade Otton Under 29.5 receiving yards",
+  "player": "Cade Otton",
+  "market": "player_reception_yds",
+  "side": "Under",
+  "line": 29.5,
+  "price": -109,
+  "edge": 0.1119,
+  "actual": 25.0,
+  "result": "win",
+  "units": 0.917
+ },
+ {
+  "game_id": "2026_09_TB_CHI",
+  "matchup": "TB @ CHI",
+  "kickoff": "2026-11-08T20:20",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-08T23:40-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Bucky Irving Yes anytime TD",
+  "player": "Bucky Irving",
+  "market": "player_anytime_td",
+  "side": "Yes",
+  "line": null,
+  "price": 110,
+  "edge": 0.0175,
+  "actual": 2.0,
+  "result": "win",
+  "units": 1.1
  }
 ]

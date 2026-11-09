@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-08T19:45-05:00",
+ "updated_at": "2026-11-08T23:40-05:00",
  "overall": {
-  "wins": 40,
+  "wins": 42,
   "losses": 55,
   "pushes": 0,
-  "units": -4.21,
-  "roi": -0.0443,
-  "hit_rate": 0.4211,
-  "bets": 95
+  "units": -2.19,
+  "roi": -0.0226,
+  "hit_rate": 0.433,
+  "bets": 97
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 28,
+   "wins": 30,
    "losses": 31,
    "pushes": 0,
-   "units": -6.04,
-   "roi": -0.1024,
-   "hit_rate": 0.4746,
-   "bets": 59
+   "units": -4.02,
+   "roi": -0.0659,
+   "hit_rate": 0.4918,
+   "bets": 61
   },
   "Penny Stock": {
    "wins": 8,
@@ -57,10 +57,48 @@
   },
   {
    "date": "2026-11-08",
-   "units": -4.21
+   "units": -2.19
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_09_TB_CHI",
+   "matchup": "TB @ CHI",
+   "kickoff": "2026-11-08T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-08T23:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Cade Otton Under 29.5 receiving yards",
+   "player": "Cade Otton",
+   "market": "player_reception_yds",
+   "side": "Under",
+   "line": 29.5,
+   "price": -109,
+   "edge": 0.1119,
+   "actual": 25.0,
+   "result": "win",
+   "units": 0.917
+  },
+  {
+   "game_id": "2026_09_TB_CHI",
+   "matchup": "TB @ CHI",
+   "kickoff": "2026-11-08T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-08T23:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Bucky Irving Yes anytime TD",
+   "player": "Bucky Irving",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 110,
+   "edge": 0.0175,
+   "actual": 2.0,
+   "result": "win",
+   "units": 1.1
+  },
   {
    "game_id": "2026_09_GB_NE",
    "matchup": "GB @ NE",
@@ -611,44 +649,6 @@
    "price": -111,
    "edge": 0.1133,
    "actual": 237.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_09_DET_MIA",
-   "matchup": "DET @ MIA",
-   "kickoff": "2026-11-08T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-08T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Jared Goff Under 260.5 passing yards",
-   "player": "Jared Goff",
-   "market": "player_pass_yds",
-   "side": "Under",
-   "line": 260.5,
-   "price": -111,
-   "edge": 0.0905,
-   "actual": 170.0,
-   "result": "win",
-   "units": 0.901
-  },
-  {
-   "game_id": "2026_09_DET_MIA",
-   "matchup": "DET @ MIA",
-   "kickoff": "2026-11-08T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-08T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Greg Dulcich Over 3.5 receptions",
-   "player": "Greg Dulcich",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 3.5,
-   "price": -148,
-   "edge": 0.0051,
-   "actual": 2.0,
    "result": "loss",
    "units": -1.0
   }
