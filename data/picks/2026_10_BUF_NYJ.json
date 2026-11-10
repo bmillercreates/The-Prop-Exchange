@@ -1,0 +1,229 @@
+{
+ "game_id": "2026_10_BUF_NYJ",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-10T16:13-05:00",
+ "kickoff": "2026-11-15T13:00",
+ "weekday": "Sunday",
+ "away": "BUF",
+ "home": "NYJ",
+ "stadium": "MetLife Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_10_BUF_NYJ",
+  "stadium": "MetLife Stadium",
+  "kickoff_et": "2026-11-15T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 48,
+  "wind_mph": 11,
+  "gust_mph": 16,
+  "precip_in": 0.0,
+  "precip_chance": 1
+ },
+ "teams": {
+  "BUF": {
+   "implied_pts": 29.5,
+   "margin": 8.5,
+   "plays": 65.2,
+   "pass_att": 27.2,
+   "notes": []
+  },
+  "NYJ": {
+   "implied_pts": 21.0,
+   "margin": -8.5,
+   "plays": 61.8,
+   "pass_att": 35.9,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Ray Davis",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 10.4,
+   "targets": 0.6,
+   "receptions": 0.5,
+   "rec_yds": 3.7,
+   "carries": 2.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Keon Coleman",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.2,
+   "receptions": 2.7,
+   "rec_yds": 32.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "rush_yds": 32.5,
+   "pass_yds": 206.0,
+   "pass_att": 27.2,
+   "carries": 7.3,
+   "tds": 0.3
+  },
+  {
+   "player": "Dalton Kincaid",
+   "team": "BUF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 3.1,
+   "rec_yds": 43.0,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "DJ Moore",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 3.5,
+   "targets": 5.0,
+   "receptions": 3.0,
+   "rec_yds": 37.6,
+   "carries": 0.8,
+   "tds": 0.3
+  },
+  {
+   "player": "James Cook",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 120.9,
+   "targets": 1.9,
+   "receptions": 1.3,
+   "rec_yds": 10.4,
+   "carries": 22.8,
+   "tds": 1.2
+  },
+  {
+   "player": "Ty Johnson",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 5.9,
+   "targets": 2.6,
+   "receptions": 2.1,
+   "rec_yds": 19.9,
+   "carries": 1.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Khalil Shakir",
+   "team": "BUF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.9,
+   "receptions": 3.3,
+   "rec_yds": 39.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Dawson Knox",
+   "team": "BUF",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 2.5,
+   "receptions": 1.9,
+   "rec_yds": 17.6,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Garrett Wilson",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.4,
+   "receptions": 4.9,
+   "rec_yds": 61.2,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Breece Hall",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 30.4,
+   "targets": 3.1,
+   "receptions": 2.8,
+   "rec_yds": 23.4,
+   "carries": 9.3,
+   "tds": 0.6
+  },
+  {
+   "player": "Geno Smith",
+   "team": "NYJ",
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 283.9,
+   "pass_att": 35.9,
+   "carries": 1.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 4.4,
+   "rec_yds": 61.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Braelon Allen",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 38.9,
+   "targets": 3.1,
+   "receptions": 2.6,
+   "rec_yds": 17.1,
+   "carries": 9.2,
+   "tds": 0.4
+  },
+  {
+   "player": "Mason Taylor",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.0,
+   "receptions": 3.0,
+   "rec_yds": 30.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Adonai Mitchell",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.5,
+   "receptions": 3.0,
+   "rec_yds": 43.7,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Kenyon Sadiq",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 3.2,
+   "receptions": 2.3,
+   "rec_yds": 26.6,
+   "carries": 0.1,
+   "tds": 0.1
+  }
+ ]
+}

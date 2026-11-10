@@ -1,72 +1,110 @@
 {
- "2026_09_CIN_ATL": [
+ "2026_10_WAS_NYG": [
   {
    "type": "Milestone",
-   "player": "Ja'Marr Chase",
-   "team": "CIN",
-   "text": "Ja'Marr Chase needs 8 more receiving yards to reach 500 for the season (has 492)."
+   "player": "Isaiah Likely",
+   "team": "NYG",
+   "text": "Isaiah Likely needs 4 more catches to reach 50 for the season (has 46)."
   },
   {
    "type": "Milestone",
-   "player": "Ja'Marr Chase",
-   "team": "CIN",
-   "text": "Ja'Marr Chase needs 7 more catches to reach 50 for the season (has 43)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Tee Higgins",
-   "team": "CIN",
-   "text": "Tee Higgins needs 7 more catches to reach 50 for the season (has 43)."
+   "player": "Isaiah Likely",
+   "team": "NYG",
+   "text": "Isaiah Likely needs 52 more receiving yards to reach 500 for the season (has 448)."
   }
  ],
- "2026_09_DEN_CAR": [
+ "2026_10_NE_DET": [
   {
    "type": "Milestone",
-   "player": "Bryce Young",
-   "team": "CAR",
-   "text": "Bryce Young needs 79 more passing yards to reach 2,000 for the season (has 1,921)."
+   "player": "Jameson Williams",
+   "team": "DET",
+   "text": "Jameson Williams needs 32 more receiving yards to reach 500 for the season (has 468)."
   },
   {
    "type": "Milestone",
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "text": "Tetairoa McMillan needs 8 more catches to reach 50 for the season (has 42)."
+   "player": "DeMario Douglas",
+   "team": "NE",
+   "text": "DeMario Douglas needs 66 more receiving yards to reach 500 for the season (has 434)."
   }
  ],
- "2026_09_DAL_IND": [
+ "2026_10_KC_ATL": [
+  {
+   "type": "Milestone",
+   "player": "Travis Kelce",
+   "team": "KC",
+   "text": "Travis Kelce needs 18 more receiving yards to reach 500 for the season (has 482)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Drake London",
+   "team": "ATL",
+   "text": "Drake London needs 6 more catches to reach 50 for the season (has 44)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Kenneth Walker III",
+   "team": "KC",
+   "text": "Kenneth Walker III needs 128 more rushing yards to reach 1,000 for the season (has 872)."
+  }
+ ],
+ "2026_10_HOU_CLE": [
   {
    "type": "Revenge",
-   "player": "Tyler Goodson",
-   "team": "DAL",
-   "text": "Tyler Goodson (DAL RB) faces the Colts, the team he played for from 2023 to 2025."
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "text": "Deshaun Watson (CLE QB) faces the Texans, the team he played for from 2017 to 2021."
   },
   {
    "type": "Milestone",
-   "player": "Javonte Williams",
-   "team": "DAL",
-   "text": "Javonte Williams needs 1 more total TD to reach 10 for the season (has 9)."
-  }
- ],
- "2026_09_NYJ_KC": [
-  {
-   "type": "Milestone",
-   "player": "Geno Smith",
-   "team": "NYJ",
-   "text": "Geno Smith needs 87 more passing yards to reach 2,000 for the season (has 1,913)."
+   "player": "Harold Fannin Jr.",
+   "team": "CLE",
+   "text": "Harold Fannin Jr. needs 47 more receiving yards to reach 500 for the season (has 453)."
   },
   {
    "type": "Milestone",
-   "player": "Patrick Mahomes",
-   "team": "KC",
-   "text": "Patrick Mahomes needs 205 more passing yards to reach 2,000 for the season (has 1,795)."
-  }
- ],
- "2026_09_DET_MIA": [
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "text": "Deshaun Watson needs 194 more passing yards to reach 2,000 for the season (has 1,806)."
+  },
   {
    "type": "Milestone",
-   "player": "Jared Goff",
-   "team": "DET",
-   "text": "Jared Goff needs 36 more passing yards to reach 2,000 for the season (has 1,964)."
+   "player": "KC Concepcion",
+   "team": "CLE",
+   "text": "KC Concepcion needs 63 more receiving yards to reach 500 for the season (has 437)."
+  }
+ ],
+ "2026_10_MIN_GB": [
+  {
+   "type": "Revenge",
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "text": "Aaron Jones (MIN RB) faces the Packers, the team he played for from 2017 to 2023."
+  },
+  {
+   "type": "Milestone",
+   "player": "Christian Watson",
+   "team": "GB",
+   "text": "Christian Watson needs 1 more catch to reach 50 for the season (has 49)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Jordan Love",
+   "team": "GB",
+   "text": "Jordan Love needs 1 more passing TD to reach 20 for the season (has 19)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "text": "Aaron Jones needs 26 more rushing yards to reach 500 for the season (has 474)."
+  }
+ ],
+ "2026_10_MIA_IND": [
+  {
+   "type": "Milestone",
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "text": "Ollie Gordon II needs 37 more rushing yards to reach 500 for the season (has 463)."
   },
   {
    "type": "Milestone",
@@ -75,126 +113,92 @@
    "text": "Ollie Gordon II needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
- "2026_09_CLE_NO": [
-  {
-   "type": "Revenge",
-   "player": "Audric Estim\u00e9",
-   "team": "CLE",
-   "text": "Audric Estim\u00e9 (CLE RB) faces the Saints, the team he played for from 2025 to 2026."
-  },
+ "2026_10_CAR_NO": [
   {
    "type": "Milestone",
-   "player": "Chris Olave",
+   "player": "Tyler Shough",
    "team": "NO",
-   "text": "Chris Olave needs 1 more catch to reach 50 for the season (has 49)."
+   "text": "Tyler Shough needs 14 more passing yards to reach 2,000 for the season (has 1,986)."
   },
   {
    "type": "Milestone",
-   "player": "Deshaun Watson",
-   "team": "CLE",
-   "text": "Deshaun Watson needs 194 more passing yards to reach 2,000 for the season (has 1,806)."
+   "player": "Tetairoa McMillan",
+   "team": "CAR",
+   "text": "Tetairoa McMillan needs 4 more catches to reach 50 for the season (has 46)."
   }
  ],
- "2026_09_NYG_PHI": [
+ "2026_10_BUF_NYJ": [
   {
    "type": "Revenge",
-   "player": "Saquon Barkley",
-   "team": "PHI",
-   "text": "Saquon Barkley (PHI RB) faces the Giants, the team he played for from 2018 to 2023."
+   "player": "Ty Johnson",
+   "team": "BUF",
+   "text": "Ty Johnson (BUF RB) faces the Jets, the team he played for from 2020 to 2022."
+  }
+ ],
+ "2026_10_JAX_TEN": [
+  {
+   "type": "Revenge",
+   "player": "Calvin Ridley",
+   "team": "TEN",
+   "text": "Calvin Ridley (TEN WR) faces the Jaguars, the team he played for from 2022 to 2023."
   },
   {
    "type": "Milestone",
-   "player": "Malik Nabers",
-   "team": "NYG",
-   "text": "Malik Nabers needs 2 more catches to reach 50 for the season (has 48)."
-  }
- ],
- "2026_09_LA_WAS": [
+   "player": "Parker Washington",
+   "team": "JAX",
+   "text": "Parker Washington needs 7 more receiving yards to reach 500 for the season (has 493)."
+  },
   {
    "type": "Milestone",
-   "player": "Blake Corum",
-   "team": "LA",
-   "text": "Blake Corum needs 1 more total TD to reach 5 for the season (has 4)."
+   "player": "Trevor Lawrence",
+   "team": "JAX",
+   "text": "Trevor Lawrence needs 68 more passing yards to reach 2,000 for the season (has 1,932)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Carnell Tate",
+   "team": "TEN",
+   "text": "Carnell Tate needs 87 more receiving yards to reach 500 for the season (has 413)."
+  }
+ ],
+ "2026_10_LA_ARI": [
+  {
+   "type": "Revenge",
+   "player": "Hunter Long",
+   "team": "ARI",
+   "text": "Hunter Long (ARI TE) faces the Rams, the team he played for from 2023 to 2024."
+  },
+  {
+   "type": "Milestone",
+   "player": "Trey McBride",
+   "team": "ARI",
+   "text": "Trey McBride needs 2 more catches to reach 75 for the season (has 73)."
   },
   {
    "type": "Milestone",
    "player": "Puka Nacua",
    "team": "LA",
-   "text": "Puka Nacua needs 1 more total TD to reach 5 for the season (has 4)."
-  }
- ],
- "2026_09_HOU_LAC": [
+   "text": "Puka Nacua needs 5 more catches to reach 75 for the season (has 70)."
+  },
   {
    "type": "Milestone",
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "text": "C.J. Stroud needs 133 more passing yards to reach 2,000 for the season (has 1,867)."
+   "player": "Blake Corum",
+   "team": "LA",
+   "text": "Blake Corum needs 53 more rushing yards to reach 500 for the season (has 447)."
   }
  ],
- "2026_09_LV_SF": [
+ "2026_10_SEA_LV": [
   {
    "type": "Milestone",
-   "player": "Kirk Cousins",
+   "player": "Brock Bowers",
    "team": "LV",
-   "text": "Kirk Cousins needs 1 more passing TD to reach 20 for the season (has 19)."
+   "text": "Brock Bowers needs 2 more catches to reach 50 for the season (has 48)."
   },
-  {
-   "type": "Milestone",
-   "player": "Tre Tucker",
-   "team": "LV",
-   "text": "Tre Tucker needs 26 more receiving yards to reach 500 for the season (has 474)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Brock Purdy",
-   "team": "SF",
-   "text": "Brock Purdy needs 252 more passing yards to reach 2,000 for the season (has 1,748)."
-  }
- ],
- "2026_09_GB_NE": [
-  {
-   "type": "Revenge",
-   "player": "Pierre Strong",
-   "team": "GB",
-   "text": "Pierre Strong (GB RB) faces the Patriots, the team he played for in 2022."
-  },
-  {
-   "type": "Revenge",
-   "player": "Romeo Doubs",
-   "team": "NE",
-   "text": "Romeo Doubs (NE WR) faces the Packers, the team he played for from 2022 to 2025."
-  },
-  {
-   "type": "Revenge",
-   "player": "Jonnu Smith",
-   "team": "GB",
-   "text": "Jonnu Smith (GB TE) faces the Patriots, the team he played for from 2021 to 2022."
-  },
-  {
-   "type": "Milestone",
-   "player": "Drake Maye",
-   "team": "NE",
-   "text": "Drake Maye needs 17 more passing yards to reach 2,000 for the season (has 1,983)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Matthew Golden",
-   "team": "GB",
-   "text": "Matthew Golden needs 1 more total TD to reach 5 for the season (has 4)."
-  }
- ],
- "2026_09_ARI_SEA": [
   {
    "type": "Milestone",
    "player": "Jaxon Smith-Njigba",
    "team": "SEA",
-   "text": "Jaxon Smith-Njigba needs 15 more receiving yards to reach 1,000 for the season (has 985)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Michael Wilson",
-   "team": "ARI",
-   "text": "Michael Wilson needs 14 more receiving yards to reach 500 for the season (has 486)."
+   "text": "Jaxon Smith-Njigba needs 4 more catches to reach 75 for the season (has 71)."
   },
   {
    "type": "Milestone",
@@ -203,32 +207,64 @@
    "text": "Jaxon Smith-Njigba needs 1 more total TD to reach 10 for the season (has 9)."
   }
  ],
- "2026_09_TB_CHI": [
+ "2026_10_SF_DAL": [
+  {
+   "type": "Revenge",
+   "player": "Brandin Cooks",
+   "team": "SF",
+   "text": "Brandin Cooks (SF WR) faces the Cowboys, the team he played for from 2023 to 2024."
+  },
   {
    "type": "Milestone",
-   "player": "Rome Odunze",
-   "team": "CHI",
-   "text": "Rome Odunze needs 32 more receiving yards to reach 500 for the season (has 468)."
+   "player": "Brock Purdy",
+   "team": "SF",
+   "text": "Brock Purdy needs 20 more passing yards to reach 2,000 for the season (has 1,980)."
+  },
+  {
+   "type": "Milestone",
+   "player": "George Kittle",
+   "team": "SF",
+   "text": "George Kittle needs 17 more receiving yards to reach 500 for the season (has 483)."
+  },
+  {
+   "type": "Milestone",
+   "player": "CeeDee Lamb",
+   "team": "DAL",
+   "text": "CeeDee Lamb needs 5 more catches to reach 75 for the season (has 70)."
   }
  ],
- "2026_09_BUF_MIN": [
+ "2026_10_PIT_CIN": [
   {
    "type": "Milestone",
-   "player": "Aaron Jones",
-   "team": "MIN",
-   "text": "Aaron Jones needs 42 more rushing yards to reach 500 for the season (has 458)."
+   "player": "Tee Higgins",
+   "team": "CIN",
+   "text": "Tee Higgins needs 2 more catches to reach 50 for the season (has 48)."
   },
   {
    "type": "Milestone",
-   "player": "Josh Allen",
-   "team": "BUF",
-   "text": "Josh Allen needs 207 more passing yards to reach 2,000 for the season (has 1,793)."
+   "player": "Aaron Rodgers",
+   "team": "PIT",
+   "text": "Aaron Rodgers needs 129 more passing yards to reach 2,000 for the season (has 1,871)."
+  }
+ ],
+ "2026_10_LAC_BAL": [
+  {
+   "type": "Revenge",
+   "player": "Keaton Mitchell",
+   "team": "LAC",
+   "text": "Keaton Mitchell (LAC RB) faces the Ravens, the team he played for from 2023 to 2025."
+  },
+  {
+   "type": "Revenge",
+   "player": "Charlie Kolar",
+   "team": "LAC",
+   "text": "Charlie Kolar (LAC TE) faces the Ravens, the team he played for from 2022 to 2025."
   },
   {
    "type": "Milestone",
-   "player": "Justin Jefferson",
-   "team": "MIN",
-   "text": "Justin Jefferson needs 1 more total TD to reach 5 for the season (has 4)."
+   "player": "Derrick Henry",
+   "team": "BAL",
+   "text": "Derrick Henry needs 1 more total TD to reach 10 for the season (has 9)."
   }
  ]
 }
