@@ -1942,5 +1942,43 @@
   "actual": 2.0,
   "result": "win",
   "units": 1.1
+ },
+ {
+  "game_id": "2026_09_BUF_MIN",
+  "matchup": "BUF @ MIN",
+  "kickoff": "2026-11-09T20:15",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-09T23:35-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Josh Allen Under 231.5 passing yards",
+  "player": "Josh Allen",
+  "market": "player_pass_yds",
+  "side": "Under",
+  "line": 231.5,
+  "price": -111,
+  "edge": 0.111,
+  "actual": 234.0,
+  "result": "loss",
+  "units": -1.0
+ },
+ {
+  "game_id": "2026_09_BUF_MIN",
+  "matchup": "BUF @ MIN",
+  "kickoff": "2026-11-09T20:15",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-09T23:35-05:00",
+  "source": "espn",
+  "tier": "Penny Stock",
+  "title": "Tai Felton Over 0.5 receptions",
+  "player": "Tai Felton",
+  "market": "player_receptions",
+  "side": "Over",
+  "line": 0.5,
+  "price": 134,
+  "edge": 0.0713,
+  "actual": null,
+  "result": "void",
+  "units": 0.0
  }
 ]

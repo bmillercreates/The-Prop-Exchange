@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-08T23:40-05:00",
+ "updated_at": "2026-11-09T23:35-05:00",
  "overall": {
   "wins": 42,
-  "losses": 55,
+  "losses": 56,
   "pushes": 0,
-  "units": -2.19,
-  "roi": -0.0226,
-  "hit_rate": 0.433,
-  "bets": 97
+  "units": -3.19,
+  "roi": -0.0326,
+  "hit_rate": 0.4286,
+  "bets": 98
  },
  "tiers": {
   "Blue Chip": {
    "wins": 30,
-   "losses": 31,
+   "losses": 32,
    "pushes": 0,
-   "units": -4.02,
-   "roi": -0.0659,
-   "hit_rate": 0.4918,
-   "bets": 61
+   "units": -5.02,
+   "roi": -0.081,
+   "hit_rate": 0.4839,
+   "bets": 62
   },
   "Penny Stock": {
    "wins": 8,
@@ -58,9 +58,51 @@
   {
    "date": "2026-11-08",
    "units": -2.19
+  },
+  {
+   "date": "2026-11-09",
+   "units": -3.19
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_09_BUF_MIN",
+   "matchup": "BUF @ MIN",
+   "kickoff": "2026-11-09T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-09T23:35-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Tai Felton Over 0.5 receptions",
+   "player": "Tai Felton",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 0.5,
+   "price": 134,
+   "edge": 0.0713,
+   "actual": null,
+   "result": "void",
+   "units": 0.0
+  },
+  {
+   "game_id": "2026_09_BUF_MIN",
+   "matchup": "BUF @ MIN",
+   "kickoff": "2026-11-09T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-09T23:35-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Josh Allen Under 231.5 passing yards",
+   "player": "Josh Allen",
+   "market": "player_pass_yds",
+   "side": "Under",
+   "line": 231.5,
+   "price": -111,
+   "edge": 0.111,
+   "actual": 234.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_09_TB_CHI",
    "matchup": "TB @ CHI",
@@ -613,44 +655,6 @@
    "actual": 276.0,
    "result": "win",
    "units": 0.901
-  },
-  {
-   "game_id": "2026_09_DEN_CAR",
-   "matchup": "DEN @ CAR",
-   "kickoff": "2026-11-08T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-08T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Chuba Hubbard Over 2.5 receptions",
-   "player": "Chuba Hubbard",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 2.5,
-   "price": -151,
-   "edge": 0.0636,
-   "actual": 4.0,
-   "result": "win",
-   "units": 0.662
-  },
-  {
-   "game_id": "2026_09_DEN_CAR",
-   "matchup": "DEN @ CAR",
-   "kickoff": "2026-11-08T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-08T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Bo Nix Under 217.5 passing yards",
-   "player": "Bo Nix",
-   "market": "player_pass_yds",
-   "side": "Under",
-   "line": 217.5,
-   "price": -111,
-   "edge": 0.1133,
-   "actual": 237.0,
-   "result": "loss",
-   "units": -1.0
   }
  ]
 }
