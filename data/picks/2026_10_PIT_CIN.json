@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_PIT_CIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-10T16:13-05:00",
+ "updated_at": "2026-11-11T16:44-05:00",
  "kickoff": "2026-11-15T20:20",
  "weekday": "Sunday",
  "away": "PIT",
@@ -14,11 +14,11 @@
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-15T20:20:00-05:00",
   "covered": false,
-  "temp_f": 39,
+  "temp_f": 40,
   "wind_mph": 4,
-  "gust_mph": 6,
+  "gust_mph": 5,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "teams": {
   "PIT": {
@@ -54,15 +54,15 @@
    "tds": 0.5
   },
   {
-   "player": "Pat Freiermuth",
+   "player": "Jaylen Warren",
    "team": "PIT",
-   "position": "TE",
-   "rush_yds": 0.6,
-   "targets": 4.3,
-   "receptions": 3.3,
-   "rec_yds": 36.8,
-   "carries": 0.4,
-   "tds": 0.3
+   "position": "RB",
+   "rush_yds": 75.5,
+   "targets": 4.4,
+   "receptions": 3.2,
+   "rec_yds": 32.1,
+   "carries": 14.0,
+   "tds": 0.5
   },
   {
    "player": "Darnell Washington",
@@ -74,16 +74,6 @@
    "rec_yds": 42.9,
    "carries": 0.0,
    "tds": 0.4
-  },
-  {
-   "player": "Aaron Rodgers",
-   "team": "PIT",
-   "position": "QB",
-   "rush_yds": 5.7,
-   "pass_yds": 253.1,
-   "pass_att": 35.6,
-   "carries": 1.3,
-   "tds": 0.0
   },
   {
    "player": "DK Metcalf",
@@ -108,15 +98,47 @@
    "tds": 0.4
   },
   {
-   "player": "Jaylen Warren",
+   "player": "Pat Freiermuth",
    "team": "PIT",
-   "position": "RB",
-   "rush_yds": 75.5,
-   "targets": 4.4,
-   "receptions": 3.2,
-   "rec_yds": 32.1,
-   "carries": 14.0,
-   "tds": 0.5
+   "position": "TE",
+   "rush_yds": 0.6,
+   "targets": 4.3,
+   "receptions": 3.3,
+   "rec_yds": 36.8,
+   "carries": 0.4,
+   "tds": 0.3
+  },
+  {
+   "player": "Aaron Rodgers",
+   "team": "PIT",
+   "position": "QB",
+   "rush_yds": 5.7,
+   "pass_yds": 253.1,
+   "pass_att": 35.6,
+   "carries": 1.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Mike Gesicki",
+   "team": "CIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.2,
+   "rec_yds": 26.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Ja'Marr Chase",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 10.1,
+   "receptions": 7.2,
+   "rec_yds": 84.3,
+   "carries": 0.0,
+   "tds": 0.7
   },
   {
    "player": "Chase Brown",
@@ -141,26 +163,25 @@
    "tds": 0.3
   },
   {
-   "player": "Dohnte Meyers",
+   "player": "Joe Burrow",
    "team": "CIN",
-   "position": "WR",
-   "rush_yds": 1.3,
-   "targets": 3.0,
-   "receptions": 2.0,
-   "rec_yds": 24.3,
-   "carries": 0.3,
-   "tds": 0.1
+   "position": "QB",
+   "rush_yds": 11.0,
+   "pass_yds": 278.3,
+   "pass_att": 34.9,
+   "carries": 3.2,
+   "tds": 0.2
   },
   {
-   "player": "Ja'Marr Chase",
+   "player": "Tee Higgins",
    "team": "CIN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 10.1,
-   "receptions": 7.2,
-   "rec_yds": 84.3,
+   "targets": 7.9,
+   "receptions": 5.5,
+   "rec_yds": 78.5,
    "carries": 0.0,
-   "tds": 0.7
+   "tds": 0.4
   },
   {
    "player": "Drew Sample",
@@ -185,36 +206,15 @@
    "tds": 0.1
   },
   {
-   "player": "Tee Higgins",
+   "player": "Dohnte Meyers",
    "team": "CIN",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.9,
-   "receptions": 5.5,
-   "rec_yds": 78.5,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Mike Gesicki",
-   "team": "CIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.2,
-   "rec_yds": 26.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Joe Burrow",
-   "team": "CIN",
-   "position": "QB",
-   "rush_yds": 11.0,
-   "pass_yds": 278.3,
-   "pass_att": 34.9,
-   "carries": 3.2,
-   "tds": 0.2
+   "rush_yds": 1.3,
+   "targets": 3.0,
+   "receptions": 2.0,
+   "rec_yds": 24.3,
+   "carries": 0.3,
+   "tds": 0.1
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_CAR_NO",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-10T16:13-05:00",
+ "updated_at": "2026-11-11T16:44-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "CAR",
@@ -17,17 +17,17 @@
  },
  "teams": {
   "CAR": {
-   "implied_pts": 23.5,
-   "margin": -1.5,
+   "implied_pts": 23.0,
+   "margin": -2.5,
    "plays": 65.0,
-   "pass_att": 38.8,
+   "pass_att": 39.2,
    "notes": []
   },
   "NO": {
-   "implied_pts": 25.0,
-   "margin": 1.5,
+   "implied_pts": 25.5,
+   "margin": 2.5,
    "plays": 63.5,
-   "pass_att": 34.4,
+   "pass_att": 34.0,
    "notes": []
   }
  },
@@ -36,68 +36,14 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Bryce Young",
-   "team": "CAR",
-   "position": "QB",
-   "rush_yds": 5.1,
-   "pass_yds": 293.6,
-   "pass_att": 38.8,
-   "carries": 1.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 9.2,
-   "receptions": 5.8,
-   "rec_yds": 81.4,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Mitchell Evans",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 18.9,
-   "carries": 0.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Tommy Tremble",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.2,
-   "receptions": 3.1,
-   "rec_yds": 31.4,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
    "player": "Darren Waller",
    "team": "CAR",
    "position": "TE",
    "rush_yds": 0.0,
    "targets": 4.9,
-   "receptions": 3.4,
-   "rec_yds": 43.7,
+   "receptions": 3.5,
+   "rec_yds": 44.2,
    "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jalen Coker",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 7.2,
-   "receptions": 4.5,
-   "rec_yds": 59.7,
-   "carries": 0.3,
    "tds": 0.2
   },
   {
@@ -107,9 +53,53 @@
    "rush_yds": 0.0,
    "targets": 3.3,
    "receptions": 2.1,
-   "rec_yds": 26.0,
+   "rec_yds": 26.3,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "rush_yds": 80.0,
+   "targets": 5.3,
+   "receptions": 4.4,
+   "rec_yds": 32.9,
+   "carries": 15.5,
+   "tds": 0.9
+  },
+  {
+   "player": "Jalen Coker",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 7.3,
+   "receptions": 4.5,
+   "rec_yds": 60.4,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Mitchell Evans",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 19.1,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Tommy Tremble",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.3,
+   "receptions": 3.1,
+   "rec_yds": 31.7,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Brycen Tremayne",
@@ -118,20 +108,63 @@
    "rush_yds": 0.0,
    "targets": 1.2,
    "receptions": 0.7,
-   "rec_yds": 11.0,
+   "rec_yds": 11.1,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Chuba Hubbard",
+   "player": "Tetairoa McMillan",
    "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.3,
+   "receptions": 5.9,
+   "rec_yds": 82.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "rush_yds": 5.0,
+   "pass_yds": 296.7,
+   "pass_att": 39.2,
+   "carries": 1.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Audric Estim\u00e9",
+   "team": "NO",
    "position": "RB",
-   "rush_yds": 81.8,
-   "targets": 5.3,
-   "receptions": 4.4,
-   "rec_yds": 32.5,
-   "carries": 15.8,
-   "tds": 0.9
+   "rush_yds": 31.2,
+   "targets": 0.6,
+   "receptions": 0.5,
+   "rec_yds": 3.2,
+   "carries": 6.4,
+   "tds": 0.5
+  },
+  {
+   "player": "Alvin Kamara",
+   "team": "NO",
+   "position": "RB",
+   "rush_yds": 23.3,
+   "targets": 4.2,
+   "receptions": 3.4,
+   "rec_yds": 21.0,
+   "carries": 5.6,
+   "tds": 0.3
+  },
+  {
+   "player": "Chris Olave",
+   "team": "NO",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 10.7,
+   "receptions": 7.3,
+   "rec_yds": 92.1,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Juwan Johnson",
@@ -140,7 +173,7 @@
    "rush_yds": 0.0,
    "targets": 3.4,
    "receptions": 2.4,
-   "rec_yds": 22.7,
+   "rec_yds": 22.5,
    "carries": 0.0,
    "tds": 0.3
   },
@@ -151,29 +184,29 @@
    "rush_yds": 0.0,
    "targets": 3.0,
    "receptions": 2.0,
-   "rec_yds": 23.2,
+   "rec_yds": 22.9,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Audric Estim\u00e9",
+   "player": "Bryce Lance",
    "team": "NO",
-   "position": "RB",
-   "rush_yds": 30.6,
-   "targets": 0.6,
-   "receptions": 0.5,
-   "rec_yds": 3.2,
-   "carries": 6.3,
-   "tds": 0.5
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.1,
+   "receptions": 1.1,
+   "rec_yds": 12.4,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Tyler Shough",
    "team": "NO",
    "position": "QB",
-   "rush_yds": 25.3,
-   "pass_yds": 220.6,
-   "pass_att": 34.4,
-   "carries": 5.1,
+   "rush_yds": 25.7,
+   "pass_yds": 218.1,
+   "pass_att": 34.0,
+   "carries": 5.2,
    "tds": 0.3
   },
   {
@@ -183,51 +216,18 @@
    "rush_yds": 0.0,
    "targets": 5.3,
    "receptions": 3.6,
-   "rec_yds": 39.4,
+   "rec_yds": 39.0,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Chris Olave",
-   "team": "NO",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 10.8,
-   "receptions": 7.4,
-   "rec_yds": 93.1,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Bryce Lance",
-   "team": "NO",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.1,
-   "receptions": 1.1,
-   "rec_yds": 12.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Alvin Kamara",
-   "team": "NO",
-   "position": "RB",
-   "rush_yds": 22.9,
-   "targets": 4.3,
-   "receptions": 3.5,
-   "rec_yds": 21.2,
-   "carries": 5.5,
-   "tds": 0.3
   },
   {
    "player": "Noah Fant",
    "team": "NO",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 2.0,
+   "targets": 1.9,
    "receptions": 1.3,
-   "rec_yds": 11.6,
+   "rec_yds": 11.5,
    "carries": 0.0,
    "tds": 0.2
   }

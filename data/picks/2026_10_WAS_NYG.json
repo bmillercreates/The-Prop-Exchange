@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_WAS_NYG",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-10T16:13-05:00",
+ "updated_at": "2026-11-11T16:44-05:00",
  "kickoff": "2026-11-12T20:15",
  "weekday": "Thursday",
  "away": "WAS",
@@ -14,28 +14,28 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-12T20:15:00-05:00",
   "covered": false,
-  "temp_f": 52,
-  "wind_mph": 9,
-  "gust_mph": 12,
-  "precip_in": 0.0,
-  "precip_chance": 63
+  "temp_f": 49,
+  "wind_mph": 13,
+  "gust_mph": 33,
+  "precip_in": 0.06,
+  "precip_chance": 66
  },
  "teams": {
   "WAS": {
-   "implied_pts": 19.5,
+   "implied_pts": 19.0,
    "margin": -2.5,
-   "plays": 58.8,
-   "pass_att": 35.4,
+   "plays": 58.4,
+   "pass_att": 35.1,
    "notes": [
     "rain/snow expected",
     "short week"
    ]
   },
   "NYG": {
-   "implied_pts": 22.0,
+   "implied_pts": 21.5,
    "margin": 2.5,
-   "plays": 64.1,
-   "pass_att": 34.0,
+   "plays": 63.6,
+   "pass_att": 33.7,
    "notes": [
     "rain/snow expected",
     "short week"
@@ -51,22 +51,32 @@
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.0,
-   "receptions": 4.2,
-   "rec_yds": 41.3,
+   "targets": 7.1,
+   "receptions": 4.3,
+   "rec_yds": 41.4,
    "carries": 0.0,
    "tds": 0.3
   },
   {
-   "player": "Austin Ekeler",
+   "player": "Treylon Burks",
    "team": "WAS",
-   "position": "RB",
-   "rush_yds": 21.4,
-   "targets": 1.3,
-   "receptions": 0.9,
-   "rec_yds": 5.8,
-   "carries": 5.6,
-   "tds": 0.3
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.8,
+   "receptions": 3.3,
+   "rec_yds": 44.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 26.2,
+   "pass_yds": 204.2,
+   "pass_att": 35.1,
+   "carries": 3.8,
+   "tds": 0.1
   },
   {
    "player": "Van Jefferson",
@@ -80,25 +90,37 @@
    "tds": 0.6
   },
   {
-   "player": "Jayden Daniels",
+   "player": "Austin Ekeler",
    "team": "WAS",
-   "position": "QB",
-   "rush_yds": 26.4,
-   "pass_yds": 205.6,
-   "pass_att": 35.4,
-   "carries": 3.8,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 21.3,
+   "targets": 1.3,
+   "receptions": 0.9,
+   "rec_yds": 5.8,
+   "carries": 5.6,
+   "tds": 0.3
   },
   {
-   "player": "Treylon Burks",
+   "player": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 34.4,
+   "targets": 3.6,
+   "receptions": 2.7,
+   "rec_yds": 16.2,
+   "carries": 8.4,
+   "tds": 0.5
+  },
+  {
+   "player": "Antonio Williams",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.7,
-   "receptions": 3.3,
-   "rec_yds": 44.6,
+   "targets": 6.8,
+   "receptions": 4.3,
+   "rec_yds": 43.8,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
    "player": "Chig Okonkwo",
@@ -107,63 +129,29 @@
    "rush_yds": 0.0,
    "targets": 6.1,
    "receptions": 4.5,
-   "rec_yds": 38.2,
+   "rec_yds": 38.4,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Antonio Williams",
-   "team": "WAS",
+   "player": "J.J. McCarthy",
+   "team": "NYG",
+   "position": "QB",
+   "rush_yds": 16.3,
+   "pass_yds": 266.2,
+   "pass_att": 33.7,
+   "carries": 3.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Malachi Fields",
+   "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.7,
-   "receptions": 4.3,
-   "rec_yds": 43.6,
+   "targets": 5.8,
+   "receptions": 3.5,
+   "rec_yds": 46.0,
    "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Rachaad White",
-   "team": "WAS",
-   "position": "RB",
-   "rush_yds": 34.7,
-   "targets": 3.6,
-   "receptions": 2.7,
-   "rec_yds": 16.2,
-   "carries": 8.5,
-   "tds": 0.5
-  },
-  {
-   "player": "Darnell Mooney",
-   "team": "NYG",
-   "position": "WR",
-   "rush_yds": 2.2,
-   "targets": 3.7,
-   "receptions": 2.1,
-   "rec_yds": 26.4,
-   "carries": 0.5,
-   "tds": 0.0
-  },
-  {
-   "player": "Cam Skattebo",
-   "team": "NYG",
-   "position": "RB",
-   "rush_yds": 40.4,
-   "targets": 2.1,
-   "receptions": 1.7,
-   "rec_yds": 11.6,
-   "carries": 10.8,
-   "tds": 0.6
-  },
-  {
-   "player": "Devin Singletary",
-   "team": "NYG",
-   "position": "RB",
-   "rush_yds": 20.5,
-   "targets": 2.9,
-   "receptions": 2.4,
-   "rec_yds": 15.6,
-   "carries": 6.6,
    "tds": 0.3
   },
   {
@@ -171,43 +159,44 @@
    "team": "NYG",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 8.2,
-   "receptions": 5.8,
-   "rec_yds": 61.0,
+   "targets": 8.5,
+   "receptions": 6.0,
+   "rec_yds": 63.5,
    "carries": 0.0,
-   "tds": 0.4
+   "tds": 0.6
   },
   {
-   "player": "Malachi Fields",
+   "player": "Darnell Mooney",
    "team": "NYG",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.2,
-   "rec_yds": 42.1,
-   "carries": 0.0,
-   "tds": 0.2
+   "rush_yds": 4.4,
+   "targets": 4.0,
+   "receptions": 2.3,
+   "rec_yds": 28.4,
+   "carries": 0.9,
+   "tds": 0.0
   },
   {
    "player": "Malik Nabers",
    "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 10.0,
-   "receptions": 7.0,
-   "rec_yds": 80.6,
+   "targets": 10.6,
+   "receptions": 7.4,
+   "rec_yds": 85.5,
    "carries": 0.0,
-   "tds": 0.4
+   "tds": 0.5
   },
   {
-   "player": "J.J. McCarthy",
+   "player": "Devin Singletary",
    "team": "NYG",
-   "position": "QB",
-   "rush_yds": 8.5,
-   "pass_yds": 268.1,
-   "pass_att": 34.0,
-   "carries": 1.6,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 40.9,
+   "targets": 3.0,
+   "receptions": 2.5,
+   "rec_yds": 16.1,
+   "carries": 13.2,
+   "tds": 0.5
   }
  ]
 }

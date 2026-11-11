@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_JAX_TEN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-10T16:13-05:00",
+ "updated_at": "2026-11-11T16:44-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "JAX",
@@ -14,11 +14,11 @@
   "stadium": "Nissan Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 50,
-  "wind_mph": 8,
-  "gust_mph": 10,
+  "temp_f": 53,
+  "wind_mph": 6,
+  "gust_mph": 7,
   "precip_in": 0.0,
-  "precip_chance": 0
+  "precip_chance": 1
  },
  "teams": {
   "JAX": {
@@ -43,61 +43,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Bhayshul Tuten",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 81.4,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 16.2,
-   "carries": 18.3,
-   "tds": 1.0
-  },
-  {
-   "player": "Chris Rodriguez Jr.",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 35.9,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 4.4,
-   "carries": 8.2,
-   "tds": 0.4
-  },
-  {
-   "player": "Josh Cameron",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 16.1,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jakobi Meyers",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 4.4,
-   "receptions": 3.2,
-   "rec_yds": 48.6,
-   "carries": 0.1,
-   "tds": 0.3
-  },
-  {
-   "player": "Nate Boerkircher",
-   "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 11.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Ameer Abdullah",
    "team": "JAX",
    "position": "RB",
@@ -106,28 +51,6 @@
    "receptions": 0.2,
    "rec_yds": 1.6,
    "carries": 3.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Brian Thomas Jr.",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.6,
-   "rec_yds": 22.2,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Brenton Strange",
-   "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 3.1,
-   "rec_yds": 31.1,
-   "carries": 0.0,
    "tds": 0.1
   },
   {
@@ -141,6 +64,50 @@
    "tds": 0.0
   },
   {
+   "player": "Brenton Strange",
+   "team": "JAX",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.3,
+   "receptions": 3.1,
+   "rec_yds": 31.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Josh Cameron",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 16.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 81.4,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 16.2,
+   "carries": 18.3,
+   "tds": 1.0
+  },
+  {
+   "player": "Brian Thomas Jr.",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.6,
+   "rec_yds": 22.2,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
    "player": "Parker Washington",
    "team": "JAX",
    "position": "WR",
@@ -152,36 +119,37 @@
    "tds": 0.4
   },
   {
-   "player": "Calvin Ridley",
-   "team": "TEN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.5,
-   "rec_yds": 22.3,
-   "carries": 0.0,
-   "tds": 0.0
+   "player": "Chris Rodriguez Jr.",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 35.9,
+   "targets": 0.7,
+   "receptions": 0.5,
+   "rec_yds": 4.4,
+   "carries": 8.2,
+   "tds": 0.4
   },
   {
-   "player": "Cam Ward",
-   "team": "TEN",
-   "position": "QB",
-   "rush_yds": 8.2,
-   "pass_yds": 235.9,
-   "pass_att": 36.1,
-   "carries": 2.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Gunnar Helm",
-   "team": "TEN",
+   "player": "Nate Boerkircher",
+   "team": "JAX",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.2,
-   "rec_yds": 19.5,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 11.7,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Jakobi Meyers",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 4.4,
+   "receptions": 3.2,
+   "rec_yds": 48.6,
+   "carries": 0.1,
+   "tds": 0.3
   },
   {
    "player": "Carnell Tate",
@@ -192,6 +160,16 @@
    "receptions": 5.9,
    "rec_yds": 80.8,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Cam Ward",
+   "team": "TEN",
+   "position": "QB",
+   "rush_yds": 8.2,
+   "pass_yds": 235.9,
+   "pass_att": 36.1,
+   "carries": 2.2,
    "tds": 0.1
   },
   {
@@ -206,15 +184,26 @@
    "tds": 0.0
   },
   {
-   "player": "Wan'Dale Robinson",
+   "player": "Gunnar Helm",
+   "team": "TEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.2,
+   "rec_yds": 19.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Calvin Ridley",
    "team": "TEN",
    "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 6.9,
-   "receptions": 4.8,
-   "rec_yds": 50.3,
-   "carries": 0.1,
-   "tds": 0.3
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 22.3,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Tony Pollard",
@@ -239,17 +228,6 @@
    "tds": 0.3
   },
   {
-   "player": "Daniel Bellinger",
-   "team": "TEN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.0,
-   "receptions": 1.3,
-   "rec_yds": 10.7,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Tyjae Spears",
    "team": "TEN",
    "position": "RB",
@@ -259,6 +237,28 @@
    "rec_yds": 18.7,
    "carries": 2.3,
    "tds": 0.0
+  },
+  {
+   "player": "Wan'Dale Robinson",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 6.9,
+   "receptions": 4.8,
+   "rec_yds": 50.3,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Daniel Bellinger",
+   "team": "TEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 10.7,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

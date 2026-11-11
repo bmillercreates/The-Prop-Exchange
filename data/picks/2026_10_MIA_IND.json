@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_MIA_IND",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-10T16:13-05:00",
+ "updated_at": "2026-11-11T16:44-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "MIA",
@@ -36,39 +36,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Jaylen Wright",
-   "team": "MIA",
-   "position": "RB",
-   "rush_yds": 12.6,
-   "targets": 0.6,
-   "receptions": 0.4,
-   "rec_yds": 4.1,
-   "carries": 3.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Kevin Coleman Jr.",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 1.6,
-   "targets": 2.5,
-   "receptions": 1.2,
-   "rec_yds": 15.9,
-   "carries": 0.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Greg Dulcich",
-   "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.5,
-   "rec_yds": 37.5,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Malik Washington",
    "team": "MIA",
    "position": "WR",
@@ -91,15 +58,15 @@
    "tds": 0.0
   },
   {
-   "player": "Ollie Gordon II",
+   "player": "Jaylen Wright",
    "team": "MIA",
    "position": "RB",
-   "rush_yds": 83.8,
-   "targets": 1.7,
-   "receptions": 1.2,
-   "rec_yds": 9.7,
-   "carries": 17.2,
-   "tds": 0.9
+   "rush_yds": 12.6,
+   "targets": 0.6,
+   "receptions": 0.4,
+   "rec_yds": 4.1,
+   "carries": 3.3,
+   "tds": 0.1
   },
   {
    "player": "Caleb Douglas",
@@ -113,6 +80,39 @@
    "tds": 0.1
   },
   {
+   "player": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.5,
+   "rec_yds": 37.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kevin Coleman Jr.",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 1.6,
+   "targets": 2.5,
+   "receptions": 1.2,
+   "rec_yds": 15.9,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "rush_yds": 83.8,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 9.7,
+   "carries": 17.2,
+   "tds": 0.9
+  },
+  {
    "player": "Seth McGowan",
    "team": "IND",
    "position": "RB",
@@ -122,17 +122,6 @@
    "rec_yds": 2.4,
    "carries": 4.4,
    "tds": 0.2
-  },
-  {
-   "player": "DJ Giddens",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 14.9,
-   "targets": 0.0,
-   "receptions": 0.0,
-   "rec_yds": 0.0,
-   "carries": 3.1,
-   "tds": 0.0
   },
   {
    "player": "Daniel Jones",
@@ -145,26 +134,26 @@
    "tds": 0.1
   },
   {
-   "player": "Jonathan Taylor",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 55.1,
-   "targets": 3.4,
-   "receptions": 2.6,
-   "rec_yds": 21.1,
-   "carries": 12.5,
-   "tds": 0.8
-  },
-  {
-   "player": "Keenan Allen",
+   "player": "Josh Downs",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.5,
-   "receptions": 3.5,
-   "rec_yds": 33.4,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 0.4,
+   "targets": 4.8,
+   "receptions": 2.7,
+   "rec_yds": 29.3,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "DJ Giddens",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 14.9,
+   "targets": 0.0,
+   "receptions": 0.0,
+   "rec_yds": 0.0,
+   "carries": 3.1,
+   "tds": 0.0
   },
   {
    "player": "Will Mallory",
@@ -189,15 +178,26 @@
    "tds": 0.0
   },
   {
-   "player": "Josh Downs",
+   "player": "Keenan Allen",
    "team": "IND",
    "position": "WR",
-   "rush_yds": 0.4,
-   "targets": 4.8,
-   "receptions": 2.7,
-   "rec_yds": 29.3,
-   "carries": 0.1,
-   "tds": 0.3
+   "rush_yds": 0.0,
+   "targets": 5.5,
+   "receptions": 3.5,
+   "rec_yds": 33.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 55.1,
+   "targets": 3.4,
+   "receptions": 2.6,
+   "rec_yds": 21.1,
+   "carries": 12.5,
+   "tds": 0.8
   },
   {
    "player": "Tyler Warren",
