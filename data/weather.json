@@ -283,11 +283,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-12T20:15:00-05:00",
   "covered": false,
-  "temp_f": 48,
-  "wind_mph": 14,
-  "gust_mph": 34,
+  "temp_f": 49,
+  "wind_mph": 10,
+  "gust_mph": 25,
   "precip_in": 0.0,
-  "precip_chance": 57
+  "precip_chance": 61
  },
  "2026_10_NE_DET": {
   "game_id": "2026_10_NE_DET",

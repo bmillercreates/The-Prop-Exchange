@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_WAS_NYG",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-12T16:44-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-12T18:55-05:00",
  "kickoff": "2026-11-12T20:15",
  "weekday": "Thursday",
  "away": "WAS",
@@ -14,11 +14,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-12T20:15:00-05:00",
   "covered": false,
-  "temp_f": 48,
-  "wind_mph": 14,
-  "gust_mph": 34,
+  "temp_f": 49,
+  "wind_mph": 10,
+  "gust_mph": 25,
   "precip_in": 0.0,
-  "precip_chance": 57
+  "precip_chance": 61
  },
  "teams": {
   "WAS": {
@@ -27,6 +27,7 @@
    "plays": 58.4,
    "pass_att": 34.7,
    "notes": [
+    "rain/snow expected",
     "short week"
    ]
   },
@@ -36,6 +37,7 @@
    "plays": 63.6,
    "pass_att": 34.1,
    "notes": [
+    "rain/snow expected",
     "short week"
    ]
   }
@@ -53,15 +55,15 @@
    "title": "Isaiah Likely Over 4.5 receptions",
    "price": 102,
    "book": "fanduel",
-   "model_prob": 0.5362,
+   "model_prob": 0.5288,
    "fair_prob": 0.4621,
-   "prob_edge": 0.0741,
-   "edge": 0.0832,
-   "projection": 6.11,
+   "prob_edge": 0.0667,
+   "edge": 0.0682,
+   "projection": 5.93,
    "flags": [],
    "why": [
-    "Model projects 6 catches vs. a line of 4.5 (67% chance to go over on its own).",
-    "Earns 25% of the Giants' targets and 15% of their air yards, on 77% of snaps.",
+    "Model projects 6 catches vs. a line of 4.5 (65% chance to go over on its own).",
+    "Earns 24% of the Giants' targets and 15% of their air yards, on 76% of snaps.",
     "The Commanders defense allows 9% more receptions to TEs than average."
    ]
   },
@@ -77,40 +79,16 @@
    "title": "Malik Nabers Over 5.5 receptions",
    "price": -120,
    "book": "fanduel",
-   "model_prob": 0.5777,
+   "model_prob": 0.5645,
    "fair_prob": 0.5101,
-   "prob_edge": 0.0675,
-   "edge": 0.0591,
-   "projection": 7.5,
+   "prob_edge": 0.0544,
+   "edge": 0.0349,
+   "projection": 7.15,
    "flags": [],
    "why": [
-    "Model projects 8 catches vs. a line of 5.5 (70% chance to go over on its own).",
-    "Earns 31% of the Giants' targets and 32% of their air yards, on 77% of snaps.",
+    "Model projects 7 catches vs. a line of 5.5 (67% chance to go over on its own).",
+    "Earns 30% of the Giants' targets and 32% of their air yards, on 76% of snaps.",
     "The Commanders defense allows 11% more receptions to WRs than average."
-   ]
-  },
-  {
-   "tier": "Blue Chip",
-   "player": "Chig Okonkwo",
-   "team": "WAS",
-   "position": "TE",
-   "market": "player_receptions",
-   "label": "receptions",
-   "side": "Over",
-   "line": 3.5,
-   "title": "Chig Okonkwo Over 3.5 receptions",
-   "price": -142,
-   "book": "draftkings",
-   "model_prob": 0.6119,
-   "fair_prob": 0.5532,
-   "prob_edge": 0.0587,
-   "edge": 0.0429,
-   "projection": 5.35,
-   "flags": [],
-   "why": [
-    "Model projects 5 catches vs. a line of 3.5 (72% chance to go over on its own).",
-    "Earns 21% of the Commanders' targets and 13% of their air yards, on 71% of snaps.",
-    "With Jeremy McNichols, Treylon Burks out, there's more work to go around."
    ]
   }
  ],
@@ -127,76 +105,72 @@
    "title": "Malachi Fields Over 2.5 receptions",
    "price": 134,
    "book": "fanduel",
-   "model_prob": 0.4812,
+   "model_prob": 0.4651,
    "fair_prob": 0.3993,
-   "prob_edge": 0.0819,
-   "edge": 0.1261,
-   "projection": 3.56,
+   "prob_edge": 0.0658,
+   "edge": 0.0883,
+   "projection": 3.3,
    "flags": [],
    "why": [
-    "Model projects 4 catches vs. a line of 2.5 (63% chance to go over on its own).",
-    "Earns 17% of the Giants' targets and 20% of their air yards, on 80% of snaps.",
+    "Model projects 3 catches vs. a line of 2.5 (59% chance to go over on its own).",
+    "Earns 16% of the Giants' targets and 20% of their air yards, on 78% of snaps.",
     "The Commanders defense allows 11% more receptions to WRs than average."
-   ]
-  },
-  {
-   "tier": "Penny Stock",
-   "player": "Devin Singletary",
-   "team": "NYG",
-   "position": "RB",
-   "market": "player_anytime_td",
-   "label": "anytime TD",
-   "side": "Yes",
-   "line": null,
-   "title": "Devin Singletary Yes anytime TD",
-   "price": 280,
-   "book": "fanduel",
-   "model_prob": 0.2899,
-   "fair_prob": 0.2459,
-   "prob_edge": 0.044,
-   "edge": 0.1017,
-   "projection": 0.46,
-   "flags": [
-    "playing time has swung a lot"
-   ],
-   "why": [
-    "Model gives him a 37% chance to score; the odds imply about 25%.",
-    "Gets 24% of the Giants' red-zone touches.",
-    "With Tyrone Tracy Jr., Cam Skattebo out, there's more work to go around."
    ]
   }
  ],
  "etfs": [],
  "projections": [
   {
-   "player": "Jayden Daniels",
+   "player": "Austin Ekeler",
    "team": "WAS",
-   "position": "QB",
-   "rush_yds": 27.6,
-   "pass_yds": 208.3,
-   "pass_att": 34.7,
-   "carries": 4.0,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 21.7,
+   "targets": 1.3,
+   "receptions": 0.9,
+   "rec_yds": 5.7,
+   "carries": 5.7,
+   "tds": 0.3
   },
   {
-   "player": "Van Jefferson",
+   "player": "Stefon Diggs",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.9,
-   "receptions": 2.4,
-   "rec_yds": 27.2,
+   "targets": 7.0,
+   "receptions": 4.2,
+   "rec_yds": 41.0,
    "carries": 0.0,
-   "tds": 0.9
+   "tds": 0.3
+  },
+  {
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 26.8,
+   "pass_yds": 202.0,
+   "pass_att": 34.7,
+   "carries": 3.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Treylon Burks",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.7,
+   "receptions": 3.3,
+   "rec_yds": 44.3,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Antonio Williams",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.6,
-   "receptions": 4.9,
-   "rec_yds": 51.1,
+   "targets": 6.7,
+   "receptions": 4.2,
+   "rec_yds": 43.3,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -205,64 +179,42 @@
    "team": "WAS",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 7.2,
-   "receptions": 5.3,
-   "rec_yds": 46.7,
+   "targets": 6.0,
+   "receptions": 4.5,
+   "rec_yds": 38.0,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Stefon Diggs",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.8,
-   "receptions": 4.7,
-   "rec_yds": 47.4,
-   "carries": 0.0,
-   "tds": 0.3
   },
   {
    "player": "Rachaad White",
    "team": "WAS",
    "position": "RB",
-   "rush_yds": 34.2,
-   "targets": 4.1,
-   "receptions": 3.0,
-   "rec_yds": 18.7,
-   "carries": 8.4,
-   "tds": 0.4
+   "rush_yds": 35.2,
+   "targets": 3.6,
+   "receptions": 2.6,
+   "rec_yds": 16.0,
+   "carries": 8.6,
+   "tds": 0.5
   },
   {
-   "player": "Austin Ekeler",
+   "player": "Van Jefferson",
    "team": "WAS",
-   "position": "RB",
-   "rush_yds": 23.7,
-   "targets": 1.9,
-   "receptions": 1.3,
-   "rec_yds": 8.5,
-   "carries": 6.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Malik Nabers",
-   "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 10.7,
-   "receptions": 7.5,
-   "rec_yds": 89.2,
+   "targets": 2.7,
+   "receptions": 1.6,
+   "rec_yds": 18.0,
    "carries": 0.0,
-   "tds": 0.5
+   "tds": 0.6
   },
   {
    "player": "J.J. McCarthy",
    "team": "NYG",
    "position": "QB",
-   "rush_yds": 16.0,
-   "pass_yds": 277.6,
+   "rush_yds": 8.3,
+   "pass_yds": 269.3,
    "pass_att": 34.1,
-   "carries": 3.1,
+   "carries": 1.6,
    "tds": 0.0
   },
   {
@@ -270,21 +222,43 @@
    "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.8,
-   "receptions": 3.6,
-   "rec_yds": 48.0,
+   "targets": 5.4,
+   "receptions": 3.3,
+   "rec_yds": 43.1,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Malik Nabers",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 10.2,
+   "receptions": 7.2,
+   "rec_yds": 82.5,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Devin Singletary",
+   "team": "NYG",
+   "position": "RB",
+   "rush_yds": 20.0,
+   "targets": 3.0,
+   "receptions": 2.4,
+   "rec_yds": 16.0,
+   "carries": 6.4,
    "tds": 0.3
   },
   {
    "player": "Darnell Mooney",
    "team": "NYG",
    "position": "WR",
-   "rush_yds": 4.3,
-   "targets": 4.0,
-   "receptions": 2.3,
-   "rec_yds": 29.6,
-   "carries": 0.9,
+   "rush_yds": 2.2,
+   "targets": 3.8,
+   "receptions": 2.2,
+   "rec_yds": 27.0,
+   "carries": 0.5,
    "tds": 0.0
   },
   {
@@ -292,22 +266,22 @@
    "team": "NYG",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 8.6,
-   "receptions": 6.1,
-   "rec_yds": 66.2,
+   "targets": 8.3,
+   "receptions": 5.9,
+   "rec_yds": 62.4,
    "carries": 0.0,
-   "tds": 0.6
+   "tds": 0.4
   },
   {
-   "player": "Devin Singletary",
+   "player": "Cam Skattebo",
    "team": "NYG",
    "position": "RB",
-   "rush_yds": 40.2,
-   "targets": 3.0,
-   "receptions": 2.5,
-   "rec_yds": 16.8,
-   "carries": 13.0,
-   "tds": 0.5
+   "rush_yds": 39.4,
+   "targets": 2.1,
+   "receptions": 1.8,
+   "rec_yds": 11.9,
+   "carries": 10.5,
+   "tds": 0.6
   }
  ]
 }
