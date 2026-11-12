@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_HOU_CLE",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-11T16:44-05:00",
+ "updated_at": "2026-11-12T16:44-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "HOU",
@@ -14,11 +14,11 @@
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 45,
+  "temp_f": 47,
   "wind_mph": 11,
-  "gust_mph": 11,
+  "gust_mph": 12,
   "precip_in": 0.01,
-  "precip_chance": 20
+  "precip_chance": 27
  },
  "teams": {
   "HOU": {
@@ -52,38 +52,6 @@
    "tds": 0.8
   },
   {
-   "player": "Tank Dell",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 4.2,
-   "receptions": 2.4,
-   "rec_yds": 40.3,
-   "carries": 0.3,
-   "tds": 0.2
-  },
-  {
-   "player": "Nico Collins",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 4.6,
-   "receptions": 3.1,
-   "rec_yds": 41.4,
-   "carries": 0.1,
-   "tds": 0.3
-  },
-  {
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "position": "QB",
-   "rush_yds": 9.0,
-   "pass_yds": 224.8,
-   "pass_att": 30.3,
-   "carries": 2.3,
-   "tds": 0.0
-  },
-  {
    "player": "Emari Demercado",
    "team": "HOU",
    "position": "RB",
@@ -106,6 +74,17 @@
    "tds": 0.1
   },
   {
+   "player": "Xavier Hutchinson",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 2.3,
+   "targets": 5.0,
+   "receptions": 2.8,
+   "rec_yds": 34.4,
+   "carries": 0.5,
+   "tds": 0.4
+  },
+  {
    "player": "Marvin Harrison Jr.",
    "team": "HOU",
    "position": "WR",
@@ -117,15 +96,36 @@
    "tds": 0.1
   },
   {
-   "player": "Xavier Hutchinson",
+   "player": "Nico Collins",
    "team": "HOU",
    "position": "WR",
-   "rush_yds": 2.3,
-   "targets": 5.0,
-   "receptions": 2.8,
-   "rec_yds": 34.4,
-   "carries": 0.5,
-   "tds": 0.4
+   "rush_yds": 0.6,
+   "targets": 4.6,
+   "receptions": 3.1,
+   "rec_yds": 41.4,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Tank Dell",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 4.2,
+   "receptions": 2.4,
+   "rec_yds": 40.3,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "rush_yds": 9.0,
+   "pass_yds": 224.8,
+   "pass_att": 30.3,
+   "carries": 2.3,
+   "tds": 0.0
   },
   {
    "player": "Kayshon Boutte",
@@ -139,27 +139,6 @@
    "tds": 0.2
   },
   {
-   "player": "KC Concepcion",
-   "team": "CLE",
-   "position": "WR",
-   "rush_yds": 3.0,
-   "targets": 6.6,
-   "receptions": 4.5,
-   "rec_yds": 60.6,
-   "carries": 0.7,
-   "tds": 0.2
-  },
-  {
-   "player": "Shedeur Sanders",
-   "team": "CLE",
-   "position": "QB",
-   "rush_yds": 8.1,
-   "pass_yds": 291.9,
-   "pass_att": 36.6,
-   "carries": 2.6,
-   "tds": 0.0
-  },
-  {
    "player": "Denzel Boston",
    "team": "CLE",
    "position": "WR",
@@ -169,17 +148,6 @@
    "rec_yds": 81.0,
    "carries": 0.0,
    "tds": 0.4
-  },
-  {
-   "player": "Quinshon Judkins",
-   "team": "CLE",
-   "position": "RB",
-   "rush_yds": 44.0,
-   "targets": 2.2,
-   "receptions": 1.9,
-   "rec_yds": 10.1,
-   "carries": 12.3,
-   "tds": 0.7
   },
   {
    "player": "Dylan Sampson",
@@ -204,6 +172,17 @@
    "tds": 0.2
   },
   {
+   "player": "Quinshon Judkins",
+   "team": "CLE",
+   "position": "RB",
+   "rush_yds": 44.0,
+   "targets": 2.2,
+   "receptions": 1.9,
+   "rec_yds": 10.1,
+   "carries": 12.3,
+   "tds": 0.7
+  },
+  {
    "player": "Jerry Jeudy",
    "team": "CLE",
    "position": "WR",
@@ -212,6 +191,27 @@
    "receptions": 2.4,
    "rec_yds": 32.5,
    "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "KC Concepcion",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 3.0,
+   "targets": 6.6,
+   "receptions": 4.5,
+   "rec_yds": 60.6,
+   "carries": 0.7,
+   "tds": 0.2
+  },
+  {
+   "player": "Shedeur Sanders",
+   "team": "CLE",
+   "position": "QB",
+   "rush_yds": 8.1,
+   "pass_yds": 291.9,
+   "pass_att": 36.6,
+   "carries": 2.6,
    "tds": 0.0
   }
  ]

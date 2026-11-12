@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_SF_DAL",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-11T16:44-05:00",
+ "updated_at": "2026-11-12T16:44-05:00",
  "kickoff": "2026-11-15T16:25",
  "weekday": "Sunday",
  "away": "SF",
@@ -17,17 +17,17 @@
  },
  "teams": {
   "SF": {
-   "implied_pts": 30.0,
-   "margin": 4.5,
+   "implied_pts": 29.5,
+   "margin": 3.5,
    "plays": 65.8,
-   "pass_att": 31.3,
+   "pass_att": 31.7,
    "notes": []
   },
   "DAL": {
-   "implied_pts": 25.5,
-   "margin": -4.5,
+   "implied_pts": 26.0,
+   "margin": -3.5,
    "plays": 66.0,
-   "pass_att": 36.9,
+   "pass_att": 36.5,
    "notes": []
   }
  },
@@ -36,37 +36,37 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 67.9,
+   "targets": 5.9,
+   "receptions": 4.7,
+   "rec_yds": 31.6,
+   "carries": 13.5,
+   "tds": 1.2
+  },
+  {
    "player": "Brandin Cooks",
    "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.2,
-   "receptions": 1.3,
-   "rec_yds": 17.9,
+   "targets": 2.3,
+   "receptions": 1.4,
+   "rec_yds": 18.1,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Demarcus Robinson",
+   "player": "George Kittle",
    "team": "SF",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.8,
-   "rec_yds": 38.2,
+   "targets": 8.2,
+   "receptions": 5.9,
+   "rec_yds": 65.4,
    "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jacob Cowing",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 1.8,
-   "targets": 1.5,
-   "receptions": 0.9,
-   "rec_yds": 11.7,
-   "carries": 0.3,
-   "tds": 0.0
+   "tds": 0.4
   },
   {
    "player": "Jordan Watkins",
@@ -75,117 +75,117 @@
    "rush_yds": 0.0,
    "targets": 3.7,
    "receptions": 2.5,
-   "rec_yds": 42.5,
+   "rec_yds": 43.0,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Kaelon Black",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 47.2,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 3.1,
-   "carries": 9.5,
-   "tds": 0.4
-  },
-  {
-   "player": "George Kittle",
-   "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 8.1,
-   "receptions": 5.8,
-   "rec_yds": 64.6,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Christian McCaffrey",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 68.9,
-   "targets": 5.8,
-   "receptions": 4.6,
-   "rec_yds": 31.1,
-   "carries": 13.7,
-   "tds": 1.2
   },
   {
    "player": "Brock Purdy",
    "team": "SF",
    "position": "QB",
-   "rush_yds": 27.1,
-   "pass_yds": 251.5,
-   "pass_att": 31.3,
-   "carries": 4.8,
+   "rush_yds": 26.6,
+   "pass_yds": 254.8,
+   "pass_att": 31.7,
+   "carries": 4.7,
    "tds": 0.2
   },
   {
-   "player": "Dak Prescott",
-   "team": "DAL",
-   "position": "QB",
-   "rush_yds": 10.0,
-   "pass_yds": 253.8,
-   "pass_att": 36.9,
-   "carries": 3.0,
-   "tds": 0.1
+   "player": "Jacob Cowing",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 1.7,
+   "targets": 1.6,
+   "receptions": 0.9,
+   "rec_yds": 11.8,
+   "carries": 0.3,
+   "tds": 0.0
   },
   {
-   "player": "Brevyn Spann-Ford",
-   "team": "DAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.2,
-   "receptions": 2.4,
-   "rec_yds": 22.1,
-   "carries": 0.0,
-   "tds": 0.1
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 46.5,
+   "targets": 0.7,
+   "receptions": 0.5,
+   "rec_yds": 3.1,
+   "carries": 9.3,
+   "tds": 0.4
   },
   {
-   "player": "George Pickens",
-   "team": "DAL",
+   "player": "Demarcus Robinson",
+   "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 8.2,
-   "receptions": 5.0,
-   "rec_yds": 61.3,
+   "targets": 4.2,
+   "receptions": 2.8,
+   "rec_yds": 38.7,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.2
   },
   {
    "player": "CeeDee Lamb",
    "team": "DAL",
    "position": "WR",
    "rush_yds": 1.2,
-   "targets": 14.1,
-   "receptions": 8.8,
-   "rec_yds": 104.1,
+   "targets": 13.9,
+   "receptions": 8.7,
+   "rec_yds": 102.9,
    "carries": 0.2,
    "tds": 0.6
+  },
+  {
+   "player": "Brevyn Spann-Ford",
+   "team": "DAL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.4,
+   "rec_yds": 21.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "rush_yds": 10.2,
+   "pass_yds": 251.0,
+   "pass_att": 36.5,
+   "carries": 3.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Javonte Williams",
+   "team": "DAL",
+   "position": "RB",
+   "rush_yds": 69.7,
+   "targets": 3.1,
+   "receptions": 2.8,
+   "rec_yds": 19.0,
+   "carries": 20.1,
+   "tds": 1.2
   },
   {
    "player": "Ryan Flournoy",
    "team": "DAL",
    "position": "WR",
    "rush_yds": 0.8,
-   "targets": 5.7,
+   "targets": 5.6,
    "receptions": 3.6,
-   "rec_yds": 41.9,
+   "rec_yds": 41.5,
    "carries": 0.1,
-   "tds": 0.3
+   "tds": 0.4
   },
   {
-   "player": "Javonte Williams",
+   "player": "George Pickens",
    "team": "DAL",
-   "position": "RB",
-   "rush_yds": 68.4,
-   "targets": 3.2,
-   "receptions": 2.8,
-   "rec_yds": 19.2,
-   "carries": 19.7,
-   "tds": 1.2
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.1,
+   "receptions": 4.9,
+   "rec_yds": 60.6,
+   "carries": 0.0,
+   "tds": 0.3
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_LAC_BAL",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-11T16:44-05:00",
+ "updated_at": "2026-11-12T16:44-05:00",
  "kickoff": "2026-11-16T20:15",
  "weekday": "Monday",
  "away": "LAC",
@@ -14,9 +14,9 @@
   "stadium": "M&T Bank Stadium",
   "kickoff_et": "2026-11-16T20:15:00-05:00",
   "covered": false,
-  "temp_f": 46,
+  "temp_f": 47,
   "wind_mph": 4,
-  "gust_mph": 11,
+  "gust_mph": 12,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -41,48 +41,48 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Quentin Johnston",
-   "team": "LAC",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 4.1,
-   "receptions": 2.2,
-   "rec_yds": 38.2,
-   "carries": 0.3,
-   "tds": 0.0
-  },
-  {
    "player": "Kimani Vidal",
    "team": "LAC",
    "position": "RB",
    "rush_yds": 20.0,
    "targets": 2.4,
    "receptions": 1.7,
-   "rec_yds": 9.3,
+   "rec_yds": 9.4,
    "carries": 5.1,
    "tds": 0.1
   },
   {
-   "player": "Charlie Kolar",
-   "team": "LAC",
-   "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 3.8,
-   "receptions": 2.4,
-   "rec_yds": 25.1,
-   "carries": 0.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Ladd McConkey",
+   "player": "Tre Harris",
    "team": "LAC",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 2.9,
-   "rec_yds": 47.0,
+   "targets": 4.8,
+   "receptions": 3.0,
+   "rec_yds": 42.0,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.1
+  },
+  {
+   "player": "KeAndre Lambert-Smith",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 21.3,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 30.8,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 8.9,
+   "carries": 9.0,
+   "tds": 0.6
   },
   {
    "player": "Justin Herbert",
@@ -95,26 +95,37 @@
    "tds": 0.0
   },
   {
-   "player": "KeAndre Lambert-Smith",
+   "player": "Keaton Mitchell",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 14.4,
+   "targets": 3.0,
+   "receptions": 2.3,
+   "rec_yds": 12.5,
+   "carries": 3.9,
+   "tds": 0.4
+  },
+  {
+   "player": "Ladd McConkey",
    "team": "LAC",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.5,
-   "rec_yds": 21.2,
+   "targets": 4.3,
+   "receptions": 2.9,
+   "rec_yds": 47.2,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
-   "player": "Omarion Hampton",
+   "player": "Charlie Kolar",
    "team": "LAC",
-   "position": "RB",
-   "rush_yds": 30.8,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 8.9,
-   "carries": 9.0,
-   "tds": 0.6
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 3.8,
+   "receptions": 2.4,
+   "rec_yds": 25.2,
+   "carries": 0.2,
+   "tds": 0.1
   },
   {
    "player": "Oronde Gadsden II",
@@ -123,31 +134,20 @@
    "rush_yds": 0.1,
    "targets": 4.1,
    "receptions": 2.7,
-   "rec_yds": 26.4,
+   "rec_yds": 26.5,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "Keaton Mitchell",
-   "team": "LAC",
-   "position": "RB",
-   "rush_yds": 14.4,
-   "targets": 3.0,
-   "receptions": 2.3,
-   "rec_yds": 12.4,
-   "carries": 3.9,
-   "tds": 0.4
-  },
-  {
-   "player": "Tre Harris",
+   "player": "Quentin Johnston",
    "team": "LAC",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.8,
-   "receptions": 3.0,
-   "rec_yds": 41.9,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 1.1,
+   "targets": 4.1,
+   "receptions": 2.2,
+   "rec_yds": 38.4,
+   "carries": 0.3,
+   "tds": 0.0
   },
   {
    "player": "Ja'Kobi Lane",
@@ -161,48 +161,15 @@
    "tds": 0.2
   },
   {
-   "player": "Derrick Henry",
-   "team": "BAL",
-   "position": "RB",
-   "rush_yds": 74.2,
-   "targets": 1.2,
-   "receptions": 0.9,
-   "rec_yds": 5.4,
-   "carries": 17.2,
-   "tds": 0.9
-  },
-  {
-   "player": "Mark Andrews",
+   "player": "Josh Cuevas",
    "team": "BAL",
    "position": "TE",
-   "rush_yds": 0.5,
-   "targets": 4.2,
-   "receptions": 2.7,
-   "rec_yds": 24.7,
-   "carries": 0.4,
-   "tds": 0.2
-  },
-  {
-   "player": "Zay Flowers",
-   "team": "BAL",
-   "position": "WR",
-   "rush_yds": 6.5,
-   "targets": 7.9,
-   "receptions": 5.2,
-   "rec_yds": 75.9,
-   "carries": 0.9,
-   "tds": 0.2
-  },
-  {
-   "player": "Rashod Bateman",
-   "team": "BAL",
-   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.0,
-   "rec_yds": 29.1,
+   "targets": 1.4,
+   "receptions": 1.0,
+   "rec_yds": 11.1,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.1
   },
   {
    "player": "Justice Hill",
@@ -216,6 +183,38 @@
    "tds": 0.3
   },
   {
+   "player": "Joe Fagnano",
+   "team": "BAL",
+   "position": "QB",
+   "rush_yds": 8.1,
+   "pass_yds": 165.7,
+   "pass_att": 26.5,
+   "carries": 2.5,
+   "tds": 0.0
+  },
+  {
+   "player": "Derrick Henry",
+   "team": "BAL",
+   "position": "RB",
+   "rush_yds": 74.2,
+   "targets": 1.2,
+   "receptions": 0.9,
+   "rec_yds": 5.4,
+   "carries": 17.2,
+   "tds": 0.9
+  },
+  {
+   "player": "Zay Flowers",
+   "team": "BAL",
+   "position": "WR",
+   "rush_yds": 6.5,
+   "targets": 7.9,
+   "receptions": 5.2,
+   "rec_yds": 75.9,
+   "carries": 0.9,
+   "tds": 0.2
+  },
+  {
    "player": "Matthew Hibner",
    "team": "BAL",
    "position": "TE",
@@ -227,25 +226,26 @@
    "tds": 0.0
   },
   {
-   "player": "Joe Fagnano",
+   "player": "Rashod Bateman",
    "team": "BAL",
-   "position": "QB",
-   "rush_yds": 8.1,
-   "pass_yds": 165.7,
-   "pass_att": 26.5,
-   "carries": 2.5,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.0,
+   "rec_yds": 29.1,
+   "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Josh Cuevas",
+   "player": "Mark Andrews",
    "team": "BAL",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.4,
-   "receptions": 1.0,
-   "rec_yds": 11.1,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 0.5,
+   "targets": 4.2,
+   "receptions": 2.7,
+   "rec_yds": 24.7,
+   "carries": 0.4,
+   "tds": 0.2
   }
  ]
 }

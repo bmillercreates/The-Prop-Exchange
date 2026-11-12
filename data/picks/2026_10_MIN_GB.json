@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_MIN_GB",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-11T16:44-05:00",
+ "updated_at": "2026-11-12T16:44-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "MIN",
@@ -14,25 +14,25 @@
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 42,
-  "wind_mph": 7,
-  "gust_mph": 7,
+  "temp_f": 45,
+  "wind_mph": 3,
+  "gust_mph": 3,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "teams": {
   "MIN": {
-   "implied_pts": 19.8,
+   "implied_pts": 19.2,
    "margin": -3.0,
-   "plays": 59.3,
-   "pass_att": 33.5,
+   "plays": 58.9,
+   "pass_att": 33.3,
    "notes": []
   },
   "GB": {
-   "implied_pts": 22.8,
+   "implied_pts": 22.2,
    "margin": 3.0,
-   "plays": 60.8,
-   "pass_att": 32.9,
+   "plays": 60.4,
+   "pass_att": 32.7,
    "notes": []
   }
  },
@@ -41,26 +41,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Myles Price",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.2,
-   "targets": 1.8,
-   "receptions": 1.2,
-   "rec_yds": 12.7,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Aaron Jones",
+   "player": "Jordan Mason",
    "team": "MIN",
    "position": "RB",
    "rush_yds": 41.6,
-   "targets": 1.8,
-   "receptions": 1.4,
-   "rec_yds": 10.0,
-   "carries": 10.1,
-   "tds": 0.2
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 8.8,
+   "carries": 10.0,
+   "tds": 0.7
   },
   {
    "player": "Justin Jefferson",
@@ -69,20 +58,9 @@
    "rush_yds": 0.2,
    "targets": 9.6,
    "receptions": 6.3,
-   "rec_yds": 78.8,
+   "rec_yds": 78.3,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Jordan Addison",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.9,
-   "targets": 4.9,
-   "receptions": 2.9,
-   "rec_yds": 40.0,
-   "carries": 0.1,
-   "tds": 0.1
   },
   {
    "player": "Tai Felton",
@@ -90,21 +68,42 @@
    "position": "WR",
    "rush_yds": 0.0,
    "targets": 1.5,
-   "receptions": 1.0,
-   "rec_yds": 12.1,
+   "receptions": 0.9,
+   "rec_yds": 12.0,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "T.J. Hockenson",
+   "player": "Myles Price",
    "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.3,
-   "receptions": 4.5,
-   "rec_yds": 38.6,
+   "position": "WR",
+   "rush_yds": 0.2,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 12.6,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.0
+  },
+  {
+   "player": "Jordan Addison",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.9,
+   "targets": 4.8,
+   "receptions": 2.9,
+   "rec_yds": 39.7,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Carson Wentz",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 5.8,
+   "pass_yds": 217.5,
+   "pass_att": 33.3,
+   "carries": 2.0,
+   "tds": 0.0
   },
   {
    "player": "Gavin Bartholomew",
@@ -118,123 +117,113 @@
    "tds": 0.0
   },
   {
-   "player": "Carson Wentz",
+   "player": "T.J. Hockenson",
    "team": "MIN",
-   "position": "QB",
-   "rush_yds": 5.8,
-   "pass_yds": 219.0,
-   "pass_att": 33.5,
-   "carries": 2.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Jordan Mason",
-   "team": "MIN",
-   "position": "RB",
-   "rush_yds": 41.9,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 8.9,
-   "carries": 10.1,
-   "tds": 0.7
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.3,
+   "receptions": 4.4,
+   "rec_yds": 38.3,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Jauan Jennings",
    "team": "MIN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.2,
+   "targets": 2.1,
    "receptions": 1.4,
-   "rec_yds": 16.7,
+   "rec_yds": 16.6,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 41.3,
+   "targets": 1.8,
+   "receptions": 1.4,
+   "rec_yds": 10.0,
+   "carries": 10.0,
+   "tds": 0.2
   },
   {
    "player": "Kaleb Johnson",
    "team": "GB",
    "position": "RB",
-   "rush_yds": 29.0,
-   "targets": 0.2,
+   "rush_yds": 46.5,
+   "targets": 0.1,
    "receptions": 0.1,
-   "rec_yds": 0.7,
-   "carries": 6.5,
-   "tds": 0.1
+   "rec_yds": 0.6,
+   "carries": 10.5,
+   "tds": 0.2
   },
   {
    "player": "Christian Watson",
    "team": "GB",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.5,
-   "receptions": 4.7,
-   "rec_yds": 70.9,
+   "targets": 8.0,
+   "receptions": 5.0,
+   "rec_yds": 75.9,
    "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Matthew Golden",
-   "team": "GB",
-   "position": "WR",
-   "rush_yds": 0.5,
-   "targets": 9.3,
-   "receptions": 5.2,
-   "rec_yds": 68.6,
-   "carries": 0.1,
-   "tds": 0.6
-  },
-  {
-   "player": "Jordan Love",
-   "team": "GB",
-   "position": "QB",
-   "rush_yds": 5.3,
-   "pass_yds": 215.0,
-   "pass_att": 32.9,
-   "carries": 1.7,
-   "tds": 0.1
-  },
-  {
-   "player": "MarShawn Lloyd",
-   "team": "GB",
-   "position": "RB",
-   "rush_yds": 29.2,
-   "targets": 1.7,
-   "receptions": 1.2,
-   "rec_yds": 7.2,
-   "carries": 8.3,
-   "tds": 0.4
-  },
-  {
-   "player": "Pierre Strong",
-   "team": "GB",
-   "position": "RB",
-   "rush_yds": 21.1,
-   "targets": 2.7,
-   "receptions": 1.9,
-   "rec_yds": 11.7,
-   "carries": 5.6,
-   "tds": 0.4
-  },
-  {
-   "player": "Savion Williams",
-   "team": "GB",
-   "position": "WR",
-   "rush_yds": 9.0,
-   "targets": 2.8,
-   "receptions": 1.8,
-   "rec_yds": 19.9,
-   "carries": 1.7,
    "tds": 0.2
   },
   {
    "player": "Tucker Kraft",
    "team": "GB",
    "position": "TE",
-   "rush_yds": 0.7,
-   "targets": 5.1,
+   "rush_yds": 0.9,
+   "targets": 5.0,
    "receptions": 3.2,
-   "rec_yds": 31.6,
-   "carries": 0.4,
+   "rec_yds": 31.4,
+   "carries": 0.5,
    "tds": 0.3
+  },
+  {
+   "player": "Pierre Strong",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 30.6,
+   "targets": 2.7,
+   "receptions": 1.9,
+   "rec_yds": 11.7,
+   "carries": 8.2,
+   "tds": 0.4
+  },
+  {
+   "player": "Jordan Love",
+   "team": "GB",
+   "position": "QB",
+   "rush_yds": 7.2,
+   "pass_yds": 213.4,
+   "pass_att": 32.7,
+   "carries": 2.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Savion Williams",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 13.6,
+   "targets": 3.2,
+   "receptions": 2.1,
+   "rec_yds": 22.7,
+   "carries": 2.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Matthew Golden",
+   "team": "GB",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 10.0,
+   "receptions": 5.6,
+   "rec_yds": 73.4,
+   "carries": 0.1,
+   "tds": 0.7
   }
  ]
 }
