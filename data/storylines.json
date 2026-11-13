@@ -1,18 +1,4 @@
 {
- "2026_10_WAS_NYG": [
-  {
-   "type": "Milestone",
-   "player": "Isaiah Likely",
-   "team": "NYG",
-   "text": "Isaiah Likely needs 4 more catches to reach 50 for the season (has 46)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Isaiah Likely",
-   "team": "NYG",
-   "text": "Isaiah Likely needs 52 more receiving yards to reach 500 for the season (has 448)."
-  }
- ],
  "2026_10_NE_DET": [
   {
    "type": "Milestone",
@@ -65,6 +51,12 @@
    "player": "Harold Fannin Jr.",
    "team": "CLE",
    "text": "Harold Fannin Jr. needs 47 more receiving yards to reach 500 for the season (has 453)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "text": "Deshaun Watson needs 194 more passing yards to reach 2,000 for the season (has 1,806)."
   },
   {
    "type": "Milestone",
@@ -156,9 +148,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Carnell Tate",
-   "team": "TEN",
-   "text": "Carnell Tate needs 87 more receiving yards to reach 500 for the season (has 413)."
+   "player": "Chris Rodriguez Jr.",
+   "team": "JAX",
+   "text": "Chris Rodriguez Jr. needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
  "2026_10_LA_ARI": [
@@ -173,12 +165,6 @@
    "player": "Trey McBride",
    "team": "ARI",
    "text": "Trey McBride needs 2 more catches to reach 75 for the season (has 73)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Puka Nacua",
-   "team": "LA",
-   "text": "Puka Nacua needs 5 more catches to reach 75 for the season (has 70)."
   },
   {
    "type": "Milestone",

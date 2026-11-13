@@ -306,20 +306,20 @@
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 47,
-  "wind_mph": 11,
-  "gust_mph": 12,
+  "temp_f": 46,
+  "wind_mph": 12,
+  "gust_mph": 15,
   "precip_in": 0.01,
-  "precip_chance": 27
+  "precip_chance": 42
  },
  "2026_10_MIN_GB": {
   "game_id": "2026_10_MIN_GB",
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 45,
+  "temp_f": 43,
   "wind_mph": 3,
-  "gust_mph": 3,
+  "gust_mph": 4,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -340,9 +340,9 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 47,
+  "temp_f": 49,
   "wind_mph": 14,
-  "gust_mph": 21,
+  "gust_mph": 18,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -351,9 +351,9 @@
   "stadium": "Nissan Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 53,
+  "temp_f": 54,
   "wind_mph": 5,
-  "gust_mph": 6,
+  "gust_mph": 7,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -382,7 +382,7 @@
   "covered": false,
   "temp_f": 46,
   "wind_mph": 4,
-  "gust_mph": 7,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -391,9 +391,9 @@
   "stadium": "M&T Bank Stadium",
   "kickoff_et": "2026-11-16T20:15:00-05:00",
   "covered": false,
-  "temp_f": 47,
-  "wind_mph": 4,
-  "gust_mph": 12,
+  "temp_f": 46,
+  "wind_mph": 5,
+  "gust_mph": 15,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -408,33 +408,33 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 56,
-  "wind_mph": 17,
-  "gust_mph": 28,
+  "temp_f": 39,
+  "wind_mph": 18,
+  "gust_mph": 30,
   "precip_in": 0.0,
-  "precip_chance": 25
+  "precip_chance": 18
  },
  "2026_11_BAL_CAR": {
   "game_id": "2026_11_BAL_CAR",
   "stadium": "Bank of America Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 68,
-  "wind_mph": 4,
-  "gust_mph": 7,
+  "temp_f": 65,
+  "wind_mph": 12,
+  "gust_mph": 17,
   "precip_in": 0.0,
-  "precip_chance": 16
+  "precip_chance": 4
  },
  "2026_11_NO_CHI": {
   "game_id": "2026_11_NO_CHI",
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 62,
-  "wind_mph": 8,
-  "gust_mph": 14,
+  "temp_f": 34,
+  "wind_mph": 14,
+  "gust_mph": 21,
   "precip_in": 0.0,
-  "precip_chance": 36
+  "precip_chance": 18
  },
  "2026_11_TEN_DAL": {
   "game_id": "2026_11_TEN_DAL",
@@ -453,22 +453,22 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 56,
-  "wind_mph": 14,
-  "gust_mph": 33,
-  "precip_in": 0.42,
-  "precip_chance": 18
+  "temp_f": 41,
+  "wind_mph": 15,
+  "gust_mph": 20,
+  "precip_in": 0.0,
+  "precip_chance": 26
  },
  "2026_11_JAX_NYG": {
   "game_id": "2026_11_JAX_NYG",
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 64,
-  "wind_mph": 11,
-  "gust_mph": 20,
+  "temp_f": 60,
+  "wind_mph": 13,
+  "gust_mph": 22,
   "precip_in": 0.0,
-  "precip_chance": 9
+  "precip_chance": 8
  },
  "2026_11_NYJ_LAC": {
   "game_id": "2026_11_NYJ_LAC",
@@ -481,32 +481,44 @@
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "temp_f": 37,
-  "wind_mph": 7,
-  "gust_mph": 12,
-  "precip_in": 0.01,
-  "precip_chance": 15
+  "temp_f": 42,
+  "wind_mph": 6,
+  "gust_mph": 5,
+  "precip_in": 0.0,
+  "precip_chance": 10
  },
  "2026_11_PIT_PHI": {
   "game_id": "2026_11_PIT_PHI",
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 53,
+  "wind_mph": 16,
+  "gust_mph": 31,
+  "precip_in": 0.0,
+  "precip_chance": 7
  },
  "2026_11_MIN_SF": {
   "game_id": "2026_11_MIN_SF",
   "stadium": "Estadio Banorte",
   "kickoff_et": "2026-11-22T20:20:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 61,
+  "wind_mph": 3,
+  "gust_mph": 17,
+  "precip_in": 0.0,
+  "precip_chance": 42
  },
  "2026_11_CIN_WAS": {
   "game_id": "2026_11_CIN_WAS",
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-23T20:15:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 34,
+  "wind_mph": 9,
+  "gust_mph": 19,
+  "precip_in": 0.0,
+  "precip_chance": 12
  },
  "2026_12_GB_LA": {
   "game_id": "2026_12_GB_LA",
@@ -525,5 +537,27 @@
   "stadium": "AT&T Stadium",
   "kickoff_et": "2026-11-26T16:30:00-05:00",
   "covered": true
+ },
+ "2026_12_KC_BUF": {
+  "game_id": "2026_12_KC_BUF",
+  "stadium": "Highmark Stadium",
+  "kickoff_et": "2026-11-26T20:20:00-05:00",
+  "covered": false,
+  "temp_f": 35,
+  "wind_mph": 18,
+  "gust_mph": 35,
+  "precip_in": 0.0,
+  "precip_chance": 26
+ },
+ "2026_12_DEN_PIT": {
+  "game_id": "2026_12_DEN_PIT",
+  "stadium": "Acrisure Stadium",
+  "kickoff_et": "2026-11-27T15:00:00-05:00",
+  "covered": false,
+  "temp_f": 43,
+  "wind_mph": 4,
+  "gust_mph": 8,
+  "precip_in": 0.0,
+  "precip_chance": 22
  }
 }

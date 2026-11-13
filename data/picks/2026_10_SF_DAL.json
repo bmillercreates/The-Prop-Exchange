@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_SF_DAL",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-12T16:44-05:00",
+ "updated_at": "2026-11-13T16:10-05:00",
  "kickoff": "2026-11-15T16:25",
  "weekday": "Sunday",
  "away": "SF",
@@ -36,60 +36,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Christian McCaffrey",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 67.9,
-   "targets": 5.9,
-   "receptions": 4.7,
-   "rec_yds": 31.6,
-   "carries": 13.5,
-   "tds": 1.2
-  },
-  {
-   "player": "Brandin Cooks",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.3,
-   "receptions": 1.4,
-   "rec_yds": 18.1,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "George Kittle",
-   "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 8.2,
-   "receptions": 5.9,
-   "rec_yds": 65.4,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Jordan Watkins",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.7,
-   "receptions": 2.5,
-   "rec_yds": 43.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Brock Purdy",
-   "team": "SF",
-   "position": "QB",
-   "rush_yds": 26.6,
-   "pass_yds": 254.8,
-   "pass_att": 31.7,
-   "carries": 4.7,
-   "tds": 0.2
-  },
-  {
    "player": "Jacob Cowing",
    "team": "SF",
    "position": "WR",
@@ -101,15 +47,15 @@
    "tds": 0.0
   },
   {
-   "player": "Kaelon Black",
+   "player": "Christian McCaffrey",
    "team": "SF",
    "position": "RB",
-   "rush_yds": 46.5,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 3.1,
-   "carries": 9.3,
-   "tds": 0.4
+   "rush_yds": 68.0,
+   "targets": 5.9,
+   "receptions": 4.7,
+   "rec_yds": 31.5,
+   "carries": 13.5,
+   "tds": 1.2
   },
   {
    "player": "Demarcus Robinson",
@@ -123,15 +69,80 @@
    "tds": 0.2
   },
   {
+   "player": "Jordan Watkins",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.7,
+   "receptions": 2.5,
+   "rec_yds": 43.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Brandin Cooks",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.3,
+   "receptions": 1.4,
+   "rec_yds": 18.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 26.6,
+   "pass_yds": 254.6,
+   "pass_att": 31.7,
+   "carries": 4.7,
+   "tds": 0.2
+  },
+  {
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 46.5,
+   "targets": 0.7,
+   "receptions": 0.5,
+   "rec_yds": 3.1,
+   "carries": 9.3,
+   "tds": 0.4
+  },
+  {
+   "player": "George Kittle",
+   "team": "SF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 8.2,
+   "receptions": 5.9,
+   "rec_yds": 65.2,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
    "player": "CeeDee Lamb",
    "team": "DAL",
    "position": "WR",
    "rush_yds": 1.2,
    "targets": 13.9,
    "receptions": 8.7,
-   "rec_yds": 102.9,
+   "rec_yds": 103.0,
    "carries": 0.2,
    "tds": 0.6
+  },
+  {
+   "player": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.1,
+   "receptions": 4.9,
+   "rec_yds": 60.6,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Brevyn Spann-Ford",
@@ -140,25 +151,15 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 2.4,
-   "rec_yds": 21.8,
+   "rec_yds": 21.7,
    "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Dak Prescott",
-   "team": "DAL",
-   "position": "QB",
-   "rush_yds": 10.2,
-   "pass_yds": 251.0,
-   "pass_att": 36.5,
-   "carries": 3.1,
    "tds": 0.1
   },
   {
    "player": "Javonte Williams",
    "team": "DAL",
    "position": "RB",
-   "rush_yds": 69.7,
+   "rush_yds": 69.8,
    "targets": 3.1,
    "receptions": 2.8,
    "rec_yds": 19.0,
@@ -177,15 +178,14 @@
    "tds": 0.4
   },
   {
-   "player": "George Pickens",
+   "player": "Dak Prescott",
    "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.1,
-   "receptions": 4.9,
-   "rec_yds": 60.6,
-   "carries": 0.0,
-   "tds": 0.3
+   "position": "QB",
+   "rush_yds": 10.2,
+   "pass_yds": 250.8,
+   "pass_att": 36.5,
+   "carries": 3.1,
+   "tds": 0.1
   }
  ]
 }

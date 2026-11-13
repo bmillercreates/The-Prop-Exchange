@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_LA_ARI",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-12T16:44-05:00",
+ "updated_at": "2026-11-13T16:10-05:00",
  "kickoff": "2026-11-15T16:05",
  "weekday": "Sunday",
  "away": "LA",
@@ -39,110 +39,99 @@
    "player": "Davis Allen",
    "team": "LA",
    "position": "TE",
-   "rush_yds": 0.5,
-   "targets": 1.8,
-   "receptions": 1.3,
-   "rec_yds": 11.5,
+   "rush_yds": 0.4,
+   "targets": 2.8,
+   "receptions": 2.0,
+   "rec_yds": 17.9,
    "carries": 0.2,
-   "tds": 0.1
+   "tds": 0.2
+  },
+  {
+   "player": "Blake Corum",
+   "team": "LA",
+   "position": "RB",
+   "rush_yds": 55.1,
+   "targets": 2.1,
+   "receptions": 1.3,
+   "rec_yds": 12.3,
+   "carries": 10.8,
+   "tds": 0.6
+  },
+  {
+   "player": "Matthew Stafford",
+   "team": "LA",
+   "position": "QB",
+   "rush_yds": 5.5,
+   "pass_yds": 183.8,
+   "pass_att": 26.8,
+   "carries": 1.4,
+   "tds": 0.0
   },
   {
    "player": "Tyler Higbee",
    "team": "LA",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 2.1,
-   "rec_yds": 20.8,
+   "targets": 4.9,
+   "receptions": 3.5,
+   "rec_yds": 34.0,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Puka Nacua",
-   "team": "LA",
-   "position": "WR",
-   "rush_yds": 5.3,
-   "targets": 9.9,
-   "receptions": 6.9,
-   "rec_yds": 77.2,
-   "carries": 1.1,
-   "tds": 0.5
   },
   {
    "player": "Kyren Williams",
    "team": "LA",
    "position": "RB",
-   "rush_yds": 74.4,
-   "targets": 3.2,
-   "receptions": 2.3,
-   "rec_yds": 18.9,
-   "carries": 15.6,
-   "tds": 0.8
-  },
-  {
-   "player": "Tutu Atwell",
-   "team": "LA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.4,
-   "receptions": 1.4,
-   "rec_yds": 18.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Matthew Stafford",
-   "team": "LA",
-   "position": "QB",
-   "rush_yds": 5.0,
-   "pass_yds": 183.9,
-   "pass_att": 26.8,
-   "carries": 1.3,
-   "tds": 0.0
-  },
-  {
-   "player": "Blake Corum",
-   "team": "LA",
-   "position": "RB",
-   "rush_yds": 53.6,
-   "targets": 1.3,
-   "receptions": 0.8,
-   "rec_yds": 7.6,
-   "carries": 10.5,
-   "tds": 0.5
-  },
-  {
-   "player": "Colby Parkinson",
-   "team": "LA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.3,
-   "rec_yds": 18.6,
-   "carries": 0.0,
-   "tds": 0.3
+   "rush_yds": 77.4,
+   "targets": 5.1,
+   "receptions": 3.6,
+   "rec_yds": 30.0,
+   "carries": 16.2,
+   "tds": 1.0
   },
   {
    "player": "Konata Mumpfield",
    "team": "LA",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.9,
-   "receptions": 1.0,
-   "rec_yds": 14.6,
+   "targets": 3.2,
+   "receptions": 1.7,
+   "rec_yds": 24.3,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.2
   },
   {
-   "player": "Tyler Allgeier",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 40.1,
+   "player": "Tutu Atwell",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.2,
+   "rec_yds": 29.8,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Colby Parkinson",
+   "team": "LA",
+   "position": "TE",
+   "rush_yds": 0.0,
    "targets": 4.7,
-   "receptions": 4.2,
-   "rec_yds": 30.3,
-   "carries": 11.0,
+   "receptions": 3.4,
+   "rec_yds": 27.9,
+   "carries": 0.0,
    "tds": 0.4
+  },
+  {
+   "player": "Elijah Higgins",
+   "team": "ARI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 3.2,
+   "rec_yds": 28.1,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Trey McBride",
@@ -151,7 +140,7 @@
    "rush_yds": 0.0,
    "targets": 15.8,
    "receptions": 11.9,
-   "rec_yds": 94.4,
+   "rec_yds": 94.0,
    "carries": 0.0,
    "tds": 0.5
   },
@@ -165,17 +154,6 @@
    "rec_yds": 18.6,
    "carries": 5.1,
    "tds": 0.2
-  },
-  {
-   "player": "Elijah Higgins",
-   "team": "ARI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 3.2,
-   "rec_yds": 28.2,
-   "carries": 0.0,
-   "tds": 0.0
   },
   {
    "player": "Reggie Virgil",
@@ -198,6 +176,17 @@
    "rec_yds": 11.3,
    "carries": 0.0,
    "tds": 0.2
+  },
+  {
+   "player": "Tyler Allgeier",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 40.1,
+   "targets": 4.7,
+   "receptions": 4.2,
+   "rec_yds": 30.3,
+   "carries": 11.0,
+   "tds": 0.4
   }
  ]
 }
