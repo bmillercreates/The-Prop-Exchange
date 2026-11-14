@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_HOU_CLE",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-13T16:10-05:00",
+ "updated_at": "2026-11-14T14:41-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "HOU",
@@ -14,11 +14,11 @@
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
+  "temp_f": 45,
   "wind_mph": 12,
   "gust_mph": 15,
-  "precip_in": 0.01,
-  "precip_chance": 42
+  "precip_in": 0.02,
+  "precip_chance": 6
  },
  "teams": {
   "HOU": {
@@ -41,59 +41,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Xavier Hutchinson",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 2.2,
-   "targets": 5.5,
-   "receptions": 3.1,
-   "rec_yds": 38.2,
-   "carries": 0.5,
-   "tds": 0.4
-  },
-  {
-   "player": "Kayshon Boutte",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.9,
-   "receptions": 2.5,
-   "rec_yds": 37.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Woody Marks",
    "team": "HOU",
    "position": "RB",
    "rush_yds": 68.9,
-   "targets": 2.9,
+   "targets": 2.8,
    "receptions": 2.0,
-   "rec_yds": 12.0,
+   "rec_yds": 11.8,
    "carries": 15.7,
    "tds": 0.8
-  },
-  {
-   "player": "Dalton Schultz",
-   "team": "HOU",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.7,
-   "rec_yds": 39.5,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tank Dell",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 4.6,
-   "receptions": 2.7,
-   "rec_yds": 44.0,
-   "carries": 0.2,
-   "tds": 0.2
   },
   {
    "player": "Emari Demercado",
@@ -102,20 +58,64 @@
    "rush_yds": 15.2,
    "targets": 1.0,
    "receptions": 0.7,
-   "rec_yds": 4.7,
+   "rec_yds": 4.6,
    "carries": 3.3,
    "tds": 0.1
+  },
+  {
+   "player": "Tank Dell",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 4.5,
+   "receptions": 2.6,
+   "rec_yds": 43.2,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Kayshon Boutte",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.9,
+   "receptions": 2.5,
+   "rec_yds": 36.9,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Nico Collins",
    "team": "HOU",
    "position": "WR",
    "rush_yds": 0.6,
-   "targets": 5.4,
-   "receptions": 3.6,
-   "rec_yds": 48.0,
+   "targets": 5.3,
+   "receptions": 3.5,
+   "rec_yds": 47.1,
    "carries": 0.1,
    "tds": 0.3
+  },
+  {
+   "player": "Dalton Schultz",
+   "team": "HOU",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.0,
+   "receptions": 3.6,
+   "rec_yds": 38.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Xavier Hutchinson",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 2.2,
+   "targets": 5.4,
+   "receptions": 3.0,
+   "rec_yds": 37.5,
+   "carries": 0.5,
+   "tds": 0.4
   },
   {
    "player": "C.J. Stroud",
@@ -126,6 +126,38 @@
    "pass_att": 30.3,
    "carries": 2.3,
    "tds": 0.0
+  },
+  {
+   "player": "Harold Fannin Jr.",
+   "team": "CLE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 7.3,
+   "receptions": 4.9,
+   "rec_yds": 52.6,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Deshaun Watson",
+   "team": "CLE",
+   "position": "QB",
+   "rush_yds": 12.8,
+   "pass_yds": 281.5,
+   "pass_att": 36.6,
+   "carries": 3.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Denzel Boston",
+   "team": "CLE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.4,
+   "receptions": 4.9,
+   "rec_yds": 80.5,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Quinshon Judkins",
@@ -150,39 +182,6 @@
    "tds": 0.1
   },
   {
-   "player": "KC Concepcion",
-   "team": "CLE",
-   "position": "WR",
-   "rush_yds": 2.5,
-   "targets": 6.4,
-   "receptions": 4.3,
-   "rec_yds": 58.9,
-   "carries": 0.6,
-   "tds": 0.2
-  },
-  {
-   "player": "Denzel Boston",
-   "team": "CLE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.4,
-   "receptions": 4.9,
-   "rec_yds": 80.5,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Harold Fannin Jr.",
-   "team": "CLE",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 7.3,
-   "receptions": 4.9,
-   "rec_yds": 52.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Jerry Jeudy",
    "team": "CLE",
    "position": "WR",
@@ -194,14 +193,15 @@
    "tds": 0.0
   },
   {
-   "player": "Deshaun Watson",
+   "player": "KC Concepcion",
    "team": "CLE",
-   "position": "QB",
-   "rush_yds": 12.8,
-   "pass_yds": 281.5,
-   "pass_att": 36.6,
-   "carries": 3.8,
-   "tds": 0.1
+   "position": "WR",
+   "rush_yds": 2.5,
+   "targets": 6.4,
+   "receptions": 4.3,
+   "rec_yds": 58.9,
+   "carries": 0.6,
+   "tds": 0.2
   }
  ]
 }

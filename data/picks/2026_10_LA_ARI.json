@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_LA_ARI",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-13T16:10-05:00",
+ "updated_at": "2026-11-14T14:41-05:00",
  "kickoff": "2026-11-15T16:05",
  "weekday": "Sunday",
  "away": "LA",
@@ -36,17 +36,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Davis Allen",
-   "team": "LA",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 2.8,
-   "receptions": 2.0,
-   "rec_yds": 17.9,
-   "carries": 0.2,
-   "tds": 0.2
-  },
-  {
    "player": "Blake Corum",
    "team": "LA",
    "position": "RB",
@@ -79,6 +68,39 @@
    "tds": 0.1
   },
   {
+   "player": "Davis Allen",
+   "team": "LA",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 2.8,
+   "receptions": 2.0,
+   "rec_yds": 17.9,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Colby Parkinson",
+   "team": "LA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.7,
+   "receptions": 3.4,
+   "rec_yds": 27.9,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Tutu Atwell",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.2,
+   "rec_yds": 29.8,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Kyren Williams",
    "team": "LA",
    "position": "RB",
@@ -101,28 +123,6 @@
    "tds": 0.2
   },
   {
-   "player": "Tutu Atwell",
-   "team": "LA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.8,
-   "receptions": 2.2,
-   "rec_yds": 29.8,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Colby Parkinson",
-   "team": "LA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.7,
-   "receptions": 3.4,
-   "rec_yds": 27.9,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
    "player": "Elijah Higgins",
    "team": "ARI",
    "position": "TE",
@@ -132,28 +132,6 @@
    "rec_yds": 28.1,
    "carries": 0.0,
    "tds": 0.0
-  },
-  {
-   "player": "Trey McBride",
-   "team": "ARI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 15.8,
-   "receptions": 11.9,
-   "rec_yds": 94.0,
-   "carries": 0.0,
-   "tds": 0.5
-  },
-  {
-   "player": "Bam Knight",
-   "team": "ARI",
-   "position": "RB",
-   "rush_yds": 22.0,
-   "targets": 2.8,
-   "receptions": 2.3,
-   "rec_yds": 18.6,
-   "carries": 5.1,
-   "tds": 0.2
   },
   {
    "player": "Reggie Virgil",
@@ -167,17 +145,6 @@
    "tds": 0.1
   },
   {
-   "player": "Teagan Quitoriano",
-   "team": "ARI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.3,
-   "rec_yds": 11.3,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Tyler Allgeier",
    "team": "ARI",
    "position": "RB",
@@ -187,6 +154,39 @@
    "rec_yds": 30.3,
    "carries": 11.0,
    "tds": 0.4
+  },
+  {
+   "player": "Bam Knight",
+   "team": "ARI",
+   "position": "RB",
+   "rush_yds": 22.0,
+   "targets": 2.8,
+   "receptions": 2.3,
+   "rec_yds": 18.6,
+   "carries": 5.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Trey McBride",
+   "team": "ARI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 15.8,
+   "receptions": 11.9,
+   "rec_yds": 94.0,
+   "carries": 0.0,
+   "tds": 0.5
+  },
+  {
+   "player": "Teagan Quitoriano",
+   "team": "ARI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.3,
+   "rec_yds": 11.3,
+   "carries": 0.0,
+   "tds": 0.2
   }
  ]
 }

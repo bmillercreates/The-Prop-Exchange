@@ -1,7 +1,7 @@
 {
  "game_id": "2026_10_SEA_LV",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-13T16:10-05:00",
+ "updated_at": "2026-11-14T14:41-05:00",
  "kickoff": "2026-11-15T16:05",
  "weekday": "Sunday",
  "away": "SEA",
@@ -36,26 +36,15 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Zach Charbonnet",
+   "player": "Emanuel Wilson",
    "team": "SEA",
    "position": "RB",
-   "rush_yds": 31.1,
-   "targets": 1.7,
-   "receptions": 1.2,
-   "rec_yds": 9.0,
-   "carries": 6.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Jadarian Price",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 30.7,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 13.5,
-   "carries": 6.6,
-   "tds": 0.1
+   "rush_yds": 43.5,
+   "targets": 1.1,
+   "receptions": 0.8,
+   "rec_yds": 6.9,
+   "carries": 9.6,
+   "tds": 0.4
   },
   {
    "player": "Cooper Kupp",
@@ -69,27 +58,6 @@
    "tds": 0.1
   },
   {
-   "player": "Rashid Shaheed",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 1.4,
-   "targets": 3.4,
-   "receptions": 1.9,
-   "rec_yds": 24.8,
-   "carries": 0.3,
-   "tds": 0.2
-  },
-  {
-   "player": "Drew Lock",
-   "team": "SEA",
-   "position": "QB",
-   "rush_yds": 6.5,
-   "pass_yds": 222.5,
-   "pass_att": 28.8,
-   "carries": 1.6,
-   "tds": 0.0
-  },
-  {
    "player": "Tory Horton",
    "team": "SEA",
    "position": "WR",
@@ -101,17 +69,6 @@
    "tds": 0.1
   },
   {
-   "player": "Jaxon Smith-Njigba",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 0.8,
-   "targets": 9.1,
-   "receptions": 6.1,
-   "rec_yds": 96.2,
-   "carries": 0.2,
-   "tds": 0.4
-  },
-  {
    "player": "AJ Barner",
    "team": "SEA",
    "position": "TE",
@@ -120,6 +77,39 @@
    "receptions": 2.4,
    "rec_yds": 21.9,
    "carries": 0.5,
+   "tds": 0.4
+  },
+  {
+   "player": "Jadarian Price",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 30.7,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 13.5,
+   "carries": 6.6,
+   "tds": 0.1
+  },
+  {
+   "player": "Zach Charbonnet",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 31.1,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 9.0,
+   "carries": 6.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 9.1,
+   "receptions": 6.1,
+   "rec_yds": 96.2,
+   "carries": 0.2,
    "tds": 0.4
   },
   {
@@ -134,26 +124,69 @@
    "tds": 0.3
   },
   {
-   "player": "Emanuel Wilson",
+   "player": "Drew Lock",
    "team": "SEA",
-   "position": "RB",
-   "rush_yds": 43.5,
-   "targets": 1.1,
-   "receptions": 0.8,
-   "rec_yds": 6.9,
-   "carries": 9.6,
-   "tds": 0.4
+   "position": "QB",
+   "rush_yds": 6.5,
+   "pass_yds": 222.5,
+   "pass_att": 28.8,
+   "carries": 1.6,
+   "tds": 0.0
   },
   {
-   "player": "Jack Bech",
+   "player": "Rashid Shaheed",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 1.4,
+   "targets": 3.4,
+   "receptions": 1.9,
+   "rec_yds": 24.8,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Tre Tucker",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 5.5,
+   "receptions": 3.1,
+   "rec_yds": 39.6,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Ashton Jeanty",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 22.6,
+   "targets": 5.5,
+   "receptions": 4.4,
+   "rec_yds": 31.6,
+   "carries": 7.9,
+   "tds": 0.5
+  },
+  {
+   "player": "Cody White",
    "team": "LV",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.9,
-   "receptions": 1.2,
-   "rec_yds": 11.9,
+   "targets": 2.2,
+   "receptions": 1.1,
+   "rec_yds": 12.8,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.1
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 24.3,
+   "targets": 0.4,
+   "receptions": 0.3,
+   "rec_yds": 1.8,
+   "carries": 7.4,
+   "tds": 0.2
   },
   {
    "player": "Brock Bowers",
@@ -178,17 +211,6 @@
    "tds": 0.1
   },
   {
-   "player": "Cody White",
-   "team": "LV",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.2,
-   "receptions": 1.1,
-   "rec_yds": 12.8,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Michael Mayer",
    "team": "LV",
    "position": "TE",
@@ -200,37 +222,15 @@
    "tds": 0.0
   },
   {
-   "player": "Tre Tucker",
+   "player": "Jack Bech",
    "team": "LV",
    "position": "WR",
-   "rush_yds": 0.8,
-   "targets": 5.5,
-   "receptions": 3.1,
-   "rec_yds": 39.6,
-   "carries": 0.1,
-   "tds": 0.3
-  },
-  {
-   "player": "Mike Washington Jr.",
-   "team": "LV",
-   "position": "RB",
-   "rush_yds": 24.3,
-   "targets": 0.4,
-   "receptions": 0.3,
-   "rec_yds": 1.8,
-   "carries": 7.4,
-   "tds": 0.2
-  },
-  {
-   "player": "Ashton Jeanty",
-   "team": "LV",
-   "position": "RB",
-   "rush_yds": 22.6,
-   "targets": 5.5,
-   "receptions": 4.4,
-   "rec_yds": 31.6,
-   "carries": 7.9,
-   "tds": 0.5
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.2,
+   "rec_yds": 11.9,
+   "carries": 0.0,
+   "tds": 0.0
   }
  ]
 }
