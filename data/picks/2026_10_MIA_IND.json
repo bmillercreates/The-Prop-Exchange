@@ -1,14 +1,14 @@
 {
  "game_id": "2026_10_MIA_IND",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-14T14:41-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-15T11:40-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "MIA",
  "home": "IND",
  "stadium": "Lucas Oil Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-15T11:40-05:00",
  "weather": {
   "game_id": "2026_10_MIA_IND",
   "stadium": "Lucas Oil Stadium",
@@ -31,18 +31,78 @@
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Ashton Dulin",
+   "team": "IND",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Under",
+   "line": 1.5,
+   "title": "Ashton Dulin Under 1.5 receptions",
+   "price": -140,
+   "book": "fanduel",
+   "model_prob": 0.6495,
+   "fair_prob": 0.5458,
+   "prob_edge": 0.1037,
+   "edge": 0.1134,
+   "projection": 0.66,
+   "flags": [],
+   "why": [
+    "Model projects 1 catches vs. a line of 1.5 (84% chance to go under on its own).",
+    "Earns 4% of the Colts' targets and 7% of their air yards, on 23% of snaps.",
+    "The Dolphins defense allows 10% fewer receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Jonathan Taylor Yes anytime TD",
+   "price": -110,
+   "book": "draftkings",
+   "model_prob": 0.5514,
+   "fair_prob": 0.4895,
+   "prob_edge": 0.0618,
+   "edge": 0.0526,
+   "projection": 1.1,
+   "flags": [],
+   "why": [
+    "Model gives him a 67% chance to score; the odds imply about 49%.",
+    "Gets 55% of the Colts' red-zone touches.",
+    "With Will Mallory out, there's more work to go around."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
   {
-   "player": "Caleb Douglas",
+   "player": "Malik Washington",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 0.0,
+   "rush_yds": 5.9,
    "targets": 6.3,
    "receptions": 3.9,
-   "rec_yds": 59.1,
+   "rec_yds": 47.4,
+   "carries": 0.9,
+   "tds": 0.3
+  },
+  {
+   "player": "Will Kacmarek",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.1,
+   "rec_yds": 10.3,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -58,35 +118,13 @@
    "tds": 0.1
   },
   {
-   "player": "Kevin Coleman Jr.",
+   "player": "Caleb Douglas",
    "team": "MIA",
    "position": "WR",
-   "rush_yds": 1.6,
-   "targets": 2.9,
-   "receptions": 1.4,
-   "rec_yds": 18.2,
-   "carries": 0.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Malik Washington",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 5.9,
+   "rush_yds": 0.0,
    "targets": 6.3,
    "receptions": 3.9,
-   "rec_yds": 47.4,
-   "carries": 0.9,
-   "tds": 0.3
-  },
-  {
-   "player": "Greg Dulcich",
-   "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.8,
-   "receptions": 4.0,
-   "rec_yds": 42.8,
+   "rec_yds": 59.1,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -102,13 +140,24 @@
    "tds": 0.8
   },
   {
-   "player": "Will Kacmarek",
+   "player": "Kevin Coleman Jr.",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 1.6,
+   "targets": 2.9,
+   "receptions": 1.4,
+   "rec_yds": 18.2,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Greg Dulcich",
    "team": "MIA",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.1,
-   "rec_yds": 10.3,
+   "targets": 5.8,
+   "receptions": 4.0,
+   "rec_yds": 42.8,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -123,17 +172,6 @@
    "tds": 0.1
   },
   {
-   "player": "Jonathan Taylor",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 55.7,
-   "targets": 4.0,
-   "receptions": 3.1,
-   "rec_yds": 24.6,
-   "carries": 12.6,
-   "tds": 1.1
-  },
-  {
    "player": "Seth McGowan",
    "team": "IND",
    "position": "RB",
@@ -143,17 +181,6 @@
    "rec_yds": 2.9,
    "carries": 4.3,
    "tds": 0.3
-  },
-  {
-   "player": "Laquon Treadwell",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.4,
-   "rec_yds": 17.6,
-   "carries": 0.0,
-   "tds": 0.1
   },
   {
    "player": "DJ Giddens",
@@ -176,6 +203,28 @@
    "rec_yds": 47.4,
    "carries": 0.2,
    "tds": 0.3
+  },
+  {
+   "player": "Laquon Treadwell",
+   "team": "IND",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.4,
+   "rec_yds": 17.6,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 55.7,
+   "targets": 4.0,
+   "receptions": 3.1,
+   "rec_yds": 24.6,
+   "carries": 12.6,
+   "tds": 1.1
   }
  ]
 }

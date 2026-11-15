@@ -1,0 +1,1414 @@
+{
+ "game_id": "2026_10_MIA_IND",
+ "pulled_at": "2026-11-15T11:40-05:00",
+ "props": [
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jonathan Taylor",
+   "side": "Yes",
+   "line": null,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ollie Gordon II",
+   "side": "Yes",
+   "line": null,
+   "price": 110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tyler Warren",
+   "side": "Yes",
+   "line": null,
+   "price": 185
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Seth McGowan",
+   "side": "Yes",
+   "line": null,
+   "price": 300
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Laquon Treadwell",
+   "side": "Yes",
+   "line": null,
+   "price": 310
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Malik Washington",
+   "side": "Yes",
+   "line": null,
+   "price": 320
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Caleb Douglas",
+   "side": "Yes",
+   "line": null,
+   "price": 360
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Deion Burks",
+   "side": "Yes",
+   "line": null,
+   "price": 475
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Greg Dulcich",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Indianapolis Colts D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Miami Dolphins D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Daniel Jones",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Anthony Gould",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kevin Coleman Jr.",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ashton Dulin",
+   "side": "Yes",
+   "line": null,
+   "price": 800
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jaylen Wright",
+   "side": "Yes",
+   "line": null,
+   "price": 800
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kyle McCord",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Drew Ogletree",
+   "side": "Yes",
+   "line": null,
+   "price": 1300
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kaytron Allen",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Will Kacmarek",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Nick Westbrook-Ikhine",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jalen Tolbert",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jalen Reagor",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "DJ Herman",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "DJ Giddens",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Seydou Traore",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Pharaoh Brown",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Quez Watkins",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Daniel Jones",
+   "side": "Over",
+   "line": 185.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Daniel Jones",
+   "side": "Under",
+   "line": 185.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Kyle McCord",
+   "side": "Over",
+   "line": 161.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Kyle McCord",
+   "side": "Under",
+   "line": 161.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tyler Warren",
+   "side": "Over",
+   "line": 45.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tyler Warren",
+   "side": "Under",
+   "line": 45.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Caleb Douglas",
+   "side": "Over",
+   "line": 41.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Caleb Douglas",
+   "side": "Under",
+   "line": 41.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Malik Washington",
+   "side": "Over",
+   "line": 34.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Malik Washington",
+   "side": "Under",
+   "line": 34.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Greg Dulcich",
+   "side": "Over",
+   "line": 32.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Greg Dulcich",
+   "side": "Under",
+   "line": 32.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Laquon Treadwell",
+   "side": "Over",
+   "line": 29.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Laquon Treadwell",
+   "side": "Under",
+   "line": 29.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 22.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 22.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Deion Burks",
+   "side": "Over",
+   "line": 17.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Deion Burks",
+   "side": "Under",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kevin Coleman Jr.",
+   "side": "Over",
+   "line": 16.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kevin Coleman Jr.",
+   "side": "Under",
+   "line": 16.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Anthony Gould",
+   "side": "Over",
+   "line": 15.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Anthony Gould",
+   "side": "Under",
+   "line": 15.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ashton Dulin",
+   "side": "Over",
+   "line": 14.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ashton Dulin",
+   "side": "Under",
+   "line": 14.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 6.5,
+   "price": -102
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 6.5,
+   "price": -123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tyler Warren",
+   "side": "Over",
+   "line": 5.5,
+   "price": -124
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tyler Warren",
+   "side": "Under",
+   "line": 5.5,
+   "price": -102
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Malik Washington",
+   "side": "Over",
+   "line": 3.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Malik Washington",
+   "side": "Under",
+   "line": 3.5,
+   "price": -118
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Caleb Douglas",
+   "side": "Over",
+   "line": 3.5,
+   "price": -103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Caleb Douglas",
+   "side": "Under",
+   "line": 3.5,
+   "price": -123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Greg Dulcich",
+   "side": "Over",
+   "line": 3.5,
+   "price": 107
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Greg Dulcich",
+   "side": "Under",
+   "line": 3.5,
+   "price": -136
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 3.5,
+   "price": 111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 3.5,
+   "price": -142
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Laquon Treadwell",
+   "side": "Over",
+   "line": 2.5,
+   "price": 114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Laquon Treadwell",
+   "side": "Under",
+   "line": 2.5,
+   "price": -145
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Deion Burks",
+   "side": "Over",
+   "line": 1.5,
+   "price": -180
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Deion Burks",
+   "side": "Under",
+   "line": 1.5,
+   "price": 140
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Anthony Gould",
+   "side": "Over",
+   "line": 1.5,
+   "price": -155
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Anthony Gould",
+   "side": "Under",
+   "line": 1.5,
+   "price": 121
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kevin Coleman Jr.",
+   "side": "Over",
+   "line": 1.5,
+   "price": -132
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kevin Coleman Jr.",
+   "side": "Under",
+   "line": 1.5,
+   "price": 103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 1.5,
+   "price": -105
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 1.5,
+   "price": -121
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ashton Dulin",
+   "side": "Over",
+   "line": 1.5,
+   "price": 120
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ashton Dulin",
+   "side": "Under",
+   "line": 1.5,
+   "price": -153
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 74.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 74.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 69.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 69.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Seth McGowan",
+   "side": "Over",
+   "line": 25.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Seth McGowan",
+   "side": "Under",
+   "line": 25.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jaylen Wright",
+   "side": "Over",
+   "line": 12.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jaylen Wright",
+   "side": "Under",
+   "line": 12.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Daniel Jones",
+   "side": "Over",
+   "line": 8.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Daniel Jones",
+   "side": "Under",
+   "line": 8.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Kyle McCord",
+   "side": "Over",
+   "line": 5.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Kyle McCord",
+   "side": "Under",
+   "line": 5.5,
+   "price": -109
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jonathan Taylor",
+   "side": "Yes",
+   "line": null,
+   "price": -110
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ollie Gordon II",
+   "side": "Yes",
+   "line": null,
+   "price": 105
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tyler Warren",
+   "side": "Yes",
+   "line": null,
+   "price": 210
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Seth McGowan",
+   "side": "Yes",
+   "line": null,
+   "price": 290
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Laquon Treadwell",
+   "side": "Yes",
+   "line": null,
+   "price": 300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Malik Washington",
+   "side": "Yes",
+   "line": null,
+   "price": 320
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Caleb Douglas",
+   "side": "Yes",
+   "line": null,
+   "price": 360
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Greg Dulcich",
+   "side": "Yes",
+   "line": null,
+   "price": 470
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Deion Burks",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Anthony Gould",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Daniel Jones",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Miami Dolphins Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kevin Coleman Jr.",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Indianapolis Colts Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ashton Dulin",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jaylen Wright",
+   "side": "Yes",
+   "line": null,
+   "price": 800
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kyle McCord",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Drew Ogletree",
+   "side": "Yes",
+   "line": null,
+   "price": 1300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Will Kacmarek",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kaytron Allen",
+   "side": "Yes",
+   "line": null,
+   "price": 1700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Nick Westbrook-Ikhine",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "DJ Giddens",
+   "side": "Yes",
+   "line": null,
+   "price": 2700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jalen Tolbert",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Quez Watkins",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Pharaoh Brown",
+   "side": "Yes",
+   "line": null,
+   "price": 3300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jalen Reagor",
+   "side": "Yes",
+   "line": null,
+   "price": 3300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "DJ Herman",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Seydou Traore",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Kyle McCord",
+   "side": "Over",
+   "line": 159.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Kyle McCord",
+   "side": "Under",
+   "line": 159.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Daniel Jones",
+   "side": "Over",
+   "line": 183.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Daniel Jones",
+   "side": "Under",
+   "line": 183.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Malik Washington",
+   "side": "Over",
+   "line": 33.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Malik Washington",
+   "side": "Under",
+   "line": 33.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Deion Burks",
+   "side": "Over",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Deion Burks",
+   "side": "Under",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tyler Warren",
+   "side": "Over",
+   "line": 46.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tyler Warren",
+   "side": "Under",
+   "line": 46.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kevin Coleman Jr.",
+   "side": "Over",
+   "line": 14.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kevin Coleman Jr.",
+   "side": "Under",
+   "line": 14.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Caleb Douglas",
+   "side": "Over",
+   "line": 42.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Caleb Douglas",
+   "side": "Under",
+   "line": 42.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Anthony Gould",
+   "side": "Over",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Anthony Gould",
+   "side": "Under",
+   "line": 16.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Greg Dulcich",
+   "side": "Over",
+   "line": 31.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Greg Dulcich",
+   "side": "Under",
+   "line": 31.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ashton Dulin",
+   "side": "Over",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ashton Dulin",
+   "side": "Under",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Laquon Treadwell",
+   "side": "Over",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Laquon Treadwell",
+   "side": "Under",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ashton Dulin",
+   "side": "Over",
+   "line": 1.5,
+   "price": 106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ashton Dulin",
+   "side": "Under",
+   "line": 1.5,
+   "price": -140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tyler Warren",
+   "side": "Over",
+   "line": 5.5,
+   "price": -148
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tyler Warren",
+   "side": "Under",
+   "line": 5.5,
+   "price": 112
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Malik Washington",
+   "side": "Over",
+   "line": 3.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Malik Washington",
+   "side": "Under",
+   "line": 3.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kevin Coleman Jr.",
+   "side": "Over",
+   "line": 1.5,
+   "price": -110
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kevin Coleman Jr.",
+   "side": "Under",
+   "line": 1.5,
+   "price": -120
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Caleb Douglas",
+   "side": "Over",
+   "line": 3.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Caleb Douglas",
+   "side": "Under",
+   "line": 3.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Laquon Treadwell",
+   "side": "Over",
+   "line": 2.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Laquon Treadwell",
+   "side": "Under",
+   "line": 2.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Deion Burks",
+   "side": "Over",
+   "line": 2.5,
+   "price": 164
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Deion Burks",
+   "side": "Under",
+   "line": 2.5,
+   "price": -225
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Greg Dulcich",
+   "side": "Over",
+   "line": 3.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Greg Dulcich",
+   "side": "Under",
+   "line": 3.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Anthony Gould",
+   "side": "Over",
+   "line": 1.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Anthony Gould",
+   "side": "Under",
+   "line": 1.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 1.5,
+   "price": -122
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 1.5,
+   "price": -108
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 3.5,
+   "price": 104
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 3.5,
+   "price": -138
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Kyle McCord",
+   "side": "Over",
+   "line": 5.5,
+   "price": -111
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Kyle McCord",
+   "side": "Under",
+   "line": 5.5,
+   "price": -115
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Daniel Jones",
+   "side": "Over",
+   "line": 7.5,
+   "price": -120
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Daniel Jones",
+   "side": "Under",
+   "line": 7.5,
+   "price": -106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Ollie Gordon II",
+   "side": "Over",
+   "line": 72.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Ollie Gordon II",
+   "side": "Under",
+   "line": 72.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jonathan Taylor",
+   "side": "Over",
+   "line": 69.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jonathan Taylor",
+   "side": "Under",
+   "line": 69.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jaylen Wright",
+   "side": "Over",
+   "line": 12.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jaylen Wright",
+   "side": "Under",
+   "line": 12.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Seth McGowan",
+   "side": "Over",
+   "line": 25.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Seth McGowan",
+   "side": "Under",
+   "line": 25.5,
+   "price": -113
+  }
+ ]
+}

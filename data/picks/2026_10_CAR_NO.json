@@ -1,14 +1,14 @@
 {
  "game_id": "2026_10_CAR_NO",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-14T14:41-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-15T11:40-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "CAR",
  "home": "NO",
  "stadium": "Caesars Superdome",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-15T11:40-05:00",
  "weather": {
   "game_id": "2026_10_CAR_NO",
   "stadium": "Caesars Superdome",
@@ -31,19 +31,242 @@
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Mitchell Evans",
+   "tier": "Blue Chip",
+   "player": "Tyler Shough",
+   "team": "NO",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 252.5,
+   "title": "Tyler Shough Under 252.5 passing yards",
+   "price": -111,
+   "book": "draftkings",
+   "model_prob": 0.5724,
+   "fair_prob": 0.4979,
+   "prob_edge": 0.0745,
+   "edge": 0.088,
+   "projection": 217.99,
+   "flags": [],
+   "why": [
+    "Model projects 218 yards vs. a line of 252.5 (71% chance to go under on its own).",
+    "Expected to throw about 34 times; completion % over expected is -5.8 lately."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Chuba Hubbard Over 3.5 receptions",
+   "price": 113,
+   "book": "draftkings",
+   "model_prob": 0.4966,
+   "fair_prob": 0.4431,
+   "prob_edge": 0.0536,
+   "edge": 0.0579,
+   "projection": 4.43,
+   "flags": [],
+   "why": [
+    "Model projects 4 catches vs. a line of 3.5 (60% chance to go over on its own).",
+    "Earns 14% of the Panthers' targets and 0% of their air yards, on 83% of snaps.",
+    "The Saints defense allows 5% more receptions to RBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 248.5,
+   "title": "Bryce Young Over 248.5 passing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.553,
+   "fair_prob": 0.5,
+   "prob_edge": 0.053,
+   "edge": 0.0425,
+   "projection": 296.51,
+   "flags": [],
+   "why": [
+    "Model projects 297 yards vs. a line of 248.5 (65% chance to go over on its own).",
+    "Expected to throw about 39 times; completion % over expected is -4.7 lately.",
+    "The Saints defense allows 6% more passing yards to QBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "John Metchie III",
+   "team": "CAR",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "John Metchie III Over 1.5 receptions",
+   "price": 156,
+   "book": "draftkings",
+   "model_prob": 0.4346,
+   "fair_prob": 0.3691,
+   "prob_edge": 0.0656,
+   "edge": 0.1127,
+   "projection": 2.07,
+   "flags": [],
+   "why": [
+    "Model projects 2 catches vs. a line of 1.5 (56% chance to go over on its own).",
+    "Earns 9% of the Panthers' targets and 9% of their air yards, on 37% of snaps."
+   ]
+  },
+  {
+   "tier": "Penny Stock",
+   "player": "Tommy Tremble",
    "team": "CAR",
    "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 19.0,
-   "carries": 0.1,
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Tommy Tremble Over 2.5 receptions",
+   "price": 137,
+   "book": "draftkings",
+   "model_prob": 0.4517,
+   "fair_prob": 0.3987,
+   "prob_edge": 0.053,
+   "edge": 0.0705,
+   "projection": 3.1,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 2.5 (55% chance to go over on its own).",
+    "Earns 11% of the Panthers' targets and 3% of their air yards, on 60% of snaps.",
+    "The Saints defense allows 5% more receptions to TEs than average."
+   ]
+  }
+ ],
+ "etfs": [
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Bryce Young",
+     "team": "CAR",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 248.5,
+     "title": "Bryce Young Over 248.5 passing yards",
+     "price": -113,
+     "book": "fanduel",
+     "model_prob": 0.553,
+     "fair_prob": 0.5,
+     "prob_edge": 0.053,
+     "edge": 0.0425,
+     "projection": 296.51,
+     "flags": [],
+     "why": [
+      "Model projects 297 yards vs. a line of 248.5 (65% chance to go over on its own).",
+      "Expected to throw about 39 times; completion % over expected is -4.7 lately.",
+      "The Saints defense allows 6% more passing yards to QBs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Tetairoa McMillan",
+     "team": "CAR",
+     "position": "WR",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 5.5,
+     "title": "Tetairoa McMillan Over 5.5 receptions",
+     "price": 123,
+     "book": "draftkings",
+     "model_prob": 0.4517,
+     "fair_prob": 0.4233,
+     "prob_edge": 0.0283,
+     "edge": 0.0072,
+     "projection": 5.87,
+     "flags": [],
+     "why": [
+      "Model projects 6 catches vs. a line of 5.5 (50% chance to go over on its own).",
+      "Earns 24% of the Panthers' targets and 34% of their air yards, on 81% of snaps."
+     ]
+    }
+   ],
+   "model_prob": 0.3364,
+   "price": 199,
+   "edge": 0.0075,
+   "why": [
+    "Bryce Young and Tetairoa McMillan are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 34% chance to hit together. The price (about +199) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
+ "projections": [
+  {
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "rush_yds": 4.9,
+   "pass_yds": 296.5,
+   "pass_att": 39.2,
+   "carries": 1.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jalen Coker",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 7.3,
+   "receptions": 4.5,
+   "rec_yds": 60.4,
+   "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Tetairoa McMillan",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.3,
+   "receptions": 5.9,
+   "rec_yds": 82.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "rush_yds": 80.1,
+   "targets": 5.3,
+   "receptions": 4.4,
+   "rec_yds": 32.9,
+   "carries": 15.5,
+   "tds": 0.9
+  },
+  {
+   "player": "Brycen Tremayne",
+   "team": "CAR",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.2,
+   "receptions": 0.7,
+   "rec_yds": 11.1,
+   "carries": 0.0,
    "tds": 0.1
   },
   {
@@ -58,69 +281,15 @@
    "tds": 0.2
   },
   {
-   "player": "Darren Waller",
+   "player": "Mitchell Evans",
    "team": "CAR",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.9,
-   "receptions": 3.5,
-   "rec_yds": 44.0,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jalen Coker",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 7.3,
-   "receptions": 4.5,
-   "rec_yds": 60.4,
-   "carries": 0.3,
-   "tds": 0.2
-  },
-  {
-   "player": "Brycen Tremayne",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.2,
-   "receptions": 0.7,
-   "rec_yds": 11.1,
-   "carries": 0.0,
+   "rush_yds": 0.1,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 19.0,
+   "carries": 0.1,
    "tds": 0.1
-  },
-  {
-   "player": "Chuba Hubbard",
-   "team": "CAR",
-   "position": "RB",
-   "rush_yds": 80.1,
-   "targets": 5.3,
-   "receptions": 4.4,
-   "rec_yds": 32.9,
-   "carries": 15.5,
-   "tds": 0.9
-  },
-  {
-   "player": "Bryce Young",
-   "team": "CAR",
-   "position": "QB",
-   "rush_yds": 4.9,
-   "pass_yds": 296.5,
-   "pass_att": 39.2,
-   "carries": 1.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 9.3,
-   "receptions": 5.9,
-   "rec_yds": 82.3,
-   "carries": 0.0,
-   "tds": 0.3
   },
   {
    "player": "Tommy Tremble",
@@ -134,25 +303,15 @@
    "tds": 0.3
   },
   {
-   "player": "Chris Olave",
-   "team": "NO",
-   "position": "WR",
+   "player": "Darren Waller",
+   "team": "CAR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 10.7,
-   "receptions": 7.3,
-   "rec_yds": 92.4,
+   "targets": 4.9,
+   "receptions": 3.5,
+   "rec_yds": 44.0,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Tyler Shough",
-   "team": "NO",
-   "position": "QB",
-   "rush_yds": 25.5,
-   "pass_yds": 218.0,
-   "pass_att": 34.0,
-   "carries": 5.2,
-   "tds": 0.3
   },
   {
    "player": "Juwan Johnson",
@@ -166,15 +325,14 @@
    "tds": 0.3
   },
   {
-   "player": "Bryce Lance",
+   "player": "Tyler Shough",
    "team": "NO",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.1,
-   "receptions": 1.1,
-   "rec_yds": 12.5,
-   "carries": 0.0,
-   "tds": 0.1
+   "position": "QB",
+   "rush_yds": 25.5,
+   "pass_yds": 218.0,
+   "pass_att": 34.0,
+   "carries": 5.2,
+   "tds": 0.3
   },
   {
    "player": "Audric Estime",
@@ -186,6 +344,28 @@
    "rec_yds": 3.2,
    "carries": 6.4,
    "tds": 0.5
+  },
+  {
+   "player": "Bryce Lance",
+   "team": "NO",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.1,
+   "receptions": 1.1,
+   "rec_yds": 12.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jordyn Tyson",
+   "team": "NO",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 2.0,
+   "rec_yds": 23.0,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Devaughn Vele",
@@ -210,15 +390,15 @@
    "tds": 0.3
   },
   {
-   "player": "Jordyn Tyson",
+   "player": "Chris Olave",
    "team": "NO",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 2.0,
-   "rec_yds": 23.0,
+   "targets": 10.7,
+   "receptions": 7.3,
+   "rec_yds": 92.4,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.2
   },
   {
    "player": "Noah Fant",

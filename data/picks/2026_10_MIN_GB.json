@@ -1,22 +1,22 @@
 {
  "game_id": "2026_10_MIN_GB",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-14T14:41-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-15T11:40-05:00",
  "kickoff": "2026-11-15T13:00",
  "weekday": "Sunday",
  "away": "MIN",
  "home": "GB",
  "stadium": "Lambeau Field",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-15T11:40-05:00",
  "weather": {
   "game_id": "2026_10_MIN_GB",
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 38,
-  "wind_mph": 1,
-  "gust_mph": 4,
+  "temp_f": 44,
+  "wind_mph": 4,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -36,21 +36,60 @@
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Jordan Love",
+   "team": "GB",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 252.5,
+   "title": "Jordan Love Under 252.5 passing yards",
+   "price": -112,
+   "book": "draftkings",
+   "model_prob": 0.577,
+   "fair_prob": 0.5,
+   "prob_edge": 0.077,
+   "edge": 0.0921,
+   "projection": 216.07,
+   "flags": [],
+   "why": [
+    "Model projects 216 yards vs. a line of 252.5 (72% chance to go under on its own).",
+    "Expected to throw about 33 times; completion % over expected is +7.9 lately.",
+    "The Vikings defense allows 13% fewer passing yards to QBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Jordan Mason",
+   "team": "MIN",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Jordan Mason Yes anytime TD",
+   "price": 220,
+   "book": "fanduel",
+   "model_prob": 0.3912,
+   "fair_prob": 0.2921,
+   "prob_edge": 0.0991,
+   "edge": 0.2518,
+   "projection": 0.86,
+   "flags": [],
+   "why": [
+    "Model gives him a 58% chance to score; the odds imply about 29%.",
+    "Gets 49% of the Vikings' red-zone touches.",
+    "With Kyler Murray, T.J. Hockenson out, there's more work to go around."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
-  {
-   "player": "Myles Price",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.2,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 16.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
   {
    "player": "Carson Wentz",
    "team": "MIN",
@@ -84,28 +123,6 @@
    "tds": 0.4
   },
   {
-   "player": "Aaron Jones",
-   "team": "MIN",
-   "position": "RB",
-   "rush_yds": 42.1,
-   "targets": 2.4,
-   "receptions": 1.9,
-   "rec_yds": 13.4,
-   "carries": 10.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Gavin Bartholomew",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.3,
-   "receptions": 1.6,
-   "rec_yds": 13.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "Jordan Mason",
    "team": "MIN",
    "position": "RB",
@@ -115,6 +132,17 @@
    "rec_yds": 11.8,
    "carries": 10.2,
    "tds": 0.9
+  },
+  {
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 42.1,
+   "targets": 2.4,
+   "receptions": 1.9,
+   "rec_yds": 13.4,
+   "carries": 10.2,
+   "tds": 0.2
   },
   {
    "player": "Jordan Addison",
@@ -128,15 +156,36 @@
    "tds": 0.1
   },
   {
-   "player": "MarShawn Lloyd",
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.3,
+   "receptions": 1.6,
+   "rec_yds": 13.6,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Myles Price",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.2,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 16.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Jordan Love",
    "team": "GB",
-   "position": "RB",
-   "rush_yds": 28.9,
-   "targets": 1.7,
-   "receptions": 1.2,
-   "rec_yds": 7.2,
-   "carries": 8.3,
-   "tds": 0.4
+   "position": "QB",
+   "rush_yds": 5.2,
+   "pass_yds": 216.1,
+   "pass_att": 33.1,
+   "carries": 1.7,
+   "tds": 0.1
   },
   {
    "player": "Savion Williams",
@@ -150,6 +199,17 @@
    "tds": 0.2
   },
   {
+   "player": "Kaleb Johnson",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 28.8,
+   "targets": 0.2,
+   "receptions": 0.1,
+   "rec_yds": 0.7,
+   "carries": 6.5,
+   "tds": 0.1
+  },
+  {
    "player": "Pierre Strong",
    "team": "GB",
    "position": "RB",
@@ -159,17 +219,6 @@
    "rec_yds": 11.8,
    "carries": 5.6,
    "tds": 0.4
-  },
-  {
-   "player": "Christian Watson",
-   "team": "GB",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.5,
-   "receptions": 4.7,
-   "rec_yds": 71.3,
-   "carries": 0.0,
-   "tds": 0.2
   },
   {
    "player": "Tucker Kraft",
@@ -183,25 +232,26 @@
    "tds": 0.3
   },
   {
-   "player": "Jordan Love",
+   "player": "Christian Watson",
    "team": "GB",
-   "position": "QB",
-   "rush_yds": 5.2,
-   "pass_yds": 216.1,
-   "pass_att": 33.1,
-   "carries": 1.7,
-   "tds": 0.1
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.5,
+   "receptions": 4.7,
+   "rec_yds": 71.3,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
-   "player": "Kaleb Johnson",
+   "player": "MarShawn Lloyd",
    "team": "GB",
    "position": "RB",
-   "rush_yds": 28.8,
-   "targets": 0.2,
-   "receptions": 0.1,
-   "rec_yds": 0.7,
-   "carries": 6.5,
-   "tds": 0.1
+   "rush_yds": 28.9,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 7.2,
+   "carries": 8.3,
+   "tds": 0.4
   },
   {
    "player": "Matthew Golden",

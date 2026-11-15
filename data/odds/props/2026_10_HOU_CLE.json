@@ -1,0 +1,1446 @@
+{
+ "game_id": "2026_10_HOU_CLE",
+ "pulled_at": "2026-11-15T11:40-05:00",
+ "props": [
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Woody Marks",
+   "side": "Yes",
+   "line": null,
+   "price": 130
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Quinshon Judkins",
+   "side": "Yes",
+   "line": null,
+   "price": 160
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Nico Collins",
+   "side": "Yes",
+   "line": null,
+   "price": 165
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Denzel Boston",
+   "side": "Yes",
+   "line": null,
+   "price": 255
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "KC Concepcion",
+   "side": "Yes",
+   "line": null,
+   "price": 260
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Harold Fannin Jr.",
+   "side": "Yes",
+   "line": null,
+   "price": 275
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Dalton Schultz",
+   "side": "Yes",
+   "line": null,
+   "price": 280
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tank Dell",
+   "side": "Yes",
+   "line": null,
+   "price": 350
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Xavier Hutchinson",
+   "side": "Yes",
+   "line": null,
+   "price": 380
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Cleveland Browns D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 475
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Houston Texans D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 475
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Dylan Sampson",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kayshon Boutte",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Deshaun Watson",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Foster Moreau",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "C.J. Stroud",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jerry Jeudy",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Blake Whiteheart",
+   "side": "Yes",
+   "line": null,
+   "price": 1100
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Cade Stover",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Marlin Klein",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Dare Ogunbowale",
+   "side": "Yes",
+   "line": null,
+   "price": 1700
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Isaiah Bond",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tylan Wallace",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Malachi Corley",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jaleel McLaughlin",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Carsen Ryan",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "C.J. Stroud",
+   "side": "Over",
+   "line": 243.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "C.J. Stroud",
+   "side": "Under",
+   "line": 243.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Deshaun Watson",
+   "side": "Over",
+   "line": 205.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Deshaun Watson",
+   "side": "Under",
+   "line": 205.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Nico Collins",
+   "side": "Over",
+   "line": 60.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Nico Collins",
+   "side": "Under",
+   "line": 60.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "KC Concepcion",
+   "side": "Over",
+   "line": 48.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "KC Concepcion",
+   "side": "Under",
+   "line": 48.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Denzel Boston",
+   "side": "Over",
+   "line": 45.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Denzel Boston",
+   "side": "Under",
+   "line": 45.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tank Dell",
+   "side": "Over",
+   "line": 41.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tank Dell",
+   "side": "Under",
+   "line": 41.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Harold Fannin Jr.",
+   "side": "Over",
+   "line": 38.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Harold Fannin Jr.",
+   "side": "Under",
+   "line": 38.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Xavier Hutchinson",
+   "side": "Over",
+   "line": 32.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Xavier Hutchinson",
+   "side": "Under",
+   "line": 32.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dalton Schultz",
+   "side": "Over",
+   "line": 27.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dalton Schultz",
+   "side": "Under",
+   "line": 27.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 23.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 23.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kayshon Boutte",
+   "side": "Over",
+   "line": 22.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Kayshon Boutte",
+   "side": "Under",
+   "line": 22.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Jerry Jeudy",
+   "side": "Over",
+   "line": 17.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Jerry Jeudy",
+   "side": "Under",
+   "line": 17.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 10.5,
+   "price": -106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 10.5,
+   "price": -119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 6.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 6.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Foster Moreau",
+   "side": "Over",
+   "line": 3.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Foster Moreau",
+   "side": "Under",
+   "line": 3.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "KC Concepcion",
+   "side": "Over",
+   "line": 4.5,
+   "price": -105
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "KC Concepcion",
+   "side": "Under",
+   "line": 4.5,
+   "price": -121
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Nico Collins",
+   "side": "Over",
+   "line": 4.5,
+   "price": 106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Nico Collins",
+   "side": "Under",
+   "line": 4.5,
+   "price": -136
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Harold Fannin Jr.",
+   "side": "Over",
+   "line": 3.5,
+   "price": -151
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Harold Fannin Jr.",
+   "side": "Under",
+   "line": 3.5,
+   "price": 118
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 3.5,
+   "price": 104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -133
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Denzel Boston",
+   "side": "Over",
+   "line": 3.5,
+   "price": 119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Denzel Boston",
+   "side": "Under",
+   "line": 3.5,
+   "price": -152
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dalton Schultz",
+   "side": "Over",
+   "line": 3.5,
+   "price": 129
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dalton Schultz",
+   "side": "Under",
+   "line": 3.5,
+   "price": -165
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Xavier Hutchinson",
+   "side": "Over",
+   "line": 3.5,
+   "price": 130
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Xavier Hutchinson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -166
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tank Dell",
+   "side": "Over",
+   "line": 2.5,
+   "price": -147
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tank Dell",
+   "side": "Under",
+   "line": 2.5,
+   "price": 115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 1.5,
+   "price": -164
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 1.5,
+   "price": 128
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kayshon Boutte",
+   "side": "Over",
+   "line": 1.5,
+   "price": -155
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Kayshon Boutte",
+   "side": "Under",
+   "line": 1.5,
+   "price": 122
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Jerry Jeudy",
+   "side": "Over",
+   "line": 1.5,
+   "price": -144
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Jerry Jeudy",
+   "side": "Under",
+   "line": 1.5,
+   "price": 113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 1.5,
+   "price": 145
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 1.5,
+   "price": -187
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Foster Moreau",
+   "side": "Over",
+   "line": 0.5,
+   "price": -145
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Foster Moreau",
+   "side": "Under",
+   "line": 0.5,
+   "price": 114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 61.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 61.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 43.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 43.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Deshaun Watson",
+   "side": "Over",
+   "line": 22.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Deshaun Watson",
+   "side": "Under",
+   "line": 22.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 19.5,
+   "price": -107
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 19.5,
+   "price": -117
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "C.J. Stroud",
+   "side": "Over",
+   "line": 8.5,
+   "price": -119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "C.J. Stroud",
+   "side": "Under",
+   "line": 8.5,
+   "price": -106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Woody Marks",
+   "side": "Yes",
+   "line": null,
+   "price": 130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Quinshon Judkins",
+   "side": "Yes",
+   "line": null,
+   "price": 175
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Nico Collins",
+   "side": "Yes",
+   "line": null,
+   "price": 180
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Denzel Boston",
+   "side": "Yes",
+   "line": null,
+   "price": 250
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Dalton Schultz",
+   "side": "Yes",
+   "line": null,
+   "price": 250
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Harold Fannin Jr.",
+   "side": "Yes",
+   "line": null,
+   "price": 260
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "KC Concepcion",
+   "side": "Yes",
+   "line": null,
+   "price": 280
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tank Dell",
+   "side": "Yes",
+   "line": null,
+   "price": 360
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Xavier Hutchinson",
+   "side": "Yes",
+   "line": null,
+   "price": 390
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kayshon Boutte",
+   "side": "Yes",
+   "line": null,
+   "price": 470
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Deshaun Watson",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Dylan Sampson",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Foster Moreau",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "C.J. Stroud",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jerry Jeudy",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Cleveland Browns Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Houston Texans Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Blake Whiteheart",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Cade Stover",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Dare Ogunbowale",
+   "side": "Yes",
+   "line": null,
+   "price": 1600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Marlin Klein",
+   "side": "Yes",
+   "line": null,
+   "price": 1700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tylan Wallace",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Isaiah Bond",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Malachi Corley",
+   "side": "Yes",
+   "line": null,
+   "price": 2700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jaleel McLaughlin",
+   "side": "Yes",
+   "line": null,
+   "price": 2700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Carsen Ryan",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "C.J. Stroud",
+   "side": "Over",
+   "line": 244.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "C.J. Stroud",
+   "side": "Under",
+   "line": 244.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Deshaun Watson",
+   "side": "Over",
+   "line": 208.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Deshaun Watson",
+   "side": "Under",
+   "line": 208.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 22.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 22.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 5.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 5.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tank Dell",
+   "side": "Over",
+   "line": 40.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tank Dell",
+   "side": "Under",
+   "line": 40.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Nico Collins",
+   "side": "Over",
+   "line": 58.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Nico Collins",
+   "side": "Under",
+   "line": 58.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Xavier Hutchinson",
+   "side": "Over",
+   "line": 32.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Xavier Hutchinson",
+   "side": "Under",
+   "line": 32.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Denzel Boston",
+   "side": "Over",
+   "line": 45.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Denzel Boston",
+   "side": "Under",
+   "line": 45.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dalton Schultz",
+   "side": "Over",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dalton Schultz",
+   "side": "Under",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Harold Fannin Jr.",
+   "side": "Over",
+   "line": 39.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Harold Fannin Jr.",
+   "side": "Under",
+   "line": 39.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jerry Jeudy",
+   "side": "Over",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jerry Jeudy",
+   "side": "Under",
+   "line": 17.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kayshon Boutte",
+   "side": "Over",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Kayshon Boutte",
+   "side": "Under",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "KC Concepcion",
+   "side": "Over",
+   "line": 48.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "KC Concepcion",
+   "side": "Under",
+   "line": 48.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Denzel Boston",
+   "side": "Over",
+   "line": 3.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Denzel Boston",
+   "side": "Under",
+   "line": 3.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 1.5,
+   "price": 154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 1.5,
+   "price": -210
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 3.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Nico Collins",
+   "side": "Over",
+   "line": 4.5,
+   "price": 106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Nico Collins",
+   "side": "Under",
+   "line": 4.5,
+   "price": -140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tank Dell",
+   "side": "Over",
+   "line": 2.5,
+   "price": -148
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tank Dell",
+   "side": "Under",
+   "line": 2.5,
+   "price": 112
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Jerry Jeudy",
+   "side": "Over",
+   "line": 1.5,
+   "price": -140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Jerry Jeudy",
+   "side": "Under",
+   "line": 1.5,
+   "price": 106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dalton Schultz",
+   "side": "Over",
+   "line": 3.5,
+   "price": 128
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dalton Schultz",
+   "side": "Under",
+   "line": 3.5,
+   "price": -172
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Xavier Hutchinson",
+   "side": "Over",
+   "line": 2.5,
+   "price": -192
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Xavier Hutchinson",
+   "side": "Under",
+   "line": 2.5,
+   "price": 142
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 1.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 1.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "KC Concepcion",
+   "side": "Over",
+   "line": 4.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "KC Concepcion",
+   "side": "Under",
+   "line": 4.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kayshon Boutte",
+   "side": "Over",
+   "line": 1.5,
+   "price": -148
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Kayshon Boutte",
+   "side": "Under",
+   "line": 1.5,
+   "price": 112
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Harold Fannin Jr.",
+   "side": "Over",
+   "line": 3.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Harold Fannin Jr.",
+   "side": "Under",
+   "line": 3.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Woody Marks",
+   "side": "Over",
+   "line": 61.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Woody Marks",
+   "side": "Under",
+   "line": 61.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Quinshon Judkins",
+   "side": "Over",
+   "line": 43.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Quinshon Judkins",
+   "side": "Under",
+   "line": 43.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Deshaun Watson",
+   "side": "Over",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Deshaun Watson",
+   "side": "Under",
+   "line": 21.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "C.J. Stroud",
+   "side": "Over",
+   "line": 8.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "C.J. Stroud",
+   "side": "Under",
+   "line": 8.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Dylan Sampson",
+   "side": "Over",
+   "line": 18.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Dylan Sampson",
+   "side": "Under",
+   "line": 18.5,
+   "price": -113
+  }
+ ]
+}

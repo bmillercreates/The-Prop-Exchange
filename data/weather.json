@@ -306,20 +306,20 @@
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 45,
-  "wind_mph": 12,
-  "gust_mph": 15,
-  "precip_in": 0.02,
-  "precip_chance": 6
+  "temp_f": 46,
+  "wind_mph": 15,
+  "gust_mph": 18,
+  "precip_in": 0.0,
+  "precip_chance": 5
  },
  "2026_10_MIN_GB": {
   "game_id": "2026_10_MIN_GB",
   "stadium": "Lambeau Field",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 38,
-  "wind_mph": 1,
-  "gust_mph": 4,
+  "temp_f": 44,
+  "wind_mph": 4,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -340,11 +340,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-15T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 9,
-  "gust_mph": 16,
+  "temp_f": 47,
+  "wind_mph": 10,
+  "gust_mph": 18,
   "precip_in": 0.0,
-  "precip_chance": 1
+  "precip_chance": 0
  },
  "2026_10_JAX_TEN": {
   "game_id": "2026_10_JAX_TEN",
@@ -353,7 +353,7 @@
   "covered": false,
   "temp_f": 54,
   "wind_mph": 7,
-  "gust_mph": 10,
+  "gust_mph": 9,
   "precip_in": 0.0,
   "precip_chance": 0
  },
