@@ -1,24 +1,24 @@
 {
  "game_id": "2026_10_PIT_CIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-14T14:41-05:00",
+ "updated_at": "2026-11-15T15:07-05:00",
  "kickoff": "2026-11-15T20:20",
  "weekday": "Sunday",
  "away": "PIT",
  "home": "CIN",
  "stadium": "Paycor Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-15T15:07-05:00",
  "weather": {
   "game_id": "2026_10_PIT_CIN",
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-15T20:20:00-05:00",
   "covered": false,
-  "temp_f": 41,
+  "temp_f": 39,
   "wind_mph": 4,
-  "gust_mph": 10,
+  "gust_mph": 11,
   "precip_in": 0.0,
-  "precip_chance": 1
+  "precip_chance": 0
  },
  "teams": {
   "PIT": {
@@ -39,31 +39,36 @@
   }
  },
  "blue_chips": [],
- "penny_stocks": [],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Germie Bernard",
+   "team": "PIT",
+   "position": "WR",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Germie Bernard Yes anytime TD",
+   "price": 290,
+   "book": "draftkings",
+   "model_prob": 0.2781,
+   "fair_prob": 0.2396,
+   "prob_edge": 0.0385,
+   "edge": 0.0847,
+   "projection": 0.43,
+   "flags": [
+    "playing time has swung a lot"
+   ],
+   "why": [
+    "Model gives him a 35% chance to score; the odds imply about 24%.",
+    "Gets 20% of the Steelers' red-zone touches.",
+    "Also factored in: coming off a bye."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
-  {
-   "player": "Darnell Washington",
-   "team": "PIT",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.3,
-   "receptions": 3.2,
-   "rec_yds": 42.9,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Jaylen Warren",
-   "team": "PIT",
-   "position": "RB",
-   "rush_yds": 75.5,
-   "targets": 4.4,
-   "receptions": 3.2,
-   "rec_yds": 32.1,
-   "carries": 14.0,
-   "tds": 0.5
-  },
   {
    "player": "DK Metcalf",
    "team": "PIT",
@@ -74,6 +79,27 @@
    "rec_yds": 56.5,
    "carries": 0.1,
    "tds": 0.2
+  },
+  {
+   "player": "Aaron Rodgers",
+   "team": "PIT",
+   "position": "QB",
+   "rush_yds": 5.7,
+   "pass_yds": 252.9,
+   "pass_att": 35.6,
+   "carries": 1.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Darnell Washington",
+   "team": "PIT",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.3,
+   "receptions": 3.2,
+   "rec_yds": 42.9,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Pat Freiermuth",
@@ -87,16 +113,6 @@
    "tds": 0.3
   },
   {
-   "player": "Aaron Rodgers",
-   "team": "PIT",
-   "position": "QB",
-   "rush_yds": 5.7,
-   "pass_yds": 252.9,
-   "pass_att": 35.6,
-   "carries": 1.3,
-   "tds": 0.0
-  },
-  {
    "player": "Rico Dowdle",
    "team": "PIT",
    "position": "RB",
@@ -105,6 +121,17 @@
    "receptions": 2.4,
    "rec_yds": 17.5,
    "carries": 7.7,
+   "tds": 0.5
+  },
+  {
+   "player": "Jaylen Warren",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 75.5,
+   "targets": 4.4,
+   "receptions": 3.2,
+   "rec_yds": 32.1,
+   "carries": 14.0,
    "tds": 0.5
   },
   {
@@ -130,17 +157,6 @@
    "tds": 0.1
   },
   {
-   "player": "Dohnte Meyers",
-   "team": "CIN",
-   "position": "WR",
-   "rush_yds": 1.3,
-   "targets": 3.0,
-   "receptions": 2.0,
-   "rec_yds": 24.3,
-   "carries": 0.3,
-   "tds": 0.1
-  },
-  {
    "player": "Joe Burrow",
    "team": "CIN",
    "position": "QB",
@@ -148,6 +164,39 @@
    "pass_yds": 278.1,
    "pass_att": 34.9,
    "carries": 3.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Tee Higgins",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.9,
+   "receptions": 5.5,
+   "rec_yds": 78.5,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Mitchell Tinsley",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.1,
+   "rec_yds": 13.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Mike Gesicki",
+   "team": "CIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.2,
+   "rec_yds": 26.5,
+   "carries": 0.0,
    "tds": 0.2
   },
   {
@@ -162,26 +211,15 @@
    "tds": 0.7
   },
   {
-   "player": "Mitchell Tinsley",
+   "player": "Dohnte Meyers",
    "team": "CIN",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.1,
-   "rec_yds": 13.1,
-   "carries": 0.0,
+   "rush_yds": 1.3,
+   "targets": 3.0,
+   "receptions": 2.0,
+   "rec_yds": 24.3,
+   "carries": 0.3,
    "tds": 0.1
-  },
-  {
-   "player": "Tee Higgins",
-   "team": "CIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 7.9,
-   "receptions": 5.5,
-   "rec_yds": 78.5,
-   "carries": 0.0,
-   "tds": 0.4
   },
   {
    "player": "Samaje Perine",
@@ -204,17 +242,6 @@
    "rec_yds": 31.7,
    "carries": 13.6,
    "tds": 0.4
-  },
-  {
-   "player": "Mike Gesicki",
-   "team": "CIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 2.2,
-   "rec_yds": 26.5,
-   "carries": 0.0,
-   "tds": 0.2
   }
  ]
 }
