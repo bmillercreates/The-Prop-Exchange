@@ -57,14 +57,14 @@
  },
  {
   "event_id": "6079a5cbabf99b265a17edfc92a1da60",
-  "game_id": "2026_10_SEA_LV",
+  "game_id": null,
   "away": "Seattle Seahawks",
   "home": "Las Vegas Raiders",
   "kickoff_et": "2026-11-15T16:05:00-05:00"
  },
  {
   "event_id": "7627192fd89b05120ab6c712aa23fd81",
-  "game_id": null,
+  "game_id": "2026_10_SF_DAL",
   "away": "San Francisco 49ers",
   "home": "Dallas Cowboys",
   "kickoff_et": "2026-11-15T16:25:00-05:00"
