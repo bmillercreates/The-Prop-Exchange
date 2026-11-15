@@ -1,14 +1,14 @@
 {
  "game_id": "2026_10_NE_DET",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-14T14:41-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-15T08:10-05:00",
  "kickoff": "2026-11-15T09:30",
  "weekday": "Sunday",
  "away": "NE",
  "home": "DET",
  "stadium": "FC Bayern Munich Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-15T08:10-05:00",
  "weather": {
   "game_id": "2026_10_NE_DET",
   "stadium": "FC Bayern Munich Stadium",
@@ -31,30 +31,95 @@
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Jared Goff",
+   "team": "DET",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 273.5,
+   "title": "Jared Goff Under 273.5 passing yards",
+   "price": -112,
+   "book": "draftkings",
+   "model_prob": 0.5827,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0827,
+   "edge": 0.1029,
+   "projection": 230.36,
+   "flags": [],
+   "why": [
+    "Model projects 230 yards vs. a line of 273.5 (74% chance to go under on its own).",
+    "Expected to throw about 29 times; completion % over expected is +1.2 lately.",
+    "The Patriots defense allows 5% more passing yards to QBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Drake Maye",
+   "team": "NE",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 261.5,
+   "title": "Drake Maye Over 261.5 passing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.5492,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0492,
+   "edge": 0.0353,
+   "projection": 308.75,
+   "flags": [],
+   "why": [
+    "Model projects 309 yards vs. a line of 261.5 (64% chance to go over on its own).",
+    "Expected to throw about 34 times; completion % over expected is +7.6 lately.",
+    "The Lions defense allows 12% more passing yards to QBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Eli Raridon",
+   "team": "NE",
+   "position": "TE",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Eli Raridon Yes anytime TD",
+   "price": 360,
+   "book": "fanduel",
+   "model_prob": 0.2365,
+   "fair_prob": 0.2032,
+   "prob_edge": 0.0334,
+   "edge": 0.088,
+   "projection": 0.35,
+   "flags": [
+    "playing time has swung a lot"
+   ],
+   "why": [
+    "Model gives him a 30% chance to score; the odds imply about 20%.",
+    "Gets 14% of the Patriots' red-zone touches.",
+    "With TreVeyon Henderson out, there's more work to go around."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
   {
-   "player": "Kyle Williams",
+   "player": "Corey Kiner",
    "team": "NE",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 17.3,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Hunter Henry",
-   "team": "NE",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.7,
-   "receptions": 4.1,
-   "rec_yds": 48.3,
-   "carries": 0.0,
+   "position": "RB",
+   "rush_yds": 27.8,
+   "targets": 0.1,
+   "receptions": 0.1,
+   "rec_yds": 0.7,
+   "carries": 7.2,
    "tds": 0.2
   },
   {
@@ -69,6 +134,28 @@
    "tds": 0.4
   },
   {
+   "player": "Hunter Henry",
+   "team": "NE",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.7,
+   "receptions": 4.1,
+   "rec_yds": 48.3,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "A.J. Brown",
+   "team": "NE",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.2,
+   "receptions": 3.6,
+   "rec_yds": 46.3,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
    "player": "Drake Maye",
    "team": "NE",
    "position": "QB",
@@ -79,13 +166,13 @@
    "tds": 0.1
   },
   {
-   "player": "A.J. Brown",
+   "player": "Kyle Williams",
    "team": "NE",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 3.6,
-   "rec_yds": 46.3,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 17.3,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -101,25 +188,14 @@
    "tds": 0.4
   },
   {
-   "player": "DeMario Douglas",
+   "player": "Efton Chism III",
    "team": "NE",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.7,
-   "receptions": 4.0,
-   "rec_yds": 55.3,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Corey Kiner",
-   "team": "NE",
-   "position": "RB",
-   "rush_yds": 27.8,
-   "targets": 0.1,
-   "receptions": 0.1,
-   "rec_yds": 0.7,
-   "carries": 7.2,
+   "rush_yds": 0.3,
+   "targets": 3.3,
+   "receptions": 2.5,
+   "rec_yds": 28.9,
+   "carries": 0.1,
    "tds": 0.2
   },
   {
@@ -134,26 +210,15 @@
    "tds": 0.4
   },
   {
-   "player": "Efton Chism III",
+   "player": "DeMario Douglas",
    "team": "NE",
    "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 3.3,
-   "receptions": 2.5,
-   "rec_yds": 28.9,
-   "carries": 0.1,
-   "tds": 0.2
-  },
-  {
-   "player": "Amon-Ra St. Brown",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 1.3,
-   "targets": 9.6,
-   "receptions": 6.9,
-   "rec_yds": 84.1,
-   "carries": 0.3,
-   "tds": 0.4
+   "rush_yds": 0.0,
+   "targets": 5.7,
+   "receptions": 4.0,
+   "rec_yds": 55.3,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Jared Goff",
@@ -164,6 +229,28 @@
    "pass_att": 28.9,
    "carries": 2.7,
    "tds": 0.0
+  },
+  {
+   "player": "Jahmyr Gibbs",
+   "team": "DET",
+   "position": "RB",
+   "rush_yds": 106.6,
+   "targets": 4.4,
+   "receptions": 3.2,
+   "rec_yds": 25.4,
+   "carries": 24.5,
+   "tds": 1.5
+  },
+  {
+   "player": "Isaac TeSlaa",
+   "team": "DET",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.4,
+   "rec_yds": 23.7,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Sam LaPorta",
@@ -188,15 +275,15 @@
    "tds": 0.0
   },
   {
-   "player": "Isaac TeSlaa",
+   "player": "Amon-Ra St. Brown",
    "team": "DET",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.4,
-   "rec_yds": 23.7,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 1.3,
+   "targets": 9.6,
+   "receptions": 6.9,
+   "rec_yds": 84.1,
+   "carries": 0.3,
+   "tds": 0.4
   },
   {
    "player": "Jameson Williams",
@@ -208,17 +295,6 @@
    "rec_yds": 51.8,
    "carries": 0.2,
    "tds": 0.4
-  },
-  {
-   "player": "Jahmyr Gibbs",
-   "team": "DET",
-   "position": "RB",
-   "rush_yds": 106.6,
-   "targets": 4.4,
-   "receptions": 3.2,
-   "rec_yds": 25.4,
-   "carries": 24.5,
-   "tds": 1.5
   }
  ]
 }
