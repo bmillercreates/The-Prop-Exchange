@@ -380,9 +380,9 @@
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-15T20:20:00-05:00",
   "covered": false,
-  "temp_f": 39,
+  "temp_f": 38,
   "wind_mph": 4,
-  "gust_mph": 11,
+  "gust_mph": 6,
   "precip_in": 0.0,
   "precip_chance": 0
  },
