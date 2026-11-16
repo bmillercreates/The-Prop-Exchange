@@ -391,9 +391,9 @@
   "stadium": "M&T Bank Stadium",
   "kickoff_et": "2026-11-16T20:15:00-05:00",
   "covered": false,
-  "temp_f": 38,
-  "wind_mph": 4,
-  "gust_mph": 6,
+  "temp_f": 44,
+  "wind_mph": 6,
+  "gust_mph": 11,
   "precip_in": 0.0,
   "precip_chance": 0
  },

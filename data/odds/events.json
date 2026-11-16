@@ -1,35 +1,7 @@
 [
  {
-  "event_id": "6079a5cbabf99b265a17edfc92a1da60",
-  "game_id": null,
-  "away": "Seattle Seahawks",
-  "home": "Las Vegas Raiders",
-  "kickoff_et": "2026-11-15T16:05:16-05:00"
- },
- {
-  "event_id": "6c932a965110f3f89ec4a5f1a6ac256e",
-  "game_id": null,
-  "away": "Los Angeles Rams",
-  "home": "Arizona Cardinals",
-  "kickoff_et": "2026-11-15T16:05:45-05:00"
- },
- {
-  "event_id": "7627192fd89b05120ab6c712aa23fd81",
-  "game_id": null,
-  "away": "San Francisco 49ers",
-  "home": "Dallas Cowboys",
-  "kickoff_et": "2026-11-15T16:25:51-05:00"
- },
- {
-  "event_id": "48e497c230e6c9afcb3b600091d28e17",
-  "game_id": "2026_10_PIT_CIN",
-  "away": "Pittsburgh Steelers",
-  "home": "Cincinnati Bengals",
-  "kickoff_et": "2026-11-15T20:20:00-05:00"
- },
- {
   "event_id": "35e3bdff558b5d1506251e814986f164",
-  "game_id": null,
+  "game_id": "2026_10_LAC_BAL",
   "away": "Los Angeles Chargers",
   "home": "Baltimore Ravens",
   "kickoff_et": "2026-11-16T20:15:00-05:00"
