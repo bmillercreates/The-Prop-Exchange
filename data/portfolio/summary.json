@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-15T16:20-05:00",
+ "updated_at": "2026-11-15T19:25-05:00",
  "overall": {
   "wins": 59,
-  "losses": 70,
+  "losses": 73,
   "pushes": 0,
-  "units": 3.39,
-  "roi": 0.0263,
-  "hit_rate": 0.4574,
-  "bets": 129
+  "units": 0.39,
+  "roi": 0.003,
+  "hit_rate": 0.447,
+  "bets": 132
  },
  "tiers": {
   "Blue Chip": {
    "wins": 41,
-   "losses": 41,
+   "losses": 44,
    "pushes": 0,
-   "units": -4.43,
-   "roi": -0.054,
-   "hit_rate": 0.5,
-   "bets": 82
+   "units": -7.43,
+   "roi": -0.0874,
+   "hit_rate": 0.4824,
+   "bets": 85
   },
   "Penny Stock": {
    "wins": 13,
@@ -69,10 +69,67 @@
   },
   {
    "date": "2026-11-15",
-   "units": 3.39
+   "units": 0.39
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_10_SEA_LV",
+   "matchup": "SEA @ LV",
+   "kickoff": "2026-11-15T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-15T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Jaxon Smith-Njigba Under 7.5 receptions",
+   "player": "Jaxon Smith-Njigba",
+   "market": "player_receptions",
+   "side": "Under",
+   "line": 7.5,
+   "price": -139,
+   "edge": 0.0386,
+   "actual": 8.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_10_SEA_LV",
+   "matchup": "SEA @ LV",
+   "kickoff": "2026-11-15T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-15T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Michael Mayer Over 2.5 receptions",
+   "player": "Michael Mayer",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 2.5,
+   "price": -140,
+   "edge": -0.0042,
+   "actual": 2.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_10_SEA_LV",
+   "matchup": "SEA @ LV",
+   "kickoff": "2026-11-15T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-15T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Jalen Nailor Over 1.5 receptions",
+   "player": "Jalen Nailor",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 1.5,
+   "price": 108,
+   "edge": 0.001,
+   "actual": 1.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_10_BUF_NYJ",
    "matchup": "BUF @ NYJ",
@@ -606,63 +663,6 @@
    "actual": 303.0,
    "result": "loss",
    "units": -1.0
-  },
-  {
-   "game_id": "2026_10_NE_DET",
-   "matchup": "NE @ DET",
-   "kickoff": "2026-11-15T09:30",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T12:50-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Drake Maye Over 261.5 passing yards",
-   "player": "Drake Maye",
-   "market": "player_pass_yds",
-   "side": "Over",
-   "line": 261.5,
-   "price": -113,
-   "edge": 0.0353,
-   "actual": 48.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_WAS_NYG",
-   "matchup": "WAS @ NYG",
-   "kickoff": "2026-11-12T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-12T23:35-05:00",
-   "source": "espn",
-   "tier": "Penny Stock",
-   "title": "Malachi Fields Over 2.5 receptions",
-   "player": "Malachi Fields",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 2.5,
-   "price": 134,
-   "edge": 0.0883,
-   "actual": 3.0,
-   "result": "win",
-   "units": 1.34
-  },
-  {
-   "game_id": "2026_10_WAS_NYG",
-   "matchup": "WAS @ NYG",
-   "kickoff": "2026-11-12T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-12T23:35-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Isaiah Likely Over 4.5 receptions",
-   "player": "Isaiah Likely",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 4.5,
-   "price": 102,
-   "edge": 0.0682,
-   "actual": 9.0,
-   "result": "win",
-   "units": 1.02
   }
  ]
 }
