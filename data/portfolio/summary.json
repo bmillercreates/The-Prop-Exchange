@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-15T20:05-05:00",
+ "updated_at": "2026-11-15T23:40-05:00",
  "overall": {
   "wins": 59,
-  "losses": 76,
+  "losses": 77,
   "pushes": 0,
-  "units": -2.61,
-  "roi": -0.0193,
-  "hit_rate": 0.437,
-  "bets": 135
+  "units": -3.61,
+  "roi": -0.0265,
+  "hit_rate": 0.4338,
+  "bets": 136
  },
  "tiers": {
   "Blue Chip": {
@@ -21,12 +21,12 @@
   },
   "Penny Stock": {
    "wins": 13,
-   "losses": 22,
+   "losses": 23,
    "pushes": 0,
-   "units": 6.26,
-   "roi": 0.1789,
-   "hit_rate": 0.3714,
-   "bets": 35
+   "units": 5.26,
+   "roi": 0.1461,
+   "hit_rate": 0.3611,
+   "bets": 36
   },
   "ETF": {
    "wins": 5,
@@ -69,10 +69,29 @@
   },
   {
    "date": "2026-11-15",
-   "units": -2.61
+   "units": -3.61
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_10_PIT_CIN",
+   "matchup": "PIT @ CIN",
+   "kickoff": "2026-11-15T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-15T23:40-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Germie Bernard Yes anytime TD",
+   "player": "Germie Bernard",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 290,
+   "edge": 0.0847,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_10_SF_DAL",
    "matchup": "SF @ DAL",
@@ -644,25 +663,6 @@
    "actual": 1.0,
    "result": "win",
    "units": 0.714
-  },
-  {
-   "game_id": "2026_10_MIA_IND",
-   "matchup": "MIA @ IND",
-   "kickoff": "2026-11-15T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Jonathan Taylor Yes anytime TD",
-   "player": "Jonathan Taylor",
-   "market": "player_anytime_td",
-   "side": "Yes",
-   "line": null,
-   "price": -110,
-   "edge": 0.0526,
-   "actual": 0.0,
-   "result": "loss",
-   "units": -1.0
   }
  ]
 }

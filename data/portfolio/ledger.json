@@ -2704,5 +2704,24 @@
   "actual": 161.0,
   "result": "loss",
   "units": -1.0
+ },
+ {
+  "game_id": "2026_10_PIT_CIN",
+  "matchup": "PIT @ CIN",
+  "kickoff": "2026-11-15T20:20",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-15T23:40-05:00",
+  "source": "espn",
+  "tier": "Penny Stock",
+  "title": "Germie Bernard Yes anytime TD",
+  "player": "Germie Bernard",
+  "market": "player_anytime_td",
+  "side": "Yes",
+  "line": null,
+  "price": 290,
+  "edge": 0.0847,
+  "actual": 0.0,
+  "result": "loss",
+  "units": -1.0
  }
 ]
