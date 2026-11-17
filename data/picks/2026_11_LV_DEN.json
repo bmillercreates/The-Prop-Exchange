@@ -1,0 +1,275 @@
+{
+ "game_id": "2026_11_LV_DEN",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-17T17:46-05:00",
+ "kickoff": "2026-11-22T16:25",
+ "weekday": "Sunday",
+ "away": "LV",
+ "home": "DEN",
+ "stadium": "Empower Field at Mile High",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_11_LV_DEN",
+  "stadium": "Empower Field at Mile High",
+  "kickoff_et": "2026-11-22T16:25:00-05:00",
+  "covered": false,
+  "temp_f": 50,
+  "wind_mph": 6,
+  "gust_mph": 9,
+  "precip_in": 0.0,
+  "precip_chance": 0
+ },
+ "teams": {
+  "LV": {
+   "implied_pts": 15.2,
+   "margin": -10.0,
+   "plays": 61.0,
+   "pass_att": 38.4,
+   "notes": []
+  },
+  "DEN": {
+   "implied_pts": 25.2,
+   "margin": 10.0,
+   "plays": 57.7,
+   "pass_att": 26.7,
+   "notes": [
+    "coming off a bye"
+   ]
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Ashton Jeanty",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 24.6,
+   "targets": 6.1,
+   "receptions": 4.9,
+   "rec_yds": 48.3,
+   "carries": 7.1,
+   "tds": 0.4
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 24.3,
+   "targets": 0.8,
+   "receptions": 0.6,
+   "rec_yds": 4.9,
+   "carries": 6.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Cody White",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.9,
+   "receptions": 1.0,
+   "rec_yds": 12.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Fernando Mendoza",
+   "team": "LV",
+   "position": "QB",
+   "rush_yds": 13.2,
+   "pass_yds": 267.4,
+   "pass_att": 38.4,
+   "carries": 2.7,
+   "tds": 0.2
+  },
+  {
+   "player": "Ian Thomas",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.1,
+   "receptions": 0.9,
+   "rec_yds": 10.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Michael Mayer",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 4.5,
+   "receptions": 3.9,
+   "rec_yds": 42.4,
+   "carries": 0.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Brock Bowers",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.3,
+   "targets": 6.6,
+   "receptions": 5.1,
+   "rec_yds": 70.1,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Jalen Nailor",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.7,
+   "receptions": 2.5,
+   "rec_yds": 25.6,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jack Bech",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.9,
+   "receptions": 3.4,
+   "rec_yds": 37.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Connor Heyward",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 0.5,
+   "targets": 1.4,
+   "receptions": 1.2,
+   "rec_yds": 10.1,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Tre Tucker",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.7,
+   "targets": 5.0,
+   "receptions": 3.0,
+   "rec_yds": 40.9,
+   "carries": 0.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Pat Bryant",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.9,
+   "targets": 3.0,
+   "receptions": 1.9,
+   "rec_yds": 30.4,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "Marvin Mims Jr.",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 4.9,
+   "targets": 1.9,
+   "receptions": 1.1,
+   "rec_yds": 15.2,
+   "carries": 1.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Bo Nix",
+   "team": "DEN",
+   "position": "QB",
+   "rush_yds": 19.3,
+   "pass_yds": 180.2,
+   "pass_att": 26.7,
+   "carries": 5.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Troy Franklin",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.9,
+   "targets": 2.1,
+   "receptions": 1.2,
+   "rec_yds": 17.6,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Evan Engram",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.2,
+   "receptions": 2.1,
+   "rec_yds": 20.4,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 59.8,
+   "targets": 2.6,
+   "receptions": 1.9,
+   "rec_yds": 16.7,
+   "carries": 11.9,
+   "tds": 0.6
+  },
+  {
+   "player": "J.K. Dobbins",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 43.2,
+   "targets": 0.8,
+   "receptions": 0.6,
+   "rec_yds": 3.7,
+   "carries": 10.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Adam Trautman",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.3,
+   "rec_yds": 12.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jaylen Waddle",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 4.5,
+   "receptions": 2.6,
+   "rec_yds": 35.2,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 2.8,
+   "rec_yds": 38.0,
+   "carries": 0.0,
+   "tds": 0.4
+  }
+ ]
+}

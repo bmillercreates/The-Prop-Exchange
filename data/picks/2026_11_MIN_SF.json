@@ -1,0 +1,240 @@
+{
+ "game_id": "2026_11_MIN_SF",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-17T17:46-05:00",
+ "kickoff": "2026-11-22T20:20",
+ "weekday": "Sunday",
+ "away": "MIN",
+ "home": "SF",
+ "stadium": "Estadio Banorte",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_11_MIN_SF",
+  "stadium": "Estadio Banorte",
+  "kickoff_et": "2026-11-22T20:20:00-05:00",
+  "covered": false,
+  "temp_f": 62,
+  "wind_mph": 4,
+  "gust_mph": 22,
+  "precip_in": 0.01,
+  "precip_chance": 48
+ },
+ "teams": {
+  "MIN": {
+   "implied_pts": 21.2,
+   "margin": -3.0,
+   "plays": 58.7,
+   "pass_att": 32.7,
+   "notes": []
+  },
+  "SF": {
+   "implied_pts": 24.2,
+   "margin": 3.0,
+   "plays": 61.4,
+   "pass_att": 29.3,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Jordan Mason",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 34.9,
+   "targets": 1.5,
+   "receptions": 1.2,
+   "rec_yds": 8.8,
+   "carries": 10.1,
+   "tds": 0.5
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 1.8,
+   "rec_yds": 22.5,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 2.3,
+   "rec_yds": 21.6,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Carson Wentz",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 5.2,
+   "pass_yds": 216.6,
+   "pass_att": 32.7,
+   "carries": 1.8,
+   "tds": 0.0
+  },
+  {
+   "player": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 4.8,
+   "rec_yds": 45.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 10.4,
+   "receptions": 6.6,
+   "rec_yds": 76.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 32.6,
+   "targets": 1.8,
+   "receptions": 1.5,
+   "rec_yds": 10.7,
+   "carries": 9.3,
+   "tds": 0.4
+  },
+  {
+   "player": "Jauan Jennings",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.2,
+   "receptions": 1.4,
+   "rec_yds": 16.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Myles Price",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 1.4,
+   "targets": 2.4,
+   "receptions": 1.5,
+   "rec_yds": 16.7,
+   "carries": 0.2,
+   "tds": 0.0
+  },
+  {
+   "player": "Keenan Allen",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 25.5,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 40.8,
+   "targets": 1.0,
+   "receptions": 0.7,
+   "rec_yds": 4.0,
+   "carries": 8.9,
+   "tds": 0.2
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 13.1,
+   "pass_yds": 214.4,
+   "pass_att": 29.3,
+   "carries": 3.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Jordan Watkins",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.7,
+   "receptions": 1.7,
+   "rec_yds": 27.1,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Demarcus Robinson",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 2.0,
+   "rec_yds": 24.3,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Deebo Samuel Sr.",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 14.1,
+   "targets": 2.8,
+   "receptions": 1.9,
+   "rec_yds": 23.1,
+   "carries": 2.2,
+   "tds": 0.4
+  },
+  {
+   "player": "Brandin Cooks",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 11.6,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 56.4,
+   "targets": 4.2,
+   "receptions": 3.0,
+   "rec_yds": 25.8,
+   "carries": 12.2,
+   "tds": 1.2
+  },
+  {
+   "player": "George Kittle",
+   "team": "SF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.9,
+   "receptions": 4.4,
+   "rec_yds": 50.2,
+   "carries": 0.0,
+   "tds": 0.2
+  }
+ ]
+}

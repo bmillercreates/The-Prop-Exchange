@@ -1,0 +1,257 @@
+{
+ "game_id": "2026_11_NYJ_LAC",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-17T17:46-05:00",
+ "kickoff": "2026-11-22T16:05",
+ "weekday": "Sunday",
+ "away": "NYJ",
+ "home": "LAC",
+ "stadium": "SoFi Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_11_NYJ_LAC",
+  "stadium": "SoFi Stadium",
+  "kickoff_et": "2026-11-22T16:05:00-05:00",
+  "covered": true
+ },
+ "teams": {
+  "NYJ": {
+   "implied_pts": 19.0,
+   "margin": -3.5,
+   "plays": 58.5,
+   "pass_att": 33.6,
+   "notes": []
+  },
+  "LAC": {
+   "implied_pts": 22.5,
+   "margin": 3.5,
+   "plays": 58.9,
+   "pass_att": 29.8,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Braelon Allen",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 40.6,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 8.5,
+   "carries": 8.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Geno Smith",
+   "team": "NYJ",
+   "position": "QB",
+   "rush_yds": 2.8,
+   "pass_yds": 257.8,
+   "pass_att": 33.6,
+   "carries": 1.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.6,
+   "receptions": 4.0,
+   "rec_yds": 60.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Breece Hall",
+   "team": "NYJ",
+   "position": "RB",
+   "rush_yds": 33.3,
+   "targets": 2.8,
+   "receptions": 2.3,
+   "rec_yds": 17.4,
+   "carries": 8.9,
+   "tds": 0.4
+  },
+  {
+   "player": "Isaiah Williams",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 1.5,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 21.3,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Adonai Mitchell",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.3,
+   "receptions": 2.8,
+   "rec_yds": 44.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Garrett Wilson",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.2,
+   "receptions": 5.3,
+   "rec_yds": 71.3,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Mason Taylor",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.3,
+   "receptions": 2.4,
+   "rec_yds": 23.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kenyon Sadiq",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 18.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Oronde Gadsden II",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.1,
+   "targets": 3.3,
+   "receptions": 2.3,
+   "rec_yds": 24.5,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Tre Harris",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.6,
+   "receptions": 2.8,
+   "rec_yds": 34.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Quentin Johnston",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 1.9,
+   "targets": 3.3,
+   "receptions": 1.7,
+   "rec_yds": 23.7,
+   "carries": 0.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Keaton Mitchell",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 19.9,
+   "targets": 2.4,
+   "receptions": 1.7,
+   "rec_yds": 10.8,
+   "carries": 4.3,
+   "tds": 0.4
+  },
+  {
+   "player": "Justin Herbert",
+   "team": "LAC",
+   "position": "QB",
+   "rush_yds": 17.6,
+   "pass_yds": 190.8,
+   "pass_att": 29.8,
+   "carries": 3.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Theo Wease Jr.",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 0.9,
+   "rec_yds": 10.9,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Kimani Vidal",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 26.8,
+   "targets": 2.2,
+   "receptions": 1.4,
+   "rec_yds": 9.5,
+   "carries": 5.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Charlie Kolar",
+   "team": "LAC",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 3.4,
+   "receptions": 2.4,
+   "rec_yds": 26.2,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "KeAndre Lambert-Smith",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.1,
+   "receptions": 1.1,
+   "rec_yds": 13.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "rush_yds": 51.0,
+   "targets": 1.9,
+   "receptions": 1.4,
+   "rec_yds": 8.7,
+   "carries": 11.1,
+   "tds": 0.8
+  },
+  {
+   "player": "Ladd McConkey",
+   "team": "LAC",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.3,
+   "rec_yds": 30.8,
+   "carries": 0.0,
+   "tds": 0.0
+  }
+ ]
+}

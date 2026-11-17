@@ -1,0 +1,224 @@
+{
+ "game_id": "2026_11_TEN_DAL",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-17T17:46-05:00",
+ "kickoff": "2026-11-22T13:00",
+ "weekday": "Sunday",
+ "away": "TEN",
+ "home": "DAL",
+ "stadium": "AT&T Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_11_TEN_DAL",
+  "stadium": "AT&T Stadium",
+  "kickoff_et": "2026-11-22T13:00:00-05:00",
+  "covered": true
+ },
+ "teams": {
+  "TEN": {
+   "implied_pts": 23.0,
+   "margin": -8.5,
+   "plays": 64.2,
+   "pass_att": 39.0,
+   "notes": []
+  },
+  "DAL": {
+   "implied_pts": 31.5,
+   "margin": 8.5,
+   "plays": 70.2,
+   "pass_att": 33.1,
+   "notes": []
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Cam Ward",
+   "team": "TEN",
+   "position": "QB",
+   "rush_yds": 16.3,
+   "pass_yds": 259.9,
+   "pass_att": 39.0,
+   "carries": 2.9,
+   "tds": 0.1
+  },
+  {
+   "player": "Xavier Restrepo",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 17.6,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Daniel Bellinger",
+   "team": "TEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.3,
+   "receptions": 2.3,
+   "rec_yds": 19.9,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Tony Pollard",
+   "team": "TEN",
+   "position": "RB",
+   "rush_yds": 68.2,
+   "targets": 6.1,
+   "receptions": 4.7,
+   "rec_yds": 37.7,
+   "carries": 13.5,
+   "tds": 1.0
+  },
+  {
+   "player": "Calvin Ridley",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.1,
+   "rec_yds": 29.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Chimere Dike",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 2.0,
+   "targets": 2.9,
+   "receptions": 2.0,
+   "rec_yds": 25.5,
+   "carries": 0.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Tyjae Spears",
+   "team": "TEN",
+   "position": "RB",
+   "rush_yds": 15.5,
+   "targets": 4.0,
+   "receptions": 3.3,
+   "rec_yds": 24.7,
+   "carries": 3.2,
+   "tds": 0.0
+  },
+  {
+   "player": "Gunnar Helm",
+   "team": "TEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.4,
+   "receptions": 3.9,
+   "rec_yds": 35.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Elic Ayomanor",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.3,
+   "receptions": 4.1,
+   "rec_yds": 61.5,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Jonathan Mingo",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.2,
+   "receptions": 0.7,
+   "rec_yds": 10.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "rush_yds": 18.4,
+   "pass_yds": 266.2,
+   "pass_att": 33.1,
+   "carries": 4.2,
+   "tds": 0.1
+  },
+  {
+   "player": "CeeDee Lamb",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 1.4,
+   "targets": 11.0,
+   "receptions": 7.6,
+   "rec_yds": 106.8,
+   "carries": 0.2,
+   "tds": 0.6
+  },
+  {
+   "player": "Brevyn Spann-Ford",
+   "team": "DAL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.6,
+   "rec_yds": 14.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Ryan Flournoy",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 1.0,
+   "targets": 4.7,
+   "receptions": 3.5,
+   "rec_yds": 47.5,
+   "carries": 0.1,
+   "tds": 0.5
+  },
+  {
+   "player": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 7.8,
+   "receptions": 5.4,
+   "rec_yds": 78.9,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "KaVontae Turpin",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 5.1,
+   "targets": 1.3,
+   "receptions": 0.8,
+   "rec_yds": 11.1,
+   "carries": 0.7,
+   "tds": 0.1
+  },
+  {
+   "player": "Javonte Williams",
+   "team": "DAL",
+   "position": "RB",
+   "rush_yds": 104.3,
+   "targets": 2.2,
+   "receptions": 1.8,
+   "rec_yds": 11.7,
+   "carries": 24.3,
+   "tds": 1.1
+  }
+ ]
+}
