@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_MIN_SF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-17T17:46-05:00",
+ "updated_at": "2026-11-18T17:27-05:00",
  "kickoff": "2026-11-22T20:20",
  "weekday": "Sunday",
  "away": "MIN",
@@ -16,9 +16,9 @@
   "covered": false,
   "temp_f": 62,
   "wind_mph": 4,
-  "gust_mph": 22,
-  "precip_in": 0.01,
-  "precip_chance": 48
+  "gust_mph": 12,
+  "precip_in": 0.0,
+  "precip_chance": 35
  },
  "teams": {
   "MIN": {
@@ -41,6 +41,17 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 10.4,
+   "receptions": 6.6,
+   "rec_yds": 76.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
    "player": "Jordan Mason",
    "team": "MIN",
    "position": "RB",
@@ -50,17 +61,6 @@
    "rec_yds": 8.8,
    "carries": 10.1,
    "tds": 0.5
-  },
-  {
-   "player": "Tai Felton",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 1.8,
-   "rec_yds": 22.5,
-   "carries": 0.0,
-   "tds": 0.0
   },
   {
    "player": "Gavin Bartholomew",
@@ -74,16 +74,6 @@
    "tds": 0.1
   },
   {
-   "player": "Carson Wentz",
-   "team": "MIN",
-   "position": "QB",
-   "rush_yds": 5.2,
-   "pass_yds": 216.6,
-   "pass_att": 32.7,
-   "carries": 1.8,
-   "tds": 0.0
-  },
-  {
    "player": "T.J. Hockenson",
    "team": "MIN",
    "position": "TE",
@@ -95,26 +85,15 @@
    "tds": 0.3
   },
   {
-   "player": "Justin Jefferson",
+   "player": "Myles Price",
    "team": "MIN",
    "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 10.4,
-   "receptions": 6.6,
-   "rec_yds": 76.8,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Aaron Jones",
-   "team": "MIN",
-   "position": "RB",
-   "rush_yds": 32.6,
-   "targets": 1.8,
+   "rush_yds": 1.4,
+   "targets": 2.4,
    "receptions": 1.5,
-   "rec_yds": 10.7,
-   "carries": 9.3,
-   "tds": 0.4
+   "rec_yds": 16.7,
+   "carries": 0.2,
+   "tds": 0.0
   },
   {
    "player": "Jauan Jennings",
@@ -128,15 +107,47 @@
    "tds": 0.0
   },
   {
-   "player": "Myles Price",
+   "player": "Carson Wentz",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 5.2,
+   "pass_yds": 216.6,
+   "pass_att": 32.7,
+   "carries": 1.8,
+   "tds": 0.0
+  },
+  {
+   "player": "Tai Felton",
    "team": "MIN",
    "position": "WR",
-   "rush_yds": 1.4,
-   "targets": 2.4,
-   "receptions": 1.5,
-   "rec_yds": 16.7,
-   "carries": 0.2,
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 1.8,
+   "rec_yds": 22.5,
+   "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Aaron Jones",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 32.6,
+   "targets": 1.8,
+   "receptions": 1.5,
+   "rec_yds": 10.7,
+   "carries": 9.3,
+   "tds": 0.4
+  },
+  {
+   "player": "Brandin Cooks",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 11.6,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Keenan Allen",
@@ -161,25 +172,15 @@
    "tds": 0.2
   },
   {
-   "player": "Brock Purdy",
-   "team": "SF",
-   "position": "QB",
-   "rush_yds": 13.1,
-   "pass_yds": 214.4,
-   "pass_att": 29.3,
-   "carries": 3.4,
-   "tds": 0.1
-  },
-  {
-   "player": "Jordan Watkins",
+   "player": "Deebo Samuel Sr.",
    "team": "SF",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.7,
-   "rec_yds": 27.1,
-   "carries": 0.0,
-   "tds": 0.0
+   "rush_yds": 14.1,
+   "targets": 2.8,
+   "receptions": 1.9,
+   "rec_yds": 23.1,
+   "carries": 2.2,
+   "tds": 0.4
   },
   {
    "player": "Demarcus Robinson",
@@ -193,26 +194,26 @@
    "tds": 0.2
   },
   {
-   "player": "Deebo Samuel Sr.",
+   "player": "George Kittle",
    "team": "SF",
-   "position": "WR",
-   "rush_yds": 14.1,
-   "targets": 2.8,
-   "receptions": 1.9,
-   "rec_yds": 23.1,
-   "carries": 2.2,
-   "tds": 0.4
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.9,
+   "receptions": 4.4,
+   "rec_yds": 50.2,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
-   "player": "Brandin Cooks",
+   "player": "Jordan Watkins",
    "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 11.6,
+   "targets": 2.7,
+   "receptions": 1.7,
+   "rec_yds": 27.1,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
    "player": "Christian McCaffrey",
@@ -226,15 +227,14 @@
    "tds": 1.2
   },
   {
-   "player": "George Kittle",
+   "player": "Brock Purdy",
    "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.9,
-   "receptions": 4.4,
-   "rec_yds": 50.2,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "QB",
+   "rush_yds": 13.1,
+   "pass_yds": 214.4,
+   "pass_att": 29.3,
+   "carries": 3.4,
+   "tds": 0.1
   }
  ]
 }

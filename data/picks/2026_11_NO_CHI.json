@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_NO_CHI",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-17T17:46-05:00",
+ "updated_at": "2026-11-18T17:27-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "NO",
@@ -14,26 +14,29 @@
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 58,
-  "wind_mph": 8,
-  "gust_mph": 20,
-  "precip_in": 0.02,
-  "precip_chance": 43
+  "temp_f": 54,
+  "wind_mph": 13,
+  "gust_mph": 29,
+  "precip_in": 0.09,
+  "precip_chance": 54
  },
  "teams": {
   "NO": {
-   "implied_pts": 19.0,
+   "implied_pts": 18.5,
    "margin": -11.5,
-   "plays": 61.4,
-   "pass_att": 39.1,
-   "notes": []
+   "plays": 61.0,
+   "pass_att": 38.9,
+   "notes": [
+    "rain/snow expected"
+   ]
   },
   "CHI": {
-   "implied_pts": 30.5,
+   "implied_pts": 30.0,
    "margin": 11.5,
-   "plays": 66.2,
-   "pass_att": 29.5,
+   "plays": 65.8,
+   "pass_att": 29.3,
    "notes": [
+    "rain/snow expected",
     "coming off a bye"
    ]
   }
@@ -43,36 +46,26 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Chris Olave",
+   "player": "Travis Etienne",
    "team": "NO",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.0,
-   "receptions": 5.0,
-   "rec_yds": 69.2,
-   "carries": 0.0,
+   "position": "RB",
+   "rush_yds": 13.8,
+   "targets": 4.3,
+   "receptions": 3.3,
+   "rec_yds": 24.3,
+   "carries": 4.0,
    "tds": 0.2
   },
   {
-   "player": "Devaughn Vele",
+   "player": "Alvin Kamara",
    "team": "NO",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.5,
-   "rec_yds": 30.3,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tyler Shough",
-   "team": "NO",
-   "position": "QB",
-   "rush_yds": 11.5,
-   "pass_yds": 256.7,
-   "pass_att": 39.1,
-   "carries": 3.0,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 6.8,
+   "targets": 4.4,
+   "receptions": 3.4,
+   "rec_yds": 24.8,
+   "carries": 2.1,
+   "tds": 0.5
   },
   {
    "player": "Juwan Johnson",
@@ -81,31 +74,9 @@
    "rush_yds": 0.0,
    "targets": 3.6,
    "receptions": 2.4,
-   "rec_yds": 25.3,
+   "rec_yds": 24.4,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Audric Estime",
-   "team": "NO",
-   "position": "RB",
-   "rush_yds": 11.7,
-   "targets": 0.8,
-   "receptions": 0.6,
-   "rec_yds": 5.3,
-   "carries": 3.4,
-   "tds": 0.3
-  },
-  {
-   "player": "Alvin Kamara",
-   "team": "NO",
-   "position": "RB",
-   "rush_yds": 6.9,
-   "targets": 4.4,
-   "receptions": 3.4,
-   "rec_yds": 25.7,
-   "carries": 2.1,
-   "tds": 0.5
   },
   {
    "player": "Jordyn Tyson",
@@ -114,37 +85,123 @@
    "rush_yds": 0.0,
    "targets": 8.5,
    "receptions": 5.6,
-   "rec_yds": 62.9,
+   "rec_yds": 60.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Devaughn Vele",
+   "team": "NO",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.5,
+   "rec_yds": 29.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Tyler Shough",
+   "team": "NO",
+   "position": "QB",
+   "rush_yds": 11.4,
+   "pass_yds": 247.5,
+   "pass_att": 38.9,
+   "carries": 3.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Chris Olave",
+   "team": "NO",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.0,
+   "receptions": 5.0,
+   "rec_yds": 66.7,
    "carries": 0.0,
    "tds": 0.2
   },
   {
-   "player": "Travis Etienne",
+   "player": "Audric Estime",
    "team": "NO",
    "position": "RB",
-   "rush_yds": 13.9,
-   "targets": 4.4,
-   "receptions": 3.4,
-   "rec_yds": 25.2,
-   "carries": 4.0,
+   "rush_yds": 11.6,
+   "targets": 0.8,
+   "receptions": 0.6,
+   "rec_yds": 5.2,
+   "carries": 3.4,
+   "tds": 0.3
+  },
+  {
+   "player": "Zavion Thomas",
+   "team": "CHI",
+   "position": "WR",
+   "rush_yds": 0.4,
+   "targets": 1.5,
+   "receptions": 0.9,
+   "rec_yds": 10.7,
+   "carries": 0.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Kalif Raymond",
+   "team": "CHI",
+   "position": "WR",
+   "rush_yds": 1.2,
+   "targets": 4.3,
+   "receptions": 3.0,
+   "rec_yds": 31.0,
+   "carries": 0.2,
    "tds": 0.2
+  },
+  {
+   "player": "Colston Loveland",
+   "team": "CHI",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.5,
+   "receptions": 4.5,
+   "rec_yds": 49.5,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Rome Odunze",
    "team": "CHI",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 5.4,
-   "receptions": 3.3,
-   "rec_yds": 51.2,
+   "targets": 5.3,
+   "receptions": 3.2,
+   "rec_yds": 48.8,
    "carries": 0.0,
    "tds": 0.4
+  },
+  {
+   "player": "Caleb Williams",
+   "team": "CHI",
+   "position": "QB",
+   "rush_yds": 26.6,
+   "pass_yds": 231.0,
+   "pass_att": 29.3,
+   "carries": 5.6,
+   "tds": 0.1
+  },
+  {
+   "player": "Roschon Johnson",
+   "team": "CHI",
+   "position": "RB",
+   "rush_yds": 14.8,
+   "targets": 0.7,
+   "receptions": 0.6,
+   "rec_yds": 5.6,
+   "carries": 3.3,
+   "tds": 0.3
   },
   {
    "player": "Salvon Ahmed",
    "team": "CHI",
    "position": "RB",
-   "rush_yds": 22.3,
+   "rush_yds": 22.2,
    "targets": 0.0,
    "receptions": 0.0,
    "rec_yds": 0.0,
@@ -155,11 +212,11 @@
    "player": "D'Andre Swift",
    "team": "CHI",
    "position": "RB",
-   "rush_yds": 86.8,
+   "rush_yds": 86.3,
    "targets": 2.5,
    "receptions": 2.1,
-   "rec_yds": 17.3,
-   "carries": 19.7,
+   "rec_yds": 16.6,
+   "carries": 19.5,
    "tds": 1.2
   },
   {
@@ -167,76 +224,11 @@
    "team": "CHI",
    "position": "WR",
    "rush_yds": 2.6,
-   "targets": 7.0,
-   "receptions": 4.8,
-   "rec_yds": 64.6,
+   "targets": 7.2,
+   "receptions": 4.9,
+   "rec_yds": 63.6,
    "carries": 0.6,
    "tds": 0.4
-  },
-  {
-   "player": "Roschon Johnson",
-   "team": "CHI",
-   "position": "RB",
-   "rush_yds": 14.9,
-   "targets": 0.7,
-   "receptions": 0.6,
-   "rec_yds": 5.8,
-   "carries": 3.3,
-   "tds": 0.3
-  },
-  {
-   "player": "Sam Roush",
-   "team": "CHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.2,
-   "receptions": 0.9,
-   "rec_yds": 10.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Caleb Williams",
-   "team": "CHI",
-   "position": "QB",
-   "rush_yds": 26.8,
-   "pass_yds": 239.6,
-   "pass_att": 29.5,
-   "carries": 5.7,
-   "tds": 0.1
-  },
-  {
-   "player": "Zavion Thomas",
-   "team": "CHI",
-   "position": "WR",
-   "rush_yds": 0.4,
-   "targets": 1.5,
-   "receptions": 0.9,
-   "rec_yds": 11.2,
-   "carries": 0.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Kalif Raymond",
-   "team": "CHI",
-   "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 4.4,
-   "receptions": 3.0,
-   "rec_yds": 32.7,
-   "carries": 0.2,
-   "tds": 0.2
-  },
-  {
-   "player": "Colston Loveland",
-   "team": "CHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.6,
-   "receptions": 4.6,
-   "rec_yds": 51.7,
-   "carries": 0.0,
-   "tds": 0.3
   }
  ]
 }
