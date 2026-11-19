@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_JAX_NYG",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-18T17:27-05:00",
+ "updated_at": "2026-11-19T17:33-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "JAX",
@@ -14,11 +14,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 55,
-  "wind_mph": 13,
-  "gust_mph": 32,
-  "precip_in": 0.38,
-  "precip_chance": 31
+  "temp_f": 56,
+  "wind_mph": 12,
+  "gust_mph": 27,
+  "precip_in": 0.03,
+  "precip_chance": 62
  },
  "teams": {
   "JAX": {
@@ -56,6 +56,17 @@
    "tds": 0.1
   },
   {
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 75.2,
+   "targets": 2.2,
+   "receptions": 1.7,
+   "rec_yds": 12.9,
+   "carries": 18.5,
+   "tds": 1.0
+  },
+  {
    "player": "Chris Rodriguez Jr.",
    "team": "JAX",
    "position": "RB",
@@ -64,6 +75,61 @@
    "receptions": 0.4,
    "rec_yds": 2.6,
    "carries": 7.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Brian Thomas Jr.",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.7,
+   "receptions": 1.5,
+   "rec_yds": 16.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Ameer Abdullah",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 11.7,
+   "targets": 0.3,
+   "receptions": 0.2,
+   "rec_yds": 1.1,
+   "carries": 3.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Josh Cameron",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.1,
+   "rec_yds": 14.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Brenton Strange",
+   "team": "JAX",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.9,
+   "receptions": 3.1,
+   "rec_yds": 28.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jakobi Meyers",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 4.4,
+   "receptions": 2.8,
+   "rec_yds": 34.7,
+   "carries": 0.2,
    "tds": 0.3
   },
   {
@@ -78,72 +144,6 @@
    "tds": 0.3
   },
   {
-   "player": "Jakobi Meyers",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 4.4,
-   "receptions": 2.8,
-   "rec_yds": 34.7,
-   "carries": 0.2,
-   "tds": 0.3
-  },
-  {
-   "player": "Ameer Abdullah",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 11.7,
-   "targets": 0.3,
-   "receptions": 0.2,
-   "rec_yds": 1.1,
-   "carries": 3.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Brian Thomas Jr.",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.5,
-   "rec_yds": 16.8,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Josh Cameron",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.1,
-   "rec_yds": 14.1,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Bhayshul Tuten",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 75.2,
-   "targets": 2.2,
-   "receptions": 1.7,
-   "rec_yds": 12.9,
-   "carries": 18.5,
-   "tds": 1.0
-  },
-  {
-   "player": "Brenton Strange",
-   "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.9,
-   "receptions": 3.1,
-   "rec_yds": 28.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Trevor Lawrence",
    "team": "JAX",
    "position": "QB",
@@ -154,59 +154,70 @@
    "tds": 0.0
   },
   {
-   "player": "Theo Johnson",
-   "team": "NYG",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.4,
-   "receptions": 1.4,
-   "rec_yds": 12.6,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "Devin Singletary",
    "team": "NYG",
    "position": "RB",
    "rush_yds": 10.6,
    "targets": 1.9,
    "receptions": 1.6,
-   "rec_yds": 11.1,
+   "rec_yds": 11.0,
    "carries": 3.7,
    "tds": 0.2
+  },
+  {
+   "player": "Darnell Mooney",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 4.0,
+   "receptions": 2.2,
+   "rec_yds": 29.2,
+   "carries": 0.3,
+   "tds": 0.0
   },
   {
    "player": "Malachi Fields",
    "team": "NYG",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 4.9,
+   "targets": 4.8,
    "receptions": 3.0,
-   "rec_yds": 44.9,
+   "rec_yds": 44.6,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Cam Skattebo",
-   "team": "NYG",
-   "position": "RB",
-   "rush_yds": 37.8,
-   "targets": 2.7,
-   "receptions": 2.3,
-   "rec_yds": 17.3,
-   "carries": 11.0,
-   "tds": 0.9
   },
   {
    "player": "Isaiah Likely",
    "team": "NYG",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 8.7,
-   "receptions": 5.6,
-   "rec_yds": 48.6,
+   "targets": 8.6,
+   "receptions": 5.5,
+   "rec_yds": 48.2,
    "carries": 0.0,
    "tds": 0.3
+  },
+  {
+   "player": "Malik Nabers",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.3,
+   "receptions": 6.5,
+   "rec_yds": 81.5,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Cam Skattebo",
+   "team": "NYG",
+   "position": "RB",
+   "rush_yds": 37.8,
+   "targets": 2.6,
+   "receptions": 2.2,
+   "rec_yds": 17.2,
+   "carries": 11.0,
+   "tds": 0.9
   },
   {
    "player": "J.J. McCarthy",
@@ -219,26 +230,15 @@
    "tds": 0.0
   },
   {
-   "player": "Darnell Mooney",
+   "player": "Theo Johnson",
    "team": "NYG",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 4.0,
-   "receptions": 2.2,
-   "rec_yds": 29.4,
-   "carries": 0.3,
-   "tds": 0.0
-  },
-  {
-   "player": "Malik Nabers",
-   "team": "NYG",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 9.4,
-   "receptions": 6.5,
-   "rec_yds": 82.1,
+   "targets": 2.4,
+   "receptions": 1.4,
+   "rec_yds": 12.5,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.0
   }
  ]
 }

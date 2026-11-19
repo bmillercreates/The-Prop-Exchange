@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_CIN_WAS",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-18T17:27-05:00",
+ "updated_at": "2026-11-19T17:33-05:00",
  "kickoff": "2026-11-23T20:15",
  "weekday": "Monday",
  "away": "CIN",
@@ -14,25 +14,25 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-23T20:15:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 11,
+  "temp_f": 47,
+  "wind_mph": 12,
   "gust_mph": 25,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 0
  },
  "teams": {
   "CIN": {
-   "implied_pts": 30.5,
-   "margin": 6.5,
-   "plays": 65.5,
+   "implied_pts": 29.8,
+   "margin": 6.0,
+   "plays": 65.1,
    "pass_att": 36.5,
    "notes": []
   },
   "WAS": {
-   "implied_pts": 24.0,
-   "margin": -6.5,
-   "plays": 64.3,
-   "pass_att": 39.9,
+   "implied_pts": 23.8,
+   "margin": -6.0,
+   "plays": 64.0,
+   "pass_att": 39.5,
    "notes": []
   }
  },
@@ -40,6 +40,17 @@
  "penny_stocks": [],
  "etfs": [],
  "projections": [
+  {
+   "player": "Samaje Perine",
+   "team": "CIN",
+   "position": "RB",
+   "rush_yds": 23.8,
+   "targets": 1.5,
+   "receptions": 1.2,
+   "rec_yds": 9.4,
+   "carries": 6.8,
+   "tds": 0.4
+  },
   {
    "player": "Drew Sample",
    "team": "CIN",
@@ -52,13 +63,57 @@
    "tds": 0.2
   },
   {
+   "player": "Mitchell Tinsley",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.1,
+   "rec_yds": 14.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Ja'Marr Chase",
+   "team": "CIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 10.7,
+   "receptions": 8.0,
+   "rec_yds": 103.8,
+   "carries": 0.0,
+   "tds": 0.6
+  },
+  {
+   "player": "Chase Brown",
+   "team": "CIN",
+   "position": "RB",
+   "rush_yds": 47.9,
+   "targets": 5.9,
+   "receptions": 5.0,
+   "rec_yds": 30.0,
+   "carries": 13.4,
+   "tds": 0.5
+  },
+  {
+   "player": "Mike Gesicki",
+   "team": "CIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 2.2,
+   "rec_yds": 28.6,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
    "player": "Joe Burrow",
    "team": "CIN",
    "position": "QB",
-   "rush_yds": 13.7,
+   "rush_yds": 13.5,
    "pass_yds": 310.3,
    "pass_att": 36.5,
-   "carries": 2.9,
+   "carries": 2.8,
    "tds": 0.1
   },
   {
@@ -73,50 +128,6 @@
    "tds": 0.1
   },
   {
-   "player": "Mitchell Tinsley",
-   "team": "CIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.1,
-   "rec_yds": 14.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Samaje Perine",
-   "team": "CIN",
-   "position": "RB",
-   "rush_yds": 24.1,
-   "targets": 1.5,
-   "receptions": 1.2,
-   "rec_yds": 9.4,
-   "carries": 6.9,
-   "tds": 0.5
-  },
-  {
-   "player": "Ja'Marr Chase",
-   "team": "CIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 10.7,
-   "receptions": 8.0,
-   "rec_yds": 103.8,
-   "carries": 0.0,
-   "tds": 0.6
-  },
-  {
-   "player": "Mike Gesicki",
-   "team": "CIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 2.2,
-   "rec_yds": 28.6,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
    "player": "Tee Higgins",
    "team": "CIN",
    "position": "WR",
@@ -128,26 +139,36 @@
    "tds": 0.4
   },
   {
-   "player": "Chase Brown",
-   "team": "CIN",
-   "position": "RB",
-   "rush_yds": 48.6,
-   "targets": 5.9,
-   "receptions": 5.0,
-   "rec_yds": 30.0,
-   "carries": 13.6,
-   "tds": 0.5
+   "player": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "rush_yds": 29.9,
+   "pass_yds": 281.2,
+   "pass_att": 39.5,
+   "carries": 4.6,
+   "tds": 0.1
   },
   {
-   "player": "Treylon Burks",
+   "player": "Chig Okonkwo",
    "team": "WAS",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.1,
-   "rec_yds": 44.6,
+   "targets": 6.9,
+   "receptions": 5.1,
+   "rec_yds": 57.6,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 32.6,
+   "targets": 3.5,
+   "receptions": 2.8,
+   "rec_yds": 20.1,
+   "carries": 8.0,
+   "tds": 0.6
   },
   {
    "player": "Van Jefferson",
@@ -156,42 +177,53 @@
    "rush_yds": 0.0,
    "targets": 2.8,
    "receptions": 1.7,
-   "rec_yds": 20.3,
+   "rec_yds": 20.1,
    "carries": 0.0,
-   "tds": 0.7
+   "tds": 0.6
   },
   {
    "player": "Antonio Williams",
    "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.1,
+   "targets": 6.0,
    "receptions": 3.8,
-   "rec_yds": 44.4,
+   "rec_yds": 43.9,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Rachaad White",
+   "player": "Stefon Diggs",
    "team": "WAS",
-   "position": "RB",
-   "rush_yds": 32.4,
-   "targets": 3.5,
-   "receptions": 2.9,
-   "rec_yds": 20.4,
-   "carries": 8.0,
-   "tds": 0.6
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.2,
+   "receptions": 4.9,
+   "rec_yds": 52.8,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
-   "player": "Chig Okonkwo",
+   "player": "Treylon Burks",
    "team": "WAS",
-   "position": "TE",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.0,
-   "receptions": 5.2,
-   "rec_yds": 58.2,
+   "targets": 5.3,
+   "receptions": 3.0,
+   "rec_yds": 44.1,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Austin Ekeler",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 20.4,
+   "targets": 2.1,
+   "receptions": 1.7,
+   "rec_yds": 12.2,
+   "carries": 5.6,
+   "tds": 0.2
   },
   {
    "player": "Ben Sinnott",
@@ -200,41 +232,9 @@
    "rush_yds": 0.0,
    "targets": 2.8,
    "receptions": 2.2,
-   "rec_yds": 25.1,
+   "rec_yds": 24.8,
    "carries": 0.0,
    "tds": 0.3
-  },
-  {
-   "player": "Jayden Daniels",
-   "team": "WAS",
-   "position": "QB",
-   "rush_yds": 29.8,
-   "pass_yds": 284.2,
-   "pass_att": 39.9,
-   "carries": 4.5,
-   "tds": 0.1
-  },
-  {
-   "player": "Stefon Diggs",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.3,
-   "receptions": 4.9,
-   "rec_yds": 53.4,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Austin Ekeler",
-   "team": "WAS",
-   "position": "RB",
-   "rush_yds": 20.3,
-   "targets": 2.1,
-   "receptions": 1.7,
-   "rec_yds": 12.3,
-   "carries": 5.6,
-   "tds": 0.2
   }
  ]
 }

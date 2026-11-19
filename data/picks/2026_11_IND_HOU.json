@@ -1,14 +1,14 @@
 {
  "game_id": "2026_11_IND_HOU",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-18T17:27-05:00",
+ "updated_at": "2026-11-19T17:33-05:00",
  "kickoff": "2026-11-19T20:15",
  "weekday": "Thursday",
  "away": "IND",
  "home": "HOU",
  "stadium": "Reliant Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-19T17:33-05:00",
  "weather": {
   "game_id": "2026_11_IND_HOU",
   "stadium": "Reliant Stadium",
@@ -17,38 +17,125 @@
  },
  "teams": {
   "IND": {
-   "implied_pts": 15.5,
+   "implied_pts": 16.0,
    "margin": -12.5,
-   "plays": 61.2,
-   "pass_att": 35.3,
+   "plays": 61.6,
+   "pass_att": 35.5,
    "notes": [
     "short week"
    ]
   },
   "HOU": {
-   "implied_pts": 28.0,
+   "implied_pts": 28.5,
    "margin": 12.5,
-   "plays": 59.4,
-   "pass_att": 28.2,
+   "plays": 59.8,
+   "pass_att": 28.4,
    "notes": [
     "short week"
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Over",
+   "line": 178.5,
+   "title": "Daniel Jones Over 178.5 passing yards",
+   "price": -113,
+   "book": "draftkings",
+   "model_prob": 0.5782,
+   "fair_prob": 0.5021,
+   "prob_edge": 0.0761,
+   "edge": 0.0898,
+   "projection": 228.44,
+   "flags": [],
+   "why": [
+    "Model projects 228 yards vs. a line of 178.5 (72% chance to go over on its own).",
+    "Expected to throw about 36 times; completion % over expected is -9.8 lately.",
+    "The Texans defense allows 9% more passing yards to QBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Seth McGowan",
+   "team": "IND",
+   "position": "RB",
+   "market": "player_rush_yds",
+   "label": "rushing yards",
+   "side": "Under",
+   "line": 26.5,
+   "title": "Seth McGowan Under 26.5 rushing yards",
+   "price": -108,
+   "book": "draftkings",
+   "model_prob": 0.5813,
+   "fair_prob": 0.4906,
+   "prob_edge": 0.0907,
+   "edge": 0.1195,
+   "projection": 19.72,
+   "flags": [],
+   "why": [
+    "Model projects 20 yards vs. a line of 26.5 (75% chance to go under on its own).",
+    "Handles 20% of the Colts' carries (about 4 expected).",
+    "Also factored in: short week."
+   ]
+  }
+ ],
+ "penny_stocks": [
+  {
+   "tier": "Penny Stock",
+   "player": "Xavier Hutchinson",
+   "team": "HOU",
+   "position": "WR",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Xavier Hutchinson Yes anytime TD",
+   "price": 250,
+   "book": "fanduel",
+   "model_prob": 0.3519,
+   "fair_prob": 0.267,
+   "prob_edge": 0.0849,
+   "edge": 0.2318,
+   "projection": 0.71,
+   "flags": [
+    "playing time has swung a lot"
+   ],
+   "why": [
+    "Model gives him a 51% chance to score; the odds imply about 27%.",
+    "Gets 23% of the Texans' red-zone touches.",
+    "With Woody Marks, Marvin Harrison Jr. out, there's more work to go around."
+   ]
+  }
+ ],
  "etfs": [],
  "projections": [
   {
-   "player": "Tyler Warren",
+   "player": "Anthony Gould",
    "team": "IND",
-   "position": "TE",
-   "rush_yds": 0.6,
-   "targets": 7.3,
-   "receptions": 5.1,
-   "rec_yds": 39.8,
-   "carries": 0.3,
-   "tds": 0.2
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 16.8,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Seth McGowan",
+   "team": "IND",
+   "position": "RB",
+   "rush_yds": 19.7,
+   "targets": 0.5,
+   "receptions": 0.4,
+   "rec_yds": 2.3,
+   "carries": 4.4,
+   "tds": 0.3
   },
   {
    "player": "Ashton Dulin",
@@ -57,37 +144,26 @@
    "rush_yds": 1.9,
    "targets": 1.7,
    "receptions": 1.0,
-   "rec_yds": 16.7,
+   "rec_yds": 16.8,
    "carries": 0.4,
    "tds": 0.1
   },
   {
-   "player": "Seth McGowan",
+   "player": "Deion Burks",
    "team": "IND",
-   "position": "RB",
-   "rush_yds": 19.6,
-   "targets": 0.5,
-   "receptions": 0.4,
-   "rec_yds": 2.3,
-   "carries": 4.3,
-   "tds": 0.3
-  },
-  {
-   "player": "Jonathan Taylor",
-   "team": "IND",
-   "position": "RB",
-   "rush_yds": 42.3,
-   "targets": 4.8,
-   "receptions": 3.6,
-   "rec_yds": 24.8,
-   "carries": 10.6,
-   "tds": 0.8
+   "position": "WR",
+   "rush_yds": 0.5,
+   "targets": 1.6,
+   "receptions": 1.0,
+   "rec_yds": 12.9,
+   "carries": 0.1,
+   "tds": 0.0
   },
   {
    "player": "DJ Giddens",
    "team": "IND",
    "position": "RB",
-   "rush_yds": 11.4,
+   "rush_yds": 11.5,
    "targets": 0.0,
    "receptions": 0.0,
    "rec_yds": 0.0,
@@ -95,36 +171,36 @@
    "tds": 0.0
   },
   {
-   "player": "Anthony Gould",
+   "player": "Jonathan Taylor",
    "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.2,
-   "rec_yds": 16.7,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Deion Burks",
-   "team": "IND",
-   "position": "WR",
-   "rush_yds": 0.5,
-   "targets": 1.5,
-   "receptions": 1.0,
-   "rec_yds": 12.8,
-   "carries": 0.1,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 42.6,
+   "targets": 4.8,
+   "receptions": 3.7,
+   "rec_yds": 25.0,
+   "carries": 10.7,
+   "tds": 0.8
   },
   {
    "player": "Daniel Jones",
    "team": "IND",
    "position": "QB",
-   "rush_yds": 7.5,
-   "pass_yds": 226.9,
-   "pass_att": 35.3,
+   "rush_yds": 7.6,
+   "pass_yds": 228.4,
+   "pass_att": 35.5,
    "carries": 2.6,
    "tds": 0.0
+  },
+  {
+   "player": "Tyler Warren",
+   "team": "IND",
+   "position": "TE",
+   "rush_yds": 0.6,
+   "targets": 7.4,
+   "receptions": 5.1,
+   "rec_yds": 40.1,
+   "carries": 0.3,
+   "tds": 0.2
   },
   {
    "player": "Laquon Treadwell",
@@ -133,63 +209,31 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 2.0,
-   "rec_yds": 27.2,
+   "rec_yds": 27.4,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Emari Demercado",
-   "team": "HOU",
-   "position": "RB",
-   "rush_yds": 54.1,
-   "targets": 1.3,
-   "receptions": 0.9,
-   "rec_yds": 8.2,
-   "carries": 13.2,
-   "tds": 0.4
   },
   {
    "player": "Xavier Hutchinson",
    "team": "HOU",
    "position": "WR",
-   "rush_yds": 5.4,
-   "targets": 6.1,
-   "receptions": 3.2,
-   "rec_yds": 42.5,
+   "rush_yds": 5.5,
+   "targets": 6.2,
+   "receptions": 3.3,
+   "rec_yds": 42.7,
    "carries": 0.9,
    "tds": 0.7
   },
   {
-   "player": "Kayshon Boutte",
+   "player": "Dalton Schultz",
    "team": "HOU",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.7,
-   "rec_yds": 25.9,
+   "targets": 3.8,
+   "receptions": 2.6,
+   "rec_yds": 24.8,
    "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Nico Collins",
-   "team": "HOU",
-   "position": "WR",
-   "rush_yds": 1.6,
-   "targets": 8.2,
-   "receptions": 5.1,
-   "rec_yds": 68.8,
-   "carries": 0.3,
-   "tds": 0.6
-  },
-  {
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "position": "QB",
-   "rush_yds": 35.0,
-   "pass_yds": 208.9,
-   "pass_att": 28.2,
-   "carries": 7.0,
-   "tds": 0.0
+   "tds": 0.4
   },
   {
    "player": "Tank Dell",
@@ -198,20 +242,52 @@
    "rush_yds": 9.0,
    "targets": 4.0,
    "receptions": 2.3,
-   "rec_yds": 36.8,
-   "carries": 1.4,
+   "rec_yds": 37.1,
+   "carries": 1.5,
    "tds": 0.2
   },
   {
-   "player": "Dalton Schultz",
+   "player": "Nico Collins",
    "team": "HOU",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.8,
-   "receptions": 2.5,
-   "rec_yds": 24.6,
-   "carries": 0.0,
+   "position": "WR",
+   "rush_yds": 1.6,
+   "targets": 8.3,
+   "receptions": 5.1,
+   "rec_yds": 69.3,
+   "carries": 0.3,
+   "tds": 0.6
+  },
+  {
+   "player": "Emari Demercado",
+   "team": "HOU",
+   "position": "RB",
+   "rush_yds": 54.5,
+   "targets": 1.3,
+   "receptions": 0.9,
+   "rec_yds": 8.3,
+   "carries": 13.3,
    "tds": 0.4
+  },
+  {
+   "player": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "rush_yds": 35.2,
+   "pass_yds": 210.3,
+   "pass_att": 28.4,
+   "carries": 7.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Kayshon Boutte",
+   "team": "HOU",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.7,
+   "rec_yds": 26.0,
+   "carries": 0.0,
+   "tds": 0.3
   }
  ]
 }
