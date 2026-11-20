@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_MIN_SF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-19T17:33-05:00",
+ "updated_at": "2026-11-20T17:06-05:00",
  "kickoff": "2026-11-22T20:20",
  "weekday": "Sunday",
  "away": "MIN",
@@ -14,25 +14,25 @@
   "stadium": "Estadio Banorte",
   "kickoff_et": "2026-11-22T20:20:00-05:00",
   "covered": false,
-  "temp_f": 65,
-  "wind_mph": 3,
-  "gust_mph": 10,
-  "precip_in": 0.01,
-  "precip_chance": 40
+  "temp_f": 62,
+  "wind_mph": 4,
+  "gust_mph": 12,
+  "precip_in": 0.02,
+  "precip_chance": 51
  },
  "teams": {
   "MIN": {
-   "implied_pts": 21.5,
-   "margin": -3.5,
-   "plays": 59.0,
-   "pass_att": 33.1,
+   "implied_pts": 21.8,
+   "margin": -3.0,
+   "plays": 59.1,
+   "pass_att": 32.9,
    "notes": []
   },
   "SF": {
-   "implied_pts": 25.0,
-   "margin": 3.5,
-   "plays": 61.8,
-   "pass_att": 29.3,
+   "implied_pts": 24.8,
+   "margin": 3.0,
+   "plays": 61.9,
+   "pass_att": 29.5,
    "notes": []
   }
  },
@@ -41,46 +41,13 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Gavin Bartholomew",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 2.3,
-   "rec_yds": 21.9,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Jordan Mason",
-   "team": "MIN",
-   "position": "RB",
-   "rush_yds": 34.8,
-   "targets": 1.5,
-   "receptions": 1.2,
-   "rec_yds": 8.9,
-   "carries": 10.1,
-   "tds": 0.5
-  },
-  {
-   "player": "T.J. Hockenson",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 4.9,
-   "rec_yds": 45.8,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
    "player": "Carson Wentz",
    "team": "MIN",
    "position": "QB",
-   "rush_yds": 5.2,
-   "pass_yds": 219.2,
-   "pass_att": 33.1,
-   "carries": 1.8,
+   "rush_yds": 5.3,
+   "pass_yds": 218.3,
+   "pass_att": 32.9,
+   "carries": 1.9,
    "tds": 0.0
   },
   {
@@ -89,10 +56,65 @@
    "position": "WR",
    "rush_yds": 1.4,
    "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 16.9,
+   "receptions": 1.5,
+   "rec_yds": 16.8,
    "carries": 0.2,
    "tds": 0.1
+  },
+  {
+   "player": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 6.1,
+   "receptions": 4.9,
+   "rec_yds": 45.7,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Jordan Mason",
+   "team": "MIN",
+   "position": "RB",
+   "rush_yds": 35.2,
+   "targets": 1.5,
+   "receptions": 1.2,
+   "rec_yds": 8.9,
+   "carries": 10.2,
+   "tds": 0.5
+  },
+  {
+   "player": "Jauan Jennings",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.2,
+   "receptions": 1.4,
+   "rec_yds": 16.3,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 2.3,
+   "rec_yds": 21.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 10.5,
+   "receptions": 6.7,
+   "rec_yds": 77.4,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Tai Felton",
@@ -106,35 +128,67 @@
    "tds": 0.0
   },
   {
-   "player": "Justin Jefferson",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 10.6,
-   "receptions": 6.7,
-   "rec_yds": 77.7,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
    "player": "Aaron Jones",
    "team": "MIN",
    "position": "RB",
-   "rush_yds": 32.5,
+   "rush_yds": 32.8,
    "targets": 1.8,
    "receptions": 1.5,
-   "rec_yds": 10.8,
-   "carries": 9.2,
+   "rec_yds": 10.7,
+   "carries": 9.3,
    "tds": 0.4
   },
   {
-   "player": "Jauan Jennings",
-   "team": "MIN",
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 13.2,
+   "pass_yds": 216.1,
+   "pass_att": 29.5,
+   "carries": 3.4,
+   "tds": 0.1
+  },
+  {
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 41.1,
+   "targets": 1.0,
+   "receptions": 0.7,
+   "rec_yds": 4.0,
+   "carries": 9.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 56.8,
+   "targets": 4.3,
+   "receptions": 3.0,
+   "rec_yds": 26.0,
+   "carries": 12.3,
+   "tds": 1.2
+  },
+  {
+   "player": "Brandin Cooks",
+   "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.3,
-   "receptions": 1.4,
-   "rec_yds": 16.4,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 11.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Keenan Allen",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 25.7,
    "carries": 0.0,
    "tds": 0.0
   },
@@ -145,41 +199,9 @@
    "rush_yds": 0.0,
    "targets": 6.9,
    "receptions": 4.4,
-   "rec_yds": 50.2,
+   "rec_yds": 50.6,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Christian McCaffrey",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 57.2,
-   "targets": 4.2,
-   "receptions": 3.0,
-   "rec_yds": 25.8,
-   "carries": 12.4,
-   "tds": 1.2
-  },
-  {
-   "player": "Deebo Samuel Sr.",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 14.3,
-   "targets": 2.8,
-   "receptions": 1.9,
-   "rec_yds": 23.1,
-   "carries": 2.3,
-   "tds": 0.4
-  },
-  {
-   "player": "Brock Purdy",
-   "team": "SF",
-   "position": "QB",
-   "rush_yds": 13.3,
-   "pass_yds": 214.4,
-   "pass_att": 29.3,
-   "carries": 3.5,
-   "tds": 0.1
   },
   {
    "player": "Jordan Watkins",
@@ -188,42 +210,20 @@
    "rush_yds": 0.0,
    "targets": 2.7,
    "receptions": 1.7,
-   "rec_yds": 27.1,
+   "rec_yds": 27.3,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Keenan Allen",
+   "player": "Deebo Samuel Sr.",
    "team": "SF",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.1,
-   "rec_yds": 25.5,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Brandin Cooks",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 11.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Kaelon Black",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 41.4,
-   "targets": 1.0,
-   "receptions": 0.7,
-   "rec_yds": 4.0,
-   "carries": 9.0,
-   "tds": 0.2
+   "rush_yds": 14.3,
+   "targets": 2.9,
+   "receptions": 2.0,
+   "rec_yds": 23.2,
+   "carries": 2.2,
+   "tds": 0.4
   },
   {
    "player": "Demarcus Robinson",
@@ -232,7 +232,7 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 2.0,
-   "rec_yds": 24.3,
+   "rec_yds": 24.5,
    "carries": 0.0,
    "tds": 0.2
   }

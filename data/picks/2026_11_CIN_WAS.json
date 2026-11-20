@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_CIN_WAS",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-19T17:33-05:00",
+ "updated_at": "2026-11-20T17:06-05:00",
  "kickoff": "2026-11-23T20:15",
  "weekday": "Monday",
  "away": "CIN",
@@ -14,17 +14,17 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-23T20:15:00-05:00",
   "covered": false,
-  "temp_f": 47,
-  "wind_mph": 12,
-  "gust_mph": 25,
+  "temp_f": 54,
+  "wind_mph": 9,
+  "gust_mph": 20,
   "precip_in": 0.0,
-  "precip_chance": 0
+  "precip_chance": 5
  },
  "teams": {
   "CIN": {
    "implied_pts": 29.8,
    "margin": 6.0,
-   "plays": 65.1,
+   "plays": 65.2,
    "pass_att": 36.5,
    "notes": []
   },
@@ -52,15 +52,15 @@
    "tds": 0.4
   },
   {
-   "player": "Drew Sample",
+   "player": "Tee Higgins",
    "team": "CIN",
-   "position": "TE",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.1,
-   "receptions": 1.7,
-   "rec_yds": 17.3,
+   "targets": 7.6,
+   "receptions": 5.5,
+   "rec_yds": 79.4,
    "carries": 0.0,
-   "tds": 0.2
+   "tds": 0.4
   },
   {
    "player": "Mitchell Tinsley",
@@ -78,11 +78,22 @@
    "team": "CIN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 10.7,
+   "targets": 10.8,
    "receptions": 8.0,
-   "rec_yds": 103.8,
+   "rec_yds": 104.0,
    "carries": 0.0,
    "tds": 0.6
+  },
+  {
+   "player": "Drew Sample",
+   "team": "CIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.1,
+   "receptions": 1.8,
+   "rec_yds": 17.3,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Chase Brown",
@@ -107,34 +118,34 @@
    "tds": 0.2
   },
   {
-   "player": "Joe Burrow",
-   "team": "CIN",
-   "position": "QB",
-   "rush_yds": 13.5,
-   "pass_yds": 310.3,
-   "pass_att": 36.5,
-   "carries": 2.8,
-   "tds": 0.1
-  },
-  {
    "player": "Dohnte Meyers",
    "team": "CIN",
    "position": "WR",
    "rush_yds": 1.1,
    "targets": 2.9,
    "receptions": 2.0,
-   "rec_yds": 24.2,
+   "rec_yds": 24.3,
    "carries": 0.2,
    "tds": 0.1
   },
   {
-   "player": "Tee Higgins",
+   "player": "Joe Burrow",
    "team": "CIN",
+   "position": "QB",
+   "rush_yds": 13.5,
+   "pass_yds": 310.8,
+   "pass_att": 36.5,
+   "carries": 2.8,
+   "tds": 0.1
+  },
+  {
+   "player": "Stefon Diggs",
+   "team": "WAS",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 7.6,
-   "receptions": 5.5,
-   "rec_yds": 79.3,
+   "targets": 8.2,
+   "receptions": 4.9,
+   "rec_yds": 52.9,
    "carries": 0.0,
    "tds": 0.4
   },
@@ -142,8 +153,8 @@
    "player": "Jayden Daniels",
    "team": "WAS",
    "position": "QB",
-   "rush_yds": 29.9,
-   "pass_yds": 281.2,
+   "rush_yds": 30.0,
+   "pass_yds": 281.6,
    "pass_att": 39.5,
    "carries": 4.6,
    "tds": 0.1
@@ -165,10 +176,32 @@
    "position": "RB",
    "rush_yds": 32.6,
    "targets": 3.5,
-   "receptions": 2.8,
-   "rec_yds": 20.1,
+   "receptions": 2.9,
+   "rec_yds": 20.2,
    "carries": 8.0,
    "tds": 0.6
+  },
+  {
+   "player": "Austin Ekeler",
+   "team": "WAS",
+   "position": "RB",
+   "rush_yds": 20.5,
+   "targets": 2.1,
+   "receptions": 1.7,
+   "rec_yds": 12.2,
+   "carries": 5.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Treylon Burks",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.3,
+   "receptions": 3.0,
+   "rec_yds": 44.2,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Van Jefferson",
@@ -182,50 +215,6 @@
    "tds": 0.6
   },
   {
-   "player": "Antonio Williams",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.0,
-   "receptions": 3.8,
-   "rec_yds": 43.9,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Stefon Diggs",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.2,
-   "receptions": 4.9,
-   "rec_yds": 52.8,
-   "carries": 0.0,
-   "tds": 0.4
-  },
-  {
-   "player": "Treylon Burks",
-   "team": "WAS",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.3,
-   "receptions": 3.0,
-   "rec_yds": 44.1,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Austin Ekeler",
-   "team": "WAS",
-   "position": "RB",
-   "rush_yds": 20.4,
-   "targets": 2.1,
-   "receptions": 1.7,
-   "rec_yds": 12.2,
-   "carries": 5.6,
-   "tds": 0.2
-  },
-  {
    "player": "Ben Sinnott",
    "team": "WAS",
    "position": "TE",
@@ -235,6 +224,17 @@
    "rec_yds": 24.8,
    "carries": 0.0,
    "tds": 0.3
+  },
+  {
+   "player": "Antonio Williams",
+   "team": "WAS",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.0,
+   "receptions": 3.8,
+   "rec_yds": 44.0,
+   "carries": 0.0,
+   "tds": 0.0
   }
  ]
 }

@@ -1,31 +1,5 @@
 {
- "2026_11_IND_HOU": [
-  {
-   "type": "Milestone",
-   "player": "Nico Collins",
-   "team": "HOU",
-   "text": "Nico Collins needs 22 more receiving yards to reach 500 for the season (has 478)."
-  },
-  {
-   "type": "Milestone",
-   "player": "C.J. Stroud",
-   "team": "HOU",
-   "text": "C.J. Stroud needs 1 more passing TD to reach 20 for the season (has 19)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Daniel Jones",
-   "team": "IND",
-   "text": "Daniel Jones needs 170 more passing yards to reach 2,000 for the season (has 1,830)."
-  }
- ],
  "2026_11_MIA_BUF": [
-  {
-   "type": "Milestone",
-   "player": "Dalton Kincaid",
-   "team": "BUF",
-   "text": "Dalton Kincaid needs 13 more receiving yards to reach 500 for the season (has 487)."
-  },
   {
    "type": "Milestone",
    "player": "James Cook",
@@ -37,6 +11,12 @@
    "player": "James Cook",
    "team": "BUF",
    "text": "James Cook needs 1 more total TD to reach 10 for the season (has 9)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Ollie Gordon II",
+   "team": "MIA",
+   "text": "Ollie Gordon II needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
  "2026_11_BAL_CAR": [
@@ -127,12 +107,6 @@
   },
   {
    "type": "Milestone",
-   "player": "Kenneth Walker III",
-   "team": "KC",
-   "text": "Kenneth Walker III needs 128 more rushing yards to reach 1,000 for the season (has 872)."
-  },
-  {
-   "type": "Milestone",
    "player": "Emmett Johnson",
    "team": "KC",
    "text": "Emmett Johnson needs 1 more total TD to reach 5 for the season (has 4)."
@@ -198,6 +172,12 @@
    "player": "Darius Cooper",
    "team": "PHI",
    "text": "Darius Cooper (PHI WR) turns 25 on game day."
+  },
+  {
+   "type": "Milestone",
+   "player": "DK Metcalf",
+   "team": "PIT",
+   "text": "DK Metcalf needs 68 more receiving yards to reach 500 for the season (has 432)."
   }
  ],
  "2026_11_MIN_SF": [
