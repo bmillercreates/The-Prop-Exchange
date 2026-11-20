@@ -1,32 +1,32 @@
 {
- "updated_at": "2026-11-16T23:35-05:00",
+ "updated_at": "2026-11-19T23:35-05:00",
  "overall": {
-  "wins": 61,
-  "losses": 79,
+  "wins": 62,
+  "losses": 81,
   "pushes": 0,
-  "units": -1.9,
-  "roi": -0.0136,
-  "hit_rate": 0.4357,
-  "bets": 140
+  "units": -2.97,
+  "roi": -0.0208,
+  "hit_rate": 0.4336,
+  "bets": 143
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 42,
-   "losses": 49,
+   "wins": 43,
+   "losses": 50,
    "pushes": 0,
-   "units": -11.72,
-   "roi": -0.1288,
-   "hit_rate": 0.4615,
-   "bets": 91
+   "units": -11.79,
+   "roi": -0.1268,
+   "hit_rate": 0.4624,
+   "bets": 93
   },
   "Penny Stock": {
    "wins": 14,
-   "losses": 23,
+   "losses": 24,
    "pushes": 0,
-   "units": 8.26,
-   "roi": 0.2232,
-   "hit_rate": 0.3784,
-   "bets": 37
+   "units": 7.26,
+   "roi": 0.1911,
+   "hit_rate": 0.3684,
+   "bets": 38
   },
   "ETF": {
    "wins": 5,
@@ -74,9 +74,70 @@
   {
    "date": "2026-11-16",
    "units": -1.9
+  },
+  {
+   "date": "2026-11-19",
+   "units": -2.97
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_11_IND_HOU",
+   "matchup": "IND @ HOU",
+   "kickoff": "2026-11-19T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-19T23:35-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Xavier Hutchinson Yes anytime TD",
+   "player": "Xavier Hutchinson",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 250,
+   "edge": 0.2318,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_IND_HOU",
+   "matchup": "IND @ HOU",
+   "kickoff": "2026-11-19T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-19T23:35-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Daniel Jones Over 178.5 passing yards",
+   "player": "Daniel Jones",
+   "market": "player_pass_yds",
+   "side": "Over",
+   "line": 178.5,
+   "price": -113,
+   "edge": 0.0898,
+   "actual": 144.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_IND_HOU",
+   "matchup": "IND @ HOU",
+   "kickoff": "2026-11-19T20:15",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-19T23:35-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Seth McGowan Under 26.5 rushing yards",
+   "player": "Seth McGowan",
+   "market": "player_rush_yds",
+   "side": "Under",
+   "line": 26.5,
+   "price": -108,
+   "edge": 0.1195,
+   "actual": 7.0,
+   "result": "win",
+   "units": 0.926
+  },
   {
    "game_id": "2026_10_LAC_BAL",
    "matchup": "LAC @ BAL",
@@ -610,63 +671,6 @@
    "actual": 312.0,
    "result": "win",
    "units": 0.893
-  },
-  {
-   "game_id": "2026_10_HOU_CLE",
-   "matchup": "HOU @ CLE",
-   "kickoff": "2026-11-15T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Nico Collins Under 60.5 receiving yards",
-   "player": "Nico Collins",
-   "market": "player_reception_yds",
-   "side": "Under",
-   "line": 60.5,
-   "price": -111,
-   "edge": 0.124,
-   "actual": 94.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_JAX_TEN",
-   "matchup": "JAX @ TEN",
-   "kickoff": "2026-11-15T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Tony Pollard Over 1.5 receptions",
-   "player": "Tony Pollard",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 1.5,
-   "price": -141,
-   "edge": 0.0447,
-   "actual": 8.0,
-   "result": "win",
-   "units": 0.709
-  },
-  {
-   "game_id": "2026_10_JAX_TEN",
-   "matchup": "JAX @ TEN",
-   "kickoff": "2026-11-15T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Cam Ward Over 196.5 passing yards",
-   "player": "Cam Ward",
-   "market": "player_pass_yds",
-   "side": "Over",
-   "line": 196.5,
-   "price": -113,
-   "edge": 0.0488,
-   "actual": 231.0,
-   "result": "win",
-   "units": 0.885
   }
  ]
 }
