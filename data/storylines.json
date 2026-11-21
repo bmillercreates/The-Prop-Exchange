@@ -28,15 +28,15 @@
   },
   {
    "type": "Milestone",
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "text": "Tetairoa McMillan needs 1 more catch to reach 50 for the season (has 49)."
-  },
-  {
-   "type": "Milestone",
    "player": "Zay Flowers",
    "team": "BAL",
    "text": "Zay Flowers needs 1 more catch to reach 50 for the season (has 49)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Tetairoa McMillan",
+   "team": "CAR",
+   "text": "Tetairoa McMillan needs 1 more catch to reach 50 for the season (has 49)."
   },
   {
    "type": "Milestone",

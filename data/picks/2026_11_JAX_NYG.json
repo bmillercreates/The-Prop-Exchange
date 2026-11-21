@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_JAX_NYG",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-20T17:06-05:00",
+ "updated_at": "2026-11-21T15:46-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "JAX",
@@ -14,11 +14,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 58,
-  "wind_mph": 8,
-  "gust_mph": 19,
-  "precip_in": 0.01,
-  "precip_chance": 69
+  "temp_f": 57,
+  "wind_mph": 6,
+  "gust_mph": 11,
+  "precip_in": 0.03,
+  "precip_chance": 61
  },
  "teams": {
   "JAX": {
@@ -45,49 +45,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Jakobi Meyers",
-   "team": "JAX",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 4.4,
-   "receptions": 2.8,
-   "rec_yds": 34.7,
-   "carries": 0.2,
-   "tds": 0.3
-  },
-  {
-   "player": "Ameer Abdullah",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 11.7,
-   "targets": 0.3,
-   "receptions": 0.2,
-   "rec_yds": 1.1,
-   "carries": 3.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Bhayshul Tuten",
-   "team": "JAX",
-   "position": "RB",
-   "rush_yds": 75.2,
-   "targets": 2.2,
-   "receptions": 1.7,
-   "rec_yds": 12.9,
-   "carries": 18.5,
-   "tds": 1.0
-  },
-  {
-   "player": "Trevor Lawrence",
-   "team": "JAX",
-   "position": "QB",
-   "rush_yds": 16.0,
-   "pass_yds": 188.1,
-   "pass_att": 26.4,
-   "carries": 3.1,
-   "tds": 0.0
-  },
-  {
    "player": "Brian Thomas Jr.",
    "team": "JAX",
    "position": "WR",
@@ -110,14 +67,35 @@
    "tds": 0.2
   },
   {
-   "player": "Nate Boerkircher",
+   "player": "Trevor Lawrence",
    "team": "JAX",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 11.9,
-   "carries": 0.0,
+   "position": "QB",
+   "rush_yds": 16.0,
+   "pass_yds": 188.1,
+   "pass_att": 26.4,
+   "carries": 3.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Jakobi Meyers",
+   "team": "JAX",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 4.4,
+   "receptions": 2.8,
+   "rec_yds": 34.7,
+   "carries": 0.2,
+   "tds": 0.3
+  },
+  {
+   "player": "Ameer Abdullah",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 11.7,
+   "targets": 0.3,
+   "receptions": 0.2,
+   "rec_yds": 1.1,
+   "carries": 3.0,
    "tds": 0.1
   },
   {
@@ -128,6 +106,17 @@
    "targets": 1.7,
    "receptions": 1.1,
    "rec_yds": 14.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Nate Boerkircher",
+   "team": "JAX",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 11.9,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -143,6 +132,17 @@
    "tds": 0.3
   },
   {
+   "player": "Bhayshul Tuten",
+   "team": "JAX",
+   "position": "RB",
+   "rush_yds": 75.2,
+   "targets": 2.2,
+   "receptions": 1.7,
+   "rec_yds": 12.9,
+   "carries": 18.5,
+   "tds": 1.0
+  },
+  {
    "player": "Chris Rodriguez Jr.",
    "team": "JAX",
    "position": "RB",
@@ -154,13 +154,25 @@
    "tds": 0.3
   },
   {
-   "player": "J.J. McCarthy",
+   "player": "Malik Nabers",
    "team": "NYG",
-   "position": "QB",
-   "rush_yds": 10.6,
-   "pass_yds": 269.2,
-   "pass_att": 34.9,
-   "carries": 2.3,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 9.3,
+   "receptions": 6.5,
+   "rec_yds": 81.6,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Darnell Mooney",
+   "team": "NYG",
+   "position": "WR",
+   "rush_yds": 2.4,
+   "targets": 4.0,
+   "receptions": 2.2,
+   "rec_yds": 29.3,
+   "carries": 0.3,
    "tds": 0.0
   },
   {
@@ -186,28 +198,6 @@
    "tds": 0.1
   },
   {
-   "player": "Darnell Mooney",
-   "team": "NYG",
-   "position": "WR",
-   "rush_yds": 2.4,
-   "targets": 4.0,
-   "receptions": 2.2,
-   "rec_yds": 29.3,
-   "carries": 0.3,
-   "tds": 0.0
-  },
-  {
-   "player": "Malik Nabers",
-   "team": "NYG",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 9.3,
-   "receptions": 6.5,
-   "rec_yds": 81.6,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
    "player": "Devin Singletary",
    "team": "NYG",
    "position": "RB",
@@ -217,6 +207,16 @@
    "rec_yds": 11.0,
    "carries": 3.7,
    "tds": 0.2
+  },
+  {
+   "player": "J.J. McCarthy",
+   "team": "NYG",
+   "position": "QB",
+   "rush_yds": 10.6,
+   "pass_yds": 269.2,
+   "pass_att": 34.9,
+   "carries": 2.3,
+   "tds": 0.0
   },
   {
    "player": "Theo Johnson",

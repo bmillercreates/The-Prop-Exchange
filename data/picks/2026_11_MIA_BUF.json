@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_MIA_BUF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-20T17:06-05:00",
+ "updated_at": "2026-11-21T15:46-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "MIA",
@@ -14,11 +14,11 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 64,
-  "wind_mph": 12,
-  "gust_mph": 23,
+  "temp_f": 67,
+  "wind_mph": 14,
+  "gust_mph": 22,
   "precip_in": 0.0,
-  "precip_chance": 2
+  "precip_chance": 1
  },
  "teams": {
   "MIA": {
@@ -41,17 +41,6 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Jalen Tolbert",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.4,
-   "receptions": 0.9,
-   "rec_yds": 13.2,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
    "player": "Chris Bell",
    "team": "MIA",
    "position": "WR",
@@ -63,17 +52,6 @@
    "tds": 0.0
   },
   {
-   "player": "Will Kacmarek",
-   "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 11.1,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
    "player": "Caleb Douglas",
    "team": "MIA",
    "position": "WR",
@@ -81,6 +59,28 @@
    "targets": 6.7,
    "receptions": 4.2,
    "rec_yds": 63.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Malik Washington",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 2.7,
+   "targets": 5.8,
+   "receptions": 4.0,
+   "rec_yds": 47.2,
+   "carries": 0.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Will Kacmarek",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 11.1,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -95,6 +95,17 @@
    "tds": 0.1
   },
   {
+   "player": "Jalen Tolbert",
+   "team": "MIA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.4,
+   "receptions": 0.9,
+   "rec_yds": 13.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
    "player": "Ollie Gordon II",
    "team": "MIA",
    "position": "RB",
@@ -104,17 +115,6 @@
    "rec_yds": 14.9,
    "carries": 13.5,
    "tds": 0.6
-  },
-  {
-   "player": "Malik Washington",
-   "team": "MIA",
-   "position": "WR",
-   "rush_yds": 2.7,
-   "targets": 5.8,
-   "receptions": 4.0,
-   "rec_yds": 47.2,
-   "carries": 0.6,
-   "tds": 0.2
   },
   {
    "player": "Kevin Coleman Jr.",
@@ -139,15 +139,36 @@
    "tds": 0.1
   },
   {
-   "player": "Keon Coleman",
+   "player": "Ty Johnson",
    "team": "BUF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.8,
-   "receptions": 2.3,
-   "rec_yds": 27.9,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "RB",
+   "rush_yds": 4.6,
+   "targets": 2.1,
+   "receptions": 1.8,
+   "rec_yds": 16.9,
+   "carries": 1.1,
+   "tds": 0.1
+  },
+  {
+   "player": "James Cook",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 130.7,
+   "targets": 1.6,
+   "receptions": 1.2,
+   "rec_yds": 9.2,
+   "carries": 23.1,
+   "tds": 1.4
+  },
+  {
+   "player": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "rush_yds": 25.0,
+   "pass_yds": 161.4,
+   "pass_att": 21.3,
+   "carries": 7.2,
+   "tds": 0.4
   },
   {
    "player": "DJ Moore",
@@ -161,6 +182,17 @@
    "tds": 0.3
   },
   {
+   "player": "Ray Davis",
+   "team": "BUF",
+   "position": "RB",
+   "rush_yds": 11.8,
+   "targets": 0.4,
+   "receptions": 0.3,
+   "rec_yds": 2.7,
+   "carries": 2.7,
+   "tds": 0.1
+  },
+  {
    "player": "Dawson Knox",
    "team": "BUF",
    "position": "TE",
@@ -169,27 +201,6 @@
    "receptions": 1.9,
    "rec_yds": 16.5,
    "carries": 0.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Josh Allen",
-   "team": "BUF",
-   "position": "QB",
-   "rush_yds": 25.0,
-   "pass_yds": 161.4,
-   "pass_att": 21.3,
-   "carries": 7.2,
-   "tds": 0.4
-  },
-  {
-   "player": "Ty Johnson",
-   "team": "BUF",
-   "position": "RB",
-   "rush_yds": 4.6,
-   "targets": 2.1,
-   "receptions": 1.8,
-   "rec_yds": 16.9,
-   "carries": 1.1,
    "tds": 0.1
   },
   {
@@ -204,26 +215,15 @@
    "tds": 0.2
   },
   {
-   "player": "James Cook",
+   "player": "Keon Coleman",
    "team": "BUF",
-   "position": "RB",
-   "rush_yds": 130.7,
-   "targets": 1.6,
-   "receptions": 1.2,
-   "rec_yds": 9.2,
-   "carries": 23.1,
-   "tds": 1.4
-  },
-  {
-   "player": "Ray Davis",
-   "team": "BUF",
-   "position": "RB",
-   "rush_yds": 11.8,
-   "targets": 0.4,
-   "receptions": 0.3,
-   "rec_yds": 2.7,
-   "carries": 2.7,
-   "tds": 0.1
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.8,
+   "receptions": 2.3,
+   "rec_yds": 27.9,
+   "carries": 0.0,
+   "tds": 0.2
   }
  ]
 }
