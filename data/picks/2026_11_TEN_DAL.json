@@ -1,14 +1,14 @@
 {
  "game_id": "2026_11_TEN_DAL",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-21T15:46-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-22T11:40-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "TEN",
  "home": "DAL",
  "stadium": "AT&T Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-22T11:40-05:00",
  "weather": {
   "game_id": "2026_11_TEN_DAL",
   "stadium": "AT&T Stadium",
@@ -31,50 +31,128 @@
    "notes": []
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Cam Ward",
-   "team": "TEN",
-   "position": "QB",
-   "rush_yds": 20.1,
-   "pass_yds": 257.7,
-   "pass_att": 38.7,
-   "carries": 3.6,
-   "tds": 0.1
-  },
-  {
+   "tier": "Blue Chip",
    "player": "Gunnar Helm",
    "team": "TEN",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 6.7,
-   "receptions": 4.8,
-   "rec_yds": 44.0,
-   "carries": 0.0,
-   "tds": 0.1
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Gunnar Helm Over 2.5 receptions",
+   "price": -144,
+   "book": "draftkings",
+   "model_prob": 0.6416,
+   "fair_prob": 0.5569,
+   "prob_edge": 0.0846,
+   "edge": 0.0871,
+   "projection": 4.8,
+   "flags": [],
+   "why": [
+    "Model projects 5 catches vs. a line of 2.5 (80% chance to go over on its own).",
+    "Earns 17% of the Titans' targets and 10% of their air yards, on 76% of snaps.",
+    "With Wan'Dale Robinson, Tyjae Spears out, there's more work to go around."
+   ]
   },
   {
-   "player": "Tony Pollard",
+   "tier": "Blue Chip",
+   "player": "Daniel Bellinger",
    "team": "TEN",
-   "position": "RB",
-   "rush_yds": 84.6,
-   "targets": 6.7,
-   "receptions": 5.2,
-   "rec_yds": 41.4,
-   "carries": 16.8,
-   "tds": 1.1
-  },
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 1.5,
+   "title": "Daniel Bellinger Over 1.5 receptions",
+   "price": 118,
+   "book": "draftkings",
+   "model_prob": 0.5167,
+   "fair_prob": 0.4326,
+   "prob_edge": 0.0841,
+   "edge": 0.1265,
+   "projection": 2.63,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 1.5 (67% chance to go over on its own).",
+    "Earns 10% of the Titans' targets and 4% of their air yards, on 45% of snaps.",
+    "With Wan'Dale Robinson, Tyjae Spears out, there's more work to go around."
+   ]
+  }
+ ],
+ "penny_stocks": [],
+ "etfs": [
   {
-   "player": "Elic Ayomanor",
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Cam Ward",
+     "team": "TEN",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 241.5,
+     "title": "Cam Ward Over 241.5 passing yards",
+     "price": -113,
+     "book": "fanduel",
+     "model_prob": 0.5104,
+     "fair_prob": 0.5,
+     "prob_edge": 0.0104,
+     "edge": -0.0379,
+     "projection": 257.69,
+     "flags": [],
+     "why": [
+      "Model projects 258 yards vs. a line of 241.5 (53% chance to go over on its own).",
+      "Expected to throw about 39 times; completion % over expected is -3.7 lately.",
+      "The Cowboys defense allows 6% more passing yards to QBs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "Tony Pollard",
+     "team": "TEN",
+     "position": "RB",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 3.5,
+     "title": "Tony Pollard Over 3.5 receptions",
+     "price": -101,
+     "book": "draftkings",
+     "model_prob": 0.5519,
+     "fair_prob": 0.4732,
+     "prob_edge": 0.0787,
+     "edge": 0.0983,
+     "projection": 5.16,
+     "flags": [],
+     "why": [
+      "Model projects 5 catches vs. a line of 3.5 (70% chance to go over on its own).",
+      "Earns 17% of the Titans' targets and 1% of their air yards, on 66% of snaps.",
+      "With Wan'Dale Robinson, Tyjae Spears out, there's more work to go around."
+     ]
+    }
+   ],
+   "model_prob": 0.3687,
+   "price": 176,
+   "edge": 0.0161,
+   "why": [
+    "Cam Ward and Tony Pollard are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 37% chance to hit together. The price (about +176) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
+ "projections": [
+  {
+   "player": "Daniel Bellinger",
    "team": "TEN",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 8.3,
-   "receptions": 4.6,
-   "rec_yds": 70.4,
+   "targets": 3.8,
+   "receptions": 2.6,
+   "rec_yds": 23.1,
    "carries": 0.0,
    "tds": 0.4
   },
@@ -90,13 +168,34 @@
    "tds": 0.0
   },
   {
-   "player": "Daniel Bellinger",
+   "player": "Cam Ward",
    "team": "TEN",
-   "position": "TE",
+   "position": "QB",
+   "rush_yds": 20.1,
+   "pass_yds": 257.7,
+   "pass_att": 38.7,
+   "carries": 3.6,
+   "tds": 0.1
+  },
+  {
+   "player": "Calvin Ridley",
+   "team": "TEN",
+   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.8,
-   "receptions": 2.6,
-   "rec_yds": 23.1,
+   "targets": 4.0,
+   "receptions": 2.3,
+   "rec_yds": 33.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Elic Ayomanor",
+   "team": "TEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.3,
+   "receptions": 4.6,
+   "rec_yds": 70.4,
    "carries": 0.0,
    "tds": 0.4
   },
@@ -112,15 +211,48 @@
    "tds": 0.1
   },
   {
-   "player": "Calvin Ridley",
+   "player": "Tony Pollard",
    "team": "TEN",
-   "position": "WR",
+   "position": "RB",
+   "rush_yds": 84.6,
+   "targets": 6.7,
+   "receptions": 5.2,
+   "rec_yds": 41.4,
+   "carries": 16.8,
+   "tds": 1.1
+  },
+  {
+   "player": "Gunnar Helm",
+   "team": "TEN",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.0,
-   "receptions": 2.3,
-   "rec_yds": 33.1,
+   "targets": 6.7,
+   "receptions": 4.8,
+   "rec_yds": 44.0,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Ryan Flournoy",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.9,
+   "targets": 4.9,
+   "receptions": 3.6,
+   "rec_yds": 50.0,
+   "carries": 0.1,
+   "tds": 0.5
+  },
+  {
+   "player": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.3,
+   "receptions": 5.6,
+   "rec_yds": 83.1,
+   "carries": 0.0,
+   "tds": 0.4
   },
   {
    "player": "Dak Prescott",
@@ -130,28 +262,6 @@
    "pass_yds": 270.2,
    "pass_att": 33.5,
    "carries": 4.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Brevyn Spann-Ford",
-   "team": "DAL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 1.7,
-   "rec_yds": 15.2,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "KaVontae Turpin",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 5.0,
-   "targets": 1.3,
-   "receptions": 0.9,
-   "rec_yds": 11.6,
-   "carries": 0.7,
    "tds": 0.1
   },
   {
@@ -177,26 +287,26 @@
    "tds": 0.6
   },
   {
-   "player": "George Pickens",
+   "player": "KaVontae Turpin",
    "team": "DAL",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.3,
-   "receptions": 5.6,
-   "rec_yds": 83.1,
-   "carries": 0.0,
-   "tds": 0.4
+   "rush_yds": 5.0,
+   "targets": 1.3,
+   "receptions": 0.9,
+   "rec_yds": 11.6,
+   "carries": 0.7,
+   "tds": 0.1
   },
   {
-   "player": "Ryan Flournoy",
+   "player": "Brevyn Spann-Ford",
    "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.9,
-   "targets": 4.9,
-   "receptions": 3.6,
-   "rec_yds": 50.0,
-   "carries": 0.1,
-   "tds": 0.5
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.7,
+   "rec_yds": 15.2,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

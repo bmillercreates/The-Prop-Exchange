@@ -1,14 +1,14 @@
 {
  "game_id": "2026_11_TB_DET",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-21T15:46-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-22T11:40-05:00",
  "kickoff": "2026-11-22T13:00",
  "weekday": "Sunday",
  "away": "TB",
  "home": "DET",
  "stadium": "Ford Field",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-22T11:40-05:00",
  "weather": {
   "game_id": "2026_11_TB_DET",
   "stadium": "Ford Field",
@@ -33,10 +33,69 @@
    "notes": []
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Jared Goff",
+   "team": "DET",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 255.5,
+   "title": "Jared Goff Under 255.5 passing yards",
+   "price": -113,
+   "book": "draftkings",
+   "model_prob": 0.6,
+   "fair_prob": 0.5021,
+   "prob_edge": 0.0979,
+   "edge": 0.1309,
+   "projection": 205.38,
+   "flags": [],
+   "why": [
+    "Model projects 205 yards vs. a line of 255.5 (78% chance to go under on its own).",
+    "Expected to throw about 27 times; completion % over expected is +0.2 lately."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Bucky Irving",
+   "team": "TB",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "Bucky Irving Yes anytime TD",
+   "price": 100,
+   "book": "fanduel",
+   "model_prob": 0.5132,
+   "fair_prob": 0.4673,
+   "prob_edge": 0.0459,
+   "edge": 0.0264,
+   "projection": 0.91,
+   "flags": [],
+   "why": [
+    "Model gives him a 60% chance to score; the odds imply about 47%.",
+    "Gets 42% of the Buccaneers' red-zone touches.",
+    "Also factored in: coming off a bye."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
+  {
+   "player": "Chris Godwin Jr.",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 2.2,
+   "targets": 5.0,
+   "receptions": 3.7,
+   "rec_yds": 39.2,
+   "carries": 0.4,
+   "tds": 0.0
+  },
   {
    "player": "Bucky Irving",
    "team": "TB",
@@ -49,15 +108,25 @@
    "tds": 0.9
   },
   {
-   "player": "Emeka Egbuka",
+   "player": "Ted Hurst III",
    "team": "TB",
    "position": "WR",
-   "rush_yds": 2.0,
-   "targets": 5.8,
-   "receptions": 3.6,
-   "rec_yds": 37.9,
-   "carries": 0.4,
-   "tds": 0.3
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.6,
+   "rec_yds": 21.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Baker Mayfield",
+   "team": "TB",
+   "position": "QB",
+   "rush_yds": 12.1,
+   "pass_yds": 196.2,
+   "pass_att": 26.3,
+   "carries": 2.3,
+   "tds": 0.1
   },
   {
    "player": "Cade Otton",
@@ -68,6 +137,17 @@
    "receptions": 3.0,
    "rec_yds": 32.0,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Tez Johnson",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 1.4,
+   "targets": 2.5,
+   "receptions": 1.6,
+   "rec_yds": 26.8,
+   "carries": 0.3,
    "tds": 0.1
   },
   {
@@ -82,47 +162,26 @@
    "tds": 0.3
   },
   {
-   "player": "Tez Johnson",
+   "player": "Emeka Egbuka",
    "team": "TB",
    "position": "WR",
-   "rush_yds": 1.4,
-   "targets": 2.5,
-   "receptions": 1.6,
-   "rec_yds": 26.8,
-   "carries": 0.3,
-   "tds": 0.1
-  },
-  {
-   "player": "Ted Hurst III",
-   "team": "TB",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.8,
-   "receptions": 1.6,
-   "rec_yds": 21.9,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Chris Godwin Jr.",
-   "team": "TB",
-   "position": "WR",
-   "rush_yds": 2.2,
-   "targets": 5.0,
-   "receptions": 3.7,
-   "rec_yds": 39.2,
+   "rush_yds": 2.0,
+   "targets": 5.8,
+   "receptions": 3.6,
+   "rec_yds": 37.9,
    "carries": 0.4,
-   "tds": 0.0
+   "tds": 0.3
   },
   {
-   "player": "Baker Mayfield",
-   "team": "TB",
-   "position": "QB",
-   "rush_yds": 12.1,
-   "pass_yds": 196.2,
-   "pass_att": 26.3,
-   "carries": 2.3,
-   "tds": 0.1
+   "player": "Sione Vaki",
+   "team": "DET",
+   "position": "RB",
+   "rush_yds": 14.5,
+   "targets": 0.9,
+   "receptions": 0.7,
+   "rec_yds": 5.2,
+   "carries": 4.2,
+   "tds": 0.0
   },
   {
    "player": "Jared Goff",
@@ -157,17 +216,6 @@
    "tds": 1.3
   },
   {
-   "player": "Amon-Ra St. Brown",
-   "team": "DET",
-   "position": "WR",
-   "rush_yds": 1.0,
-   "targets": 7.8,
-   "receptions": 5.4,
-   "rec_yds": 61.9,
-   "carries": 0.2,
-   "tds": 0.3
-  },
-  {
    "player": "Isaac TeSlaa",
    "team": "DET",
    "position": "WR",
@@ -179,17 +227,6 @@
    "tds": 0.2
   },
   {
-   "player": "Sione Vaki",
-   "team": "DET",
-   "position": "RB",
-   "rush_yds": 14.5,
-   "targets": 0.9,
-   "receptions": 0.7,
-   "rec_yds": 5.2,
-   "carries": 4.2,
-   "tds": 0.0
-  },
-  {
    "player": "Sam LaPorta",
    "team": "DET",
    "position": "TE",
@@ -198,6 +235,17 @@
    "receptions": 3.0,
    "rec_yds": 34.5,
    "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Amon-Ra St. Brown",
+   "team": "DET",
+   "position": "WR",
+   "rush_yds": 1.0,
+   "targets": 7.8,
+   "receptions": 5.4,
+   "rec_yds": 61.9,
+   "carries": 0.2,
    "tds": 0.3
   }
  ]

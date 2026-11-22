@@ -1,0 +1,1614 @@
+{
+ "game_id": "2026_11_ARI_KC",
+ "pulled_at": "2026-11-22T11:40-05:00",
+ "props": [
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Emmett Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": -205
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Rashee Rice",
+   "side": "Yes",
+   "line": null,
+   "price": 155
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Travis Kelce",
+   "side": "Yes",
+   "line": null,
+   "price": 205
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Josh Downs",
+   "side": "Yes",
+   "line": null,
+   "price": 230
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tyler Allgeier",
+   "side": "Yes",
+   "line": null,
+   "price": 300
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Trey McBride",
+   "side": "Yes",
+   "line": null,
+   "price": 340
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Xavier Worthy",
+   "side": "Yes",
+   "line": null,
+   "price": 360
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Zonovan Knight",
+   "side": "Yes",
+   "line": null,
+   "price": 400
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Noah Gray",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Kansas City Chiefs D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Cyrus Allen",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Patrick Mahomes",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Arizona Cardinals D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Josh Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jaydn Ott",
+   "side": "Yes",
+   "line": null,
+   "price": 800
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Reggie Virgil",
+   "side": "Yes",
+   "line": null,
+   "price": 1100
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jake Briningstool",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Elijah Higgins",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Simi Fehoko",
+   "side": "Yes",
+   "line": null,
+   "price": 1200
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Devin Duvernay",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Zay Jones",
+   "side": "Yes",
+   "line": null,
+   "price": 1600
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jalen Royals",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Andrew Armstrong",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Hunter Long",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Evan Hull",
+   "side": "Yes",
+   "line": null,
+   "price": 2500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Teagan Quitoriano",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Harrison Wallace III",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ben VanSumeren",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Patrick Mahomes",
+   "side": "Over",
+   "line": 246.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Patrick Mahomes",
+   "side": "Under",
+   "line": 246.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Josh Johnson",
+   "side": "Over",
+   "line": 160.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Josh Johnson",
+   "side": "Under",
+   "line": 160.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Trey McBride",
+   "side": "Over",
+   "line": 50.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Trey McBride",
+   "side": "Under",
+   "line": 50.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rashee Rice",
+   "side": "Over",
+   "line": 50.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rashee Rice",
+   "side": "Under",
+   "line": 50.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Travis Kelce",
+   "side": "Over",
+   "line": 40.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Travis Kelce",
+   "side": "Under",
+   "line": 40.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Josh Downs",
+   "side": "Over",
+   "line": 37.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Josh Downs",
+   "side": "Under",
+   "line": 37.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 31.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 31.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Xavier Worthy",
+   "side": "Over",
+   "line": 25.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Xavier Worthy",
+   "side": "Under",
+   "line": 25.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Simi Fehoko",
+   "side": "Over",
+   "line": 13.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Simi Fehoko",
+   "side": "Under",
+   "line": 13.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Cyrus Allen",
+   "side": "Over",
+   "line": 12.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Cyrus Allen",
+   "side": "Under",
+   "line": 12.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Reggie Virgil",
+   "side": "Over",
+   "line": 12.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Reggie Virgil",
+   "side": "Under",
+   "line": 12.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Elijah Higgins",
+   "side": "Over",
+   "line": 12.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Elijah Higgins",
+   "side": "Under",
+   "line": 12.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Noah Gray",
+   "side": "Over",
+   "line": 11.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Noah Gray",
+   "side": "Under",
+   "line": 11.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Devin Duvernay",
+   "side": "Over",
+   "line": 8.5,
+   "price": -117
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Devin Duvernay",
+   "side": "Under",
+   "line": 8.5,
+   "price": -107
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Zonovan Knight",
+   "side": "Over",
+   "line": 8.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Zonovan Knight",
+   "side": "Under",
+   "line": 8.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 7.5,
+   "price": -121
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 7.5,
+   "price": -104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Trey McBride",
+   "side": "Over",
+   "line": 6.5,
+   "price": 115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Trey McBride",
+   "side": "Under",
+   "line": 6.5,
+   "price": -147
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rashee Rice",
+   "side": "Over",
+   "line": 4.5,
+   "price": 104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rashee Rice",
+   "side": "Under",
+   "line": 4.5,
+   "price": -133
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Travis Kelce",
+   "side": "Over",
+   "line": 3.5,
+   "price": -106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Travis Kelce",
+   "side": "Under",
+   "line": 3.5,
+   "price": -120
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Josh Downs",
+   "side": "Over",
+   "line": 3.5,
+   "price": 112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Josh Downs",
+   "side": "Under",
+   "line": 3.5,
+   "price": -143
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Xavier Worthy",
+   "side": "Over",
+   "line": 2.5,
+   "price": 106
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Xavier Worthy",
+   "side": "Under",
+   "line": 2.5,
+   "price": -135
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Elijah Higgins",
+   "side": "Over",
+   "line": 1.5,
+   "price": -146
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Elijah Higgins",
+   "side": "Under",
+   "line": 1.5,
+   "price": 114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Zonovan Knight",
+   "side": "Over",
+   "line": 1.5,
+   "price": -146
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Zonovan Knight",
+   "side": "Under",
+   "line": 1.5,
+   "price": 115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 1.5,
+   "price": -118
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 1.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Noah Gray",
+   "side": "Over",
+   "line": 1.5,
+   "price": 100
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Noah Gray",
+   "side": "Under",
+   "line": 1.5,
+   "price": -127
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Simi Fehoko",
+   "side": "Over",
+   "line": 1.5,
+   "price": 103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Simi Fehoko",
+   "side": "Under",
+   "line": 1.5,
+   "price": -131
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Reggie Virgil",
+   "side": "Over",
+   "line": 1.5,
+   "price": 115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Reggie Virgil",
+   "side": "Under",
+   "line": 1.5,
+   "price": -147
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Devin Duvernay",
+   "side": "Over",
+   "line": 1.5,
+   "price": 139
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Devin Duvernay",
+   "side": "Under",
+   "line": 1.5,
+   "price": -178
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Cyrus Allen",
+   "side": "Over",
+   "line": 1.5,
+   "price": 165
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Cyrus Allen",
+   "side": "Under",
+   "line": 1.5,
+   "price": -213
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 87.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 87.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 27.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Zonovan Knight",
+   "side": "Over",
+   "line": 25.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Zonovan Knight",
+   "side": "Under",
+   "line": 25.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Josh Johnson",
+   "side": "Over",
+   "line": 15.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Josh Johnson",
+   "side": "Under",
+   "line": 15.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jaydn Ott",
+   "side": "Over",
+   "line": 11.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jaydn Ott",
+   "side": "Under",
+   "line": 11.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Patrick Mahomes",
+   "side": "Over",
+   "line": 10.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Patrick Mahomes",
+   "side": "Under",
+   "line": 10.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Emmett Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": -195
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Rashee Rice",
+   "side": "Yes",
+   "line": null,
+   "price": 175
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Travis Kelce",
+   "side": "Yes",
+   "line": null,
+   "price": 200
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Josh Downs",
+   "side": "Yes",
+   "line": null,
+   "price": 210
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tyler Allgeier",
+   "side": "Yes",
+   "line": null,
+   "price": 310
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Trey McBride",
+   "side": "Yes",
+   "line": null,
+   "price": 320
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Bam Knight",
+   "side": "Yes",
+   "line": null,
+   "price": 390
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Xavier Worthy",
+   "side": "Yes",
+   "line": null,
+   "price": 400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Noah Gray",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Kansas City Chiefs Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Cyrus Allen",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Patrick Mahomes",
+   "side": "Yes",
+   "line": null,
+   "price": 600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Josh Johnson",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jaydn Ott",
+   "side": "Yes",
+   "line": null,
+   "price": 950
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Reggie Virgil",
+   "side": "Yes",
+   "line": null,
+   "price": 950
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Simi Fehoko",
+   "side": "Yes",
+   "line": null,
+   "price": 1000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Elijah Higgins",
+   "side": "Yes",
+   "line": null,
+   "price": 1000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Nate Carter",
+   "side": "Yes",
+   "line": null,
+   "price": 1100
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jake Briningstool",
+   "side": "Yes",
+   "line": null,
+   "price": 1300
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Devin Duvernay",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jalen Royals",
+   "side": "Yes",
+   "line": null,
+   "price": 1600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Arizona Cardinals Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 1600
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Hunter Long",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Andrew Armstrong",
+   "side": "Yes",
+   "line": null,
+   "price": 2000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Zay Jones",
+   "side": "Yes",
+   "line": null,
+   "price": 2200
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Evan Hull",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Harrison Wallace III",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Teagan Quitoriano",
+   "side": "Yes",
+   "line": null,
+   "price": 3500
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ben VanSumeren",
+   "side": "Yes",
+   "line": null,
+   "price": 4000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Patrick Mahomes",
+   "side": "Over",
+   "line": 248.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Patrick Mahomes",
+   "side": "Under",
+   "line": 248.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Josh Johnson",
+   "side": "Over",
+   "line": 166.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Josh Johnson",
+   "side": "Under",
+   "line": 166.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Travis Kelce",
+   "side": "Over",
+   "line": 39.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Travis Kelce",
+   "side": "Under",
+   "line": 39.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Trey McBride",
+   "side": "Over",
+   "line": 49.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Trey McBride",
+   "side": "Under",
+   "line": 49.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Xavier Worthy",
+   "side": "Over",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Xavier Worthy",
+   "side": "Under",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Bam Knight",
+   "side": "Over",
+   "line": 8.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Bam Knight",
+   "side": "Under",
+   "line": 8.5,
+   "price": -125
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Josh Downs",
+   "side": "Over",
+   "line": 37.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Josh Downs",
+   "side": "Under",
+   "line": 37.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 7.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 7.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Simi Fehoko",
+   "side": "Over",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Simi Fehoko",
+   "side": "Under",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rashee Rice",
+   "side": "Over",
+   "line": 50.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rashee Rice",
+   "side": "Under",
+   "line": 50.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Cyrus Allen",
+   "side": "Over",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Cyrus Allen",
+   "side": "Under",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Devin Duvernay",
+   "side": "Over",
+   "line": 8.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Devin Duvernay",
+   "side": "Under",
+   "line": 8.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Noah Gray",
+   "side": "Over",
+   "line": 12.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Noah Gray",
+   "side": "Under",
+   "line": 12.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Elijah Higgins",
+   "side": "Over",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Elijah Higgins",
+   "side": "Under",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Reggie Virgil",
+   "side": "Over",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Reggie Virgil",
+   "side": "Under",
+   "line": 13.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 3.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 3.5,
+   "price": -114
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Bam Knight",
+   "side": "Over",
+   "line": 1.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Bam Knight",
+   "side": "Under",
+   "line": 1.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Reggie Virgil",
+   "side": "Over",
+   "line": 1.5,
+   "price": 116
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Reggie Virgil",
+   "side": "Under",
+   "line": 1.5,
+   "price": -154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rashee Rice",
+   "side": "Over",
+   "line": 4.5,
+   "price": 116
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rashee Rice",
+   "side": "Under",
+   "line": 4.5,
+   "price": -154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 1.5,
+   "price": -125
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 1.5,
+   "price": -106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Elijah Higgins",
+   "side": "Over",
+   "line": 1.5,
+   "price": -154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Elijah Higgins",
+   "side": "Under",
+   "line": 1.5,
+   "price": 116
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Simi Fehoko",
+   "side": "Over",
+   "line": 1.5,
+   "price": 106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Simi Fehoko",
+   "side": "Under",
+   "line": 1.5,
+   "price": -140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Devin Duvernay",
+   "side": "Over",
+   "line": 0.5,
+   "price": -320
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Devin Duvernay",
+   "side": "Under",
+   "line": 0.5,
+   "price": 225
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Cyrus Allen",
+   "side": "Over",
+   "line": 1.5,
+   "price": 154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Cyrus Allen",
+   "side": "Under",
+   "line": 1.5,
+   "price": -210
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Noah Gray",
+   "side": "Over",
+   "line": 1.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Noah Gray",
+   "side": "Under",
+   "line": 1.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Josh Downs",
+   "side": "Over",
+   "line": 3.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Josh Downs",
+   "side": "Under",
+   "line": 3.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Travis Kelce",
+   "side": "Over",
+   "line": 3.5,
+   "price": 110
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Travis Kelce",
+   "side": "Under",
+   "line": 3.5,
+   "price": -146
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Xavier Worthy",
+   "side": "Over",
+   "line": 2.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Xavier Worthy",
+   "side": "Under",
+   "line": 2.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Trey McBride",
+   "side": "Over",
+   "line": 5.5,
+   "price": -158
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Trey McBride",
+   "side": "Under",
+   "line": 5.5,
+   "price": 118
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Emmett Johnson",
+   "side": "Over",
+   "line": 87.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Emmett Johnson",
+   "side": "Under",
+   "line": 87.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Patrick Mahomes",
+   "side": "Over",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Patrick Mahomes",
+   "side": "Under",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Bam Knight",
+   "side": "Over",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Bam Knight",
+   "side": "Under",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Josh Johnson",
+   "side": "Over",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Josh Johnson",
+   "side": "Under",
+   "line": 15.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Tyler Allgeier",
+   "side": "Over",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Tyler Allgeier",
+   "side": "Under",
+   "line": 28.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jaydn Ott",
+   "side": "Over",
+   "line": 10.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jaydn Ott",
+   "side": "Under",
+   "line": 10.5,
+   "price": -113
+  }
+ ]
+}

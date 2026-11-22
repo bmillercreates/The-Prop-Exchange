@@ -409,8 +409,8 @@
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
   "temp_f": 67,
-  "wind_mph": 14,
-  "gust_mph": 22,
+  "wind_mph": 13,
+  "gust_mph": 21,
   "precip_in": 0.0,
   "precip_chance": 1
  },
@@ -420,21 +420,21 @@
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
   "temp_f": 59,
-  "wind_mph": 8,
-  "gust_mph": 19,
-  "precip_in": 0.03,
-  "precip_chance": 41
+  "wind_mph": 9,
+  "gust_mph": 17,
+  "precip_in": 0.0,
+  "precip_chance": 24
  },
  "2026_11_NO_CHI": {
   "game_id": "2026_11_NO_CHI",
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 51,
+  "temp_f": 53,
   "wind_mph": 12,
-  "gust_mph": 25,
-  "precip_in": 0.02,
-  "precip_chance": 94
+  "gust_mph": 22,
+  "precip_in": 0.0,
+  "precip_chance": 83
  },
  "2026_11_TEN_DAL": {
   "game_id": "2026_11_TEN_DAL",
@@ -454,8 +454,8 @@
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
   "temp_f": 46,
-  "wind_mph": 15,
-  "gust_mph": 24,
+  "wind_mph": 16,
+  "gust_mph": 25,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -464,11 +464,11 @@
   "stadium": "MetLife Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 57,
-  "wind_mph": 6,
-  "gust_mph": 11,
-  "precip_in": 0.03,
-  "precip_chance": 61
+  "temp_f": 62,
+  "wind_mph": 7,
+  "gust_mph": 13,
+  "precip_in": 0.0,
+  "precip_chance": 6
  },
  "2026_11_NYJ_LAC": {
   "game_id": "2026_11_NYJ_LAC",
