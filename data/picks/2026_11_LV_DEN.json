@@ -1,22 +1,22 @@
 {
  "game_id": "2026_11_LV_DEN",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-21T15:46-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-22T15:05-05:00",
  "kickoff": "2026-11-22T16:25",
  "weekday": "Sunday",
  "away": "LV",
  "home": "DEN",
  "stadium": "Empower Field at Mile High",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-22T15:05-05:00",
  "weather": {
   "game_id": "2026_11_LV_DEN",
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "temp_f": 45,
-  "wind_mph": 7,
-  "gust_mph": 10,
+  "temp_f": 43,
+  "wind_mph": 9,
+  "gust_mph": 12,
   "precip_in": 0.0,
   "precip_chance": 0
  },
@@ -38,64 +38,110 @@
    ]
   }
  },
- "blue_chips": [],
- "penny_stocks": [],
- "etfs": [],
- "projections": [
+ "blue_chips": [
   {
-   "player": "Mike Washington Jr.",
+   "tier": "Blue Chip",
+   "player": "Bo Nix",
+   "team": "DEN",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 216.5,
+   "title": "Bo Nix Under 216.5 passing yards",
+   "price": -110,
+   "book": "draftkings",
+   "model_prob": 0.5858,
+   "fair_prob": 0.4958,
+   "prob_edge": 0.09,
+   "edge": 0.1184,
+   "projection": 179.31,
+   "flags": [],
+   "why": [
+    "Model projects 179 yards vs. a line of 216.5 (75% chance to go under on its own).",
+    "Expected to throw about 27 times; completion % over expected is +0.4 lately.",
+    "Also factored in: coming off a bye."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Ashton Jeanty",
    "team": "LV",
    "position": "RB",
-   "rush_yds": 24.0,
-   "targets": 0.8,
-   "receptions": 0.6,
-   "rec_yds": 4.9,
-   "carries": 5.9,
-   "tds": 0.2
-  },
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 3.5,
+   "title": "Ashton Jeanty Over 3.5 receptions",
+   "price": -136,
+   "book": "draftkings",
+   "model_prob": 0.5881,
+   "fair_prob": 0.544,
+   "prob_edge": 0.0441,
+   "edge": 0.0205,
+   "projection": 4.94,
+   "flags": [],
+   "why": [
+    "Model projects 5 catches vs. a line of 3.5 (67% chance to go over on its own).",
+    "Earns 16% of the Raiders' targets and 2% of their air yards, on 66% of snaps.",
+    "The Broncos defense allows 8% more receptions to RBs than average."
+   ]
+  }
+ ],
+ "penny_stocks": [
   {
-   "player": "Jalen Nailor",
+   "tier": "Penny Stock",
+   "player": "Jack Bech",
    "team": "LV",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.8,
-   "receptions": 2.5,
-   "rec_yds": 25.7,
-   "carries": 0.0,
-   "tds": 0.1
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Jack Bech Over 2.5 receptions",
+   "price": 144,
+   "book": "fanduel",
+   "model_prob": 0.4629,
+   "fair_prob": 0.3831,
+   "prob_edge": 0.0797,
+   "edge": 0.1294,
+   "projection": 3.43,
+   "flags": [
+    "missed recent games"
+   ],
+   "why": [
+    "Model projects 3 catches vs. a line of 2.5 (61% chance to go over on its own).",
+    "Earns 15% of the Raiders' targets and 20% of their air yards, on 43% of snaps.",
+    "The Raiders are 10.5-point underdogs, so they should be throwing to catch up."
+   ]
   },
   {
-   "player": "Ian Thomas",
-   "team": "LV",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.1,
-   "receptions": 0.9,
-   "rec_yds": 11.0,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Fernando Mendoza",
-   "team": "LV",
-   "position": "QB",
-   "rush_yds": 13.0,
-   "pass_yds": 269.0,
-   "pass_att": 38.6,
-   "carries": 2.7,
-   "tds": 0.2
-  },
-  {
-   "player": "Michael Mayer",
-   "team": "LV",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 4.5,
-   "receptions": 3.9,
-   "rec_yds": 42.6,
-   "carries": 0.3,
-   "tds": 0.0
-  },
+   "tier": "Penny Stock",
+   "player": "J.K. Dobbins",
+   "team": "DEN",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "J.K. Dobbins Yes anytime TD",
+   "price": 310,
+   "book": "draftkings",
+   "model_prob": 0.2565,
+   "fair_prob": 0.2279,
+   "prob_edge": 0.0285,
+   "edge": 0.0515,
+   "projection": 0.37,
+   "flags": [],
+   "why": [
+    "Model gives him a 31% chance to score; the odds imply about 23%.",
+    "Gets 15% of the Broncos' red-zone touches.",
+    "With RJ Harvey out, there's more work to go around."
+   ]
+  }
+ ],
+ "etfs": [],
+ "projections": [
   {
    "player": "Cody White",
    "team": "LV",
@@ -119,15 +165,26 @@
    "tds": 0.1
   },
   {
-   "player": "Jack Bech",
+   "player": "Tre Tucker",
    "team": "LV",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.9,
-   "receptions": 3.4,
-   "rec_yds": 37.4,
-   "carries": 0.0,
-   "tds": 0.1
+   "rush_yds": 0.7,
+   "targets": 5.1,
+   "receptions": 3.0,
+   "rec_yds": 41.2,
+   "carries": 0.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Mike Washington Jr.",
+   "team": "LV",
+   "position": "RB",
+   "rush_yds": 24.0,
+   "targets": 0.8,
+   "receptions": 0.6,
+   "rec_yds": 4.9,
+   "carries": 5.9,
+   "tds": 0.2
   },
   {
    "player": "Ashton Jeanty",
@@ -152,37 +209,69 @@
    "tds": 0.1
   },
   {
-   "player": "Tre Tucker",
+   "player": "Jack Bech",
    "team": "LV",
    "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 5.1,
-   "receptions": 3.0,
-   "rec_yds": 41.2,
-   "carries": 0.1,
-   "tds": 0.2
-  },
-  {
-   "player": "Marvin Mims Jr.",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 4.9,
-   "targets": 1.9,
-   "receptions": 1.1,
-   "rec_yds": 15.2,
-   "carries": 1.0,
+   "rush_yds": 0.0,
+   "targets": 5.9,
+   "receptions": 3.4,
+   "rec_yds": 37.4,
+   "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "J.K. Dobbins",
+   "player": "Michael Mayer",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 4.5,
+   "receptions": 3.9,
+   "rec_yds": 42.6,
+   "carries": 0.3,
+   "tds": 0.0
+  },
+  {
+   "player": "Jalen Nailor",
+   "team": "LV",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.8,
+   "receptions": 2.5,
+   "rec_yds": 25.7,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Fernando Mendoza",
+   "team": "LV",
+   "position": "QB",
+   "rush_yds": 13.0,
+   "pass_yds": 269.0,
+   "pass_att": 38.6,
+   "carries": 2.7,
+   "tds": 0.2
+  },
+  {
+   "player": "Ian Thomas",
+   "team": "LV",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.1,
+   "receptions": 0.9,
+   "rec_yds": 11.0,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Evan Engram",
    "team": "DEN",
-   "position": "RB",
-   "rush_yds": 43.6,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 3.6,
-   "carries": 10.0,
-   "tds": 0.4
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.2,
+   "receptions": 2.1,
+   "rec_yds": 20.3,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Jaylen Waddle",
@@ -196,15 +285,15 @@
    "tds": 0.3
   },
   {
-   "player": "Courtland Sutton",
+   "player": "Troy Franklin",
    "team": "DEN",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 2.8,
-   "rec_yds": 37.8,
-   "carries": 0.0,
-   "tds": 0.4
+   "rush_yds": 0.9,
+   "targets": 2.1,
+   "receptions": 1.2,
+   "rec_yds": 17.5,
+   "carries": 0.2,
+   "tds": 0.1
   },
   {
    "player": "Pat Bryant",
@@ -218,24 +307,25 @@
    "tds": 0.2
   },
   {
-   "player": "Jonah Coleman",
+   "player": "J.K. Dobbins",
    "team": "DEN",
    "position": "RB",
-   "rush_yds": 60.3,
-   "targets": 2.5,
-   "receptions": 1.9,
-   "rec_yds": 16.6,
-   "carries": 12.0,
-   "tds": 0.6
+   "rush_yds": 43.6,
+   "targets": 0.7,
+   "receptions": 0.5,
+   "rec_yds": 3.6,
+   "carries": 10.0,
+   "tds": 0.4
   },
   {
-   "player": "Bo Nix",
+   "player": "Marvin Mims Jr.",
    "team": "DEN",
-   "position": "QB",
-   "rush_yds": 19.5,
-   "pass_yds": 179.3,
-   "pass_att": 26.6,
-   "carries": 5.1,
+   "position": "WR",
+   "rush_yds": 4.9,
+   "targets": 1.9,
+   "receptions": 1.1,
+   "rec_yds": 15.2,
+   "carries": 1.0,
    "tds": 0.1
   },
   {
@@ -250,26 +340,36 @@
    "tds": 0.1
   },
   {
-   "player": "Evan Engram",
+   "player": "Bo Nix",
    "team": "DEN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.2,
-   "receptions": 2.1,
-   "rec_yds": 20.3,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "QB",
+   "rush_yds": 19.5,
+   "pass_yds": 179.3,
+   "pass_att": 26.6,
+   "carries": 5.1,
+   "tds": 0.1
   },
   {
-   "player": "Troy Franklin",
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 60.3,
+   "targets": 2.5,
+   "receptions": 1.9,
+   "rec_yds": 16.6,
+   "carries": 12.0,
+   "tds": 0.6
+  },
+  {
+   "player": "Courtland Sutton",
    "team": "DEN",
    "position": "WR",
-   "rush_yds": 0.9,
-   "targets": 2.1,
-   "receptions": 1.2,
-   "rec_yds": 17.5,
-   "carries": 0.2,
-   "tds": 0.1
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 2.8,
+   "rec_yds": 37.8,
+   "carries": 0.0,
+   "tds": 0.4
   }
  ]
 }

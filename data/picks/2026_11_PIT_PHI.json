@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_PIT_PHI",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-21T15:46-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-22T15:05-05:00",
  "kickoff": "2026-11-22T16:25",
  "weekday": "Sunday",
  "away": "PIT",
@@ -14,11 +14,11 @@
   "stadium": "Lincoln Financial Field",
   "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "temp_f": 58,
+  "temp_f": 60,
   "wind_mph": 6,
-  "gust_mph": 15,
-  "precip_in": 0.17,
-  "precip_chance": 52
+  "gust_mph": 16,
+  "precip_in": 0.0,
+  "precip_chance": 3
  },
  "teams": {
   "PIT": {
@@ -26,9 +26,7 @@
    "margin": 3.5,
    "plays": 59.2,
    "pass_att": 30.7,
-   "notes": [
-    "rain/snow expected"
-   ]
+   "notes": []
   },
   "PHI": {
    "implied_pts": 17.0,
@@ -36,7 +34,6 @@
    "plays": 58.6,
    "pass_att": 36.1,
    "notes": [
-    "rain/snow expected",
     "coming off a bye"
    ]
   }
@@ -46,25 +43,36 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Germie Bernard",
-   "team": "PIT",
-   "position": "WR",
-   "rush_yds": 1.5,
-   "targets": 5.6,
-   "receptions": 3.9,
-   "rec_yds": 43.3,
-   "carries": 0.3,
-   "tds": 0.3
-  },
-  {
    "player": "Pat Freiermuth",
    "team": "PIT",
    "position": "TE",
    "rush_yds": 0.5,
    "targets": 3.7,
    "receptions": 2.4,
-   "rec_yds": 21.9,
+   "rec_yds": 22.5,
    "carries": 0.3,
+   "tds": 0.2
+  },
+  {
+   "player": "Germie Bernard",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 1.5,
+   "targets": 5.6,
+   "receptions": 3.9,
+   "rec_yds": 44.6,
+   "carries": 0.3,
+   "tds": 0.3
+  },
+  {
+   "player": "Lew Nichols III",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 10.2,
+   "targets": 0.3,
+   "receptions": 0.2,
+   "rec_yds": 1.5,
+   "carries": 2.0,
    "tds": 0.2
   },
   {
@@ -72,21 +80,10 @@
    "team": "PIT",
    "position": "QB",
    "rush_yds": 5.3,
-   "pass_yds": 198.5,
+   "pass_yds": 204.7,
    "pass_att": 30.7,
    "carries": 1.5,
    "tds": 0.0
-  },
-  {
-   "player": "Darnell Washington",
-   "team": "PIT",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.3,
-   "rec_yds": 23.7,
-   "carries": 0.0,
-   "tds": 0.2
   },
   {
    "player": "DK Metcalf",
@@ -95,7 +92,7 @@
    "rush_yds": 0.4,
    "targets": 7.4,
    "receptions": 4.1,
-   "rec_yds": 55.7,
+   "rec_yds": 57.4,
    "carries": 0.1,
    "tds": 0.2
   },
@@ -106,20 +103,9 @@
    "rush_yds": 75.8,
    "targets": 4.4,
    "receptions": 2.9,
-   "rec_yds": 23.4,
+   "rec_yds": 24.2,
    "carries": 12.7,
    "tds": 0.3
-  },
-  {
-   "player": "Lew Nichols III",
-   "team": "PIT",
-   "position": "RB",
-   "rush_yds": 10.2,
-   "targets": 0.3,
-   "receptions": 0.2,
-   "rec_yds": 1.4,
-   "carries": 2.0,
-   "tds": 0.2
   },
   {
    "player": "Rico Dowdle",
@@ -128,74 +114,20 @@
    "rush_yds": 32.3,
    "targets": 2.6,
    "receptions": 1.8,
-   "rec_yds": 10.8,
+   "rec_yds": 11.1,
    "carries": 7.2,
    "tds": 0.4
   },
   {
-   "player": "Dallas Goedert",
-   "team": "PHI",
+   "player": "Darnell Washington",
+   "team": "PIT",
    "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 6.1,
-   "receptions": 4.4,
-   "rec_yds": 44.7,
-   "carries": 0.1,
-   "tds": 0.1
-  },
-  {
-   "player": "Saquon Barkley",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 24.5,
-   "targets": 1.5,
-   "receptions": 1.2,
-   "rec_yds": 9.1,
-   "carries": 6.8,
-   "tds": 0.9
-  },
-  {
-   "player": "Elijah Mitchell",
-   "team": "PHI",
-   "position": "RB",
-   "rush_yds": 7.9,
-   "targets": 4.1,
-   "receptions": 3.4,
-   "rec_yds": 24.4,
-   "carries": 2.5,
-   "tds": 0.1
-  },
-  {
-   "player": "Tanner McKee",
-   "team": "PHI",
-   "position": "QB",
-   "rush_yds": 4.5,
-   "pass_yds": 245.5,
-   "pass_att": 36.1,
-   "carries": 1.2,
-   "tds": 0.0
-  },
-  {
-   "player": "Darius Cooper",
-   "team": "PHI",
-   "position": "WR",
    "rush_yds": 0.0,
-   "targets": 6.2,
-   "receptions": 3.3,
-   "rec_yds": 45.9,
+   "targets": 3.6,
+   "receptions": 2.3,
+   "rec_yds": 24.5,
    "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Elijah Moore",
-   "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.8,
-   "receptions": 1.2,
-   "rec_yds": 13.4,
-   "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.2
   },
   {
    "player": "Makai Lemon",
@@ -204,9 +136,52 @@
    "rush_yds": 0.1,
    "targets": 8.7,
    "receptions": 6.0,
-   "rec_yds": 59.9,
+   "rec_yds": 61.8,
    "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Elijah Moore",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.8,
+   "receptions": 1.2,
+   "rec_yds": 13.9,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Tanner McKee",
+   "team": "PHI",
+   "position": "QB",
+   "rush_yds": 4.5,
+   "pass_yds": 253.1,
+   "pass_att": 36.1,
+   "carries": 1.2,
+   "tds": 0.0
+  },
+  {
+   "player": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 24.5,
+   "targets": 1.5,
+   "receptions": 1.2,
+   "rec_yds": 9.4,
+   "carries": 6.8,
+   "tds": 0.9
+  },
+  {
+   "player": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.2,
+   "receptions": 3.3,
+   "rec_yds": 47.3,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Eli Stowers",
@@ -215,9 +190,31 @@
    "rush_yds": 0.0,
    "targets": 1.4,
    "receptions": 0.9,
-   "rec_yds": 10.5,
+   "rec_yds": 10.9,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Elijah Mitchell",
+   "team": "PHI",
+   "position": "RB",
+   "rush_yds": 7.9,
+   "targets": 4.1,
+   "receptions": 3.4,
+   "rec_yds": 25.2,
+   "carries": 2.5,
+   "tds": 0.1
+  },
+  {
+   "player": "Dallas Goedert",
+   "team": "PHI",
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 6.1,
+   "receptions": 4.4,
+   "rec_yds": 46.1,
+   "carries": 0.1,
+   "tds": 0.1
   }
  ]
 }
