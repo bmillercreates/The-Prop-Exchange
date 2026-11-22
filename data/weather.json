@@ -408,33 +408,33 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 67,
+  "temp_f": 66,
   "wind_mph": 13,
-  "gust_mph": 21,
+  "gust_mph": 20,
   "precip_in": 0.0,
-  "precip_chance": 1
+  "precip_chance": 0
  },
  "2026_11_BAL_CAR": {
   "game_id": "2026_11_BAL_CAR",
   "stadium": "Bank of America Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 59,
-  "wind_mph": 9,
-  "gust_mph": 17,
+  "temp_f": 60,
+  "wind_mph": 8,
+  "gust_mph": 14,
   "precip_in": 0.0,
-  "precip_chance": 24
+  "precip_chance": 12
  },
  "2026_11_NO_CHI": {
   "game_id": "2026_11_NO_CHI",
   "stadium": "Soldier Field",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 53,
+  "temp_f": 52,
   "wind_mph": 12,
-  "gust_mph": 22,
-  "precip_in": 0.0,
-  "precip_chance": 83
+  "gust_mph": 21,
+  "precip_in": 0.06,
+  "precip_chance": 59
  },
  "2026_11_TEN_DAL": {
   "game_id": "2026_11_TEN_DAL",
@@ -453,20 +453,20 @@
   "stadium": "GEHA Field at Arrowhead Stadium",
   "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
+  "temp_f": 49,
   "wind_mph": 16,
-  "gust_mph": 25,
+  "gust_mph": 26,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "2026_11_JAX_NYG": {
   "game_id": "2026_11_JAX_NYG",
   "stadium": "MetLife Stadium",
-  "kickoff_et": "2026-11-22T13:00:00-05:00",
+  "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "temp_f": 62,
-  "wind_mph": 7,
-  "gust_mph": 13,
+  "temp_f": 58,
+  "wind_mph": 6,
+  "gust_mph": 16,
   "precip_in": 0.0,
   "precip_chance": 6
  },
@@ -481,20 +481,20 @@
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-11-22T16:25:00-05:00",
   "covered": false,
-  "temp_f": 43,
-  "wind_mph": 9,
-  "gust_mph": 12,
+  "temp_f": 42,
+  "wind_mph": 8,
+  "gust_mph": 11,
   "precip_in": 0.0,
   "precip_chance": 0
  },
  "2026_11_PIT_PHI": {
   "game_id": "2026_11_PIT_PHI",
   "stadium": "Lincoln Financial Field",
-  "kickoff_et": "2026-11-22T16:25:00-05:00",
+  "kickoff_et": "2026-11-22T13:00:00-05:00",
   "covered": false,
-  "temp_f": 60,
-  "wind_mph": 6,
-  "gust_mph": 16,
+  "temp_f": 64,
+  "wind_mph": 8,
+  "gust_mph": 17,
   "precip_in": 0.0,
   "precip_chance": 3
  },
@@ -503,20 +503,20 @@
   "stadium": "Estadio Banorte",
   "kickoff_et": "2026-11-22T20:20:00-05:00",
   "covered": false,
-  "temp_f": 63,
-  "wind_mph": 3,
-  "gust_mph": 9,
-  "precip_in": 0.01,
-  "precip_chance": 61
+  "temp_f": 61,
+  "wind_mph": 7,
+  "gust_mph": 20,
+  "precip_in": 0.04,
+  "precip_chance": 58
  },
  "2026_11_CIN_WAS": {
   "game_id": "2026_11_CIN_WAS",
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-23T20:15:00-05:00",
   "covered": false,
-  "temp_f": 52,
-  "wind_mph": 9,
-  "gust_mph": 24,
+  "temp_f": 48,
+  "wind_mph": 15,
+  "gust_mph": 31,
   "precip_in": 0.0,
   "precip_chance": 1
  },
@@ -543,31 +543,31 @@
   "stadium": "Highmark Stadium",
   "kickoff_et": "2026-11-26T20:20:00-05:00",
   "covered": false,
-  "temp_f": 36,
-  "wind_mph": 22,
-  "gust_mph": 57,
-  "precip_in": 0.2,
-  "precip_chance": 33
+  "temp_f": 41,
+  "wind_mph": 20,
+  "gust_mph": 41,
+  "precip_in": 0.02,
+  "precip_chance": 81
  },
  "2026_12_DEN_PIT": {
   "game_id": "2026_12_DEN_PIT",
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-27T15:00:00-05:00",
   "covered": false,
-  "temp_f": 39,
+  "temp_f": 40,
   "wind_mph": 14,
-  "gust_mph": 33,
-  "precip_in": 0.03,
-  "precip_chance": 10
+  "gust_mph": 31,
+  "precip_in": 0.01,
+  "precip_chance": 32
  },
  "2026_12_NO_CIN": {
   "game_id": "2026_12_NO_CIN",
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "temp_f": 51,
-  "wind_mph": 6,
-  "gust_mph": 10,
+  "temp_f": 56,
+  "wind_mph": 10,
+  "gust_mph": 18,
   "precip_in": 0.0,
   "precip_chance": 6
  },
@@ -577,10 +577,10 @@
   "kickoff_et": "2026-11-29T20:20:00-05:00",
   "covered": false,
   "temp_f": 46,
-  "wind_mph": 14,
-  "gust_mph": 19,
+  "wind_mph": 15,
+  "gust_mph": 23,
   "precip_in": 0.0,
-  "precip_chance": 14
+  "precip_chance": 13
  },
  "2026_12_BAL_HOU": {
   "game_id": "2026_12_BAL_HOU",
@@ -599,11 +599,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "temp_f": 84,
-  "wind_mph": 9,
-  "gust_mph": 10,
-  "precip_in": 0.09,
-  "precip_chance": 15
+  "temp_f": 76,
+  "wind_mph": 15,
+  "gust_mph": 19,
+  "precip_in": 0.0,
+  "precip_chance": 32
  },
  "2026_12_ATL_MIN": {
   "game_id": "2026_12_ATL_MIN",
@@ -616,11 +616,11 @@
   "stadium": "EverBank Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "temp_f": 62,
-  "wind_mph": 8,
-  "gust_mph": 19,
-  "precip_in": 0.07,
-  "precip_chance": 5
+  "temp_f": 72,
+  "wind_mph": 2,
+  "gust_mph": 3,
+  "precip_in": 0.0,
+  "precip_chance": 9
  },
  "2026_12_WAS_ARI": {
   "game_id": "2026_12_WAS_ARI",
@@ -633,11 +633,11 @@
   "stadium": "Levi's Stadium",
   "kickoff_et": "2026-11-29T16:25:00-05:00",
   "covered": false,
-  "temp_f": 63,
-  "wind_mph": 7,
-  "gust_mph": 8,
-  "precip_in": 0.0,
-  "precip_chance": 34
+  "temp_f": 59,
+  "wind_mph": 10,
+  "gust_mph": 20,
+  "precip_in": 0.06,
+  "precip_chance": 58
  },
  "2026_12_NE_LAC": {
   "game_id": "2026_12_NE_LAC",
@@ -650,16 +650,83 @@
   "stadium": "Raymond James Stadium",
   "kickoff_et": "2026-11-30T20:15:00-05:00",
   "covered": false,
-  "temp_f": 70,
-  "wind_mph": 4,
-  "gust_mph": 9,
+  "temp_f": 68,
+  "wind_mph": 15,
+  "gust_mph": 29,
   "precip_in": 0.0,
-  "precip_chance": 4
+  "precip_chance": 7
  },
  "2026_13_KC_LA": {
   "game_id": "2026_13_KC_LA",
   "stadium": "SoFi Stadium",
   "kickoff_et": "2026-12-03T20:15:00-05:00",
   "covered": true
+ },
+ "2026_13_DET_ATL": {
+  "game_id": "2026_13_DET_ATL",
+  "stadium": "Mercedes-Benz Stadium",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": true
+ },
+ "2026_13_JAX_CHI": {
+  "game_id": "2026_13_JAX_CHI",
+  "stadium": "Soldier Field",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 44,
+  "wind_mph": 13,
+  "gust_mph": 20,
+  "precip_in": 0.0,
+  "precip_chance": 23
+ },
+ "2026_13_CIN_CLE": {
+  "game_id": "2026_13_CIN_CLE",
+  "stadium": "Huntington Bank Field",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 47,
+  "wind_mph": 15,
+  "gust_mph": 19,
+  "precip_in": 0.0,
+  "precip_chance": 26
+ },
+ "2026_13_GB_NO": {
+  "game_id": "2026_13_GB_NO",
+  "stadium": "Caesars Superdome",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": true
+ },
+ "2026_13_SF_NYG": {
+  "game_id": "2026_13_SF_NYG",
+  "stadium": "MetLife Stadium",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 54,
+  "wind_mph": 12,
+  "gust_mph": 21,
+  "precip_in": 0.0,
+  "precip_chance": 33
+ },
+ "2026_13_LAC_TB": {
+  "game_id": "2026_13_LAC_TB",
+  "stadium": "Raymond James Stadium",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 78,
+  "wind_mph": 19,
+  "gust_mph": 30,
+  "precip_in": 0.1,
+  "precip_chance": 19
+ },
+ "2026_13_WAS_TEN": {
+  "game_id": "2026_13_WAS_TEN",
+  "stadium": "Nissan Stadium",
+  "kickoff_et": "2026-12-06T13:00:00-05:00",
+  "covered": false,
+  "temp_f": 52,
+  "wind_mph": 8,
+  "gust_mph": 22,
+  "precip_in": 0.24,
+  "precip_chance": 19
  }
 }
