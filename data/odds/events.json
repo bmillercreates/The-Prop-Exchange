@@ -1,28 +1,7 @@
 [
  {
-  "event_id": "1940706a79cbcbafacdcbf231069716b",
-  "game_id": null,
-  "away": "Las Vegas Raiders",
-  "home": "Denver Broncos",
-  "kickoff_et": "2026-11-22T16:25:20-05:00"
- },
- {
-  "event_id": "8ba112fabf4e87639338a5f437c5abfe",
-  "game_id": null,
-  "away": "Jacksonville Jaguars",
-  "home": "New York Giants",
-  "kickoff_et": "2026-11-22T16:25:20-05:00"
- },
- {
-  "event_id": "60e1d27b083a335b722c2c852ea85612",
-  "game_id": "2026_11_MIN_SF",
-  "away": "Minnesota Vikings",
-  "home": "San Francisco 49ers",
-  "kickoff_et": "2026-11-22T20:20:00-05:00"
- },
- {
   "event_id": "3a60ed1d20004aa4d4772b2c1a2272e7",
-  "game_id": null,
+  "game_id": "2026_11_CIN_WAS",
   "away": "Cincinnati Bengals",
   "home": "Washington Commanders",
   "kickoff_et": "2026-11-23T20:15:00-05:00"

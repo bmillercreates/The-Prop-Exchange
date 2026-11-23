@@ -514,11 +514,7 @@
   "stadium": "Northwest Stadium",
   "kickoff_et": "2026-11-23T20:15:00-05:00",
   "covered": false,
-  "temp_f": 48,
-  "wind_mph": 15,
-  "gust_mph": 31,
-  "precip_in": 0.0,
-  "precip_chance": 1
+  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
  },
  "2026_12_GB_LA": {
   "game_id": "2026_12_GB_LA",

@@ -1,0 +1,1670 @@
+{
+ "game_id": "2026_11_CIN_WAS",
+ "pulled_at": "2026-11-23T18:55-05:00",
+ "props": [
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ja'Marr Chase",
+   "side": "Yes",
+   "line": null,
+   "price": -160
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Chase Brown",
+   "side": "Yes",
+   "line": null,
+   "price": -130
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tee Higgins",
+   "side": "Yes",
+   "line": null,
+   "price": -105
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Mike Gesicki",
+   "side": "Yes",
+   "line": null,
+   "price": 170
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Stefon Diggs",
+   "side": "Yes",
+   "line": null,
+   "price": 185
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Yes",
+   "line": null,
+   "price": 185
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Rachaad White",
+   "side": "Yes",
+   "line": null,
+   "price": 220
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Samaje Perine",
+   "side": "Yes",
+   "line": null,
+   "price": 230
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jayden Daniels",
+   "side": "Yes",
+   "line": null,
+   "price": 245
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Chig Okonkwo",
+   "side": "Yes",
+   "line": null,
+   "price": 250
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Antonio Williams",
+   "side": "Yes",
+   "line": null,
+   "price": 295
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Treylon Burks",
+   "side": "Yes",
+   "line": null,
+   "price": 320
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Dohnte Meyers",
+   "side": "Yes",
+   "line": null,
+   "price": 370
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Austin Ekeler",
+   "side": "Yes",
+   "line": null,
+   "price": 390
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Joe Burrow",
+   "side": "Yes",
+   "line": null,
+   "price": 425
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Drew Sample",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Cincinnati Bengals D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Washington Commanders D/ST",
+   "side": "Yes",
+   "line": null,
+   "price": 650
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Jack Endries",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Ben Sinnott",
+   "side": "Yes",
+   "line": null,
+   "price": 900
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Van Jefferson",
+   "side": "Yes",
+   "line": null,
+   "price": 1100
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "John Bates",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Luke McCaffrey",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Mitchell Tinsley",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Colbie Young",
+   "side": "Yes",
+   "line": null,
+   "price": 1500
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Colson Yankoff",
+   "side": "Yes",
+   "line": null,
+   "price": 1600
+  },
+  {
+   "book": "draftkings",
+   "market": "player_anytime_td",
+   "player": "Tahj Brooks",
+   "side": "Yes",
+   "line": null,
+   "price": 3000
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Joe Burrow",
+   "side": "Over",
+   "line": 309.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Joe Burrow",
+   "side": "Under",
+   "line": 309.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Jayden Daniels",
+   "side": "Over",
+   "line": 218.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_pass_yds",
+   "player": "Jayden Daniels",
+   "side": "Under",
+   "line": 218.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ja'Marr Chase",
+   "side": "Over",
+   "line": 102.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ja'Marr Chase",
+   "side": "Under",
+   "line": 102.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tee Higgins",
+   "side": "Over",
+   "line": 77.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Tee Higgins",
+   "side": "Under",
+   "line": 77.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Stefon Diggs",
+   "side": "Over",
+   "line": 55.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Stefon Diggs",
+   "side": "Under",
+   "line": 55.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chig Okonkwo",
+   "side": "Over",
+   "line": 42.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chig Okonkwo",
+   "side": "Under",
+   "line": 42.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Antonio Williams",
+   "side": "Over",
+   "line": 39.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Antonio Williams",
+   "side": "Under",
+   "line": 39.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Treylon Burks",
+   "side": "Over",
+   "line": 29.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Treylon Burks",
+   "side": "Under",
+   "line": 29.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 28.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 28.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Mike Gesicki",
+   "side": "Over",
+   "line": 27.5,
+   "price": -109
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Mike Gesicki",
+   "side": "Under",
+   "line": 27.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dohnte Meyers",
+   "side": "Over",
+   "line": 20.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Dohnte Meyers",
+   "side": "Under",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 9.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 9.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 8.5,
+   "price": -105
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 8.5,
+   "price": -119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Drew Sample",
+   "side": "Over",
+   "line": 6.5,
+   "price": -119
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Drew Sample",
+   "side": "Under",
+   "line": 6.5,
+   "price": -105
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Van Jefferson",
+   "side": "Over",
+   "line": 6.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Van Jefferson",
+   "side": "Under",
+   "line": 6.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 6.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 6.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ben Sinnott",
+   "side": "Over",
+   "line": 0.5,
+   "price": 104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_reception_yds",
+   "player": "Ben Sinnott",
+   "side": "Under",
+   "line": 0.5,
+   "price": -130
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ja'Marr Chase",
+   "side": "Over",
+   "line": 8.5,
+   "price": -103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ja'Marr Chase",
+   "side": "Under",
+   "line": 8.5,
+   "price": -123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tee Higgins",
+   "side": "Over",
+   "line": 5.5,
+   "price": 100
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Tee Higgins",
+   "side": "Under",
+   "line": 5.5,
+   "price": -127
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Stefon Diggs",
+   "side": "Over",
+   "line": 4.5,
+   "price": -150
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Stefon Diggs",
+   "side": "Under",
+   "line": 4.5,
+   "price": 118
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 4.5,
+   "price": -102
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 4.5,
+   "price": -124
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chig Okonkwo",
+   "side": "Over",
+   "line": 4.5,
+   "price": 103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Chig Okonkwo",
+   "side": "Under",
+   "line": 4.5,
+   "price": -132
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Antonio Williams",
+   "side": "Over",
+   "line": 3.5,
+   "price": -102
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Antonio Williams",
+   "side": "Under",
+   "line": 3.5,
+   "price": -125
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Mike Gesicki",
+   "side": "Over",
+   "line": 2.5,
+   "price": -104
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Mike Gesicki",
+   "side": "Under",
+   "line": 2.5,
+   "price": -123
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Treylon Burks",
+   "side": "Over",
+   "line": 2.5,
+   "price": 130
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Treylon Burks",
+   "side": "Under",
+   "line": 2.5,
+   "price": -167
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dohnte Meyers",
+   "side": "Over",
+   "line": 2.5,
+   "price": 136
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Dohnte Meyers",
+   "side": "Under",
+   "line": 2.5,
+   "price": -174
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 1.5,
+   "price": -132
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 1.5,
+   "price": 103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 1.5,
+   "price": 138
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 1.5,
+   "price": -177
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Drew Sample",
+   "side": "Over",
+   "line": 1.5,
+   "price": 145
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Drew Sample",
+   "side": "Under",
+   "line": 1.5,
+   "price": -186
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 1.5,
+   "price": 166
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 1.5,
+   "price": -215
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Van Jefferson",
+   "side": "Over",
+   "line": 0.5,
+   "price": -175
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Van Jefferson",
+   "side": "Under",
+   "line": 0.5,
+   "price": 137
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ben Sinnott",
+   "side": "Over",
+   "line": 0.5,
+   "price": -124
+  },
+  {
+   "book": "draftkings",
+   "market": "player_receptions",
+   "player": "Ben Sinnott",
+   "side": "Under",
+   "line": 0.5,
+   "price": -103
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 43.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 43.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jayden Daniels",
+   "side": "Over",
+   "line": 42.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jayden Daniels",
+   "side": "Under",
+   "line": 42.5,
+   "price": -112
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Over",
+   "line": 37.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Under",
+   "line": 37.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 20.5,
+   "price": -114
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 20.5,
+   "price": -110
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 19.5,
+   "price": -116
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 19.5,
+   "price": -108
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 11.5,
+   "price": -111
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Joe Burrow",
+   "side": "Over",
+   "line": 8.5,
+   "price": -115
+  },
+  {
+   "book": "draftkings",
+   "market": "player_rush_yds",
+   "player": "Joe Burrow",
+   "side": "Under",
+   "line": 8.5,
+   "price": -109
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ja'Marr Chase",
+   "side": "Yes",
+   "line": null,
+   "price": -160
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Chase Brown",
+   "side": "Yes",
+   "line": null,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tee Higgins",
+   "side": "Yes",
+   "line": null,
+   "price": 100
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Mike Gesicki",
+   "side": "Yes",
+   "line": null,
+   "price": 170
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Stefon Diggs",
+   "side": "Yes",
+   "line": null,
+   "price": 190
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Yes",
+   "line": null,
+   "price": 180
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Rachaad White",
+   "side": "Yes",
+   "line": null,
+   "price": 210
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jayden Daniels",
+   "side": "Yes",
+   "line": null,
+   "price": 240
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Samaje Perine",
+   "side": "Yes",
+   "line": null,
+   "price": 240
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Chig Okonkwo",
+   "side": "Yes",
+   "line": null,
+   "price": 260
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Antonio Williams",
+   "side": "Yes",
+   "line": null,
+   "price": 290
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Treylon Burks",
+   "side": "Yes",
+   "line": null,
+   "price": 290
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Dohnte Meyers",
+   "side": "Yes",
+   "line": null,
+   "price": 370
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Austin Ekeler",
+   "side": "Yes",
+   "line": null,
+   "price": 380
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Joe Burrow",
+   "side": "Yes",
+   "line": null,
+   "price": 430
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Drew Sample",
+   "side": "Yes",
+   "line": null,
+   "price": 550
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Washington Commanders Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Cincinnati Bengals Defense",
+   "side": "Yes",
+   "line": null,
+   "price": 700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Jack Endries",
+   "side": "Yes",
+   "line": null,
+   "price": 750
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Ben Sinnott",
+   "side": "Yes",
+   "line": null,
+   "price": 900
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Van Jefferson",
+   "side": "Yes",
+   "line": null,
+   "price": 1000
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Mitchell Tinsley",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Colbie Young",
+   "side": "Yes",
+   "line": null,
+   "price": 1400
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Luke McCaffrey",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "John Bates",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Colson Yankoff",
+   "side": "Yes",
+   "line": null,
+   "price": 1900
+  },
+  {
+   "book": "fanduel",
+   "market": "player_anytime_td",
+   "player": "Tahj Brooks",
+   "side": "Yes",
+   "line": null,
+   "price": 2700
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Jayden Daniels",
+   "side": "Over",
+   "line": 219.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Jayden Daniels",
+   "side": "Under",
+   "line": 219.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Joe Burrow",
+   "side": "Over",
+   "line": 304.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_pass_yds",
+   "player": "Joe Burrow",
+   "side": "Under",
+   "line": 304.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 5.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 5.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 27.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Stefon Diggs",
+   "side": "Over",
+   "line": 50.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Stefon Diggs",
+   "side": "Under",
+   "line": 50.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ben Sinnott",
+   "side": "Over",
+   "line": 2.5,
+   "price": 108
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ben Sinnott",
+   "side": "Under",
+   "line": 2.5,
+   "price": -138
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 7.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 7.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Van Jefferson",
+   "side": "Over",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Van Jefferson",
+   "side": "Under",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dohnte Meyers",
+   "side": "Over",
+   "line": 19.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Dohnte Meyers",
+   "side": "Under",
+   "line": 19.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ja'Marr Chase",
+   "side": "Over",
+   "line": 100.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Ja'Marr Chase",
+   "side": "Under",
+   "line": 100.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Drew Sample",
+   "side": "Over",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Drew Sample",
+   "side": "Under",
+   "line": 6.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tee Higgins",
+   "side": "Over",
+   "line": 75.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Tee Higgins",
+   "side": "Under",
+   "line": 75.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Antonio Williams",
+   "side": "Over",
+   "line": 35.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Antonio Williams",
+   "side": "Under",
+   "line": 35.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chig Okonkwo",
+   "side": "Over",
+   "line": 41.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Chig Okonkwo",
+   "side": "Under",
+   "line": 41.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Mike Gesicki",
+   "side": "Over",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Mike Gesicki",
+   "side": "Under",
+   "line": 24.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Over",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Under",
+   "line": 3.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Treylon Burks",
+   "side": "Over",
+   "line": 30.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Treylon Burks",
+   "side": "Under",
+   "line": 30.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_reception_yds",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 9.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Stefon Diggs",
+   "side": "Over",
+   "line": 4.5,
+   "price": -138
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Stefon Diggs",
+   "side": "Under",
+   "line": 4.5,
+   "price": 104
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tee Higgins",
+   "side": "Over",
+   "line": 5.5,
+   "price": -102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Tee Higgins",
+   "side": "Under",
+   "line": 5.5,
+   "price": -130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Drew Sample",
+   "side": "Over",
+   "line": 1.5,
+   "price": 162
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Drew Sample",
+   "side": "Under",
+   "line": 1.5,
+   "price": -220
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ja'Marr Chase",
+   "side": "Over",
+   "line": 8.5,
+   "price": 102
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Ja'Marr Chase",
+   "side": "Under",
+   "line": 8.5,
+   "price": -136
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 1.5,
+   "price": -154
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 1.5,
+   "price": 116
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 1.5,
+   "price": 128
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 1.5,
+   "price": -172
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dohnte Meyers",
+   "side": "Over",
+   "line": 2.5,
+   "price": 134
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Dohnte Meyers",
+   "side": "Under",
+   "line": 2.5,
+   "price": -180
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Antonio Williams",
+   "side": "Over",
+   "line": 3.5,
+   "price": 100
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Antonio Williams",
+   "side": "Under",
+   "line": 3.5,
+   "price": -132
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 1.5,
+   "price": 168
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 1.5,
+   "price": -230
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 4.5,
+   "price": 104
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 4.5,
+   "price": -138
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Mike Gesicki",
+   "side": "Over",
+   "line": 2.5,
+   "price": 106
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Mike Gesicki",
+   "side": "Under",
+   "line": 2.5,
+   "price": -140
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Treylon Burks",
+   "side": "Over",
+   "line": 2.5,
+   "price": 130
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Treylon Burks",
+   "side": "Under",
+   "line": 2.5,
+   "price": -174
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chig Okonkwo",
+   "side": "Over",
+   "line": 4.5,
+   "price": 108
+  },
+  {
+   "book": "fanduel",
+   "market": "player_receptions",
+   "player": "Chig Okonkwo",
+   "side": "Under",
+   "line": 4.5,
+   "price": -144
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Rachaad White",
+   "side": "Over",
+   "line": 18.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Rachaad White",
+   "side": "Under",
+   "line": 18.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Over",
+   "line": 36.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jacory Croskey-Merritt",
+   "side": "Under",
+   "line": 36.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Joe Burrow",
+   "side": "Over",
+   "line": 7.5,
+   "price": -128
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Joe Burrow",
+   "side": "Under",
+   "line": 7.5,
+   "price": 100
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jayden Daniels",
+   "side": "Over",
+   "line": 41.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Jayden Daniels",
+   "side": "Under",
+   "line": 41.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Chase Brown",
+   "side": "Over",
+   "line": 44.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Chase Brown",
+   "side": "Under",
+   "line": 44.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Samaje Perine",
+   "side": "Over",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Samaje Perine",
+   "side": "Under",
+   "line": 20.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Austin Ekeler",
+   "side": "Over",
+   "line": 11.5,
+   "price": -113
+  },
+  {
+   "book": "fanduel",
+   "market": "player_rush_yds",
+   "player": "Austin Ekeler",
+   "side": "Under",
+   "line": 11.5,
+   "price": -113
+  }
+ ]
+}
