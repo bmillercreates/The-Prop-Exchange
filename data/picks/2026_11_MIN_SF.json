@@ -1,7 +1,7 @@
 {
  "game_id": "2026_11_MIN_SF",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-22T15:55-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-22T19:00-05:00",
  "kickoff": "2026-11-22T20:20",
  "weekday": "Sunday",
  "away": "MIN",
@@ -18,7 +18,7 @@
   "wind_mph": 7,
   "gust_mph": 20,
   "precip_in": 0.04,
-  "precip_chance": 58
+  "precip_chance": 82
  },
  "teams": {
   "MIN": {
@@ -26,14 +26,18 @@
    "margin": -3.5,
    "plays": 59.1,
    "pass_att": 33.1,
-   "notes": []
+   "notes": [
+    "rain/snow expected"
+   ]
   },
   "SF": {
    "implied_pts": 25.0,
    "margin": 3.5,
    "plays": 61.9,
    "pass_att": 29.3,
-   "notes": []
+   "notes": [
+    "rain/snow expected"
+   ]
   }
  },
  "blue_chips": [
@@ -49,14 +53,14 @@
    "title": "Christian McCaffrey Under 33.5 receiving yards",
    "price": -112,
    "book": "draftkings",
-   "model_prob": 0.579,
+   "model_prob": 0.5832,
    "fair_prob": 0.5,
-   "prob_edge": 0.079,
-   "edge": 0.0959,
-   "projection": 25.82,
+   "prob_edge": 0.0832,
+   "edge": 0.104,
+   "projection": 25.05,
    "flags": [],
    "why": [
-    "Model projects 26 yards vs. a line of 33.5 (73% chance to go under on its own).",
+    "Model projects 25 yards vs. a line of 33.5 (74% chance to go under on its own).",
     "Earns 14% of the 49ers' targets and 8% of their air yards, on 65% of snaps.",
     "The Vikings defense allows 20% fewer receiving yards to RBs than average."
    ]
@@ -84,7 +88,7 @@
    "why": [
     "Model gives him a 42% chance to score; the odds imply about 26%.",
     "Gets 29% of the Vikings' red-zone touches.",
-    "With Jordan Addison, Kyler Murray out, there's more work to go around."
+    "With Kyler Murray, Jordan Addison out, there's more work to go around."
    ]
   },
   {
@@ -109,33 +113,13 @@
    ],
    "why": [
     "Model gives him a 32% chance to score; the odds imply about 21%.",
-    "Gets 13% of the 49ers' red-zone touches."
+    "Gets 13% of the 49ers' red-zone touches.",
+    "Also factored in: rain/snow expected."
    ]
   }
  ],
  "etfs": [],
  "projections": [
-  {
-   "player": "Myles Price",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 1.4,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 16.9,
-   "carries": 0.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Carson Wentz",
-   "team": "MIN",
-   "position": "QB",
-   "rush_yds": 5.2,
-   "pass_yds": 219.5,
-   "pass_att": 33.1,
-   "carries": 1.8,
-   "tds": 0.0
-  },
   {
    "player": "Gavin Bartholomew",
    "team": "MIN",
@@ -143,20 +127,41 @@
    "rush_yds": 0.0,
    "targets": 3.0,
    "receptions": 2.3,
-   "rec_yds": 21.9,
+   "rec_yds": 21.3,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Justin Jefferson",
+   "player": "Carson Wentz",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 5.2,
+   "pass_yds": 212.9,
+   "pass_att": 33.1,
+   "carries": 1.8,
+   "tds": 0.0
+  },
+  {
+   "player": "Myles Price",
    "team": "MIN",
    "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 10.6,
-   "receptions": 6.7,
-   "rec_yds": 77.9,
+   "rush_yds": 1.4,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 16.4,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.8,
+   "rec_yds": 22.1,
    "carries": 0.0,
-   "tds": 0.3
+   "tds": 0.0
   },
   {
    "player": "T.J. Hockenson",
@@ -165,20 +170,20 @@
    "rush_yds": 0.0,
    "targets": 6.2,
    "receptions": 4.9,
-   "rec_yds": 45.9,
+   "rec_yds": 44.6,
    "carries": 0.0,
    "tds": 0.3
   },
   {
-   "player": "Jauan Jennings",
+   "player": "Justin Jefferson",
    "team": "MIN",
    "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.3,
-   "receptions": 1.4,
-   "rec_yds": 16.4,
+   "rush_yds": 0.3,
+   "targets": 10.6,
+   "receptions": 6.7,
+   "rec_yds": 75.5,
    "carries": 0.0,
-   "tds": 0.0
+   "tds": 0.3
   },
   {
    "player": "Aaron Jones",
@@ -187,7 +192,7 @@
    "rush_yds": 32.5,
    "targets": 1.8,
    "receptions": 1.5,
-   "rec_yds": 10.8,
+   "rec_yds": 10.5,
    "carries": 9.2,
    "tds": 0.4
   },
@@ -198,31 +203,53 @@
    "rush_yds": 34.8,
    "targets": 1.5,
    "receptions": 1.2,
-   "rec_yds": 8.9,
+   "rec_yds": 8.7,
    "carries": 10.1,
    "tds": 0.5
   },
   {
-   "player": "Tai Felton",
+   "player": "Jauan Jennings",
    "team": "MIN",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 1.8,
-   "rec_yds": 22.8,
+   "targets": 2.3,
+   "receptions": 1.4,
+   "rec_yds": 15.9,
    "carries": 0.0,
    "tds": 0.0
   },
   {
-   "player": "Keenan Allen",
+   "player": "Deebo Samuel Sr.",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 14.4,
+   "targets": 2.8,
+   "receptions": 1.9,
+   "rec_yds": 22.4,
+   "carries": 2.3,
+   "tds": 0.4
+  },
+  {
+   "player": "Jordan Watkins",
    "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.1,
-   "rec_yds": 25.6,
+   "targets": 2.7,
+   "receptions": 1.7,
+   "rec_yds": 26.3,
    "carries": 0.0,
    "tds": 0.0
+  },
+  {
+   "player": "Brandin Cooks",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 11.2,
+   "carries": 0.0,
+   "tds": 0.1
   },
   {
    "player": "Kaelon Black",
@@ -231,7 +258,7 @@
    "rush_yds": 41.4,
    "targets": 1.0,
    "receptions": 0.7,
-   "rec_yds": 3.9,
+   "rec_yds": 3.8,
    "carries": 9.0,
    "tds": 0.2
   },
@@ -242,19 +269,29 @@
    "rush_yds": 57.2,
    "targets": 4.2,
    "receptions": 3.0,
-   "rec_yds": 25.8,
+   "rec_yds": 25.0,
    "carries": 12.4,
    "tds": 1.2
   },
   {
-   "player": "Brandin Cooks",
+   "player": "Keenan Allen",
    "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 11.6,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 24.8,
    "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 13.3,
+   "pass_yds": 208.3,
+   "pass_att": 29.3,
+   "carries": 3.5,
    "tds": 0.1
   },
   {
@@ -264,20 +301,9 @@
    "rush_yds": 0.0,
    "targets": 3.1,
    "receptions": 2.0,
-   "rec_yds": 24.3,
+   "rec_yds": 23.6,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Jordan Watkins",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.7,
-   "rec_yds": 27.1,
-   "carries": 0.0,
-   "tds": 0.0
   },
   {
    "player": "George Kittle",
@@ -286,30 +312,9 @@
    "rush_yds": 0.0,
    "targets": 6.9,
    "receptions": 4.4,
-   "rec_yds": 50.3,
+   "rec_yds": 48.8,
    "carries": 0.0,
    "tds": 0.2
-  },
-  {
-   "player": "Deebo Samuel Sr.",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 14.4,
-   "targets": 2.8,
-   "receptions": 1.9,
-   "rec_yds": 23.1,
-   "carries": 2.3,
-   "tds": 0.4
-  },
-  {
-   "player": "Brock Purdy",
-   "team": "SF",
-   "position": "QB",
-   "rush_yds": 13.3,
-   "pass_yds": 214.7,
-   "pass_att": 29.3,
-   "carries": 3.5,
-   "tds": 0.1
   }
  ]
 }
