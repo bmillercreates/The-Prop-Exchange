@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-22T16:20-05:00",
+ "updated_at": "2026-11-22T19:25-05:00",
  "overall": {
   "wins": 66,
-  "losses": 91,
+  "losses": 95,
   "pushes": 0,
-  "units": -10.07,
-  "roi": -0.0641,
-  "hit_rate": 0.4204,
-  "bets": 157
+  "units": -14.07,
+  "roi": -0.0874,
+  "hit_rate": 0.4099,
+  "bets": 161
  },
  "tiers": {
   "Blue Chip": {
    "wins": 47,
-   "losses": 58,
+   "losses": 61,
    "pushes": 0,
-   "units": -16.89,
-   "roi": -0.1609,
-   "hit_rate": 0.4476,
-   "bets": 105
+   "units": -19.89,
+   "roi": -0.1842,
+   "hit_rate": 0.4352,
+   "bets": 108
   },
   "Penny Stock": {
    "wins": 14,
@@ -30,12 +30,12 @@
   },
   "ETF": {
    "wins": 5,
-   "losses": 8,
+   "losses": 9,
    "pushes": 0,
-   "units": 0.56,
-   "roi": 0.0431,
-   "hit_rate": 0.3846,
-   "bets": 13
+   "units": -0.44,
+   "roi": -0.0314,
+   "hit_rate": 0.3571,
+   "bets": 14
   }
  },
  "curve": [
@@ -81,10 +81,93 @@
   },
   {
    "date": "2026-11-22",
-   "units": -10.07
+   "units": -14.07
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_11_NYJ_LAC",
+   "matchup": "NYJ @ LAC",
+   "kickoff": "2026-11-22T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T19:25-05:00",
+   "source": "espn",
+   "tier": "ETF",
+   "title": "Garrett Wilson Over 5.5 receptions + Geno Smith Over 217.5 passing yards",
+   "player": "Garrett Wilson / Geno Smith",
+   "market": "parlay",
+   "side": "Over",
+   "line": null,
+   "price": 154,
+   "edge": 0.0516,
+   "actual": [
+    3.0,
+    176.0
+   ],
+   "leg_results": [
+    "loss",
+    "loss"
+   ],
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_NYJ_LAC",
+   "matchup": "NYJ @ LAC",
+   "kickoff": "2026-11-22T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Garrett Wilson Over 5.5 receptions",
+   "player": "Garrett Wilson",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 5.5,
+   "price": -130,
+   "edge": 0.0532,
+   "actual": 3.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_NYJ_LAC",
+   "matchup": "NYJ @ LAC",
+   "kickoff": "2026-11-22T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Omarion Hampton Yes anytime TD",
+   "player": "Omarion Hampton",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 120,
+   "edge": 0.0647,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_NYJ_LAC",
+   "matchup": "NYJ @ LAC",
+   "kickoff": "2026-11-22T16:05",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T19:25-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Justin Herbert Under 23.5 rushing yards",
+   "player": "Justin Herbert",
+   "market": "player_rush_yds",
+   "side": "Under",
+   "line": 23.5,
+   "price": -115,
+   "edge": 0.0921,
+   "actual": 32.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_11_ARI_KC",
    "matchup": "ARI @ KC",
@@ -583,82 +666,6 @@
    "price": -160,
    "edge": 0.0109,
    "actual": 0.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_SF_DAL",
-   "matchup": "SF @ DAL",
-   "kickoff": "2026-11-15T16:25",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T20:05-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Christian McCaffrey Under 34.5 receiving yards",
-   "player": "Christian McCaffrey",
-   "market": "player_reception_yds",
-   "side": "Under",
-   "line": 34.5,
-   "price": -114,
-   "edge": 0.0459,
-   "actual": 161.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_SEA_LV",
-   "matchup": "SEA @ LV",
-   "kickoff": "2026-11-15T16:05",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T19:25-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Jaxon Smith-Njigba Under 7.5 receptions",
-   "player": "Jaxon Smith-Njigba",
-   "market": "player_receptions",
-   "side": "Under",
-   "line": 7.5,
-   "price": -139,
-   "edge": 0.0386,
-   "actual": 8.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_SEA_LV",
-   "matchup": "SEA @ LV",
-   "kickoff": "2026-11-15T16:05",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T19:25-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Michael Mayer Over 2.5 receptions",
-   "player": "Michael Mayer",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 2.5,
-   "price": -140,
-   "edge": -0.0042,
-   "actual": 2.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_10_SEA_LV",
-   "matchup": "SEA @ LV",
-   "kickoff": "2026-11-15T16:05",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-15T19:25-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Jalen Nailor Over 1.5 receptions",
-   "player": "Jalen Nailor",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 1.5,
-   "price": 108,
-   "edge": 0.001,
-   "actual": 1.0,
    "result": "loss",
    "units": -1.0
   }
