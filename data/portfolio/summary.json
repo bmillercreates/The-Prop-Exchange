@@ -1,32 +1,32 @@
 {
- "updated_at": "2026-11-22T20:05-05:00",
+ "updated_at": "2026-11-22T23:40-05:00",
  "overall": {
-  "wins": 68,
-  "losses": 100,
+  "wins": 69,
+  "losses": 102,
   "pushes": 0,
-  "units": -16.89,
-  "roi": -0.1005,
-  "hit_rate": 0.4048,
-  "bets": 168
+  "units": -18.0,
+  "roi": -0.1053,
+  "hit_rate": 0.4035,
+  "bets": 171
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 48,
+   "wins": 49,
    "losses": 65,
    "pushes": 0,
-   "units": -23.15,
-   "roi": -0.2049,
-   "hit_rate": 0.4248,
-   "bets": 113
+   "units": -22.26,
+   "roi": -0.1953,
+   "hit_rate": 0.4298,
+   "bets": 114
   },
   "Penny Stock": {
    "wins": 15,
-   "losses": 26,
+   "losses": 28,
    "pushes": 0,
-   "units": 6.7,
-   "roi": 0.1634,
-   "hit_rate": 0.3659,
-   "bets": 41
+   "units": 4.7,
+   "roi": 0.1093,
+   "hit_rate": 0.3488,
+   "bets": 43
   },
   "ETF": {
    "wins": 5,
@@ -81,10 +81,67 @@
   },
   {
    "date": "2026-11-22",
-   "units": -16.89
+   "units": -18.0
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_11_MIN_SF",
+   "matchup": "MIN @ SF",
+   "kickoff": "2026-11-22T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T23:40-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Jordan Mason Yes anytime TD",
+   "player": "Jordan Mason",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 260,
+   "edge": 0.1332,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_MIN_SF",
+   "matchup": "MIN @ SF",
+   "kickoff": "2026-11-22T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T23:40-05:00",
+   "source": "espn",
+   "tier": "Penny Stock",
+   "title": "Deebo Samuel Yes anytime TD",
+   "player": "Deebo Samuel",
+   "market": "player_anytime_td",
+   "side": "Yes",
+   "line": null,
+   "price": 350,
+   "edge": 0.1055,
+   "actual": 0.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_11_MIN_SF",
+   "matchup": "MIN @ SF",
+   "kickoff": "2026-11-22T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-22T23:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Christian McCaffrey Under 33.5 receiving yards",
+   "player": "Christian McCaffrey",
+   "market": "player_reception_yds",
+   "side": "Under",
+   "line": 33.5,
+   "price": -112,
+   "edge": 0.104,
+   "actual": 13.0,
+   "result": "win",
+   "units": 0.893
+  },
   {
    "game_id": "2026_11_LV_DEN",
    "matchup": "LV @ DEN",
@@ -611,63 +668,6 @@
    "actual": 0.0,
    "result": "loss",
    "units": -1.0
-  },
-  {
-   "game_id": "2026_11_IND_HOU",
-   "matchup": "IND @ HOU",
-   "kickoff": "2026-11-19T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-19T23:35-05:00",
-   "source": "espn",
-   "tier": "Penny Stock",
-   "title": "Xavier Hutchinson Yes anytime TD",
-   "player": "Xavier Hutchinson",
-   "market": "player_anytime_td",
-   "side": "Yes",
-   "line": null,
-   "price": 250,
-   "edge": 0.2318,
-   "actual": 0.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_11_IND_HOU",
-   "matchup": "IND @ HOU",
-   "kickoff": "2026-11-19T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-19T23:35-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Daniel Jones Over 178.5 passing yards",
-   "player": "Daniel Jones",
-   "market": "player_pass_yds",
-   "side": "Over",
-   "line": 178.5,
-   "price": -113,
-   "edge": 0.0898,
-   "actual": 144.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_11_IND_HOU",
-   "matchup": "IND @ HOU",
-   "kickoff": "2026-11-19T20:15",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-19T23:35-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Seth McGowan Under 26.5 rushing yards",
-   "player": "Seth McGowan",
-   "market": "player_rush_yds",
-   "side": "Under",
-   "line": 26.5,
-   "price": -108,
-   "edge": 0.1195,
-   "actual": 7.0,
-   "result": "win",
-   "units": 0.926
   }
  ]
 }
