@@ -1,0 +1,246 @@
+{
+ "game_id": "2026_12_DEN_PIT",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-24T18:44-05:00",
+ "kickoff": "2026-11-27T15:00",
+ "weekday": "Friday",
+ "away": "DEN",
+ "home": "PIT",
+ "stadium": "Acrisure Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_12_DEN_PIT",
+  "stadium": "Acrisure Stadium",
+  "kickoff_et": "2026-11-27T15:00:00-05:00",
+  "covered": false,
+  "temp_f": 39,
+  "wind_mph": 13,
+  "gust_mph": 33,
+  "precip_in": 0.02,
+  "precip_chance": 66
+ },
+ "teams": {
+  "DEN": {
+   "implied_pts": 20.2,
+   "margin": 3.0,
+   "plays": 56.2,
+   "pass_att": 28.4,
+   "notes": [
+    "rain/snow expected",
+    "short week"
+   ]
+  },
+  "PIT": {
+   "implied_pts": 17.2,
+   "margin": -3.0,
+   "plays": 59.8,
+   "pass_att": 34.0,
+   "notes": [
+    "rain/snow expected",
+    "short week"
+   ]
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Troy Franklin",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 2.2,
+   "receptions": 1.3,
+   "rec_yds": 15.3,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Marvin Mims Jr.",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 5.3,
+   "targets": 2.0,
+   "receptions": 1.3,
+   "rec_yds": 15.0,
+   "carries": 1.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Bo Nix",
+   "team": "DEN",
+   "position": "QB",
+   "rush_yds": 16.8,
+   "pass_yds": 179.0,
+   "pass_att": 28.4,
+   "carries": 6.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Adam Trautman",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 10.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Evan Engram",
+   "team": "DEN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 2.8,
+   "rec_yds": 28.3,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 58.6,
+   "targets": 3.3,
+   "receptions": 3.0,
+   "rec_yds": 24.6,
+   "carries": 16.9,
+   "tds": 0.8
+  },
+  {
+   "player": "Jaylen Waddle",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.5,
+   "targets": 5.1,
+   "receptions": 3.1,
+   "rec_yds": 36.0,
+   "carries": 0.1,
+   "tds": 0.2
+  },
+  {
+   "player": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.6,
+   "receptions": 2.7,
+   "rec_yds": 29.4,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Pat Bryant",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 3.4,
+   "receptions": 2.4,
+   "rec_yds": 29.8,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Rico Dowdle",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 23.2,
+   "targets": 3.1,
+   "receptions": 2.5,
+   "rec_yds": 18.3,
+   "carries": 5.6,
+   "tds": 0.1
+  },
+  {
+   "player": "Roman Wilson",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.3,
+   "rec_yds": 28.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Aaron Rodgers",
+   "team": "PIT",
+   "position": "QB",
+   "rush_yds": 12.6,
+   "pass_yds": 219.2,
+   "pass_att": 34.0,
+   "carries": 2.9,
+   "tds": 0.0
+  },
+  {
+   "player": "Jaylen Warren",
+   "team": "PIT",
+   "position": "RB",
+   "rush_yds": 57.1,
+   "targets": 3.5,
+   "receptions": 2.7,
+   "rec_yds": 26.3,
+   "carries": 10.5,
+   "tds": 0.2
+  },
+  {
+   "player": "Germie Bernard",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 6.3,
+   "receptions": 4.1,
+   "rec_yds": 36.8,
+   "carries": 0.1,
+   "tds": 0.4
+  },
+  {
+   "player": "Pat Freiermuth",
+   "team": "PIT",
+   "position": "TE",
+   "rush_yds": 0.9,
+   "targets": 3.8,
+   "receptions": 3.0,
+   "rec_yds": 31.4,
+   "carries": 0.6,
+   "tds": 0.2
+  },
+  {
+   "player": "DK Metcalf",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 0.4,
+   "targets": 5.4,
+   "receptions": 2.8,
+   "rec_yds": 30.9,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Darnell Washington",
+   "team": "PIT",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.9,
+   "receptions": 2.2,
+   "rec_yds": 26.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Max Hurleman",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.8,
+   "rec_yds": 20.2,
+   "carries": 0.0,
+   "tds": 0.3
+  }
+ ]
+}

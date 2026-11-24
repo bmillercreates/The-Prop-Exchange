@@ -1,0 +1,234 @@
+{
+ "game_id": "2026_12_SEA_SF",
+ "status": "PRELIMINARY",
+ "updated_at": "2026-11-24T18:44-05:00",
+ "kickoff": "2026-11-29T16:25",
+ "weekday": "Sunday",
+ "away": "SEA",
+ "home": "SF",
+ "stadium": "Levi's Stadium",
+ "has_props": false,
+ "props_pulled_at": null,
+ "weather": {
+  "game_id": "2026_12_SEA_SF",
+  "stadium": "Levi's Stadium",
+  "kickoff_et": "2026-11-29T16:25:00-05:00",
+  "covered": false,
+  "temp_f": 59,
+  "wind_mph": 10,
+  "gust_mph": 17,
+  "precip_in": 0.14,
+  "precip_chance": 59
+ },
+ "teams": {
+  "SEA": {
+   "implied_pts": 21.0,
+   "margin": -3.5,
+   "plays": 60.8,
+   "pass_att": 29.9,
+   "notes": [
+    "rain/snow expected",
+    "coming off a bye"
+   ]
+  },
+  "SF": {
+   "implied_pts": 24.5,
+   "margin": 3.5,
+   "plays": 59.2,
+   "pass_att": 28.0,
+   "notes": [
+    "rain/snow expected"
+   ]
+  }
+ },
+ "blue_chips": [],
+ "penny_stocks": [],
+ "etfs": [],
+ "projections": [
+  {
+   "player": "Drew Lock",
+   "team": "SEA",
+   "position": "QB",
+   "rush_yds": 12.8,
+   "pass_yds": 238.3,
+   "pass_att": 29.9,
+   "carries": 3.8,
+   "tds": 0.0
+  },
+  {
+   "player": "Cooper Kupp",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.7,
+   "rec_yds": 19.9,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Zach Charbonnet",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 48.7,
+   "targets": 0.8,
+   "receptions": 0.7,
+   "rec_yds": 4.6,
+   "carries": 12.9,
+   "tds": 0.2
+  },
+  {
+   "player": "Tory Horton",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.7,
+   "rec_yds": 19.8,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Jadarian Price",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 28.8,
+   "targets": 2.2,
+   "receptions": 1.8,
+   "rec_yds": 14.4,
+   "carries": 8.6,
+   "tds": 0.8
+  },
+  {
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 12.7,
+   "receptions": 9.2,
+   "rec_yds": 129.6,
+   "carries": 0.1,
+   "tds": 0.3
+  },
+  {
+   "player": "Rashid Shaheed",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 1.2,
+   "targets": 3.5,
+   "receptions": 2.1,
+   "rec_yds": 22.9,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "AJ Barner",
+   "team": "SEA",
+   "position": "TE",
+   "rush_yds": 1.2,
+   "targets": 4.1,
+   "receptions": 2.9,
+   "rec_yds": 26.3,
+   "carries": 0.6,
+   "tds": 0.7
+  },
+  {
+   "player": "Brock Purdy",
+   "team": "SF",
+   "position": "QB",
+   "rush_yds": 12.4,
+   "pass_yds": 184.3,
+   "pass_att": 28.0,
+   "carries": 2.6,
+   "tds": 0.0
+  },
+  {
+   "player": "George Kittle",
+   "team": "SF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.6,
+   "receptions": 3.4,
+   "rec_yds": 32.6,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Jordan Watkins",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.0,
+   "rec_yds": 14.2,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 26.3,
+   "targets": 0.7,
+   "receptions": 0.6,
+   "rec_yds": 3.3,
+   "carries": 7.7,
+   "tds": 0.1
+  },
+  {
+   "player": "Demarcus Robinson",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 16.8,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Deebo Samuel Sr.",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 16.5,
+   "targets": 3.2,
+   "receptions": 2.1,
+   "rec_yds": 21.5,
+   "carries": 2.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 43.8,
+   "targets": 3.6,
+   "receptions": 3.0,
+   "rec_yds": 24.7,
+   "carries": 12.4,
+   "tds": 1.1
+  },
+  {
+   "player": "Keenan Allen",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.8,
+   "rec_yds": 19.8,
+   "carries": 0.0,
+   "tds": 0.0
+  },
+  {
+   "player": "Mike Evans",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.4,
+   "receptions": 3.4,
+   "rec_yds": 42.7,
+   "carries": 0.0,
+   "tds": 0.3
+  }
+ ]
+}
