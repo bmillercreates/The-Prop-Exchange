@@ -3440,5 +3440,69 @@
   "actual": 0.0,
   "result": "loss",
   "units": -1.0
+ },
+ {
+  "game_id": "2026_11_CIN_WAS",
+  "matchup": "CIN @ WAS",
+  "kickoff": "2026-11-23T20:15",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-23T23:35-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Rachaad White Over 1.5 receptions",
+  "player": "Rachaad White",
+  "market": "player_receptions",
+  "side": "Over",
+  "line": 1.5,
+  "price": -132,
+  "edge": 0.0523,
+  "actual": 0,
+  "result": "loss",
+  "units": -1.0
+ },
+ {
+  "game_id": "2026_11_CIN_WAS",
+  "matchup": "CIN @ WAS",
+  "kickoff": "2026-11-23T20:15",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-23T23:35-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Chig Okonkwo Over 4.5 receptions",
+  "player": "Chig Okonkwo",
+  "market": "player_receptions",
+  "side": "Over",
+  "line": 4.5,
+  "price": 108,
+  "edge": 0.0052,
+  "actual": 4.0,
+  "result": "loss",
+  "units": -1.0
+ },
+ {
+  "game_id": "2026_11_CIN_WAS",
+  "matchup": "CIN @ WAS",
+  "kickoff": "2026-11-23T20:15",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-23T23:35-05:00",
+  "source": "espn",
+  "tier": "ETF",
+  "title": "Chig Okonkwo Over 4.5 receptions + Jayden Daniels Over 218.5 passing yards",
+  "player": "Chig Okonkwo / Jayden Daniels",
+  "market": "parlay",
+  "side": "Over",
+  "line": null,
+  "price": 186,
+  "edge": 0.0506,
+  "actual": [
+   4.0,
+   289.0
+  ],
+  "leg_results": [
+   "loss",
+   "win"
+  ],
+  "result": "loss",
+  "units": -1.0
  }
 ]
