@@ -1,7 +1,7 @@
 {
  "game_id": "2026_12_GB_LA",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-25T18:28-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-25T18:40-05:00",
  "kickoff": "2026-11-25T20:00",
  "weekday": "Wednesday",
  "away": "GB",
@@ -36,25 +36,37 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Kaleb Johnson",
+   "player": "Savion Williams",
    "team": "GB",
-   "position": "RB",
-   "rush_yds": 17.1,
-   "targets": 0.1,
-   "receptions": 0.1,
-   "rec_yds": 0.9,
-   "carries": 4.9,
+   "position": "WR",
+   "rush_yds": 3.2,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 17.0,
+   "carries": 0.7,
    "tds": 0.1
   },
   {
-   "player": "Jordan Love",
+   "player": "Tucker Kraft",
    "team": "GB",
-   "position": "QB",
-   "rush_yds": 3.5,
-   "pass_yds": 228.1,
-   "pass_att": 33.9,
-   "carries": 0.8,
-   "tds": 0.0
+   "position": "TE",
+   "rush_yds": 0.4,
+   "targets": 4.5,
+   "receptions": 3.1,
+   "rec_yds": 28.1,
+   "carries": 0.2,
+   "tds": 0.2
+  },
+  {
+   "player": "MarShawn Lloyd",
+   "team": "GB",
+   "position": "RB",
+   "rush_yds": 11.3,
+   "targets": 2.0,
+   "receptions": 1.6,
+   "rec_yds": 12.8,
+   "carries": 4.1,
+   "tds": 0.2
   },
   {
    "player": "Josh Jacobs",
@@ -68,6 +80,16 @@
    "tds": 0.6
   },
   {
+   "player": "Jordan Love",
+   "team": "GB",
+   "position": "QB",
+   "rush_yds": 3.5,
+   "pass_yds": 228.1,
+   "pass_att": 33.9,
+   "carries": 0.8,
+   "tds": 0.0
+  },
+  {
    "player": "Matthew Golden",
    "team": "GB",
    "position": "WR",
@@ -76,17 +98,6 @@
    "receptions": 4.7,
    "rec_yds": 61.1,
    "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Tucker Kraft",
-   "team": "GB",
-   "position": "TE",
-   "rush_yds": 0.4,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 28.1,
-   "carries": 0.2,
    "tds": 0.2
   },
   {
@@ -112,36 +123,36 @@
    "tds": 0.1
   },
   {
-   "player": "Savion Williams",
+   "player": "Kaleb Johnson",
    "team": "GB",
-   "position": "WR",
-   "rush_yds": 3.2,
-   "targets": 2.4,
-   "receptions": 1.6,
-   "rec_yds": 17.0,
-   "carries": 0.7,
+   "position": "RB",
+   "rush_yds": 17.1,
+   "targets": 0.1,
+   "receptions": 0.1,
+   "rec_yds": 0.9,
+   "carries": 4.9,
    "tds": 0.1
   },
   {
-   "player": "MarShawn Lloyd",
-   "team": "GB",
-   "position": "RB",
-   "rush_yds": 11.3,
-   "targets": 2.0,
-   "receptions": 1.6,
-   "rec_yds": 12.8,
-   "carries": 4.1,
-   "tds": 0.2
-  },
-  {
-   "player": "Ronnie Rivers",
+   "player": "Blake Corum",
    "team": "LA",
    "position": "RB",
-   "rush_yds": 20.6,
-   "targets": 0.2,
-   "receptions": 0.1,
-   "rec_yds": 0.9,
-   "carries": 4.6,
+   "rush_yds": 57.5,
+   "targets": 2.8,
+   "receptions": 2.0,
+   "rec_yds": 16.0,
+   "carries": 11.4,
+   "tds": 0.7
+  },
+  {
+   "player": "CJ Daniels",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.1,
+   "rec_yds": 13.8,
+   "carries": 0.0,
    "tds": 0.1
   },
   {
@@ -167,15 +178,26 @@
    "tds": 0.0
   },
   {
-   "player": "Kyren Williams",
+   "player": "Xavier Smith",
+   "team": "LA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.2,
+   "rec_yds": 15.4,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Ronnie Rivers",
    "team": "LA",
    "position": "RB",
-   "rush_yds": 63.7,
-   "targets": 5.1,
-   "receptions": 3.8,
-   "rec_yds": 27.9,
-   "carries": 14.4,
-   "tds": 0.7
+   "rush_yds": 20.6,
+   "targets": 0.2,
+   "receptions": 0.1,
+   "rec_yds": 0.9,
+   "carries": 4.6,
+   "tds": 0.1
   },
   {
    "player": "Tyler Higbee",
@@ -189,37 +211,15 @@
    "tds": 0.2
   },
   {
-   "player": "Blake Corum",
+   "player": "Kyren Williams",
    "team": "LA",
    "position": "RB",
-   "rush_yds": 57.5,
-   "targets": 2.8,
-   "receptions": 2.0,
-   "rec_yds": 16.0,
-   "carries": 11.4,
+   "rush_yds": 63.7,
+   "targets": 5.1,
+   "receptions": 3.8,
+   "rec_yds": 27.9,
+   "carries": 14.4,
    "tds": 0.7
-  },
-  {
-   "player": "Xavier Smith",
-   "team": "LA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.2,
-   "rec_yds": 15.4,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Davis Allen",
-   "team": "LA",
-   "position": "TE",
-   "rush_yds": 0.2,
-   "targets": 2.1,
-   "receptions": 1.4,
-   "rec_yds": 12.2,
-   "carries": 0.1,
-   "tds": 0.2
   },
   {
    "player": "Colby Parkinson",
@@ -243,15 +243,15 @@
    "tds": 0.0
   },
   {
-   "player": "CJ Daniels",
+   "player": "Davis Allen",
    "team": "LA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.1,
-   "rec_yds": 13.8,
-   "carries": 0.0,
-   "tds": 0.1
+   "position": "TE",
+   "rush_yds": 0.2,
+   "targets": 2.1,
+   "receptions": 1.4,
+   "rec_yds": 12.2,
+   "carries": 0.1,
+   "tds": 0.2
   }
  ]
 }

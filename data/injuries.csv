@@ -49,11 +49,15 @@ ATL,Gervon Dexter Sr.,DT,Active,"",espn
 ATL,Kendal Daniels,LB,Active,Daniels (Achilles) does not carry an injury designation into Sunday's game again,espn
 ATL,C.J. Henderson,CB,Active,Henderson and the Falcons agreed to a two-year contract extension Friday.,espn
 ATL,Cameron Thomas,DE,Active,Thomas and the Falcons agreed to a three-year extension worth up to $33 million ,espn
+BAL,Zay Flowers,WR,Questionable,Ankle,espn
+BAL,Aeneas Peebles,DT,Questionable,Elbow,espn
+BAL,John Simpson,G,Questionable,Groin,espn
+BAL,Rashod Bateman,WR,Questionable,Groin,espn
 BAL,Derrick Henry,RB,Questionable,Concussion,espn
 BAL,Travis Jones,DT,Active,Jones recorded eight tackles (five solo) including 1.0 sacks during Sunday's 35-,espn
 BAL,Trenton Simpson,LB,Active,Simpson recorded 10 total tackles (five solo) during Sunday's 35-33 loss to the ,espn
 BAL,Kyle Hamilton,S,Active,Hamilton recorded eight total tackles (five solo) during Sunday's 35-33 loss to ,espn
-BAL,Mike Green,LB,Active,Green recorded five tackles (four solo) including 2.0 sacks during Sunday's 35-3,espn
+BAL,Mike Green,LB,Questionable,Knee,espn
 BAL,Nnamdi Madubuike,DT,Questionable,Hamstring,espn
 BAL,Jaylinn Hawkins,S,Questionable,Knee,espn
 BAL,Roquan Smith,LB,Active,Smith recorded nine tackles (two solo) in Sunday's 35-33 loss to the Panthers.,espn
@@ -64,16 +68,12 @@ BAL,Riley Patterson,PK,Active,Patterson made his only field-goal attempt and wen
 BAL,Marlon Humphrey,CB,Questionable,Coach's Decision,espn
 BAL,Matt Hibner,TE,Active,Hibner recorded two catches for 12 yards on two targets in Sunday's 35-33 loss t,espn
 BAL,Emery Jones Jr.,OT,Active,"",espn
-BAL,Rashod Bateman,WR,Active,Groin,espn
 BAL,Mark Andrews,TE,Active,Andrews caught two of three targets for 14 yards in Sunday's 35-33 loss to Carol,espn
 BAL,Justice Hill,RB,Active,Hill carried the ball six times for 69 yards and a touchdown and caught four of ,espn
 BAL,Jacoby Brissett,QB,Active,Brissett completed 24 of 37 passes for 276 yards and a touchdown with an interce,espn
-BAL,Zay Flowers,WR,Active,Ankle,espn
 BAL,Roger Rosengarten,OT,Active,"",espn
 BAL,Trey Hendrickson,LB,Active,"",espn
 BAL,Elijah Sarratt,WR,Active,Sarratt (coach's decision) is inactive for Sunday's game against Carolina.,espn
-BAL,Adam Randall,RB,Active,Randall (coach's decision) is inactive for Sunday's game against Carolina.,espn
-BAL,Olaivavega Ioane,G,Active,"Ioane (shoulder/knee) was a full participant in Thursday's practice, Cordell Woo",espn
 BUF,Dorian Williams,LB,Questionable,Calf,espn
 BUF,Christian Benford,CB,Questionable,Groin,espn
 BUF,Dalton Kincaid,TE,Questionable,Thumb,espn
@@ -424,6 +424,7 @@ LV,Adam Butler,DT,Questionable,Concussion,espn
 LV,Dont'e Thornton Jr.,WR,Active,Thornton (coach's decision) is inactive for Sunday's Week 11 tilt against Denver,espn
 LV,Folorunso Fatukasi,DT,Active,Fatukasi (toe) is active against the Broncos on Sunday.,espn
 LV,Trey Zuhn III,C,Active,"",espn
+LAC,David Njoku,TE,Questionable,Shoulder,espn
 LAC,Justin Herbert,QB,Questionable,Concussion,espn
 LAC,Oronde Gadsden,TE,Active,Gadsden went without a target while taking the field for 23 of the Chargers' 60 ,espn
 LAC,Kendall Williamson,S,Questionable,Calf,espn
@@ -432,7 +433,6 @@ LAC,Brenen Thompson,WR,Questionable,Hamstring,espn
 LAC,Daiyan Henley,LB,Questionable,Knee,espn
 LAC,Elijah Molden,CB,Active,Molden recorded eight tackles (four solo) in Sunday's 27-24 loss to the Jets.,espn
 LAC,Del'Shawn Phillips,LB,Active,Phillips finished with four tackles (two solo) in Sunday's 27-24 loss to the Jet,espn
-LAC,David Njoku,TE,Active,Njoku caught two of four passes for 28 yards during the Chargers' 27-24 loss to ,espn
 LAC,Charlie Kolar,TE,Active,Kolar brought in his lone target for eight yards during the Chargers' 27-24 loss,espn
 LAC,Cameron Dicker,PK,Active,Dicker made his lone field-goal attempt and all three PATs in Sunday's 27-24 los,espn
 LAC,Alex Harkey,G,Active,"",espn
