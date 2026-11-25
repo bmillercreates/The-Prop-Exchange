@@ -1,5 +1,5 @@
 {
- "remaining": 205,
+ "remaining": 203,
  "log": [
   {
    "at": "2026-10-29T14:01-04:00",
@@ -447,6 +447,12 @@
   },
   {
    "at": "2026-11-24T18:44-05:00",
+   "call": "odds",
+   "markets": "spreads,totals",
+   "cost": 2
+  },
+  {
+   "at": "2026-11-25T18:28-05:00",
    "call": "odds",
    "markets": "spreads,totals",
    "cost": 2

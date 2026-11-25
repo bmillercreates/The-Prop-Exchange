@@ -1,7 +1,7 @@
 {
  "game_id": "2026_12_NYJ_MIA",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-24T18:44-05:00",
+ "updated_at": "2026-11-25T18:28-05:00",
  "kickoff": "2026-11-29T13:00",
  "weekday": "Sunday",
  "away": "NYJ",
@@ -14,11 +14,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "temp_f": 75,
-  "wind_mph": 11,
-  "gust_mph": 13,
-  "precip_in": 0.02,
-  "precip_chance": 37
+  "temp_f": 78,
+  "wind_mph": 8,
+  "gust_mph": 11,
+  "precip_in": 0.0,
+  "precip_chance": 17
  },
  "teams": {
   "NYJ": {
@@ -41,25 +41,14 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Adonai Mitchell",
+   "player": "Braelon Allen",
    "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.0,
-   "receptions": 2.0,
-   "rec_yds": 28.9,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Garrett Wilson",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 6.3,
-   "receptions": 3.8,
-   "rec_yds": 46.6,
-   "carries": 0.0,
+   "position": "RB",
+   "rush_yds": 56.3,
+   "targets": 1.5,
+   "receptions": 1.3,
+   "rec_yds": 8.3,
+   "carries": 10.5,
    "tds": 0.3
   },
   {
@@ -73,35 +62,24 @@
    "tds": 0.0
   },
   {
-   "player": "Mason Taylor",
+   "player": "Kenyon Sadiq",
    "team": "NYJ",
    "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.6,
-   "receptions": 2.0,
-   "rec_yds": 18.2,
+   "rush_yds": 0.1,
+   "targets": 2.1,
+   "receptions": 1.6,
+   "rec_yds": 16.7,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Sterling Shepard",
+   "player": "Adonai Mitchell",
    "team": "NYJ",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 1.7,
-   "receptions": 1.0,
-   "rec_yds": 12.0,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Omar Cooper Jr.",
-   "team": "NYJ",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.4,
-   "receptions": 3.0,
-   "rec_yds": 40.5,
+   "targets": 4.0,
+   "receptions": 2.0,
+   "rec_yds": 28.9,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -117,26 +95,15 @@
    "tds": 0.1
   },
   {
-   "player": "Braelon Allen",
+   "player": "Sterling Shepard",
    "team": "NYJ",
-   "position": "RB",
-   "rush_yds": 56.3,
-   "targets": 1.5,
-   "receptions": 1.3,
-   "rec_yds": 8.3,
-   "carries": 10.5,
-   "tds": 0.3
-  },
-  {
-   "player": "Kenyon Sadiq",
-   "team": "NYJ",
-   "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 2.1,
-   "receptions": 1.6,
-   "rec_yds": 16.7,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.7,
+   "receptions": 1.0,
+   "rec_yds": 12.0,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.3
   },
   {
    "player": "Breece Hall",
@@ -150,13 +117,36 @@
    "tds": 0.5
   },
   {
-   "player": "Kyle McCord",
-   "team": "MIA",
-   "position": "QB",
-   "rush_yds": 6.2,
-   "pass_yds": 181.5,
-   "pass_att": 31.9,
-   "carries": 1.5,
+   "player": "Garrett Wilson",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 6.3,
+   "receptions": 3.8,
+   "rec_yds": 46.6,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Mason Taylor",
+   "team": "NYJ",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 2.0,
+   "rec_yds": 18.2,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.4,
+   "receptions": 3.0,
+   "rec_yds": 40.5,
+   "carries": 0.0,
    "tds": 0.1
   },
   {
@@ -182,25 +172,24 @@
    "tds": 0.1
   },
   {
-   "player": "Ollie Gordon II",
+   "player": "Kevin Coleman Jr.",
    "team": "MIA",
-   "position": "RB",
-   "rush_yds": 72.2,
-   "targets": 2.3,
-   "receptions": 1.6,
-   "rec_yds": 9.6,
-   "carries": 13.9,
-   "tds": 0.6
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 2.5,
+   "receptions": 1.1,
+   "rec_yds": 12.0,
+   "carries": 0.1,
+   "tds": 0.1
   },
   {
-   "player": "Greg Dulcich",
+   "player": "Kyle McCord",
    "team": "MIA",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.4,
-   "rec_yds": 39.0,
-   "carries": 0.0,
+   "position": "QB",
+   "rush_yds": 6.2,
+   "pass_yds": 181.5,
+   "pass_att": 31.9,
+   "carries": 1.5,
    "tds": 0.1
   },
   {
@@ -215,6 +204,17 @@
    "tds": 0.5
   },
   {
+   "player": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.1,
+   "receptions": 3.4,
+   "rec_yds": 39.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
    "player": "Malik Washington",
    "team": "MIA",
    "position": "WR",
@@ -226,15 +226,15 @@
    "tds": 0.2
   },
   {
-   "player": "Kevin Coleman Jr.",
+   "player": "Ollie Gordon II",
    "team": "MIA",
-   "position": "WR",
-   "rush_yds": 0.8,
-   "targets": 2.5,
-   "receptions": 1.1,
-   "rec_yds": 12.0,
-   "carries": 0.1,
-   "tds": 0.1
+   "position": "RB",
+   "rush_yds": 72.2,
+   "targets": 2.3,
+   "receptions": 1.6,
+   "rec_yds": 9.6,
+   "carries": 13.9,
+   "tds": 0.6
   }
  ]
 }
