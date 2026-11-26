@@ -1,14 +1,14 @@
 {
  "game_id": "2026_12_CHI_DET",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-25T18:28-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-26T11:40-05:00",
  "kickoff": "2026-11-26T13:00",
  "weekday": "Thursday",
  "away": "CHI",
  "home": "DET",
  "stadium": "Ford Field",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-26T11:40-05:00",
  "weather": {
   "game_id": "2026_12_CHI_DET",
   "stadium": "Ford Field",
@@ -35,7 +35,80 @@
    ]
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Sam LaPorta",
+   "team": "DET",
+   "position": "TE",
+   "market": "player_reception_yds",
+   "label": "receiving yards",
+   "side": "Under",
+   "line": 47.5,
+   "title": "Sam LaPorta Under 47.5 receiving yards",
+   "price": -110,
+   "book": "draftkings",
+   "model_prob": 0.5806,
+   "fair_prob": 0.4958,
+   "prob_edge": 0.0848,
+   "edge": 0.1084,
+   "projection": 35.63,
+   "flags": [],
+   "why": [
+    "Model projects 36 yards vs. a line of 47.5 (74% chance to go under on its own).",
+    "Earns 17% of the Lions' targets and 17% of their air yards, on 89% of snaps.",
+    "The Bears defense allows 9% fewer receiving yards to TEs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Kalif Raymond",
+   "team": "CHI",
+   "position": "WR",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Kalif Raymond Over 2.5 receptions",
+   "price": -127,
+   "book": "draftkings",
+   "model_prob": 0.5817,
+   "fair_prob": 0.5268,
+   "prob_edge": 0.0549,
+   "edge": 0.0397,
+   "projection": 3.88,
+   "flags": [],
+   "why": [
+    "Model projects 4 catches vs. a line of 2.5 (68% chance to go over on its own).",
+    "Earns 17% of the Bears' targets and 17% of their air yards, on 66% of snaps.",
+    "The Lions defense allows 9% more receptions to WRs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "D'Andre Swift",
+   "team": "CHI",
+   "position": "RB",
+   "market": "player_anytime_td",
+   "label": "anytime TD",
+   "side": "Yes",
+   "line": null,
+   "title": "D'Andre Swift Yes anytime TD",
+   "price": -140,
+   "book": "draftkings",
+   "model_prob": 0.5802,
+   "fair_prob": 0.5452,
+   "prob_edge": 0.035,
+   "edge": -0.0054,
+   "projection": 1.04,
+   "flags": [],
+   "why": [
+    "Model gives him a 65% chance to score; the odds imply about 55%.",
+    "Gets 35% of the Bears' red-zone touches.",
+    "With Roschon Johnson out, there's more work to go around."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
@@ -51,26 +124,15 @@
    "tds": 0.0
   },
   {
-   "player": "Salvon Ahmed",
+   "player": "Sam Roush",
    "team": "CHI",
-   "position": "RB",
-   "rush_yds": 14.3,
-   "targets": 0.0,
-   "receptions": 0.0,
-   "rec_yds": 0.0,
-   "carries": 4.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Kyle Monangai",
-   "team": "CHI",
-   "position": "RB",
-   "rush_yds": 26.5,
-   "targets": 1.4,
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.5,
    "receptions": 1.1,
-   "rec_yds": 8.3,
-   "carries": 7.0,
-   "tds": 0.4
+   "rec_yds": 13.1,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Rome Odunze",
@@ -94,15 +156,15 @@
    "tds": 0.0
   },
   {
-   "player": "Sam Roush",
+   "player": "Kyle Monangai",
    "team": "CHI",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.5,
+   "position": "RB",
+   "rush_yds": 26.5,
+   "targets": 1.4,
    "receptions": 1.1,
-   "rec_yds": 13.1,
-   "carries": 0.0,
-   "tds": 0.0
+   "rec_yds": 8.3,
+   "carries": 7.0,
+   "tds": 0.4
   },
   {
    "player": "Colston Loveland",
@@ -127,15 +189,15 @@
    "tds": 1.0
   },
   {
-   "player": "Luther Burden III",
+   "player": "Salvon Ahmed",
    "team": "CHI",
-   "position": "WR",
-   "rush_yds": 2.7,
-   "targets": 6.5,
-   "receptions": 4.8,
-   "rec_yds": 58.3,
-   "carries": 0.6,
-   "tds": 0.2
+   "position": "RB",
+   "rush_yds": 14.3,
+   "targets": 0.0,
+   "receptions": 0.0,
+   "rec_yds": 0.0,
+   "carries": 4.0,
+   "tds": 0.1
   },
   {
    "player": "Kalif Raymond",
@@ -147,6 +209,17 @@
    "rec_yds": 39.2,
    "carries": 0.1,
    "tds": 0.1
+  },
+  {
+   "player": "Luther Burden III",
+   "team": "CHI",
+   "position": "WR",
+   "rush_yds": 2.7,
+   "targets": 6.5,
+   "receptions": 4.8,
+   "rec_yds": 58.3,
+   "carries": 0.6,
+   "tds": 0.2
   },
   {
    "player": "Sione Vaki",
@@ -171,15 +244,15 @@
    "tds": 1.5
   },
   {
-   "player": "Jameson Williams",
+   "player": "Isaac TeSlaa",
    "team": "DET",
    "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 5.1,
-   "receptions": 3.1,
-   "rec_yds": 49.8,
-   "carries": 0.1,
-   "tds": 0.4
+   "rush_yds": 0.0,
+   "targets": 3.0,
+   "receptions": 1.5,
+   "rec_yds": 23.0,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Amon-Ra St. Brown",
@@ -193,15 +266,14 @@
    "tds": 0.3
   },
   {
-   "player": "Isaac TeSlaa",
+   "player": "Jared Goff",
    "team": "DET",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.0,
-   "receptions": 1.5,
-   "rec_yds": 23.0,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "QB",
+   "rush_yds": 7.9,
+   "pass_yds": 237.2,
+   "pass_att": 30.6,
+   "carries": 2.7,
+   "tds": 0.0
   },
   {
    "player": "Sam LaPorta",
@@ -215,14 +287,15 @@
    "tds": 0.3
   },
   {
-   "player": "Jared Goff",
+   "player": "Jameson Williams",
    "team": "DET",
-   "position": "QB",
-   "rush_yds": 7.9,
-   "pass_yds": 237.2,
-   "pass_att": 30.6,
-   "carries": 2.7,
-   "tds": 0.0
+   "position": "WR",
+   "rush_yds": 0.7,
+   "targets": 5.1,
+   "receptions": 3.1,
+   "rec_yds": 49.8,
+   "carries": 0.1,
+   "tds": 0.4
   }
  ]
 }

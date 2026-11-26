@@ -1,14 +1,7 @@
 [
  {
-  "event_id": "5b612899d6dcdf998107f2c6c6e49a58",
-  "game_id": null,
-  "away": "Green Bay Packers",
-  "home": "Los Angeles Rams",
-  "kickoff_et": "2026-11-25T20:00:00-05:00"
- },
- {
   "event_id": "9b825e6518156008da499be041975fdd",
-  "game_id": null,
+  "game_id": "2026_12_CHI_DET",
   "away": "Chicago Bears",
   "home": "Detroit Lions",
   "kickoff_et": "2026-11-26T13:00:00-05:00"
