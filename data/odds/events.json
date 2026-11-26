@@ -1,14 +1,14 @@
 [
  {
   "event_id": "9b825e6518156008da499be041975fdd",
-  "game_id": "2026_12_CHI_DET",
+  "game_id": null,
   "away": "Chicago Bears",
   "home": "Detroit Lions",
-  "kickoff_et": "2026-11-26T13:00:00-05:00"
+  "kickoff_et": "2026-11-26T13:02:55-05:00"
  },
  {
   "event_id": "ffaa06af56a7137d4b078c5c46c0b730",
-  "game_id": null,
+  "game_id": "2026_12_PHI_DAL",
   "away": "Philadelphia Eagles",
   "home": "Dallas Cowboys",
   "kickoff_et": "2026-11-26T16:30:00-05:00"
@@ -110,20 +110,6 @@
   "away": "Kansas City Chiefs",
   "home": "Los Angeles Rams",
   "kickoff_et": "2026-12-03T20:15:00-05:00"
- },
- {
-  "event_id": "c94419ba8fb818fc36a5b21b526aab75",
-  "game_id": null,
-  "away": "Detroit Lions",
-  "home": "Atlanta Falcons",
-  "kickoff_et": "2026-12-06T13:00:00-05:00"
- },
- {
-  "event_id": "0236f9aa68d65ea03bd1ca025b749c20",
-  "game_id": null,
-  "away": "Jacksonville Jaguars",
-  "home": "Chicago Bears",
-  "kickoff_et": "2026-12-06T13:00:00-05:00"
  },
  {
   "event_id": "b447fab53534af892f98a74eae26c1c6",

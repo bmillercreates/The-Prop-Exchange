@@ -1,14 +1,14 @@
 {
  "game_id": "2026_12_PHI_DAL",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-25T18:28-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-26T15:10-05:00",
  "kickoff": "2026-11-26T16:30",
  "weekday": "Thursday",
  "away": "PHI",
  "home": "DAL",
  "stadium": "AT&T Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-26T15:10-05:00",
  "weather": {
   "game_id": "2026_12_PHI_DAL",
   "stadium": "AT&T Stadium",
@@ -35,31 +35,121 @@
    ]
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "market": "player_pass_yds",
+   "label": "passing yards",
+   "side": "Under",
+   "line": 272.5,
+   "title": "Dak Prescott Under 272.5 passing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.5817,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0817,
+   "edge": 0.0966,
+   "projection": 230.12,
+   "flags": [],
+   "why": [
+    "Model projects 230 yards vs. a line of 272.5 (73% chance to go under on its own).",
+    "Expected to throw about 32 times; completion % over expected is +2.0 lately.",
+    "Also factored in: short week."
+   ]
+  }
+ ],
  "penny_stocks": [],
- "etfs": [],
+ "etfs": [
+  {
+   "tier": "ETF",
+   "legs": [
+    {
+     "tier": "ETF leg",
+     "player": "Joe Milton",
+     "team": "PHI",
+     "position": "QB",
+     "market": "player_pass_yds",
+     "label": "passing yards",
+     "side": "Over",
+     "line": 202.5,
+     "title": "Joe Milton Over 202.5 passing yards",
+     "price": -111,
+     "book": "draftkings",
+     "model_prob": 0.5787,
+     "fair_prob": 0.4989,
+     "prob_edge": 0.0797,
+     "edge": 0.1,
+     "projection": 261.26,
+     "flags": [
+      "only 2 games of data",
+      "missed recent games"
+     ],
+     "why": [
+      "Model projects 261 yards vs. a line of 202.5 (73% chance to go over on its own).",
+      "Expected to throw about 38 times; completion % over expected is -12.6 lately.",
+      "The Cowboys defense allows 6% more passing yards to QBs than average."
+     ]
+    },
+    {
+     "tier": "ETF leg",
+     "player": "DeVonta Smith",
+     "team": "PHI",
+     "position": "WR",
+     "market": "player_receptions",
+     "label": "receptions",
+     "side": "Over",
+     "line": 5.5,
+     "title": "DeVonta Smith Over 5.5 receptions",
+     "price": -112,
+     "book": "draftkings",
+     "model_prob": 0.5936,
+     "fair_prob": 0.4979,
+     "prob_edge": 0.0957,
+     "edge": 0.1236,
+     "projection": 8.23,
+     "flags": [
+      "missed recent games"
+     ],
+     "why": [
+      "Model projects 8 catches vs. a line of 5.5 (77% chance to go over on its own).",
+      "Earns 35% of the Eagles' targets and 46% of their air yards, on 77% of snaps.",
+      "The Eagles are 8.5-point underdogs, so they should be throwing to catch up."
+     ]
+    }
+   ],
+   "model_prob": 0.4284,
+   "price": 166,
+   "edge": 0.1386,
+   "why": [
+    "Joe Milton and DeVonta Smith are on the same offense: when the QB has a big passing day, his top receivers usually do too.",
+    "Model gives both legs a 43% chance to hit together. The price (about +166) is our estimate of a same-game parlay; check your book's exact number."
+   ]
+  }
+ ],
  "projections": [
   {
-   "player": "Darius Cooper",
+   "player": "Elijah Mitchell",
    "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.4,
-   "receptions": 2.9,
-   "rec_yds": 43.0,
-   "carries": 0.0,
-   "tds": 0.0
+   "position": "RB",
+   "rush_yds": 9.9,
+   "targets": 3.4,
+   "receptions": 2.6,
+   "rec_yds": 18.9,
+   "carries": 2.3,
+   "tds": 0.1
   },
   {
-   "player": "Elijah Moore",
+   "player": "Joe Milton III",
    "team": "PHI",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.5,
-   "receptions": 0.9,
-   "rec_yds": 11.1,
-   "carries": 0.0,
-   "tds": 0.0
+   "position": "QB",
+   "rush_yds": 14.5,
+   "pass_yds": 261.3,
+   "pass_att": 38.0,
+   "carries": 2.8,
+   "tds": 0.2
   },
   {
    "player": "Saquon Barkley",
@@ -73,15 +163,15 @@
    "tds": 0.8
   },
   {
-   "player": "Dallas Goedert",
+   "player": "Darius Cooper",
    "team": "PHI",
-   "position": "TE",
-   "rush_yds": 0.1,
-   "targets": 3.4,
-   "receptions": 2.5,
-   "rec_yds": 24.8,
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.4,
+   "receptions": 2.9,
+   "rec_yds": 43.0,
    "carries": 0.0,
-   "tds": 0.1
+   "tds": 0.0
   },
   {
    "player": "DeVonta Smith",
@@ -95,15 +185,26 @@
    "tds": 0.1
   },
   {
-   "player": "Elijah Mitchell",
+   "player": "Dallas Goedert",
    "team": "PHI",
-   "position": "RB",
-   "rush_yds": 9.9,
+   "position": "TE",
+   "rush_yds": 0.1,
    "targets": 3.4,
-   "receptions": 2.6,
-   "rec_yds": 18.9,
-   "carries": 2.3,
+   "receptions": 2.5,
+   "rec_yds": 24.8,
+   "carries": 0.0,
    "tds": 0.1
+  },
+  {
+   "player": "Elijah Moore",
+   "team": "PHI",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 1.5,
+   "receptions": 0.9,
+   "rec_yds": 11.1,
+   "carries": 0.0,
+   "tds": 0.0
   },
   {
    "player": "Makai Lemon",
@@ -117,27 +218,6 @@
    "tds": 0.3
   },
   {
-   "player": "Joe Milton III",
-   "team": "PHI",
-   "position": "QB",
-   "rush_yds": 14.5,
-   "pass_yds": 261.3,
-   "pass_att": 38.0,
-   "carries": 2.8,
-   "tds": 0.2
-  },
-  {
-   "player": "CeeDee Lamb",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.5,
-   "targets": 11.0,
-   "receptions": 7.5,
-   "rec_yds": 100.6,
-   "carries": 0.1,
-   "tds": 0.5
-  },
-  {
    "player": "Brevyn Spann-Ford",
    "team": "DAL",
    "position": "TE",
@@ -146,6 +226,16 @@
    "receptions": 1.5,
    "rec_yds": 13.2,
    "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "rush_yds": 14.9,
+   "pass_yds": 230.1,
+   "pass_att": 32.1,
+   "carries": 3.5,
    "tds": 0.1
   },
   {
@@ -160,17 +250,6 @@
    "tds": 0.5
   },
   {
-   "player": "Ryan Flournoy",
-   "team": "DAL",
-   "position": "WR",
-   "rush_yds": 0.3,
-   "targets": 3.5,
-   "receptions": 2.5,
-   "rec_yds": 32.4,
-   "carries": 0.1,
-   "tds": 0.3
-  },
-  {
    "player": "Javonte Williams",
    "team": "DAL",
    "position": "RB",
@@ -182,14 +261,15 @@
    "tds": 1.0
   },
   {
-   "player": "Dak Prescott",
+   "player": "CeeDee Lamb",
    "team": "DAL",
-   "position": "QB",
-   "rush_yds": 14.9,
-   "pass_yds": 230.1,
-   "pass_att": 32.1,
-   "carries": 3.5,
-   "tds": 0.1
+   "position": "WR",
+   "rush_yds": 0.5,
+   "targets": 11.0,
+   "receptions": 7.5,
+   "rec_yds": 100.6,
+   "carries": 0.1,
+   "tds": 0.5
   },
   {
    "player": "Jashaun Corbin",
@@ -201,6 +281,17 @@
    "rec_yds": 2.4,
    "carries": 2.7,
    "tds": 0.1
+  },
+  {
+   "player": "Ryan Flournoy",
+   "team": "DAL",
+   "position": "WR",
+   "rush_yds": 0.3,
+   "targets": 3.5,
+   "receptions": 2.5,
+   "rec_yds": 32.4,
+   "carries": 0.1,
+   "tds": 0.3
   }
  ]
 }
