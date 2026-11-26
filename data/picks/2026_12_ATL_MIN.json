@@ -1,7 +1,7 @@
 {
  "game_id": "2026_12_ATL_MIN",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-25T18:28-05:00",
+ "updated_at": "2026-11-26T18:30-05:00",
  "kickoff": "2026-11-29T13:00",
  "weekday": "Sunday",
  "away": "ATL",
@@ -19,7 +19,7 @@
   "ATL": {
    "implied_pts": 17.2,
    "margin": -7.0,
-   "plays": 58.1,
+   "plays": 58.0,
    "pass_att": 32.9,
    "notes": [
     "coming off a bye"
@@ -28,7 +28,7 @@
   "MIN": {
    "implied_pts": 24.2,
    "margin": 7.0,
-   "plays": 57.9,
+   "plays": 57.8,
    "pass_att": 30.0,
    "notes": []
   }
@@ -37,6 +37,60 @@
  "penny_stocks": [],
  "etfs": [],
  "projections": [
+  {
+   "player": "Michael Penix Jr.",
+   "team": "ATL",
+   "position": "QB",
+   "rush_yds": 9.3,
+   "pass_yds": 213.1,
+   "pass_att": 32.9,
+   "carries": 2.8,
+   "tds": 0.0
+  },
+  {
+   "player": "Zachariah Branch",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 1.1,
+   "targets": 1.6,
+   "receptions": 1.0,
+   "rec_yds": 10.8,
+   "carries": 0.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Bijan Robinson",
+   "team": "ATL",
+   "position": "RB",
+   "rush_yds": 78.0,
+   "targets": 4.5,
+   "receptions": 3.1,
+   "rec_yds": 20.9,
+   "carries": 15.2,
+   "tds": 0.5
+  },
+  {
+   "player": "Kyle Pitts",
+   "team": "ATL",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.9,
+   "receptions": 3.1,
+   "rec_yds": 29.2,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jahan Dotson",
+   "team": "ATL",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.2,
+   "rec_yds": 37.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
   {
    "player": "Drake London",
    "team": "ATL",
@@ -60,134 +114,26 @@
    "tds": 0.1
   },
   {
-   "player": "Michael Penix Jr.",
-   "team": "ATL",
-   "position": "QB",
-   "rush_yds": 9.3,
-   "pass_yds": 213.2,
-   "pass_att": 32.9,
-   "carries": 2.8,
-   "tds": 0.0
-  },
-  {
-   "player": "Zachariah Branch",
-   "team": "ATL",
-   "position": "WR",
-   "rush_yds": 1.1,
-   "targets": 1.6,
-   "receptions": 1.0,
-   "rec_yds": 10.8,
-   "carries": 0.1,
-   "tds": 0.0
-  },
-  {
-   "player": "Jahan Dotson",
-   "team": "ATL",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.2,
-   "rec_yds": 37.5,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Kyle Pitts",
-   "team": "ATL",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.9,
-   "receptions": 3.1,
-   "rec_yds": 29.2,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Bijan Robinson",
-   "team": "ATL",
+   "player": "Aaron Jones",
+   "team": "MIN",
    "position": "RB",
-   "rush_yds": 78.4,
-   "targets": 4.5,
-   "receptions": 3.1,
-   "rec_yds": 20.8,
-   "carries": 15.2,
+   "rush_yds": 48.3,
+   "targets": 1.7,
+   "receptions": 1.3,
+   "rec_yds": 9.4,
+   "carries": 10.5,
    "tds": 0.5
-  },
-  {
-   "player": "Gavin Bartholomew",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.3,
-   "receptions": 1.7,
-   "rec_yds": 15.5,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jauan Jennings",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.8,
-   "receptions": 1.8,
-   "rec_yds": 21.1,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tai Felton",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 2.6,
-   "rec_yds": 32.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Kirk Cousins",
-   "team": "MIN",
-   "position": "QB",
-   "rush_yds": 3.7,
-   "pass_yds": 216.7,
-   "pass_att": 30.0,
-   "carries": 1.1,
-   "tds": 0.0
-  },
-  {
-   "player": "T.J. Hockenson",
-   "team": "MIN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 5.2,
-   "receptions": 4.1,
-   "rec_yds": 37.4,
-   "carries": 0.0,
-   "tds": 0.4
   },
   {
    "player": "Jordan Mason",
    "team": "MIN",
    "position": "RB",
-   "rush_yds": 53.6,
+   "rush_yds": 53.4,
    "targets": 1.2,
    "receptions": 0.9,
    "rec_yds": 5.9,
    "carries": 11.9,
    "tds": 0.4
-  },
-  {
-   "player": "Justin Jefferson",
-   "team": "MIN",
-   "position": "WR",
-   "rush_yds": 2.0,
-   "targets": 8.1,
-   "receptions": 5.4,
-   "rec_yds": 68.1,
-   "carries": 0.4,
-   "tds": 0.3
   },
   {
    "player": "Myles Price",
@@ -201,15 +147,69 @@
    "tds": 0.0
   },
   {
-   "player": "Aaron Jones",
+   "player": "Justin Jefferson",
    "team": "MIN",
-   "position": "RB",
-   "rush_yds": 48.6,
-   "targets": 1.7,
-   "receptions": 1.3,
-   "rec_yds": 9.5,
-   "carries": 10.5,
-   "tds": 0.5
+   "position": "WR",
+   "rush_yds": 2.0,
+   "targets": 8.1,
+   "receptions": 5.4,
+   "rec_yds": 68.2,
+   "carries": 0.4,
+   "tds": 0.3
+  },
+  {
+   "player": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 2.6,
+   "rec_yds": 32.0,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 5.2,
+   "receptions": 4.1,
+   "rec_yds": 37.4,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Jauan Jennings",
+   "team": "MIN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.8,
+   "rec_yds": 21.1,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Kirk Cousins",
+   "team": "MIN",
+   "position": "QB",
+   "rush_yds": 3.7,
+   "pass_yds": 216.6,
+   "pass_att": 30.0,
+   "carries": 1.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 2.3,
+   "receptions": 1.7,
+   "rec_yds": 15.5,
+   "carries": 0.0,
+   "tds": 0.2
   }
  ]
 }

@@ -1,36 +1,4 @@
 {
- "2026_12_GB_LA": [
-  {
-   "type": "Birthday",
-   "player": "Blake Corum",
-   "team": "LA",
-   "text": "Blake Corum (LA RB) turns 26 on game day."
-  },
-  {
-   "type": "Revenge",
-   "player": "Davante Adams",
-   "team": "LA",
-   "text": "Davante Adams (LA WR) faces the Packers, the team he played for from 2016 to 2021."
-  },
-  {
-   "type": "Revenge",
-   "player": "Mark Redman",
-   "team": "GB",
-   "text": "Mark Redman (GB TE) faces the Rams, the team he played for in 2025."
-  },
-  {
-   "type": "Milestone",
-   "player": "Matthew Stafford",
-   "team": "LA",
-   "text": "Matthew Stafford needs 1 more passing TD to reach 20 for the season (has 19)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Jordan Love",
-   "team": "GB",
-   "text": "Jordan Love needs 162 more passing yards to reach 3,000 for the season (has 2,838)."
-  }
- ],
  "2026_12_CHI_DET": [
   {
    "type": "Revenge",
@@ -46,21 +14,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Sam LaPorta",
-   "team": "DET",
-   "text": "Sam LaPorta needs 23 more receiving yards to reach 500 for the season (has 477)."
-  },
-  {
-   "type": "Milestone",
    "player": "Amon-Ra St. Brown",
    "team": "DET",
-   "text": "Amon-Ra St. Brown needs 5 more catches to reach 75 for the season (has 70)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Jared Goff",
-   "team": "DET",
-   "text": "Jared Goff needs 284 more passing yards to reach 3,000 for the season (has 2,716)."
+   "text": "Amon-Ra St. Brown needs 62 more receiving yards to reach 1,000 for the season (has 938)."
   }
  ],
  "2026_12_PHI_DAL": [
@@ -95,6 +51,12 @@
    "player": "Dalton Kincaid",
    "team": "BUF",
    "text": "Dalton Kincaid needs 13 more receiving yards to reach 500 for the season (has 487)."
+  },
+  {
+   "type": "Milestone",
+   "player": "Josh Downs",
+   "team": "KC",
+   "text": "Josh Downs needs 34 more receiving yards to reach 500 for the season (has 466)."
   },
   {
    "type": "Milestone",
@@ -246,9 +208,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Omarion Hampton",
-   "team": "LAC",
-   "text": "Omarion Hampton needs 1 more total TD to reach 5 for the season (has 4)."
+   "player": "Rhamondre Stevenson",
+   "team": "NE",
+   "text": "Rhamondre Stevenson needs 1 more total TD to reach 5 for the season (has 4)."
   }
  ],
  "2026_12_WAS_ARI": [
