@@ -3561,5 +3561,50 @@
   "actual": 1.0,
   "result": "win",
   "units": 0.714
+ },
+ {
+  "game_id": "2026_12_PHI_DAL",
+  "matchup": "PHI @ DAL",
+  "kickoff": "2026-11-26T16:30",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-26T20:50-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Dak Prescott Under 272.5 passing yards",
+  "player": "Dak Prescott",
+  "market": "player_pass_yds",
+  "side": "Under",
+  "line": 272.5,
+  "price": -113,
+  "edge": 0.0966,
+  "actual": 291.0,
+  "result": "loss",
+  "units": -1.0
+ },
+ {
+  "game_id": "2026_12_PHI_DAL",
+  "matchup": "PHI @ DAL",
+  "kickoff": "2026-11-26T16:30",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-26T20:50-05:00",
+  "source": "espn",
+  "tier": "ETF",
+  "title": "Joe Milton Over 202.5 passing yards + DeVonta Smith Over 5.5 receptions",
+  "player": "Joe Milton / DeVonta Smith",
+  "market": "parlay",
+  "side": "Over",
+  "line": null,
+  "price": 166,
+  "edge": 0.1386,
+  "actual": [
+   331.0,
+   11.0
+  ],
+  "leg_results": [
+   "win",
+   "win"
+  ],
+  "result": "win",
+  "units": 1.66
  }
 ]
