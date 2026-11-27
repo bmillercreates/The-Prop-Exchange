@@ -550,7 +550,11 @@
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-27T15:00:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 38,
+  "wind_mph": 14,
+  "gust_mph": 31,
+  "precip_in": 0.02,
+  "precip_chance": 41
  },
  "2026_12_NO_CIN": {
   "game_id": "2026_12_NO_CIN",

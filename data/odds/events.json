@@ -1,21 +1,7 @@
 [
  {
-  "event_id": "ffaa06af56a7137d4b078c5c46c0b730",
-  "game_id": null,
-  "away": "Philadelphia Eagles",
-  "home": "Dallas Cowboys",
-  "kickoff_et": "2026-11-26T16:46:34-05:00"
- },
- {
-  "event_id": "f36f518585aec40e8cb40e071c0844aa",
-  "game_id": "2026_12_KC_BUF",
-  "away": "Kansas City Chiefs",
-  "home": "Buffalo Bills",
-  "kickoff_et": "2026-11-26T20:20:00-05:00"
- },
- {
   "event_id": "44a3bcf5bd002583ddef2207a92dd977",
-  "game_id": null,
+  "game_id": "2026_12_DEN_PIT",
   "away": "Denver Broncos",
   "home": "Pittsburgh Steelers",
   "kickoff_et": "2026-11-27T15:00:00-05:00"
@@ -105,6 +91,20 @@
   "kickoff_et": "2026-12-03T20:15:00-05:00"
  },
  {
+  "event_id": "c94419ba8fb818fc36a5b21b526aab75",
+  "game_id": null,
+  "away": "Detroit Lions",
+  "home": "Atlanta Falcons",
+  "kickoff_et": "2026-12-06T13:00:00-05:00"
+ },
+ {
+  "event_id": "0236f9aa68d65ea03bd1ca025b749c20",
+  "game_id": null,
+  "away": "Jacksonville Jaguars",
+  "home": "Chicago Bears",
+  "kickoff_et": "2026-12-06T13:00:00-05:00"
+ },
+ {
   "event_id": "b447fab53534af892f98a74eae26c1c6",
   "game_id": null,
   "away": "Cincinnati Bengals",
@@ -147,6 +147,13 @@
   "kickoff_et": "2026-12-06T13:00:00-05:00"
  },
  {
+  "event_id": "f4897f48a5351881280f7598bd826408",
+  "game_id": null,
+  "away": "Philadelphia Eagles",
+  "home": "Arizona Cardinals",
+  "kickoff_et": "2026-12-06T16:05:00-05:00"
+ },
+ {
   "event_id": "4116dbff75ab7957b69c2152f204b74d",
   "game_id": null,
   "away": "Buffalo Bills",
@@ -166,5 +173,12 @@
   "away": "Houston Texans",
   "home": "Pittsburgh Steelers",
   "kickoff_et": "2026-12-06T20:20:00-05:00"
+ },
+ {
+  "event_id": "0db4646c964ecdff19957373fe707546",
+  "game_id": null,
+  "away": "Dallas Cowboys",
+  "home": "Seattle Seahawks",
+  "kickoff_et": "2026-12-07T20:15:00-05:00"
  }
 ]

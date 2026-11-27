@@ -1,20 +1,24 @@
 {
  "game_id": "2026_12_DEN_PIT",
- "status": "PRELIMINARY",
- "updated_at": "2026-11-26T18:30-05:00",
+ "status": "FINAL",
+ "updated_at": "2026-11-27T13:40-05:00",
  "kickoff": "2026-11-27T15:00",
  "weekday": "Friday",
  "away": "DEN",
  "home": "PIT",
  "stadium": "Acrisure Stadium",
- "has_props": false,
- "props_pulled_at": null,
+ "has_props": true,
+ "props_pulled_at": "2026-11-27T13:40-05:00",
  "weather": {
   "game_id": "2026_12_DEN_PIT",
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-11-27T15:00:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 38,
+  "wind_mph": 14,
+  "gust_mph": 31,
+  "precip_in": 0.02,
+  "precip_chance": 41
  },
  "teams": {
   "DEN": {
@@ -36,42 +40,69 @@
    ]
   }
  },
- "blue_chips": [],
+ "blue_chips": [
+  {
+   "tier": "Blue Chip",
+   "player": "Rico Dowdle",
+   "team": "PIT",
+   "position": "RB",
+   "market": "player_rush_yds",
+   "label": "rushing yards",
+   "side": "Under",
+   "line": 32.5,
+   "title": "Rico Dowdle Under 32.5 rushing yards",
+   "price": -113,
+   "book": "fanduel",
+   "model_prob": 0.5767,
+   "fair_prob": 0.5,
+   "prob_edge": 0.0767,
+   "edge": 0.0871,
+   "projection": 25.69,
+   "flags": [],
+   "why": [
+    "Model projects 26 yards vs. a line of 32.5 (72% chance to go under on its own).",
+    "Handles 30% of the Steelers' carries (about 6 expected).",
+    "The Broncos defense allows 5% more rushing yards to RBs than average."
+   ]
+  },
+  {
+   "tier": "Blue Chip",
+   "player": "Pat Freiermuth",
+   "team": "PIT",
+   "position": "TE",
+   "market": "player_receptions",
+   "label": "receptions",
+   "side": "Over",
+   "line": 2.5,
+   "title": "Pat Freiermuth Over 2.5 receptions",
+   "price": 112,
+   "book": "draftkings",
+   "model_prob": 0.4756,
+   "fair_prob": 0.4449,
+   "prob_edge": 0.0307,
+   "edge": 0.0083,
+   "projection": 3.0,
+   "flags": [],
+   "why": [
+    "Model projects 3 catches vs. a line of 2.5 (53% chance to go over on its own).",
+    "Earns 11% of the Steelers' targets and 11% of their air yards, on 60% of snaps.",
+    "The Broncos defense allows 19% more receptions to TEs than average."
+   ]
+  }
+ ],
  "penny_stocks": [],
  "etfs": [],
  "projections": [
   {
-   "player": "Jonah Coleman",
+   "player": "Adam Trautman",
    "team": "DEN",
-   "position": "RB",
-   "rush_yds": 59.4,
-   "targets": 3.2,
-   "receptions": 2.9,
-   "rec_yds": 24.7,
-   "carries": 17.2,
-   "tds": 0.8
-  },
-  {
-   "player": "Troy Franklin",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 0.8,
-   "targets": 2.1,
-   "receptions": 1.3,
-   "rec_yds": 15.3,
-   "carries": 0.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Pat Bryant",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 0.7,
-   "targets": 3.3,
-   "receptions": 2.3,
-   "rec_yds": 29.9,
-   "carries": 0.1,
-   "tds": 0.1
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 1.6,
+   "receptions": 1.0,
+   "rec_yds": 10.1,
+   "carries": 0.0,
+   "tds": 0.2
   },
   {
    "player": "Jaylen Waddle",
@@ -82,17 +113,6 @@
    "receptions": 3.0,
    "rec_yds": 36.2,
    "carries": 0.1,
-   "tds": 0.3
-  },
-  {
-   "player": "Courtland Sutton",
-   "team": "DEN",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 4.5,
-   "receptions": 2.6,
-   "rec_yds": 29.6,
-   "carries": 0.0,
    "tds": 0.3
   },
   {
@@ -117,6 +137,28 @@
    "tds": 0.1
   },
   {
+   "player": "Pat Bryant",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.7,
+   "targets": 3.3,
+   "receptions": 2.3,
+   "rec_yds": 29.9,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
+   "player": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.5,
+   "receptions": 2.6,
+   "rec_yds": 29.6,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
    "player": "Marvin Mims Jr.",
    "team": "DEN",
    "position": "WR",
@@ -128,15 +170,26 @@
    "tds": 0.1
   },
   {
-   "player": "Adam Trautman",
+   "player": "Troy Franklin",
    "team": "DEN",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 1.6,
-   "receptions": 1.0,
-   "rec_yds": 10.1,
-   "carries": 0.0,
-   "tds": 0.2
+   "position": "WR",
+   "rush_yds": 0.8,
+   "targets": 2.1,
+   "receptions": 1.3,
+   "rec_yds": 15.3,
+   "carries": 0.2,
+   "tds": 0.1
+  },
+  {
+   "player": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "rush_yds": 59.4,
+   "targets": 3.2,
+   "receptions": 2.9,
+   "rec_yds": 24.7,
+   "carries": 17.2,
+   "tds": 0.8
   },
   {
    "player": "Brandon Smith",
@@ -150,39 +203,6 @@
    "tds": 0.0
   },
   {
-   "player": "Max Hurleman",
-   "team": "PIT",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.8,
-   "receptions": 1.8,
-   "rec_yds": 20.6,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Darnell Washington",
-   "team": "PIT",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 2.2,
-   "rec_yds": 26.6,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "DK Metcalf",
-   "team": "PIT",
-   "position": "WR",
-   "rush_yds": 0.4,
-   "targets": 5.3,
-   "receptions": 2.7,
-   "rec_yds": 31.5,
-   "carries": 0.1,
-   "tds": 0.1
-  },
-  {
    "player": "Rico Dowdle",
    "team": "PIT",
    "position": "RB",
@@ -192,6 +212,27 @@
    "rec_yds": 18.6,
    "carries": 6.2,
    "tds": 0.1
+  },
+  {
+   "player": "Roman Wilson",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 4.1,
+   "receptions": 2.3,
+   "rec_yds": 28.5,
+   "carries": 0.0,
+   "tds": 0.1
+  },
+  {
+   "player": "Mason Rudolph",
+   "team": "PIT",
+   "position": "QB",
+   "rush_yds": 5.0,
+   "pass_yds": 244.0,
+   "pass_att": 34.3,
+   "carries": 1.1,
+   "tds": 0.0
   },
   {
    "player": "Germie Bernard",
@@ -205,13 +246,13 @@
    "tds": 0.4
   },
   {
-   "player": "Roman Wilson",
+   "player": "Darnell Washington",
    "team": "PIT",
-   "position": "WR",
+   "position": "TE",
    "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.3,
-   "rec_yds": 28.5,
+   "targets": 2.9,
+   "receptions": 2.2,
+   "rec_yds": 26.6,
    "carries": 0.0,
    "tds": 0.1
   },
@@ -227,6 +268,17 @@
    "tds": 0.2
   },
   {
+   "player": "DK Metcalf",
+   "team": "PIT",
+   "position": "WR",
+   "rush_yds": 0.4,
+   "targets": 5.3,
+   "receptions": 2.7,
+   "rec_yds": 31.5,
+   "carries": 0.1,
+   "tds": 0.1
+  },
+  {
    "player": "Jaylen Warren",
    "team": "PIT",
    "position": "RB",
@@ -238,14 +290,15 @@
    "tds": 0.2
   },
   {
-   "player": "Mason Rudolph",
+   "player": "Max Hurleman",
    "team": "PIT",
-   "position": "QB",
-   "rush_yds": 5.0,
-   "pass_yds": 244.0,
-   "pass_att": 34.3,
-   "carries": 1.1,
-   "tds": 0.0
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.8,
+   "receptions": 1.8,
+   "rec_yds": 20.6,
+   "carries": 0.0,
+   "tds": 0.3
   }
  ]
 }
