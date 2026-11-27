@@ -1,70 +1,4 @@
 {
- "2026_12_CHI_DET": [
-  {
-   "type": "Revenge",
-   "player": "D'Andre Swift",
-   "team": "CHI",
-   "text": "D'Andre Swift (CHI RB) faces the Lions, the team he played for from 2020 to 2022."
-  },
-  {
-   "type": "Revenge",
-   "player": "Kalif Raymond",
-   "team": "CHI",
-   "text": "Kalif Raymond (CHI WR) faces the Lions, the team he played for from 2021 to 2025."
-  },
-  {
-   "type": "Milestone",
-   "player": "Amon-Ra St. Brown",
-   "team": "DET",
-   "text": "Amon-Ra St. Brown needs 62 more receiving yards to reach 1,000 for the season (has 938)."
-  }
- ],
- "2026_12_PHI_DAL": [
-  {
-   "type": "Revenge",
-   "player": "Joe Milton III",
-   "team": "PHI",
-   "text": "Joe Milton III (PHI QB) faces the Cowboys, the team he played for from 2025 to 2026."
-  },
-  {
-   "type": "Milestone",
-   "player": "Ryan Flournoy",
-   "team": "DAL",
-   "text": "Ryan Flournoy needs 23 more receiving yards to reach 500 for the season (has 477)."
-  },
-  {
-   "type": "Milestone",
-   "player": "CeeDee Lamb",
-   "team": "DAL",
-   "text": "CeeDee Lamb needs 1 more total TD to reach 10 for the season (has 9)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Saquon Barkley",
-   "team": "PHI",
-   "text": "Saquon Barkley needs 1 more total TD to reach 5 for the season (has 4)."
-  }
- ],
- "2026_12_KC_BUF": [
-  {
-   "type": "Milestone",
-   "player": "Dalton Kincaid",
-   "team": "BUF",
-   "text": "Dalton Kincaid needs 13 more receiving yards to reach 500 for the season (has 487)."
-  },
-  {
-   "type": "Milestone",
-   "player": "Josh Downs",
-   "team": "KC",
-   "text": "Josh Downs needs 34 more receiving yards to reach 500 for the season (has 466)."
-  },
-  {
-   "type": "Milestone",
-   "player": "DJ Moore",
-   "team": "BUF",
-   "text": "DJ Moore needs 34 more receiving yards to reach 500 for the season (has 466)."
-  }
- ],
  "2026_12_DEN_PIT": [
   {
    "type": "Milestone",
@@ -196,15 +130,9 @@
   },
   {
    "type": "Milestone",
-   "player": "Justin Herbert",
+   "player": "Omarion Hampton",
    "team": "LAC",
-   "text": "Justin Herbert needs 149 more passing yards to reach 2,000 for the season (has 1,851)."
-  },
-  {
-   "type": "Milestone",
-   "player": "DeMario Douglas",
-   "team": "NE",
-   "text": "DeMario Douglas needs 62 more receiving yards to reach 500 for the season (has 438)."
+   "text": "Omarion Hampton needs 1 more total TD to reach 5 for the season (has 4)."
   },
   {
    "type": "Milestone",

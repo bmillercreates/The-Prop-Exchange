@@ -1,7 +1,7 @@
 {
  "game_id": "2026_12_CAR_TB",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-26T18:30-05:00",
+ "updated_at": "2026-11-27T18:12-05:00",
  "kickoff": "2026-11-30T20:15",
  "weekday": "Monday",
  "away": "CAR",
@@ -15,10 +15,10 @@
   "kickoff_et": "2026-11-30T20:15:00-05:00",
   "covered": false,
   "temp_f": 68,
-  "wind_mph": 8,
-  "gust_mph": 12,
-  "precip_in": 0.04,
-  "precip_chance": 40
+  "wind_mph": 7,
+  "gust_mph": 9,
+  "precip_in": 0.02,
+  "precip_chance": 34
  },
  "teams": {
   "CAR": {
@@ -41,6 +41,27 @@
  "etfs": [],
  "projections": [
   {
+   "player": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "rush_yds": 3.4,
+   "pass_yds": 239.0,
+   "pass_att": 33.5,
+   "carries": 1.1,
+   "tds": 0.0
+  },
+  {
+   "player": "Tommy Tremble",
+   "team": "CAR",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.5,
+   "receptions": 2.5,
+   "rec_yds": 28.1,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
    "player": "Jalen Coker",
    "team": "CAR",
    "position": "WR",
@@ -50,50 +71,6 @@
    "rec_yds": 45.1,
    "carries": 0.3,
    "tds": 0.2
-  },
-  {
-   "player": "Tommy Tremble",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 3.5,
-   "receptions": 2.5,
-   "rec_yds": 28.0,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Chuba Hubbard",
-   "team": "CAR",
-   "position": "RB",
-   "rush_yds": 61.0,
-   "targets": 3.8,
-   "receptions": 3.2,
-   "rec_yds": 22.4,
-   "carries": 17.0,
-   "tds": 0.9
-  },
-  {
-   "player": "Darren Waller",
-   "team": "CAR",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.1,
-   "receptions": 2.8,
-   "rec_yds": 38.0,
-   "carries": 0.0,
-   "tds": 0.1
-  },
-  {
-   "player": "Tetairoa McMillan",
-   "team": "CAR",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 8.4,
-   "receptions": 5.2,
-   "rec_yds": 66.4,
-   "carries": 0.0,
-   "tds": 0.3
   },
   {
    "player": "John Metchie III",
@@ -107,14 +84,15 @@
    "tds": 0.1
   },
   {
-   "player": "Bryce Young",
+   "player": "Tetairoa McMillan",
    "team": "CAR",
-   "position": "QB",
-   "rush_yds": 3.4,
-   "pass_yds": 238.9,
-   "pass_att": 33.5,
-   "carries": 1.1,
-   "tds": 0.0
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 8.4,
+   "receptions": 5.2,
+   "rec_yds": 66.3,
+   "carries": 0.0,
+   "tds": 0.3
   },
   {
    "player": "Mitchell Evans",
@@ -123,53 +101,31 @@
    "rush_yds": 0.1,
    "targets": 2.4,
    "receptions": 1.9,
-   "rec_yds": 22.7,
+   "rec_yds": 22.8,
    "carries": 0.1,
    "tds": 0.1
   },
   {
-   "player": "Cade Otton",
-   "team": "TB",
+   "player": "Darren Waller",
+   "team": "CAR",
    "position": "TE",
    "rush_yds": 0.0,
-   "targets": 3.6,
-   "receptions": 2.2,
-   "rec_yds": 19.1,
+   "targets": 4.1,
+   "receptions": 2.9,
+   "rec_yds": 38.2,
    "carries": 0.0,
    "tds": 0.1
   },
   {
-   "player": "Ted Hurst III",
-   "team": "TB",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 3.1,
-   "receptions": 1.8,
-   "rec_yds": 23.8,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Tez Johnson",
-   "team": "TB",
-   "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 2.3,
-   "receptions": 1.4,
-   "rec_yds": 22.4,
-   "carries": 0.2,
-   "tds": 0.1
-  },
-  {
-   "player": "Emeka Egbuka",
-   "team": "TB",
-   "position": "WR",
-   "rush_yds": 2.2,
-   "targets": 4.4,
-   "receptions": 2.7,
-   "rec_yds": 26.9,
-   "carries": 0.5,
-   "tds": 0.2
+   "player": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "rush_yds": 61.0,
+   "targets": 3.8,
+   "receptions": 3.2,
+   "rec_yds": 22.5,
+   "carries": 17.0,
+   "tds": 0.9
   },
   {
    "player": "Kenny Gainwell",
@@ -183,13 +139,14 @@
    "tds": 0.2
   },
   {
-   "player": "Baker Mayfield",
+   "player": "Tez Johnson",
    "team": "TB",
-   "position": "QB",
-   "rush_yds": 21.0,
-   "pass_yds": 148.2,
-   "pass_att": 23.0,
-   "carries": 4.3,
+   "position": "WR",
+   "rush_yds": 1.2,
+   "targets": 2.3,
+   "receptions": 1.4,
+   "rec_yds": 22.4,
+   "carries": 0.2,
    "tds": 0.1
   },
   {
@@ -199,9 +156,30 @@
    "rush_yds": 2.6,
    "targets": 3.6,
    "receptions": 2.7,
-   "rec_yds": 26.3,
+   "rec_yds": 26.2,
    "carries": 0.5,
    "tds": 0.0
+  },
+  {
+   "player": "Ted Hurst III",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 3.1,
+   "receptions": 1.8,
+   "rec_yds": 23.8,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Baker Mayfield",
+   "team": "TB",
+   "position": "QB",
+   "rush_yds": 21.0,
+   "pass_yds": 148.3,
+   "pass_att": 23.0,
+   "carries": 4.3,
+   "tds": 0.1
   },
   {
    "player": "Bucky Irving",
@@ -213,6 +191,28 @@
    "rec_yds": 14.0,
    "carries": 22.1,
    "tds": 1.1
+  },
+  {
+   "player": "Emeka Egbuka",
+   "team": "TB",
+   "position": "WR",
+   "rush_yds": 2.2,
+   "targets": 4.4,
+   "receptions": 2.7,
+   "rec_yds": 26.9,
+   "carries": 0.5,
+   "tds": 0.2
+  },
+  {
+   "player": "Cade Otton",
+   "team": "TB",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 3.6,
+   "receptions": 2.2,
+   "rec_yds": 19.1,
+   "carries": 0.0,
+   "tds": 0.1
   }
  ]
 }

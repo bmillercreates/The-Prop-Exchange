@@ -1,7 +1,7 @@
 {
  "game_id": "2026_12_SEA_SF",
  "status": "PRELIMINARY",
- "updated_at": "2026-11-26T18:30-05:00",
+ "updated_at": "2026-11-27T18:12-05:00",
  "kickoff": "2026-11-29T16:25",
  "weekday": "Sunday",
  "away": "SEA",
@@ -14,31 +14,28 @@
   "stadium": "Levi's Stadium",
   "kickoff_et": "2026-11-29T16:25:00-05:00",
   "covered": false,
-  "temp_f": 65,
+  "temp_f": 66,
   "wind_mph": 11,
   "gust_mph": 24,
   "precip_in": 0.0,
-  "precip_chance": 76
+  "precip_chance": 47
  },
  "teams": {
   "SEA": {
-   "implied_pts": 20.2,
-   "margin": -3.0,
-   "plays": 60.0,
-   "pass_att": 29.3,
+   "implied_pts": 22.0,
+   "margin": 1.5,
+   "plays": 59.6,
+   "pass_att": 27.4,
    "notes": [
-    "rain/snow expected",
     "coming off a bye"
    ]
   },
   "SF": {
-   "implied_pts": 23.2,
-   "margin": 3.0,
-   "plays": 58.4,
-   "pass_att": 27.8,
-   "notes": [
-    "rain/snow expected"
-   ]
+   "implied_pts": 20.5,
+   "margin": -1.5,
+   "plays": 58.0,
+   "pass_att": 29.2,
+   "notes": []
   }
  },
  "blue_chips": [],
@@ -46,111 +43,166 @@
  "etfs": [],
  "projections": [
   {
-   "player": "Zach Charbonnet",
+   "player": "Jadarian Price",
    "team": "SEA",
    "position": "RB",
-   "rush_yds": 48.3,
-   "targets": 0.8,
-   "receptions": 0.6,
-   "rec_yds": 4.5,
-   "carries": 12.8,
-   "tds": 0.1
-  },
-  {
-   "player": "Rashid Shaheed",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 1.2,
-   "targets": 3.4,
-   "receptions": 2.0,
-   "rec_yds": 22.5,
-   "carries": 0.2,
-   "tds": 0.1
+   "rush_yds": 30.4,
+   "targets": 2.1,
+   "receptions": 1.7,
+   "rec_yds": 13.6,
+   "carries": 9.1,
+   "tds": 0.8
   },
   {
    "player": "Tory Horton",
    "team": "SEA",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.7,
-   "receptions": 1.6,
-   "rec_yds": 19.5,
+   "targets": 2.5,
+   "receptions": 1.5,
+   "rec_yds": 18.8,
    "carries": 0.0,
    "tds": 0.1
-  },
-  {
-   "player": "Jadarian Price",
-   "team": "SEA",
-   "position": "RB",
-   "rush_yds": 28.6,
-   "targets": 2.2,
-   "receptions": 1.8,
-   "rec_yds": 14.0,
-   "carries": 8.6,
-   "tds": 0.7
   },
   {
    "player": "Drew Lock",
    "team": "SEA",
    "position": "QB",
-   "rush_yds": 12.7,
-   "pass_yds": 233.5,
-   "pass_att": 29.3,
-   "carries": 3.8,
+   "rush_yds": 13.5,
+   "pass_yds": 225.6,
+   "pass_att": 27.4,
+   "carries": 4.1,
    "tds": 0.0
   },
   {
-   "player": "Jaxon Smith-Njigba",
+   "player": "Rashid Shaheed",
    "team": "SEA",
    "position": "WR",
-   "rush_yds": 0.6,
-   "targets": 12.4,
-   "receptions": 9.1,
-   "rec_yds": 127.1,
-   "carries": 0.1,
-   "tds": 0.3
-  },
-  {
-   "player": "Cooper Kupp",
-   "team": "SEA",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.5,
-   "receptions": 1.7,
-   "rec_yds": 19.6,
-   "carries": 0.0,
+   "rush_yds": 1.3,
+   "targets": 3.2,
+   "receptions": 1.9,
+   "rec_yds": 21.7,
+   "carries": 0.2,
    "tds": 0.1
   },
   {
    "player": "AJ Barner",
    "team": "SEA",
    "position": "TE",
-   "rush_yds": 1.2,
-   "targets": 4.1,
-   "receptions": 2.9,
-   "rec_yds": 25.8,
+   "rush_yds": 1.3,
+   "targets": 3.8,
+   "receptions": 2.7,
+   "rec_yds": 25.0,
    "carries": 0.6,
-   "tds": 0.6
+   "tds": 0.7
+  },
+  {
+   "player": "Zach Charbonnet",
+   "team": "SEA",
+   "position": "RB",
+   "rush_yds": 51.3,
+   "targets": 0.7,
+   "receptions": 0.6,
+   "rec_yds": 4.4,
+   "carries": 13.6,
+   "tds": 0.2
+  },
+  {
+   "player": "Cooper Kupp",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.4,
+   "receptions": 1.6,
+   "rec_yds": 18.9,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "rush_yds": 0.6,
+   "targets": 11.6,
+   "receptions": 8.5,
+   "rec_yds": 122.5,
+   "carries": 0.1,
+   "tds": 0.3
   },
   {
    "player": "Deebo Samuel Sr.",
    "team": "SF",
    "position": "WR",
-   "rush_yds": 15.9,
-   "targets": 3.0,
-   "receptions": 2.0,
-   "rec_yds": 20.3,
+   "rush_yds": 16.2,
+   "targets": 3.3,
+   "receptions": 2.2,
+   "rec_yds": 23.3,
    "carries": 2.0,
    "tds": 0.2
   },
   {
-   "player": "Brock Purdy",
+   "player": "Demarcus Robinson",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 2.6,
+   "receptions": 1.6,
+   "rec_yds": 18.2,
+   "carries": 0.0,
+   "tds": 0.2
+  },
+  {
+   "player": "Kaelon Black",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 26.2,
+   "targets": 0.8,
+   "receptions": 0.6,
+   "rec_yds": 3.6,
+   "carries": 7.7,
+   "tds": 0.1
+  },
+  {
+   "player": "George Kittle",
+   "team": "SF",
+   "position": "TE",
+   "rush_yds": 0.0,
+   "targets": 4.9,
+   "receptions": 3.6,
+   "rec_yds": 35.4,
+   "carries": 0.0,
+   "tds": 0.4
+  },
+  {
+   "player": "Mike Evans",
+   "team": "SF",
+   "position": "WR",
+   "rush_yds": 0.0,
+   "targets": 5.7,
+   "receptions": 3.6,
+   "rec_yds": 46.4,
+   "carries": 0.0,
+   "tds": 0.3
+  },
+  {
+   "player": "Christian McCaffrey",
+   "team": "SF",
+   "position": "RB",
+   "rush_yds": 43.6,
+   "targets": 3.8,
+   "receptions": 3.1,
+   "rec_yds": 26.7,
+   "carries": 12.4,
+   "tds": 0.9
+  },
+  {
+   "player": "Mac Jones",
    "team": "SF",
    "position": "QB",
-   "rush_yds": 12.2,
-   "pass_yds": 183.0,
-   "pass_att": 27.8,
-   "carries": 2.6,
+   "rush_yds": 8.1,
+   "pass_yds": 165.9,
+   "pass_att": 29.2,
+   "carries": 2.4,
    "tds": 0.0
   },
   {
@@ -158,77 +210,11 @@
    "team": "SF",
    "position": "WR",
    "rush_yds": 0.0,
-   "targets": 2.9,
-   "receptions": 1.7,
-   "rec_yds": 18.8,
+   "targets": 3.2,
+   "receptions": 1.9,
+   "rec_yds": 21.5,
    "carries": 0.0,
    "tds": 0.0
-  },
-  {
-   "player": "Mike Evans",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 5.1,
-   "receptions": 3.2,
-   "rec_yds": 40.4,
-   "carries": 0.0,
-   "tds": 0.3
-  },
-  {
-   "player": "Demarcus Robinson",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 2.4,
-   "receptions": 1.4,
-   "rec_yds": 15.9,
-   "carries": 0.0,
-   "tds": 0.2
-  },
-  {
-   "player": "Jordan Watkins",
-   "team": "SF",
-   "position": "WR",
-   "rush_yds": 0.0,
-   "targets": 1.5,
-   "receptions": 0.9,
-   "rec_yds": 13.4,
-   "carries": 0.0,
-   "tds": 0.0
-  },
-  {
-   "player": "Kaelon Black",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 25.7,
-   "targets": 0.7,
-   "receptions": 0.5,
-   "rec_yds": 3.1,
-   "carries": 7.6,
-   "tds": 0.1
-  },
-  {
-   "player": "Christian McCaffrey",
-   "team": "SF",
-   "position": "RB",
-   "rush_yds": 42.8,
-   "targets": 3.4,
-   "receptions": 2.8,
-   "rec_yds": 23.2,
-   "carries": 12.2,
-   "tds": 1.0
-  },
-  {
-   "player": "George Kittle",
-   "team": "SF",
-   "position": "TE",
-   "rush_yds": 0.0,
-   "targets": 4.4,
-   "receptions": 3.2,
-   "rec_yds": 30.8,
-   "carries": 0.0,
-   "tds": 0.4
   }
  ]
 }

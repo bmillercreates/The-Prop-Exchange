@@ -551,28 +551,32 @@
   "kickoff_et": "2026-11-27T15:00:00-05:00",
   "covered": false,
   "temp_f": 38,
-  "wind_mph": 14,
+  "wind_mph": 13,
   "gust_mph": 31,
-  "precip_in": 0.02,
-  "precip_chance": 41
+  "precip_in": 0.03,
+  "precip_chance": 52
  },
  "2026_12_NO_CIN": {
   "game_id": "2026_12_NO_CIN",
   "stadium": "Paycor Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 54,
+  "wind_mph": 14,
+  "gust_mph": 37,
+  "precip_in": 0.01,
+  "precip_chance": 100
  },
  "2026_12_LV_CLE": {
   "game_id": "2026_12_LV_CLE",
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-11-29T20:20:00-05:00",
   "covered": false,
-  "temp_f": 47,
-  "wind_mph": 22,
+  "temp_f": 50,
+  "wind_mph": 14,
   "gust_mph": 33,
-  "precip_in": 0.29,
-  "precip_chance": 98
+  "precip_in": 0.08,
+  "precip_chance": 100
  },
  "2026_12_BAL_HOU": {
   "game_id": "2026_12_BAL_HOU",
@@ -591,11 +595,11 @@
   "stadium": "Hard Rock Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "temp_f": 78,
-  "wind_mph": 8,
-  "gust_mph": 11,
+  "temp_f": 77,
+  "wind_mph": 9,
+  "gust_mph": 12,
   "precip_in": 0.0,
-  "precip_chance": 10
+  "precip_chance": 7
  },
  "2026_12_ATL_MIN": {
   "game_id": "2026_12_ATL_MIN",
@@ -608,7 +612,11 @@
   "stadium": "EverBank Stadium",
   "kickoff_et": "2026-11-29T13:00:00-05:00",
   "covered": false,
-  "error": "ReadTimeout: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+  "temp_f": 70,
+  "wind_mph": 7,
+  "gust_mph": 11,
+  "precip_in": 0.0,
+  "precip_chance": 4
  },
  "2026_12_WAS_ARI": {
   "game_id": "2026_12_WAS_ARI",
@@ -621,11 +629,11 @@
   "stadium": "Levi's Stadium",
   "kickoff_et": "2026-11-29T16:25:00-05:00",
   "covered": false,
-  "temp_f": 65,
+  "temp_f": 66,
   "wind_mph": 11,
   "gust_mph": 24,
   "precip_in": 0.0,
-  "precip_chance": 76
+  "precip_chance": 47
  },
  "2026_12_NE_LAC": {
   "game_id": "2026_12_NE_LAC",
@@ -639,10 +647,10 @@
   "kickoff_et": "2026-11-30T20:15:00-05:00",
   "covered": false,
   "temp_f": 68,
-  "wind_mph": 8,
-  "gust_mph": 12,
-  "precip_in": 0.04,
-  "precip_chance": 40
+  "wind_mph": 7,
+  "gust_mph": 9,
+  "precip_in": 0.02,
+  "precip_chance": 34
  },
  "2026_13_KC_LA": {
   "game_id": "2026_13_KC_LA",
@@ -661,21 +669,21 @@
   "stadium": "Soldier Field",
   "kickoff_et": "2026-12-06T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 9,
+  "temp_f": 40,
+  "wind_mph": 6,
   "gust_mph": 10,
   "precip_in": 0.0,
-  "precip_chance": 8
+  "precip_chance": 7
  },
  "2026_13_CIN_CLE": {
   "game_id": "2026_13_CIN_CLE",
   "stadium": "Huntington Bank Field",
   "kickoff_et": "2026-12-06T13:00:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 7,
-  "gust_mph": 20,
-  "precip_in": 0.0,
+  "temp_f": 40,
+  "wind_mph": 22,
+  "gust_mph": 29,
+  "precip_in": 0.01,
   "precip_chance": 12
  },
  "2026_13_GB_NO": {
@@ -690,32 +698,32 @@
   "kickoff_et": "2026-12-06T13:00:00-05:00",
   "covered": false,
   "temp_f": 47,
-  "wind_mph": 14,
-  "gust_mph": 37,
+  "wind_mph": 18,
+  "gust_mph": 36,
   "precip_in": 0.0,
-  "precip_chance": 19
+  "precip_chance": 8
  },
  "2026_13_LAC_TB": {
   "game_id": "2026_13_LAC_TB",
   "stadium": "Raymond James Stadium",
   "kickoff_et": "2026-12-06T13:00:00-05:00",
   "covered": false,
-  "temp_f": 79,
-  "wind_mph": 3,
-  "gust_mph": 6,
+  "temp_f": 77,
+  "wind_mph": 10,
+  "gust_mph": 10,
   "precip_in": 0.0,
-  "precip_chance": 11
+  "precip_chance": 5
  },
  "2026_13_WAS_TEN": {
   "game_id": "2026_13_WAS_TEN",
   "stadium": "Nissan Stadium",
   "kickoff_et": "2026-12-06T13:00:00-05:00",
   "covered": false,
-  "temp_f": 61,
+  "temp_f": 49,
   "wind_mph": 6,
-  "gust_mph": 9,
+  "gust_mph": 8,
   "precip_in": 0.0,
-  "precip_chance": 16
+  "precip_chance": 18
  },
  "2026_13_PHI_ARI": {
   "game_id": "2026_13_PHI_ARI",
@@ -728,11 +736,11 @@
   "stadium": "Empower Field at Mile High",
   "kickoff_et": "2026-12-06T16:05:00-05:00",
   "covered": false,
-  "temp_f": 39,
-  "wind_mph": 8,
-  "gust_mph": 5,
+  "temp_f": 50,
+  "wind_mph": 5,
+  "gust_mph": 8,
   "precip_in": 0.0,
-  "precip_chance": 12
+  "precip_chance": 9
  },
  "2026_13_CAR_MIN": {
   "game_id": "2026_13_CAR_MIN",
@@ -745,32 +753,43 @@
   "stadium": "Gillette Stadium",
   "kickoff_et": "2026-12-06T16:25:00-05:00",
   "covered": false,
-  "temp_f": 36,
-  "wind_mph": 13,
-  "gust_mph": 41,
-  "precip_in": 0.0,
-  "precip_chance": 18
+  "temp_f": 41,
+  "wind_mph": 18,
+  "gust_mph": 34,
+  "precip_in": 0.02,
+  "precip_chance": 9
  },
  "2026_13_HOU_PIT": {
   "game_id": "2026_13_HOU_PIT",
   "stadium": "Acrisure Stadium",
   "kickoff_et": "2026-12-06T20:20:00-05:00",
   "covered": false,
-  "temp_f": 44,
-  "wind_mph": 6,
-  "gust_mph": 11,
+  "temp_f": 36,
+  "wind_mph": 11,
+  "gust_mph": 28,
   "precip_in": 0.0,
-  "precip_chance": 8
+  "precip_chance": 15
  },
  "2026_13_DAL_SEA": {
   "game_id": "2026_13_DAL_SEA",
   "stadium": "Lumen Field",
   "kickoff_et": "2026-12-07T20:15:00-05:00",
   "covered": false,
-  "temp_f": 46,
-  "wind_mph": 14,
-  "gust_mph": 8,
-  "precip_in": 0.13,
-  "precip_chance": 29
+  "temp_f": 40,
+  "wind_mph": 4,
+  "gust_mph": 11,
+  "precip_in": 0.0,
+  "precip_chance": 13
+ },
+ "2026_14_MIN_NE": {
+  "game_id": "2026_14_MIN_NE",
+  "stadium": "Gillette Stadium",
+  "kickoff_et": "2026-12-10T20:15:00-05:00",
+  "covered": false,
+  "temp_f": 28,
+  "wind_mph": 17,
+  "gust_mph": 41,
+  "precip_in": 0.0,
+  "precip_chance": 25
  }
 }
