@@ -74,10 +74,16 @@ BAL,Mark Andrews,TE,Active,Andrews caught two of three targets for 14 yards in S
 BAL,Justice Hill,RB,Active,Hill carried the ball six times for 69 yards and a touchdown and caught four of ,espn
 BAL,Jacoby Brissett,QB,Active,Brissett completed 24 of 37 passes for 276 yards and a touchdown with an interce,espn
 BAL,Roger Rosengarten,OT,Active,"",espn
-BUF,T.J. Sanders,DT,Questionable,Shoulder,espn
-BUF,Dorian Williams,LB,Questionable,Calf,espn
-BUF,Christian Benford,CB,Questionable,Groin,espn
-BUF,Dalton Kincaid,TE,Questionable,Thumb,espn
+BUF,Dorian Williams,LB,Active,Williams (calf) is active for Thursday's game against the Chiefs.,espn
+BUF,Dalton Kincaid,TE,Active,Kincaid (thumb/ankle) is listed as active for Thursday night's game against the ,espn
+BUF,Christian Benford,CB,Out,Groin,espn
+BUF,Jalon Kilgore,S,Out,Coach's Decision,espn
+BUF,Jude Bowry,OT,Out,Coach's Decision,espn
+BUF,Mike Danna,DE,Out,Coach's Decision,espn
+BUF,Greg Gaines,DT,Out,Coach's Decision,espn
+BUF,T.J. Sanders,DT,Active,"",espn
+BUF,O'Cyrus Torrence,G,Active,"",espn
+BUF,Skyler Bell,WR,Out,Coach's Decision,espn
 BUF,Greg Rousseau,LB,Active,Rousseau (back) was a full participant in Tuesday's walkthrough practice.,espn
 BUF,Spencer Brown,OT,Active,"",espn
 BUF,Damar Hamlin,S,Active,"",espn
@@ -85,10 +91,7 @@ BUF,Amani Hooker,S,Active,Hooker logged two solo tackles and one pass defensed i
 BUF,Terrel Bernard,LB,Active,Bernard logged two tackles (one solo) in the Bills' 26-9 win over the Dolphins o,espn
 BUF,Tyrell Shavers,WR,Active,Shavers failed to bring in either of his two targets and logged one tackle on ki,espn
 BUF,Ty Johnson,RB,Active,Johnson rushed once for two yards and caught seven of his eight targets for 55 y,espn
-BUF,O'Cyrus Torrence,G,Questionable,Ankle,espn
 BUF,Keleki Latu,TE,Active,Latu recorded a 30-yard reception on four targets in Sunday's 26-9 win over the ,espn
-BUF,Mike Danna,DE,Active,"",espn
-BUF,Jude Bowry,OT,Active,"",espn
 BUF,Tyler Bass,PK,Active,Bass went 4-for-5 on field-goal tries and made both of his PATs during Sunday's ,espn
 BUF,Keon Coleman,WR,Active,Coleman caught two of four targets for 17 yards during Sunday's 26-9 win over Mi,espn
 BUF,Ray Davis,RB,Active,Davis rushed one time for three yards and caught a six-yard pass on two targets ,espn
@@ -96,9 +99,6 @@ BUF,Dawson Knox,TE,Active,Knox caught two of three targets for 31 yards in Sunda
 BUF,Khalil Shakir,WR,Active,Shakir caught five of nine targets for 101 yards while rushing twice for two yar,espn
 BUF,DJ Moore,WR,Active,Moore caught eight of 10 targets for 91 yards and a touchdown in Sunday's 26-9 w,espn
 BUF,James Cook III,RB,Active,Cook rushed 22 times for 89 yards and a touchdown while catching two of three ta,espn
-BUF,Josh Allen,QB,Active,"Allen completed 27 of 45 passes for 304 yards, one touchdown and two interceptio",espn
-BUF,Ed Oliver,DT,Active,Oliver (oblique) is active for Sunday's game against the Dolphins.,espn
-BUF,Jackson Hawes,TE,Active,Hawes (shoulder) is active for Sunday's game against the Dolphins.,espn
 CAR,Mitchell Evans,TE,Questionable,Achilles,espn
 CAR,Tommy Tremble,TE,Questionable,Knee,espn
 CAR,Jonathon Brooks,RB,Injured Reserve,Groin,espn
@@ -124,6 +124,9 @@ CAR,Marco Wilson,CB,Active,"",espn
 CAR,Sam Hecht,C,Active,"",espn
 CAR,AJ Dillon,RB,Active,"",espn
 CAR,Bryce Young,QB,Active,Young completed 22 of 30 passes for 254 yards and two touchdowns with one interc,espn
+CHI,Luther Burden III,WR,Active,Burden caught three of seven targets for 44 yards in Thursday's 39-35 win over t,espn
+CHI,Kyle Monangai,RB,Active,Monangai carried the ball eight times for 15 yards and two touchdowns and caught,espn
+CHI,D'Andre Swift,RB,Active,Swift carried the ball nine times for 65 yards and a touchdown and caught seven ,espn
 CHI,Caleb Williams,QB,Questionable,Abdomen,espn
 CHI,Colston Loveland,TE,Questionable,Knee,espn
 CHI,D'Marco Jackson,LB,Active,Jackson (elbow) is active for Thursday's Thanksgiving Day matchup versus the Lio,espn
@@ -146,9 +149,6 @@ CHI,Kalif Raymond,WR,Active,Raymond caught one of four passes for 14 yards durin
 CHI,Cairo Santos,PK,Active,Santos made both of his field-goal attempts and went 1-for-2 on extra-point trie,espn
 CHI,Stephen Carlson,TE,Active,Carlson played 15 of his 19 snaps on special teams in Sunday's 21-13 win over th,espn
 CHI,Keyshaun Elliott,LB,Active,"",espn
-CHI,Rome Odunze,WR,Active,Odunze caught all four of his targets for 45 yards in Sunday's 21-13 win over th,espn
-CHI,Luther Burden III,WR,Active,Burden caught two of three targets for 10 yards and added three yards on his onl,espn
-CHI,Kyle Monangai,RB,Active,Monangai carried the ball eight times for 18 yards and failed to catch his only ,espn
 CIN,Kyle Dugger,S,Active,Dugger (quadriceps) was not listed on the Bengals' injury report Wednesday.,espn
 CIN,Dalton Risner,G,Questionable,Knee,espn
 CIN,Jack Endries,TE,Active,Endries caught four of five targets for 33 yards during Monday night's 22-20 los,espn
@@ -224,6 +224,7 @@ DAL,Javonte Williams,RB,Active,Williams rushed 18 times for 67 yards and a touch
 DAL,George Pickens,WR,Active,Pickens secured seven of 10 targets for 102 yards and a touchdown in the Cowboys,espn
 DAL,CeeDee Lamb,WR,Active,Lamb brought 11 of 12 targets for 132 yards and a touchdown in the Cowboys' 51-3,espn
 DAL,Dak Prescott,QB,Active,Prescott completed 28 of 33 passes for 325 yards with four touchdowns and no int,espn
+DEN,Cody Schrader,RB,Active,The Broncos signed Schrader off the practice squad to the active roster Thursday,espn
 DEN,Tyler Badie,RB,Questionable,Thumb,espn
 DEN,Caleb Lohner,TE,Injured Reserve,Foot,espn
 DEN,Sai'vion Jones,DE,Injured Reserve,Hamstring,espn
@@ -248,7 +249,8 @@ DEN,Evan Engram,TE,Active,Engram caught six of eight targets for 74 yards in Sun
 DEN,Bo Nix,QB,Active,"Nix completed 19 of 35 passes for 225 yards, one touchdown and one interception ",espn
 DEN,Jaylen Waddle,WR,Active,Waddle secured three of six targets for 61 yards during Sunday's 38-24 win versu,espn
 DEN,Jonah Coleman,RB,Active,Coleman reeled off 111 yards and three touchdowns on 24 carries and hauled in fo,espn
-DEN,Lil'Jordan Humphrey,WR,Active,Humphrey (coach's decision) is inactive for Sunday's game against Las Vegas.,espn
+DET,Sam LaPorta,TE,Active,LaPorta caught four of five targets for 44 yards and a touchdown in Thursday's 3,espn
+DET,Jameson Williams,WR,Active,Williams caught six of nine targets for 68 yards in Thursday's 39-35 loss to the,espn
 DET,Jared Goff,QB,Active,Goff completed 25 of 36 passes for 313 yards and one touchdown with one intercep,espn
 DET,Amon-Ra St. Brown,WR,Active,St. Brown caught seven of 10 targets for 146 yards in Thursday's 39-35 loss to t,espn
 DET,Jahmyr Gibbs,RB,Active,Gibbs carried the ball 21 times for 205 yards and three touchdowns while catchin,espn
@@ -260,7 +262,6 @@ DET,Ennis Rakestraw Jr.,CB,Out,Shoulder,espn
 DET,Tyrus Wheat,LB,Out,Coach's Decision,espn
 DET,Keith Abney II,CB,Out,Coach's Decision,espn
 DET,Skyler Gill-Howard,DT,Injured Reserve,Knee,espn
-DET,Sam LaPorta,TE,Active,LaPorta (ankle) was a full participant in Tuesday's walkthrough practice.,espn
 DET,Brian Branch,S,Active,Branch logged six tackles (one solo) and two passes defensed in the Lions' 31-21,espn
 DET,Rock Ya-Sin,CB,Active,Ya-Sin logged 10 tackles (nine solo) in the Lions' 31-21 win over the Buccaneers,espn
 DET,Jacob Saylors,RB,Active,Saylors recorded 29-yard kickoff return during Sunday's 31-21 win over Tampa Bay,espn
@@ -271,7 +272,6 @@ DET,Sione Vaki,RB,Active,Vaki took one carry for a loss of one yard and caught h
 DET,Jake Bates,PK,Active,Bates made one of two field-goal attempts and all four PATs in Sunday's 31-21 wi,espn
 DET,Mekhi Wingo,DT,Active,"",espn
 DET,Amen Ogbongbemiga,LB,Active,"",espn
-DET,Jameson Williams,WR,Active,Williams brought in all four targets for 93 yards and a touchdown in the Lions' ,espn
 DET,Khalil Dorsey,CB,Active,"Dorsey (wrist) has re-entered Sunday's matchup against Tampa Bay, Justin Rogers ",espn
 DET,Tyler Lacy,DT,Active,Lacy (shoulder) is active for Sunday's game against the Buccaneers.,espn
 GB,Trey Smack,PK,Active,Smack made both of his field-goal tries and his lone extra-point attempt Wednesd,espn
@@ -374,6 +374,8 @@ JAX,Cam Little,PK,Active,"",espn
 JAX,Brenton Strange,TE,Active,Strange caught all three of his targets for 16 yards during Sunday's 23-18 loss ,espn
 JAX,Chris Rodriguez Jr.,RB,Active,Rodriguez rushed four times for 28 yards in Sunday's 23-18 loss to the Giants. H,espn
 JAX,Brian Thomas Jr.,WR,Active,Thomas caught one pass for an 18-yard touchdown on three targets in Sunday's 23-,espn
+KC,John FitzPatrick,TE,Active,The Chiefs elevated FitzPatrick from the practice squad to the active roster ahe,espn
+KC,Nate Carter,RB,Active,The Chiefs elevated Carter from the practice squad to the active roster ahead of,espn
 KC,Peter Woods,DT,Questionable,Neck,espn
 KC,Trey Smith,G,Active,Smith (concussion) does not have any injury designation ahead of Thursday night',espn
 KC,Omarr Norman-Lott,DT,Out,Knee,espn
@@ -397,8 +399,6 @@ KC,Patrick Mahomes,QB,Active,Mahomes completed 27 of 39 passes for 324 yards wit
 KC,Garrett Nussmeier,QB,Active,Nussmeier (coach's decision) is inactive but will serve as the Chiefs' emergency,espn
 KC,Jared Wiley,TE,Injured Reserve,Ankle,espn
 KC,Nohl Williams,CB,Active,"Williams recorded five total tackles (two solo) and two passes defensed, includi",espn
-KC,Jake Briningstool,TE,Active,Briningstool caught one of two targets for 20 yards in Sunday's 35-13 win agains,espn
-KC,Andrew Armstrong,WR,Active,Armstrong caught his only target for a 43-yard touchdown in Sunday's 35-13 win o,espn
 LV,Brock Bowers,TE,Questionable,Ankle,espn
 LV,Tonka Hemingway,DT,Questionable,Upper Body,espn
 LV,Adam Butler,DT,Questionable,Concussion,espn
