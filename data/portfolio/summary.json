@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-26T23:40-05:00",
+ "updated_at": "2026-11-27T18:20-05:00",
  "overall": {
   "wins": 74,
-  "losses": 107,
+  "losses": 109,
   "pushes": 0,
-  "units": -18.04,
-  "roi": -0.0997,
-  "hit_rate": 0.4088,
-  "bets": 181
+  "units": -20.04,
+  "roi": -0.1095,
+  "hit_rate": 0.4044,
+  "bets": 183
  },
  "tiers": {
   "Blue Chip": {
    "wins": 53,
-   "losses": 69,
+   "losses": 71,
    "pushes": 0,
-   "units": -22.96,
-   "roi": -0.1882,
-   "hit_rate": 0.4344,
-   "bets": 122
+   "units": -24.96,
+   "roi": -0.2013,
+   "hit_rate": 0.4274,
+   "bets": 124
   },
   "Penny Stock": {
    "wins": 15,
@@ -90,9 +90,51 @@
   {
    "date": "2026-11-26",
    "units": -18.04
+  },
+  {
+   "date": "2026-11-27",
+   "units": -20.04
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_12_DEN_PIT",
+   "matchup": "DEN @ PIT",
+   "kickoff": "2026-11-27T15:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-27T18:20-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Rico Dowdle Under 32.5 rushing yards",
+   "player": "Rico Dowdle",
+   "market": "player_rush_yds",
+   "side": "Under",
+   "line": 32.5,
+   "price": -113,
+   "edge": 0.0871,
+   "actual": 71.0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_12_DEN_PIT",
+   "matchup": "DEN @ PIT",
+   "kickoff": "2026-11-27T15:00",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-27T18:20-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Pat Freiermuth Over 2.5 receptions",
+   "player": "Pat Freiermuth",
+   "market": "player_receptions",
+   "side": "Over",
+   "line": 2.5,
+   "price": 112,
+   "edge": 0.0083,
+   "actual": 1.0,
+   "result": "loss",
+   "units": -1.0
+  },
   {
    "game_id": "2026_12_KC_BUF",
    "matchup": "KC @ BUF",
@@ -652,44 +694,6 @@
    "actual": 2.0,
    "result": "win",
    "units": 0.714
-  },
-  {
-   "game_id": "2026_11_MIA_BUF",
-   "matchup": "MIA @ BUF",
-   "kickoff": "2026-11-22T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-22T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Josh Allen Under 228.5 passing yards",
-   "player": "Josh Allen",
-   "market": "player_pass_yds",
-   "side": "Under",
-   "line": 228.5,
-   "price": -111,
-   "edge": 0.2033,
-   "actual": 304.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_11_MIA_BUF",
-   "matchup": "MIA @ BUF",
-   "kickoff": "2026-11-22T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-22T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Greg Dulcich Over 2.5 receptions",
-   "player": "Greg Dulcich",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 2.5,
-   "price": -108,
-   "edge": 0.0667,
-   "actual": 2.0,
-   "result": "loss",
-   "units": -1.0
   }
  ]
 }
