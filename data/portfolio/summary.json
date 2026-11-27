@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-11-26T20:50-05:00",
+ "updated_at": "2026-11-26T23:40-05:00",
  "overall": {
-  "wins": 73,
-  "losses": 106,
+  "wins": 74,
+  "losses": 107,
   "pushes": 0,
-  "units": -17.93,
-  "roi": -0.1002,
-  "hit_rate": 0.4078,
-  "bets": 179
+  "units": -18.04,
+  "roi": -0.0997,
+  "hit_rate": 0.4088,
+  "bets": 181
  },
  "tiers": {
   "Blue Chip": {
-   "wins": 52,
-   "losses": 68,
+   "wins": 53,
+   "losses": 69,
    "pushes": 0,
-   "units": -22.85,
-   "roi": -0.1904,
-   "hit_rate": 0.4333,
-   "bets": 120
+   "units": -22.96,
+   "roi": -0.1882,
+   "hit_rate": 0.4344,
+   "bets": 122
   },
   "Penny Stock": {
    "wins": 15,
@@ -89,10 +89,48 @@
   },
   {
    "date": "2026-11-26",
-   "units": -17.93
+   "units": -18.04
   }
  ],
  "recent": [
+  {
+   "game_id": "2026_12_KC_BUF",
+   "matchup": "KC @ BUF",
+   "kickoff": "2026-11-26T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-26T23:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Ty Johnson Over 1.5 rushing yards",
+   "player": "Ty Johnson",
+   "market": "player_rush_yds",
+   "side": "Over",
+   "line": 1.5,
+   "price": 102,
+   "edge": 0.143,
+   "actual": 0,
+   "result": "loss",
+   "units": -1.0
+  },
+  {
+   "game_id": "2026_12_KC_BUF",
+   "matchup": "KC @ BUF",
+   "kickoff": "2026-11-26T20:20",
+   "card_status": "FINAL",
+   "graded_at": "2026-11-26T23:40-05:00",
+   "source": "espn",
+   "tier": "Blue Chip",
+   "title": "Josh Allen Under 217.5 passing yards",
+   "player": "Josh Allen",
+   "market": "player_pass_yds",
+   "side": "Under",
+   "line": 217.5,
+   "price": -112,
+   "edge": 0.1406,
+   "actual": 81.0,
+   "result": "win",
+   "units": 0.893
+  },
   {
    "game_id": "2026_12_PHI_DAL",
    "matchup": "PHI @ DAL",
@@ -650,44 +688,6 @@
    "price": -108,
    "edge": 0.0667,
    "actual": 2.0,
-   "result": "loss",
-   "units": -1.0
-  },
-  {
-   "game_id": "2026_11_MIA_BUF",
-   "matchup": "MIA @ BUF",
-   "kickoff": "2026-11-22T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-22T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "James Cook Yes anytime TD",
-   "player": "James Cook",
-   "market": "player_anytime_td",
-   "side": "Yes",
-   "line": null,
-   "price": -190,
-   "edge": 0.0117,
-   "actual": 1.0,
-   "result": "win",
-   "units": 0.526
-  },
-  {
-   "game_id": "2026_11_NO_CHI",
-   "matchup": "NO @ CHI",
-   "kickoff": "2026-11-22T13:00",
-   "card_status": "FINAL",
-   "graded_at": "2026-11-22T16:20-05:00",
-   "source": "espn",
-   "tier": "Blue Chip",
-   "title": "Alvin Kamara Over 2.5 receptions",
-   "player": "Alvin Kamara",
-   "market": "player_receptions",
-   "side": "Over",
-   "line": 2.5,
-   "price": 106,
-   "edge": 0.0486,
-   "actual": 1.0,
    "result": "loss",
    "units": -1.0
   }

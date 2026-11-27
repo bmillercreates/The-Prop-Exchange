@@ -3606,5 +3606,43 @@
   ],
   "result": "win",
   "units": 1.66
+ },
+ {
+  "game_id": "2026_12_KC_BUF",
+  "matchup": "KC @ BUF",
+  "kickoff": "2026-11-26T20:20",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-26T23:40-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Ty Johnson Over 1.5 rushing yards",
+  "player": "Ty Johnson",
+  "market": "player_rush_yds",
+  "side": "Over",
+  "line": 1.5,
+  "price": 102,
+  "edge": 0.143,
+  "actual": 0,
+  "result": "loss",
+  "units": -1.0
+ },
+ {
+  "game_id": "2026_12_KC_BUF",
+  "matchup": "KC @ BUF",
+  "kickoff": "2026-11-26T20:20",
+  "card_status": "FINAL",
+  "graded_at": "2026-11-26T23:40-05:00",
+  "source": "espn",
+  "tier": "Blue Chip",
+  "title": "Josh Allen Under 217.5 passing yards",
+  "player": "Josh Allen",
+  "market": "player_pass_yds",
+  "side": "Under",
+  "line": 217.5,
+  "price": -112,
+  "edge": 0.1406,
+  "actual": 81.0,
+  "result": "win",
+  "units": 0.893
  }
 ]
